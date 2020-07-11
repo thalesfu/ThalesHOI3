@@ -1,0 +1,22 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+add_core = MON
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4
+
+infra = 4

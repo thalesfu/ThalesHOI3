@@ -1,0 +1,8 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+
+terrain = hills
+
+land_fort = 1
+infra = 2

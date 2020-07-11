@@ -1,0 +1,40 @@
+division = {
+	name = "新建陆军第一镇"
+	location = 7476
+	regiment = { type = infantry_brigade historical_model = 0 }
+	regiment = { type = infantry_brigade historical_model = 0 }
+}
+
+division = {
+	name = "新建陆军第二镇"
+	location = 7476
+	regiment = { type = infantry_brigade historical_model = 0 }
+	regiment = { type = infantry_brigade historical_model = 0 }
+	regiment = { type = engineer_brigade historical_model = 0 }
+}
+
+division = {
+	name = "新建陆军第三镇"
+	location = 7476
+	regiment = { type = infantry_brigade historical_model = 0 }
+	regiment = { type = infantry_brigade historical_model = 0 }
+	regiment = { type = armored_car_brigade historical_model = 0 }
+}
+
+division = {
+	name = "新建陆军第四镇"
+	location = 7476
+	regiment = { type = infantry_brigade historical_model = 0 }
+	regiment = { type = infantry_brigade historical_model = 0 }
+	regiment = { type = armored_car_brigade historical_model = 0 }
+	regiment = { type = engineer_brigade historical_model = 0 }
+}
+
+division = {
+	name = "新建陆军第五镇"
+	location = 7476
+	regiment = { type = armor_brigade historical_model = 0 }
+	regiment = { type = infantry_brigade historical_model = 0 }
+	regiment = { type = infantry_brigade historical_model = 0 }
+	regiment = { type = engineer_brigade historical_model = 0 }
+}

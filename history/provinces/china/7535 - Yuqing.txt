@@ -1,0 +1,11 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+
+terrain = mountain
+
+manpower = 0.80
+leadership = 0.08
+points = 1
+
+infra = 4

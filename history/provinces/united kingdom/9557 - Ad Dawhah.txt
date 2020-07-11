@@ -1,0 +1,5 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+crude_oil = 48.70
+infra = 4

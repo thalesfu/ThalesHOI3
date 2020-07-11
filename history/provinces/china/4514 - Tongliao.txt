@@ -1,0 +1,9 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+
+terrain = plains
+
+energy = 33
+
+infra = 5

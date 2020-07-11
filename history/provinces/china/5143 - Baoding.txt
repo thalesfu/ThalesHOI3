@@ -1,0 +1,11 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+
+terrain = plains
+
+manpower = 3.24
+leadership = 0.32
+points = 1
+
+infra = 7

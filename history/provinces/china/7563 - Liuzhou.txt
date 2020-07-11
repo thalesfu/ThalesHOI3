@@ -1,0 +1,9 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+
+terrain = jungle
+
+rare_materials = 25
+
+infra = 4

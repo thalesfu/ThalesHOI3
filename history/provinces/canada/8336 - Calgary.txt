@@ -1,0 +1,1 @@
+owner = CANcontroller = CANadd_core = CANinfra = 8crude_oil = 122.9industry = 1energy = 7.00anti_air = 1air_base = 4

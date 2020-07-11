@@ -1,0 +1,11 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+
+terrain = hills
+
+energy = 518
+
+crude_oil = 17 
+
+infra = 1

@@ -1,0 +1,1 @@
+owner = QINcontroller = QINadd_core = QINterrain = mountainmanpower = 2.02leadership = 0.20infra = 2

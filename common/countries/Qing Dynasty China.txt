@@ -1,0 +1,271 @@
+color = { 255  205  36 }
+graphical_culture = Japanese
+
+default_templates = {
+	binary_infantry = {
+		infantry_brigade
+		infantry_brigade
+	}
+	binary_milita = {
+		militia_brigade
+		militia_brigade
+	}
+	binary_armoured = {
+		armor_brigade
+		motorized_brigade
+	}
+	binary_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+	}
+	cavalry_brigade = {
+	}
+	motorized_brigade = {
+	}
+	mechanized_brigade = {
+	}
+	light_armor_brigade = {
+	}
+	armor_brigade = {
+	}
+	paratrooper_brigade = {
+	}
+	marine_brigade = {
+	}
+	bergsjaeger_brigade = {
+	}
+	garrison_brigade = {
+	}
+	hq_brigade = {
+	}
+	militia_brigade = {
+	}
+	multi_role = {
+	}
+	interceptor = {
+	}
+	strategic_bomber = {
+	}
+	tactical_bomber = {
+	}
+	naval_bomber = {
+	}
+	cas = {
+	}
+	transport_plane = {
+	}
+	battleship = {
+	}
+	light_cruiser = {
+	}
+	heavy_cruiser = {
+	}
+	battlecruiser = {
+	}
+	destroyer = {
+	}
+	carrier = {
+	}
+	escort_carrier = {
+	}
+	submarine = {
+	}
+	transport_ship = {
+	}
+}
+
+ministers = {
+	600001 = {
+		name = "¹âÐ÷»ÊµÛ"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = QING_GUANGXU_600001
+		head_of_state = popular_figurehead
+		start_date = 1889.1.4
+	}
+	
+	600002 = {
+		name = "¹§Ç×ÍõÞÈÐÂ"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = QING_YIXIN_600002
+		head_of_government = ambitious_union_boss
+		foreign_minister = ambitious_union_boss
+		start_date = 1861.11.11
+	}
+	
+	600003 = {
+		name = "ÀîºèÕÂ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = QING_LIHONGZHANG_600003
+		head_of_government = industrial_efficiency
+		foreign_minister = flamboyant_tough_guy
+		chief_of_navy = base_control_doctrine
+		start_date = 1870.07.01
+	}
+	
+	600004 = {
+		name = "ÕÅÖ®¶´"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = QING_ZHANGZHIDONG_600004
+		armament_minister = silent_workhorse
+		start_date = 1907.09.04
+	}
+	
+	600005 = {
+		name = "Ô¬ÊÀ¿­"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = QING_YUANSHIKAI_600005
+		head_of_state = ambitious_union_boss
+		head_of_government = administrative_genius
+		chief_of_staff = old_general
+		chief_of_army = old_general
+		start_date = 1907.09.04
+	}
+	
+	600006 = {
+		name = "ÀñÇ×ÍõÊÀîì"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = QING_SHIDUO_600006
+		head_of_government = happy_amateur
+		start_date = 1884.04.08
+	}
+	
+	600007 = {
+		name = "ÈÙÂ»"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = QING_RONGLU_600007
+		head_of_government = weary_stiff_neck
+		head_of_government = die_hard_reformer
+		chief_of_staff = infantry_proponent
+		chief_of_army = infantry_proponent
+		start_date = 1898.08.28
+	}
+	
+	600008 = {
+		name = "¹§Ç×ÍõÞÈ„Á"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = QING_YIKUANG_600008
+		head_of_government = corrupt_kleptocrat
+		foreign_minister = corrupt_kleptocrat
+		start_date = 1884.10.01
+	}
+	
+	600009 = {
+		name = "ÌúÁ¼"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = QING_TIELIANG_600009
+		chief_of_staff = ruthless_powermonger
+		chief_of_army = ruthless_powermonger
+		start_date = 1905.01.01
+	}
+	
+	600010 = {
+		name = "Òñ²ý"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = QING_TIELIANG_600009
+		foreign_minister = great_compromiser
+		chief_of_staff = school_of_psychology
+		chief_of_army = school_of_psychology
+		start_date = 1906.08.01
+	}
+	
+	600011 = {
+		name = "ÈøÕò±ù"
+		ideology = national_socialist
+		loyalty = 1.00
+		picture = QING_SAZHENBING_600011
+		chief_of_staff = battle_fleet_proponent
+		chief_of_navy = battle_fleet_proponent
+		start_date = 1905.01.01
+	}
+	
+	600012 = {
+		name = "ÎÌÍ¬ý˜"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = QING_WENTONGHE_600012
+		head_of_government = insignificant_layman
+		armament_minister = autocratic_charmer
+		start_date = 1882.01.01
+	}
+	
+	600013 = {
+		name = "Â¹´«ÁØ"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = QING_LUCHUANLING_600013
+		head_of_government = guns_and_butter_doctrine
+		armament_minister = guns_and_butter_doctrine
+		start_date = 1904.01.01
+	}
+	
+	600014 = {
+		name = "ÐìÊÀ²ý"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = QING_XISHICHANG_600014
+		head_of_state = benevolent_gentleman
+		head_of_government = benevolent_gentleman
+		armament_minister = benevolent_gentleman
+		start_date = 1909.01.01
+	}
+	
+	600015 = {
+		name = "ÌÆÉÜÒÇ"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = QING_TANGSHAOYI_600015
+		foreign_minister = silent_lawyer
+		start_date = 1906.04.01
+	}
+	
+	600016 = {
+		name = "Ê¢Ðû»³"
+		ideology = market_liberal
+		loyalty = 1.00
+		picture = QING_SHENGXUANHUAI_600016
+		armament_minister = industrial_specialist
+		start_date = 1902.02.01
+	}
+	
+	600017 = {
+		name = "´ÈìûÌ«ºó"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = QING_CIXI_600017
+		head_of_state = pig_headed_isolationist
+		start_date = 1861.08.02
+	}
+	
+	600018 = {
+		name = "´¼Ç×ÍõÔØãã"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = QING_ZAIFENG_600018
+		head_of_government = political_protege
+		start_date = 1907.05.01
+	}
+	
+	600019 = {
+		name = "ÐûÍ³"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = QING_PUYI_600019
+		head_of_government = political_protege
+		start_date = 1908.12.02
+	}
+}

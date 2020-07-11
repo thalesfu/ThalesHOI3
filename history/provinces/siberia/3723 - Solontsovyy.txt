@@ -1,0 +1,15 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+
+add_core = QIN
+
+infra = 3
+
+infra = 3
+
+infra = 3
+
+infra = 3
+
+infra = 3

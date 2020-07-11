@@ -1,0 +1,7 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+
+terrain = desert
+
+infra = 2

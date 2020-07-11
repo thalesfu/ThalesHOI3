@@ -1,0 +1,16 @@
+owner = USA
+controller = USA
+add_core = USA
+energy = 50.00
+
+infra = 6
+
+infra = 6
+
+infra = 6
+
+infra = 6
+
+infra = 6
+
+infra = 6

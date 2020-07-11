@@ -1,0 +1,1 @@
+owner = QINcontroller = QINadd_core = QINterrain = mountainrare_materials = 25infra = 2

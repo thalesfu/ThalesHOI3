@@ -1,0 +1,13 @@
+owner = SOV
+controller = SOV
+add_core = SOV
+
+terrain = forest
+
+infra = 2
+
+energy = 1.00
+industry = 1
+
+manpower = 4.00
+leadership = 0.08

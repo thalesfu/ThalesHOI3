@@ -1,0 +1,7 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+
+infra = 9
+industry = 2
+energy = 30.00

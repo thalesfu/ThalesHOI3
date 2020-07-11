@@ -1,0 +1,49 @@
+capital = 3927
+government = imperial
+ideology = paternal_autocrat
+head_of_state = 600001
+head_of_government = 600002
+foreign_minister = 600002
+chief_of_staff = 600007
+chief_of_army = 600007
+alignment = { x = 60 y = 61.6 }
+neutrality = 80
+national_unity = 70
+
+#agriculture = 8
+
+oob = "QIN_1895.txt"
+
+popularity = { 
+	national_socialist = 35
+	fascistic = 3
+	paternal_autocrat = 52
+	social_conservative = 5
+	market_liberal = 2
+	social_liberal = 3
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+organization = { 
+	national_socialist = 35
+	fascistic = 3
+	paternal_autocrat = 52
+	social_conservative = 5
+	market_liberal = 2
+	social_liberal = 3
+	social_democrat = 0
+	left_wing_radical = 0
+	leninist = 0
+	stalinist = 0
+}
+
+training_laws = basic_training
+press_laws = censored_press
+industrial_policy_laws = mixed_industry
+education_investment_law = minimal_education_investment
+economic_law = full_civilian_economy
+conscription_law = two_year_draft
+civil_law = legalistic_restrictions

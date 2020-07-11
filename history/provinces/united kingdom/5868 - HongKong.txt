@@ -1,0 +1,19 @@
+owner = ENG
+controller = ENG
+add_core = ENG
+add_core = QIN
+
+terrain = urban
+
+manpower = 1.50
+leadership = 0.50
+points = 1
+
+infra = 9
+
+coastal_fort = 1
+anti_air = 4
+
+air_base = 4
+naval_base = 10
+

@@ -1,0 +1,9 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+
+add_core = QIN
+
+terrain = urban
+
+infra = 5

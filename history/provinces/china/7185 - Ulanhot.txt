@@ -1,0 +1,10 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+add_core = MAN
+add_core = CHC
+add_core = CHI
+
+infra = 3
+
+infra = 3

@@ -1,0 +1,7 @@
+owner = TUR
+controller = TUR
+add_core = TUR
+metal = 33.00
+energy = 6.00
+infra = 6
+naval_base = 3

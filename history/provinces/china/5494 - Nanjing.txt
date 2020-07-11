@@ -1,0 +1,13 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+
+terrain = urban
+
+metal = 75
+
+manpower = 2.02
+leadership = 0.20
+points = 2
+
+infra = 9

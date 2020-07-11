@@ -1,0 +1,1 @@
+owner = QINcontroller = QINadd_core = QINterrain = woodsmetal = 17manpower = 1.60leadership = 0.16infra = 3

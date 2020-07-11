@@ -1,0 +1,9 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+
+terrain = hills
+
+rare_materials = 100
+
+infra = 2

@@ -1,0 +1,8 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+add_core = CGX
+
+terrain = plains
+
+infra = 4

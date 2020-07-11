@@ -1,0 +1,1 @@
+owner = QINcontroller = QINadd_core = QINterrain = urbanmanpower = 2.37leadership = 0.24points = 1infra = 9

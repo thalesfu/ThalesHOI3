@@ -1,0 +1,12 @@
+owner = QIN
+controller = QIN
+add_core = QIN
+
+terrain = jungle
+
+metal = 15
+
+manpower = 0.59
+leadership = 0.06
+
+infra = 4

@@ -1,0 +1,14 @@
+owner = SOV
+controller = SOV
+add_core = QIN
+add_core = SOV
+
+terrain = forest
+
+infra = 3
+
+infra = 3
+
+infra = 3
+
+infra = 3
