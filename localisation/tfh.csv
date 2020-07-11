@@ -1,0 +1,505 @@
+EVTNAME10000;ÐËµÇ±¤ºÅ×¹»Ù;;;;;;;;;;X
+EVTDESC10000;µÂ¹ú·ÉÍ§ÐËµÇ±¤ºÅ²»ÐÒÓÚ½ñÈÕÔÚÃÀ¹úÐÂÔóÎ÷ÖÝÀ³¿ËºÕË¹ÌØº£¾üº½¿Õ×ÜÕ¾×¹»Ù¡£ÓÉÓÚÎ´ÖªÔ­Òò£¬·ÉÍ§Í»È»È¼ÆðÐÜÐÜ´ó»ðÊ§¿Ø×¹Âä£¬Ôì³É35ÈËËÀÍö¡£\n\nÓÉÓÚº¤µÄÏ¡È±ºÍ°º¹ó£¬ÐËµÇ±¤ºÅºÍÆäËûµÂ¹ú·ÉÍ§Ò»Ñù¶¼Ê¹ÓÃÇâÆø¡£ÇâÆø¿ÉÒÔÌá¹©¼«¼ÑµÄ¸¡Á¦£¬µ«Ò²¸üÒ×È¼ÉÕ¡£ÔÚ¹«ÖÚ´ó¸Ð¿Ö»ÅÓë¸ü¿ìËÙµÄ¿ÍÔË·É»úÐËÆðµÄ×´¿öÏÂ£¬ÕâÊÇ·ñÒâÎ¶×Å·ÉÍ§Ê±´úµÄÖÕ½á£¿;;;;;;;;;;X
+EVTOPTA10000;°¡£¬ÈËÀà!;;;;;;;;;;X
+EVTNAME10001;Îå½Ç´óÂ¥¿¢¹¤;;;;;;;;;;X
+EVTDESC10001;Îå½Ç´óÂ¥ÒÑÓÚ½üÈÕ¿¢¹¤¡£ËüÕ¼µØÃæ»ý235.90ÍòÆ½·½Ã×£¬´óÂ¥¸ß22Ã×£¬¹²ÓÐ6²ã£¬×Ü½¨ÖþÃæ»ý60.80ÍòÆ½·½Ã×£¬Ê¹ÓÃÃæ»ýÔ¼34.40ÍòÆ½·½Ã×£¬µ±Ê±Ôì¼Û8700ÍòÃÀÔª£¬¿É¹©2.3Íò¹¤×÷ÈËÔ±ÔÚ´Ë°ì¹«¡£¾¡¹ÜÎå½Ç´óÂ¥½¨Öþ¹æÄ£ÅÓ´ó£¬ÆäÄÚ²¿¿Õ¼äÈÔÈ»ÎÞ·¨ÈÝÄÉÃÀ¹úÂ½¾ü²¿Ö¸»ÓÖÐÐÄµÄËùÓÐ¹¤×÷ÈËÔ±¡£;;;;;;;;;;X
+EVTOPTA10001;´òÒ»³¡Õ½Õù¿É²»ÈÝÒ×;;;;;;;;;;X
+EVTNAME10002;´ÌÉ±ÍÐÂå´Ä»ù;;;;;;;;;;X
+EVTDESC10002;ÁÐ·ò¡¤ÍÐÂå´Ä»ù£¬Ôø¾­µÄÁÐÄþµÄÍ·ºÅ¾üÊÂÖ¸»Ó¹ÙºÍ¼Ì³ÐÈË£¬½ñÌìÔÚÄ«Î÷¸ç³ÇµÄÒ»¼ÒÒ½ÔºÀïÈ¥ÊÀ¡£ËûÔÚ¼ÒÖÐ±»ËÕÁªÇé±¨µ¥Î»ÌØÎñÀ­ÃÉ¡¤Âó¿¨µÂÓÃ±ù¸«²ÐÈÌµÄÔäÈëºóÄÔ£¬²»¾Ã±ãÒòÉËÈ¥ÊÀ¡£\n\nÔÚÓëË¹´óÁÖÕù¶áÁª¹²£¨²¼£©µ³Ö÷µ¼È¨µÄ¶·ÕùÖÐÊ§°Üºó£¬ÍÐÂå´Ä»ù±»ÇýÖð³ö¾³£¬Õ·×ªÁ÷ÍöÓÚÍÁ¶úÆä£¬·¨¹úºÍÅ²Íþ£¬×îÖÕ¶¨¾ÓÓÚÄ«Î÷¸ç¡£ËûÒ»Ö±ÔÚÅúÅÐË¹´óÁÖ¼°ÆäÍ³ÖÎÏÂµÄ¡°¶éÂäµÄ¹¤ÈË¹ú¼Ò¡±ËÕÁª¡£;;;;;;;;;;X
+EVTOPTA10002;Ëû¶ÄÉÏÁË×Ô¼ºµÄÉúÃü;;;;;;;;;;X
+EVTNAME10003;ÍþÁ®¶þÊÀ»ÊµÛ;;;;;;;;;;X
+EVTDESC10003;×îºóÒ»ÈÎµÂ¹ú»ÊµÛÍþÁ®¶þÊÀÓÚ½ñÈÕÈ¥ÊÀ£¬ÏíÄê82Ëê¡£Ò»Õ½½áÊøºó£¬ÍþÁ®¶þÊÀ±»ÆÈÍËÎ»£¬ÌÓÍöÖÁºÉÀ¼£¬²¢·¢ÊÄ¾ø²»ÖØ·µµÂ¹úÖ±µ½µÂ¹úÖØÐÂÈ·Á¢¾ýÖ÷ÖÆ¡£\n\n1888Äê3ÔÂ9ÈÕ£¬µÂ»ÊÍþÁ®Ò»ÊÀÊÅÊÀºó£¬ÍþÁ®¶þÊÀµÄ¸¸Ç×±»¼ÓÃáÎªëèÌØÁÒÈýÊÀ»ÊµÛ£¬µ«99ÌìºóËÀÓÚÑÊºí°©¡£Í¬ÄêÁùÔÂÍþÁ®¶þÊÀ¼ÌÎ»³ÉÎª»ÊµÛ¡£ËûµÄ³¤×ÓÍþÁ®ÔøÔÚÒ»Õ½ÖÐÖ¸»ÓµÚ5¼¯ÍÅ¾ü£¬ÏÖÔÚ³ÉÎª»ôºàË÷Â×¼Ò×åµÄÔªÊ×¡£;;;;;;;;;;X
+EVTOPTA10003;ÈôÎÞÉÏµÛ£¬±ðÎÞÒ»ÇÐ!;;;;;;;;;;X
+EVTNAME10004;°¢Ã·ÀòÑÇ¡¤°£¶û¹þÌØÊ§×Ù;;;;;;;;;;X
+EVTDESC10004;°¢Ã·ÀòÑÇ¡¤°£¶û¹þÌØ£¬µÚÒ»Î»¶À×Ô·ÉÔ½´óÎ÷ÑóµÄÅ®·ÉÐÐÔ±£¬ÔÚ·ÉÔ½Ì«Æ½ÑóÆÚ¼äÉñÃØÊ§×Ù¡£Ò»ÆðÊ§×ÙµÄ»¹ÓÐËýµÄµ¼º½Ô±¸¥À³µÂ¡¤Å¬ÄÏ¡£ËûÃÇÁ½ÈËÕýÔÚ¼ÝÊ»Ò»¼ÜË«ÒýÇæÂå¿ËÏ£µÂL-10·É»úÊÔÍ¼»·ÈÆµØÇò¡£ÃÀ¹úº£°¶¾¯ÎÀ¶ÓºÍº£¾üÕýÔÚ×éÖ¯ËÑ¾È¹¤×÷¡£;;;;;;;;;;X
+EVTOPTA10004;º½¿ÕÅ®ÍõÀëÎÒÃÇ¶øÈ¥ÁË;;;;;;;;;;X
+EVTNAME10005;µÚÊ®Ò»½ì°ÂÔË»á;;;;;;;;;;X
+EVTDESC10005;µÚ11½ì°ÂÔË»á½üÈÕÔÚµÂ¹ú°ØÁÖ¾ÙÐÐ¡£²Î¼Ó±ÈÈüµÄÓÐÀ´×Ô49¸ö¹ú¼ÒµÄ4066ÃûÔË¶¯Ô±£¬±ÈÈü»¹µÃµ½ÁËÓÐÏÞµÄµçÊÓÊµ¿ö±¨µÀ¡£\n\nµÂ¹úÔË¶¯Ô±´ó»ñÈ«Ê¤£¬»ñ33½ðÃûÁÐµÚÒ»¡£ÃÀ¹ú½ôËæÆäºó£¬ÒÔ24½ðÃûÁÐµÚ¶þ£¬ÆäÖÐÅ·ÎÄË¹¶ÀÁ¦ÄÃÏÂËÄ¿é½ðÅÆ£¬³ÉÎª±¾½ì°ÂÔË»á×î³É¹¦µÄÔË¶¯Ô±¡£;;;;;;;;;;X
+EVTOPTA10005;°ÂÔË»á±ÕÄ»ÁË;;;;;;;;;;X
+EVTNAME10006;ÊÀ½ç´óÕ½;;;;;;;;;;X
+EVTDESC10006;¸Ä±à×ÔH¡¤G¡¤Íþ¶ûË¹Ð¡Ëµ¡¶ÊÀ½ç´óÕ½¡·µÄ¹ã²¥¾çÈÕÇ°ÔÚÃÀ¹úÔì³ÉÁË´ó¿Ö»Å¡£¹ã²¥¾çÒÔÍòÊ¥½Ú¾çµÄÐÎÊ½ÔÚ¿ÕÖÐË®Òø¾ç³¡²¥³ö£¬ÖøÃûÐÂÎÅÖ÷³ÖÈË°ÂÉ­¡¤Íþ¶ûË¹ÊÇËüµÄµ¼ÑÝ¼æÖ÷²¥¡£Íþ¶ûË¹ÔÚ¹ã²¥¾çÖÐÃèÊöÁË¿´ÉÏÈ¥ÊÆ²»¿Éµ²µÄ»ðÐÇÈË¶ÔµØÇòµÄÈ«ÃæÈëÇÖ¡£\n\nÐí¶àÖ»ÌýÁË¹ã²¥¾çÆ¬¶ÎµÄÌýÖÚÐÅÒÔÎªÕæ£¬Ôì³ÉÁË´ó·¶Î§µÄ¿Ö»Å¡£×¨¼Ò½«ÕâÒ»ÏÖÏóµÄÔ­Òò¹é½áÎª½ôÕÅµÄ¹ú¼Ê¾ÖÊÆºÍÑ¹ÔÚ¹ú¼ÒÍ·¶¥µÄÕ½ÕùÍþÐ²¡£;;;;;;;;;;X
+EVTOPTA10006;Ô­À´ÊÀ½ç»¹Ã»ÓÐÍêµ°£¿;;;;;;;;;;X
+EVTNAME10007;Î¬ËÕÍþ»ðÉ½Åç·¢;;;;;;;;;;X
+EVTDESC10007;ÔøÔÚ¹«Ôª79Äê´Ý»ÙÂÞÂí¹Å³ÇÅÓ±´µÄÎ¬ËÕÍþ»ðÉ½ÔÙ´ÎÅç·¢¡£»ðÉ½³¾Ô¶ÖÁÄÇ²»ÀÕË¹¶¼ÄÜ¿´µ½£¬¾¡¹ÜÕâ²»ÊÇÎ¬ËÕÍþ»ðÉ½×î¾ßÆÆ»µÐÔµÄÅç·¢£¬»ðÉ½¸½½üµÄ¼¸¸ö´å×¯»¹ÊÇÔâÊÜÁË»ÙÃðÐÔµÄËðÊ§¡£;;;;;;;;;;X
+EVTOPTA10007;³öÈËÒâÁÏ;;;;;;;;;;X
+EVTNAME10020;Â×¶ØÊ§ÊØ;;;;;;;;;;X
+EVTDESC10020;ÔÚµÚÒ»Ö§µÂ¾üÕì²ì²¿¶Ó½øÈë³ÇÊÐÊ±£¬¿Õ¿õµÄ½ÖµÀÉÏÖ»ÓÐ´ó±¾ÖÓµÄÖÓÉù»Øµ´¡£ÖÓÉùºÜ¿ì±»Ò»ÕóÇáÎäÆ÷µÄÉä»÷ÉùÑÍÃ»£¬²»¾ÃºóÁ¬´ó±¾ÖÓ±¾Éí¶¼ÔÚÒ»Á¾µÂ¹úÌ¹¿Ë·¢ÉäµÄÅÚµ¯ÏÂ»¯Îª³¾°£¡£\n\nÉ¡½µÁÔ±øÍ»Ï®ÁË°×½ðºº¹¬£¬µ«ÍõÊÒ³ÉÔ±ÔçÒÑ³·Àë¡£Ó¢¹ú¹úÆì½µÏÂ£¬ÄÉ´âÆìÖÄÉýÆð£¬Ðû¸æ×ÅÂ×¶ØµÄÊ§ÊØ¡£;;;;;;;;;;X
+EVTOPTA10020;ÌìÓÓ¹úÍõ!;;;;;;;;;;X
+EVTNAME10021;¿ªÂÞÂÙÏÝ;;;;;;;;;;X
+EVTDESC10021;µÂ¹ú²¿¶ÓÈçÍ¬Ï¯¾íÉ³Ä®µÄÊÆ²»¿Éµ²µÄ´óÉ³±©Ò»°ã¹¥¿ËÁË¿ªÂÞ¡£·ÇÖÞ¾üÍÅÂäÂýÉ³³¾µÄ×°¼×³µÁ¾Ê»¹ý¼ªÈø½ð×ÖËþºÍÊ¨ÉíÈËÃæÏñ£¬¼ÌÐøÏòÐÂµÄÕ÷·þÄ¿±êÇ°½ø¡£;;;;;;;;;;X
+EVTOPTA10021;ËûÃÇ»áÔÚÄÄÀïÍ£ÏÂ?;;;;;;;;;;X
+EVTNAME10022;»ªÊ¢¶ÙÏÝÂä;;;;;;;;;;X
+EVTDESC10022;Å×ÏÂÕýÔÚ½ôÕÅ½øÐÐµÄ·ÙÉÕÃØÃÜÎÄ¼þµÄ¹¤×÷£¬ÖÐÇé¾ÖÁôÊØÌØ¹¤ÌøÉÏËûÃÇµÄºÚÉ«Ð¡½Î³µÊ»³ö»ªÊ¢¶ÙÌØÇø£¬ÒÔ¶ã±ÜÕýÔÚ²¨ÍÐÂí¿ËºÓÅÏ½øÈëÉä»÷ÕóµØµÄµÂ¹ú×°¼×²¿¶Ó¡£ÔÚÕ½¶·µÄ³¾°£ÉÐÎ´Âä¶¨Ö®Ê±£¬¸ÇÊÀÌ«±£µÄ¹ÙÔ±¾ÍÒÑ¾­´©ËóÔÚ·ÏÖ½¶ÑÀïÑ°ÕÒÇé±¨¡£\n\nÎªÁË×èµ²µÂ¾üÇ°½ø£¬ÃÀ¾üÕ½¶·¹¤±ø½øÐÐÁË´óÁ¿µÄ±¬ÆÆ£¬Á¬»ªÊ¢¶Ù¼ÍÄî±®Ò²ÔÚ±¬Õ¨ÖÐÎÞÄÎÇãµ¹¡£Óë´ËÍ¬Ê±£¬Ð¡¹ÉÉ¡½µÁÔ±ø¶áÈ¡ÁË°×¹¬¡£»ªÊ¢¶ÙÂÙÏÝÁË¡£;;;;;;;;;;X
+EVTOPTA10022;ÐÂÖÈÐòµÄÀèÃ÷;;;;;;;;;;X
+EVTNAME10023;Å¦Ô¼ÂÙÏÝ;;;;;;;;;;X
+EVTDESC10023;ÎªÁË¶áÈ¡Å¦Ô¼£¬µÂ¾ü¶ÔÂü¹þ¶Ù·¢ÆðÁË¹¥»÷£¬ËæºóÏÝÈëÁË¼¤ÁÒµÄÏïÕ½¡£Ì¹¿ËºÍ×°¼×³µÖØÆÆ·´Ì¹¿ËÕÏ°­£¬Ê»ÈëµÚÎå´ó½Ö£»×°¼×ÖÀµ¯±øÖðÎÝÖð½ÖÇýÖðÎä×°Ãñ±ø¡£\n\n³ÇÊÐ¶«°ë²¿È¼ÆðÁËÎÞ·¨¿ØÖÆµÄ´ó»ð£¬ÕÕÁÁÁËÕû¸öÒ¹¿Õ¡£µÂ¹ú¹¤±øÕ¨»ÙÁËµÛ¹ú´óÏÃ£¬ÒÔ³¹µ×½â¾öÀïÃæµÄÃÀ¾ü¾Ñ»÷ÊÖ¡£×ÔÓÉÅ®ÉñÏñËÆºõÄÜ¶ã¹ýÕ½»ð£¬Ö±µ½Ò»·¢»ð¼ýµ¯Ï÷µôÁËÅ®ÉñÏñµÄÍ·¡£;;;;;;;;;;X
+EVTOPTA10023;´óÆ»¹ûµÄÂÙÏÝ;;;;;;;;;;X
+EVTNAME10024;ÄªË¹¿ÆÊ§ÊØ;;;;;;;;;;X
+EVTDESC10024;ÆÆÏþÊ±·Ö£¬µÂ¹úÌ¹¿Ë¿ªÉÏÁËÄªË¹¿Æ½ÖÍ·£¬°ëÂÄ´ø³µÔÚºì³¡Ð¶ÏÂÔËÔØµÄ±øÔ±¡£µÂ¾ü²½±øÔÚÊÐ½¼¼¤ÁÒ½»»ðÔì³ÉµÄÅ¨ÑÌÖÐÏò¿ËÀïÄ·ÁÖ¹¬·¢ÆðÍ»»÷£¬ÓÃÊÖÁñµ¯ÄÇºÍ»ðÑæÅçÉäÆ÷ËàÇåËÀÊØÃ¿Ò»´çÍÁµØµÄÄÚÎñ²¿¶Ó¡£\n\nËæ×ÅÄªË¹¿Æ×îÖÕ±»µÂ¾üÍêÈ«¿ØÖÆ£¬³ÇÄÚÖ»Ê£ÏÂÁË³·ÍËµÄËÕÁªÊØ¾üÁôÏÂµÄ¶¨Ê±Õ¨µ¯²»Ê±µÄ±¬Õ¨Éù¡£ËÕÁªÊ×¶¼Ö»Ê£ÏÂ²ÐÔ«¶Ï±Ú£¬²»¹ýÁîËÕÁªÁìµ¼ÈË°²ÐÄµÄÊÇ£¬ÁÐÄþµÄÒÅÌåÒÑ¾­±»°²È«µÄ×ªÒÆµ½ÁË¶«²¿¡£;;;;;;;;;;X
+EVTOPTA10024;ÕâÊÇ¶íÂÞË¹µÄÄ©ÈÕÂð?;;;;;;;;;;X
+EVTNAME10025;ÁÐÄþ¸ñÀÕÊ§ÊØ;;;;;;;;;;X
+EVTDESC10025;ÁÐÄþ¸ñÀÕ£¬¶í¹ú¸ïÃüµÄÒ¡Àº£¬ÂÙÈëµÂ¹úÖ®ÊÖ¡£½¼Çø»¹¿É¼ûµ½ÁãÐÇµÄµÖ¿¹£¬³ÇÇøµÄ²Ðº¡ÔòÁýÕÖÔÚÒ»Æ¬¼Å¾²Ö®ÖÐ¡£\n\nµÂ¹úÊ¿±øÁÐ¶Ó×ß¹ýÊ¥ÒÔÈö´ó½ÌÌÃ£¬½ÌÌÃÒÑ¾­±»ËÕÁªÈËÍ¿³É»ÒÉ«ÒÔ¶ã±Ü¿ÕÏ®£¬ÏÖÔÚÒÑ¾­²¼ÂúÁËµ¯¶´¡£;;;;;;;;;;X
+EVTOPTA10025;Õ½¶·ÔÚ¶«·½»¹ÔÚ¼ÌÐø.;;;;;;;;;;X
+EVTNAME10026;Ë¹´óÁÖ¸ñÀÕÂÙÏÝ;;;;;;;;;;X
+EVTDESC10026;µÂ¾üÇ°·æ²¿¶ÓÖÕÓÚ¶áÈ¡ÁËË¹´óÁÖ¸ñÀÕ£¬Õâ×ù·ü¶û¼ÓºÓÅÏÒÔË¹´óÁÖÖ®ÃûÃüÃûµÄ³ÇÊÐ¡£¶áÈ¡Ë¹´óÁÖ¸ñÀÕÍÏÀ­»ú³§ºÍÂíÂíÒ®·ò¸Ú¸ßµØºó£¬µÂ¾ü½«ËÕÁªÊØ¾ü¸Ïµ½ÁË·ü¶û¼ÓºÓµÄ¶«°¶¡£\n\nºì¾üµÄ²Ð²¿ÓëÓÎ»÷¶ÓÔ±³·ÍËµ½ÏÂË®µÀºÍµØÏÂÊÒ¼ÌÐø×ÅÕ½¶·£¬µÂ¾üµÄËàÇåÐÐ¶¯±êÖ¾×ÅÒ»ÖÖÕ¸ÐÂ×÷Õ½ÐÎÊ½µÄµ®Éú¡£;;;;;;;;;;X
+EVTOPTA10026;Õâ½Ð×öÀÏÊóÕ½;;;;;;;;;;X
+EVTNAME10027;°ØÁÖÏÝÂä;;;;;;;;;;X
+EVTDESC10027;°ØÁÖ£¬°¢µÀ·ò¡¤Ï£ÌØÀÕÃÎÏëÖÐµÄÈÕ¶úÂüÄáÑÇÊÀ½çÊ×¶¼£¬×îÖÕ±»ºì¾üÕ¼Áì¡£ËÕÁªºì¾ü¿àÕ½¶áÈ¡°ØÁÖ¶«²àµÄÏ£Âå¸ßµØºó£¬°ØÁÖ³ÇÄÚ±¬·¢ÁË²Ð¿áµÄÏïÕ½¡£\n\nµÂ¹ú¹¤±ø±¬ÆÆË¹ÆÕÀïºÓÉÏµÄÃ«ÆæÇÅµÄ³¢ÊÔÖ»È¡µÃÁË²¿·Ö³É¹¦£¬ÈÔÓÐ´óÅúËÕ¾ü²½±øË³Àû¶ÉºÓ¡£ÑªÕ½¹ýºó£¬ËÕÁª¹úÆì¸ß¸ßÆ®ÑïÔÚ¹ú»á´óÏÃ¶¥¡£;;;;;;;;;;X
+EVTOPTA10027;°ØÁÖÒÑ¾­ÏÝÂä;;;;;;;;;;X
+EVTNAME10028;ÐÂ¼ÓÆÂÂÙÏÝ;;;;;;;;;;X
+EVTDESC10028;ÐÂ¼ÓÆÂ£¬¡°¶«·½µÄÖ±²¼ÂÞÍÓ¡±£¬±»ÈÕ±¾ÈË´ÓÓ¢¹úÈËÊÖÖÐ¶á×ß¡£¾¡¹ÜËüÔøºÅ³ÆÊÇÓÐÍþÁ¦ÎÞÇîµÄº£°¶ÅÚ·ÀÊØµÄÄÑ¹¥²»ÂäÖ®ÒªÈû£¬ÏÖÔÚÈ´ÒÑÈ»³ÉÎª´óÈÕ±¾µÛ¹úÔÚ¶«ÑÇµÄÒ»¸öÕ½ÂÔÐÔ¾ü¸Û¡£¸¡¶û¶Ù´óÏÃ±»ÈÕ±¾Õ¼Áì¾üÑ¡×÷×Ü²¿£¬³ÇÊÐÒ²±»¸ÄÃûÎªÕÑÄÏµº£¬ÒâÎªÕÑºÍÄê¼ä¶áÈ¡µÄÄÏ·½µºÓì¡£´ó½ÖÉÏÑ²ÂßµÄÏÜ±ø¶Ó±êÖ¾×ÅÈÕ±¾ÈËÍ³ÖÎµÄµ½À´¡£;;;;;;;;;;X
+EVTOPTA10028;´ó²»ÁÐµßµÄÔÖÄÑ!;;;;;;;;;;X
+EVTNAME10029;Ï¤ÄáÂÙÏÝ;;;;;;;;;;X
+EVTDESC10029;ÈÕ±¾µÛ¹ú¼ÌÐøÄÏ½ø£¬Õ÷·þÁËÏ¤Äá¡£°Ä´óÀûÑÇÊØ¾ü´Ó¸Û¿ÚÇø³·ÍËµ½ÌìÎÄÌ¨É½¼ÌÐøµÖ¿¹¡£\n\n¹¤±øÕ¨»ÙÏ¤Äá¸Û¿Ú´óÇÅµÄÐÐ¶¯Ê§°Ü£¬ÌìÎÄÌ¨É½×îÖÕÒ²±»ÈÕ¾üµÄÒ»´ÎËðÊ§²ÒÖØµÄÕýÃæ³å·æ¶áÈ¡¡£ÈÕ±¾¾üÆìÆ®ÑïÔÚÏÖÒÑ³ÉÎªÈÕ±¾Õ¼Áì¾üË¾Áî²¿µÄÏ¤ÄáÊÐÕþÌü¶¥£¬ÏÜ±ø¶ÓÒ²¿ªÊ¼ÔÚ½ÖµÀÉÏÑ²Âß¡£;;;;;;;;;;X
+EVTOPTA10029;°Ä´óÀûÑÇÈË»¹ÄÜ»Ö¸´¹ýÀ´Âð?;;;;;;;;;;X
+EVTNAME10030;ÕäÖé¸ÛÊ§ÊØ;;;;;;;;;;X
+EVTDESC10030;ÈÕ¾üÍ»Ï®²¢¶áÈ¡ÁË»ðÅ«Â³Â³£¬ÏÄÍþÒÄÈºµºµÄÊ×¸®¡£ÁÚ½üµÄÕäÖé¸Û¾ü¸ÛÒ²±»¹¥Õ¼¡£\n\n³·ÍËµ½¸£ÌØµººó£¬ÃÀ¹úº£¾üºÍº£¾üÂ½Õ½¶Ó¹Ù±øÒÀÈ»¼ÌÐøµÖ¿¹£¬Ö±µ½ÔÚº£¿ÕÁªºÏºäÕ¨ÏÂ±»ÆÈÍ¶½µ¡£Ëæ×ÅÕäÖé¸ÛµÄ¶áÈ¡£¬ÈÕ±¾º£¾üµÄ×÷Õ½°ë¾¶µÃµ½ÁËÏÔÖøÀ©´ó¡£;;;;;;;;;;X
+EVTOPTA10030;³ôÃûÕÑÖøµÄÒ»Ìì...;;;;;;;;;;X
+EVTNAME10031;ÂåÉ¼í¶ÂÙÏÝ;;;;;;;;;;X
+EVTDESC10031;ÔÚµÇÂ½ÃÀ¹ú±¾ÍÁºó£¬ÈÕ±¾Â½¾üÑ¸ËÙ¶áÈ¡ÁËÂåÉ¼í¶¡£ÈÕ¾üÑ¹ÖÆÁË´ó²¿·Ö½ÖÇø£¬Ö»ÓÐÂåÉ¼í¶ÊÐÖÐÐÄ»¹ÓÐµÖ¿¹¡£\n\nËæ×ÅÕ½¶·Öð½¥Æ½Ï¢£¬Ö»Ê£ÏÂÁËÁãÐÇµÄ¾Ñ»÷£¬ÈÕ¾üÁÐ¶Ó×ß¹ýÖÐÑë´ó½Ö£¬Õ¹Ê¾»Ê¾üµÄ¾üÍþ¡£Ò»¼ÜÈÕ±¾Õ½¶·»úµÍ¿Õ·É¹ýºÃÀ³Îë±êÖ¾£¬´ÓÎÄ»¯ÉÏ±í´ïÁËÃïÊÓ¡£;;;;;;;;;;X
+EVTOPTA10031;ºÃÀ³Îë²»ÔÙµÆ»ð»Ô»Í;;;;;;;;;;X
+Spy_tech;ÇÔÈ¡¿Æ¼¼»úÃÜ;;;;;;;;;;X
+Spy_tech2;ÔÚÍâ¹úÑÐ¾¿»ú¹¹µÄÎÒ¹ú¼äµýÇÔÈ¡ÁËÒ»Ð©ÓÐÈ¤µÄ»úÃÜ¡£¾¡¹ÜÎÒÃÇÃ»ÄÜÍµµ½³ÉÆ·£¬ÕâÐ©¸ÅÄî¼¼Êõ»¹ÊÇ¿ÉÒÔ¼ÓËÙÎÒ¹úµÄ¿ÆÑÐ¡£;;;;;;;;;;X
+Spy_prod;ÇÔÈ¡Éú²ú»úÃÜ;;;;;;;;;;X
+Spy_prod2;ÔÚÍâ¹ú¹¤³§µÄÎÒ¹ú¼äµýÇÔÈ¡ÁËÒ»Ð©ÓÐÈ¤µÄ»úÃÜ¡£¾¡¹ÜÎÒÃÇÃ»ÄÜÍµµ½³ÉÆ·£¬ÕâÐ©¸ÅÄî¼¼Êõ»¹ÊÇ¿ÉÒÔ¼ÓËÙÎÒ¹úµÄ¹¤ÒµÉú²ú¡£;;;;;;;;;;X
+Spy_prod3;ÊýÁ¿±¾Éí¾ÍÊÇÖÊÁ¿!;;;;;;;;;;X
+spy_party_good;Ö§³Ö¶ÈÔö³¤;;;;;;;;;;X
+spy_party_good2;Ìá¸ßÎÒµ³Ö§³Ö¶ÈµÄÅ¬Á¦»ñµÃ³ÉÐ§£¬´óÖÚµÄÖ§³ÖÉùÒ»ÀË¸ß¹ýÒ»ÀË¡£Ã¿µ±µ³ÕþÒªÔ±·¢±íÑÝ½²Ê±£¬×Ü»á³öÏÖÍòÈË¿ÕÏïµÄ³¡Ãæ¡£;;;;;;;;;;X
+spy_party_good3;ÄãÃÇµÃµ½ÁËÎÒµÄÑ¡Æ±!;;;;;;;;;;X
+spy_party_bad;ÕþÖÎÐû´«ÊÂÓëÔ¸Î¥;;;;;;;;;;X
+spy_party_bad2;Ìá¸ßÎÒµ³Ö§³Ö¶ÈµÄÅ¬Á¦ÊÂÓëÔ¸Î¥£¬´óÖÚµÄ³°·íÉùÒ»ÀË¸ß¹ýÒ»ÀË¡£Ã¿µ±µ³ÕþÒªÔ±·¢±íÑÝ½²Ê±£¬×Ü»áÊÕµ½ºÜ¶àÀÃË®¹û¡£;;;;;;;;;;X
+spy_party_bad3;¹ö¿ª£¡;;;;;;;;;;X
+spy_threat;<$TARGET$>ÍþÐ²¶ÈÌáÉý;;;;;;;;;;X
+spy_threat2;<$TARGET$>¶ÔÎÒ¹úµÄÍþÐ²Ê¹Ô½À´Ô½¶àµÄÄêÇáÈË±¨Ãû²Î¾ü¡£;;;;;;;;;;X
+spy_threat2b;ËûÃÇ±ØÐë±»×èÖ¹£¬²»ÂÛ´ú¼Û;;;;;;;;;;X
+spy_threat3;<$TARGET$>¶ÔÎÒ¹úµÄÍþÐ²¹ý´ó£¬ÈËÃñ·´¶Ô²ÉÈ¡ÈÎºÎ¿ÉÄÜÊ¹<$TARGET$>ÏòÎÒÃÇÇãÐºÅ­»ðµÄ¾Ù¶¯¡£;;;;;;;;;;X
+spy_threat3b;Ò²ÐíÎÒÃÇÓ¦¸Ã¾²¹ÛÆä±ä?;;;;;;;;;;X
+amphibious_invasion_technology;Á½ÆÜÈëÇÖÕ½Êõ;;;;;;;;;;X
+amphibious_invasion_technology_desc;Í¨¹ýÑÐ¾¿¹ýÈ¥µÄÁ½ÆÜÈëÇÖ£¬ÎÒÃÇÄÜ¼ÓËÙ²¿¶ÓÐ¶ÔØËÙ¶È¡£;;;;;;;;;;X
+amphibious_invasion_craft;Á½ÆÜµÇÂ½Í§;;;;;;;;;;X
+amphibious_invasion_craft_desc;Æ½µ×£¬Ê×¿ªÃÅ²µ£¬ÕâÐ©µÇÂ½Í§¿ÉÒÔÑ¸ËÙÔÚÌ²Í·Ð¶ÏÂµÇÂ½²¿¶Ó¡£;;;;;;;;;;X
+advanced_invasion_craft;Á½ÆÜÍ»»÷½¢;;;;;;;;;;X
+advanced_invasion_craft_desc;±ÈÆðµÇÂ½Í§À´Ìå»ý¸ü´ó£¬·À»¤¸ü³ä·Ö£¬Á½ÆÜÍ»»÷½¢¿ÉÒÔÏòÌ²Í·ÔËËÍÌ¹¿Ë£¬Ôö¼ÓÁ½ÆÜÐÐ¶¯³É¹¦µÄ¿ÉÄÜÐÔ¡£;;;;;;;;;;X
+amphibious_assault_units;»ðÁ¦Ö§Ô®Í§;;;;;;;;;;X
+amphibious_assault_units_desc;Í¨¹ýÌá¹©»ðÁ¦Ö§Ô®ºÍ·À¿ÕÍ§Ö§Ô®µÇÂ½£¬ÎÒÃÇ¿ÉÒÔÎªµÇÂ½²¿¶ÓÌá¹©¸üÖÜÈ«µÄ±£»¤£¬;;;;;;;;;;X
+invasion_transport_ship;Á½ÆÜµÇÂ½Í§;;;;;;;;;;X
+invasion_transport_ship_short;µÇÂ½Í§;;;;;;;;;;X
+assault_ship;Á½ÆÜÍ»»÷½¢;;;;;;;;;;X
+assault_ship_short;Í»»÷½¢;;;;;;;;;;X
+DESTROY;´Ý»Ù;;;;;;;;;;X
+DIVISIONS_TO_BUILD;´ý×é½¨µÄÊ¦;;;;;;;;;;X
+BRIGADES_TO_BUILD;´ý×é½¨µÄÂÃ;;;;;;;;;;X
+AIRS_TO_BUILD;´ý½¨Ôì·É»ú;;;;;;;;;;X
+NAVIES_TO_BUILD;´ý½¨Ôì½¢´¬;;;;;;;;;;X
+CGM_IC_COST;IC*Ìì »¨·Ñ;;;;;;;;;;X
+AMPH_INVASION_COMBAT_PROGRESS_DESC;§YÕâÖ§²¿¶ÓÕýÔÚÁ½ÆÜµÇÂ½½¢ÖÐ¡£Æä¹¥»÷ÄÜÁ¦ÏÂ½µ£¬·ÀÓùÄÜÁ¦ÔòÓÉÓÚµÇÂ½½¢µÄ×°¼×¶øÔöÇ¿.§!;;;;;;;;;;X
+AMPH_INVASION_SPEED_BONUS;Á½ÆÜµÇÂ½ËÙ¶È;;;;;;;;;;X
+AMPH_INVASION_DEFENCE_BONUS;Á½ÆÜµÇÂ½½¢·ÀÓù;;;;;;;;;;X
+AMPH_INVASION_PROGRESS;Á½ÆÜµÇÂ½½ø¶È£º $PERC$%;;;;;;;;;;X
+AMPH_INVASION_ATTACK_SCALE;×Ü¹¥»÷ÄÜÁ¦£º $PERC$%;;;;;;;;;;X
+AMPH_INVASION_DEFEND_SCALE;×Ü·ÀÓùÄÜÁ¦£º $PERC$%;;;;;;;;;;X
+SCENARIO_SCW;Î÷°àÑÀÄÚÕ½;;;;;;;;;;X
+SCENARIO_SCW_DESC;³öÓÚ¶Ô¼¤½øµÄÖ´Õþµ³¿ØÖÆÕû¸ö¹ú¼ÒµÄ¿Ö¾å£¬¾ü¶ÓÖÐµÄ·´¶¯·Ö×Ó·¢¶¯±ø±äÒÔ¶áÈ¡Î÷°àÑÀµÄÍ³ÖÎÈ¨¡£È»¶ø£¬ÅÑÂÒ²¢Ã»ÓÐÈç¼Æ»®°ã³É¹¦£¬Õþ¸®ÒÀÈ»ÕÆ¿Ø×Å³¬¹ý°ëÊýµÄÁìÍÁ¡£Ò»³¡ÑªÐÈµÄÄÚÕ½½«»áÊÇÖØÐÂÍ³Ò»Î÷°àÑÀµÄÎ¨Ò»Í¾¾¶¡£;;;;;;;;;;X
+SCENARIO_winter;¶¬¼¾Õ½Õù;;;;;;;;;;X
+SCENARIO_winter_DESC;ÔÚÇ©ÊðËÕµÂ»¥²»ÇÖ·¸ÌõÔ¼²¢¾¨ÍÌ¶«²¨À¼ºó£¬ËÕÁª½«×¢ÒâÁ¦×ªÏòÁË±±·½µÄÈõÐ¡ÁÚ¾Ó·ÒÀ¼£¬ÆÚÍûÖØÑÝÒ»´ÎÇáËÉµÄÕ¼ÁìÐÐ¶¯¡£ËÕÁªÈËºÜ¿ì¾ªÑÈÓÚºì¾üÃæ¶Ô¹ÌÊØ¼ÒÔ°µÄ·ÒÀ¼¾ü¶ÓÊÇÈç´Ë×¼±¸²»×ãÓë²»¿°Ò»»÷¡£¾¡¹ÜËÕÁªºÜ¿ÉÄÜÈ¡µÃ×îÖÕÊ¤Àû£¬´ú¼ÛÒ²±ØÈ»»áÒì³£¸ß°º¡£;;;;;;;;;;X
+DEPLOYMENT;²¿Êð;;;;;;;;;;X
+MULTI_SEL_PRIO_DESC;§G$NUM$§! /§G$MAX$§!±»Ñ¡Ôñ²¿¶Ó¿ªÆôÁËÉý¼¶ºÍ²¹³äµÄ §YÓÅÏÈÈ¨§!.;;;;;;;;;;X
+MULTI_SEL_PRIO_REINF_DESC;§G$NUM$§! /§G$MAX$§! selected units will receive reinforcements §YENABLED§!.;;;;;;;;;;X
+MULTI_SEL_PRIO_UPG_DESC;§G$NUM$§! / §G$MAX$§! selected units will receive upgrades §YENABLED§!.;;;;;;;;;;X
+MULTI_SEL_UPGRADE_DESC;§G$NUM$§!¸öÂÃ¿ÉÒÔÉý¼¶.;;;;;;;;;;X
+UNIT_UPG_PROGRESS;Éý¼¶½ø¶È$PROG$%;;;;;;;;;;X
+CLEAR_ALL;Çå³ýËùÓÐ;;;;;;;;;;X
+mot_aa_brigade;Ä¦ÍÐ»¯·À¿Õ²¿¶Ó;;;;;;;;;;X
+mot_aa_brigade_short;Ä¦ÍÐ»¯·À¿Õ;;;;;;;;;;X
+waffen_brigade;Îä×°µ³ÎÀ¾ü;;;;;;;;;;X
+waffen_brigade_short;µ³ÎÀ¾ü;;;;;;;;;;X
+guards_brigade;½üÎÀ¾ü;;;;;;;;;;X
+guards_brigade_short;½üÎÀ;;;;;;;;;;X
+imperial_brigade;»Ê¼Ò½ûÎÀ¾ü;;;;;;;;;;X
+imperial_brigade_short;»Ê¼Ò½ûÎÀ;;;;;;;;;;X
+alpini_brigade;°¢¶û±°Ë¹É½µØ±ø;;;;;;;;;;X
+alpini_brigade_short;°¢¶û±°Ë¹É½µØ;;;;;;;;;;X
+alpins_brigade;É½µØ²½±ø;;;;;;;;;;X
+alpins_brigade_short;É½µØ²½±ø;;;;;;;;;;X
+ranger_brigade;ÓÎÆï±ø;;;;;;;;;;X
+ranger_brigade_short;ÓÎÆï±ø;;;;;;;;;;X
+gurkha_brigade;Àª¶û¿¦²¿¶Ó;;;;;;;;;;X
+gurkha_brigade_short;Àª¶û¿¦;;;;;;;;;;X
+SPIES_INFILTRATED_LESS;Grk;;;;;;;;;;X
+SPIES_INFILTRATED_MORE;Grk;;;;;;;;;;X
+TECH_AT_MAX;(×î´ó);;;;;;;;;;X
+COV_OPS_COST;¸Ä±äÐÐ¶¯»¨·Ñ: ;;;;;;;;;;X
+COV_OPS_COST_LACKING;»¨·Ñ §R$COST$§!ÐÐ¶¯µãÊý¡£ÎÒÃÇÖ»ÓÐ §Y$CURRENT$§! ;;;;;;;;;;X
+COV_OPS_EXECUTE;\n\nÐ§¹û:\n;;;;;;;;;;X
+ALLOCATED_SPIES_FOR_MISSION_TRIGGER_LESS; §Y$MISSION$§!µÄ¼äµýÖÁÉÙÓÐ §Y$VALUE$§!¸ö;;;;;;;;;;X
+ALLOCATED_SPIES_FOR_MISSION_TRIGGER_MORE; §Y$MISSION$§!µÄ¼äµýÉÙÓÚ §Y$VALUE$§!¸ö;;;;;;;;;;X
+HAS_NO_HOSTILE_MISSION;Ã»ÓÐÕýÔÚÖ´ÐÐµÄµÐÒâ¼äµýÈÎÎñ;;;;;;;;;;X
+HAS_HOSTILE_MISSION;ÕýÔÚÖ´ÐÐµÐÒâ¼äµýÈÎÎñ;;;;;;;;;;X
+CGM_CONTINUE_PROMPT;È·¶¨Òª¼ÌÐøµ½ÏÂÒ»½×¶ÎÂð£¿\nÖ®ºó½«ÎÞ·¨·µ»ØÉÏÒ»½×¶Î¡£;;;;;;;;;;X
+CGM_RESET_PROMPT;È·¶¨ÒªÖØÖÃµ±Ç°½×¶ÎÂð£¿;;;;;;;;;;X
+CGM_TOOLTIP_DIPLOMACY_STAGE;ÔÚÕâ¸ö½×¶ÎÄã¿ÉÒÔ±à¼­Íâ½»¡£\nÄã¿ÉÒÔ»¨·ÑÍâ½»µãÊýÀë¿ªÕóÓª²¢ÍË³öÕ½Õù£¬×ªÍ¶ÁíÒ»ÕóÓª£¬ÉõÖÁ¸Ä±äÖÐÁ¢µÈ¼¶¡£;;;;;;;;;;X
+CGM_TOOLTIP_TECHNOLOGY_STAGE;ÔÚÕâ¸ö½×¶ÎÄã¿ÉÒÔ»¨·Ñ¿Æ¼¼µãÊýÑÐ¾¿¿Æ¼¼£¬»òÕßÈ¡ÏûÒÑÑÐ¾¿µÄ¿Æ¼¼ÒÔ»ñµÃµãÊý¡£;;;;;;;;;;X
+CGM_TOOLTIP_DEPLOYMENT_STAGE;ÔÚÕâ¸ö½×¶ÎÄã¿ÉÒÔIC*ÌìµãÊý×é½¨²¿¶Ó»ò½¨ÔìÉèÊ©¡£\nµã»÷½¨Ôì°´Å¥¿ÉÒÔ×é½¨²¿¶Ó¡£\n½âÉ¢²¿¶Ó¿ÉÒÔÊÕ»ØµãÊýºÍÈËÁ¦¡£\nÉèÊ©¿ÉÒÔÔÙÉú·Ö½çÃæ½¨Ôì»ò²ð³ý¡£;;;;;;;;;;X
+CGM_TOOLTIP_STAGE_MULTI;Ò»µ©ËùÓÐÍæ¼ÒÈ·ÈÏ¸Ä±ä£¬¾Í¿ÉÒÔ½øÈëÏÂÒ»½×¶Î¡£;;;;;;;;;;X
+CGM_TOOLTIP_CONTINUE;È·ÈÏ¸Ä±äÒÔ½øÈëÏÂÒ»½×¶Î¡£;;;;;;;;;;X
+CGM_TOOLTIP_RESET;»¹Ô­ÄãµÄ¸Ä±ä¡£;;;;;;;;;;X
+CGM_TOOLTIP_MENU;´ò¿ªÓÎÏ·²Ëµ¥¡£;;;;;;;;;;X
+CGM_TOOLTIP_PROGRESS_DIPLOMACY;¿ÉÓÃµÄ §YÍâ½»§! µãÊý.;;;;;;;;;;X
+CGM_TOOLTIP_PROGRESS_TECHNOLOGY;¿ÉÓÃµÄ §Y¿Æ¼¼§! µãÊý.;;;;;;;;;;X
+CGM_TOOLTIP_PROGRESS_DEPLOYMENT;¿ÉÓÃµÄ §YIC*Ìì§! µãÊý.;;;;;;;;;;X
+CGM_TOOLTIP_BUILD;Éè¼Æ£¬×é½¨²¢²¿Êð²¿¶Ó;;;;;;;;;;X
+CGM_TOOLTIP_CONVOY;½¨Ôì»ò´Ý»Ù §YÔËÊä´¬§!.;;;;;;;;;;X
+CGM_TOOLTIP_ESCORT;½¨Ôì»ò´Ý»Ù §Y»¤º½½¢§!.;;;;;;;;;;X
+CGM_TOOLTIP_CONVOY_ESCORT_COST;Ã¿¸öµ¥Î»»¨·Ñ£º\n§Y$IC$§! IC*Ìì;;;;;;;;;;X
+CGM_TOOLTIP_CONVOY_ESCORT_DELAYED;§GShift+Êó±ê×ó¼ü§! - +§Y$NUM$§! Ò»Æð°´ÏÂ.\n§GCtrl+Êó±ê×ó¼ü§! - §GÖØÖÃ§! »ØÄ¬ÈÏÖµ.;;;;;;;;;;X
+CGM_TOOLTIP_NEUTRALITY;Äã¿ÉÒÔ»¨·ÑÍâ½»µãÊý¸Ä±äÖÐÁ¢¶È.;;;;;;;;;;X
+CGM_TOOLTIP_FACTION_ALIGN;Äã¿ÉÒÔ»¨·ÑÍâ½»µãÊý¸Ä±äÕóÓªÇãÏò;;;;;;;;;;X
+CGM_TOOLTIP_ALREADY_IN_FACTION;§RÄã²»ÄÜ¸Ä±äÕóÓªÇãÏò¡£\nÄãÓ¦¸ÃÏÈÀë¿ªÏÖÕóÓª¡£§!;;;;;;;;;;X
+CGM_TOOLTIP_LEAVE_FACTION_LEADER;§RÄã²»ÄÜÀë¿ªÕóÓª£¬ÒòÎªÄãÊÇÕóÓªÁìÐä¡£§!;;;;;;;;;;X
+CGM_TOOLTIP_LEAVE_FACTION_NON_FACTIONED;§RÄã²»ÊÇÕóÓª³ÉÔ±§!;;;;;;;;;;X
+CGM_TOOLTIP_LEAVE_FACTION;µã»÷Àë¿ªÕóÓª¡£\nËùÓÐÄã²Î¼ÓµÄÕóÓªÕ½Õù½«´ï³ÉÎÞÌõ¼þºÍÆ½¡£\n§G(È·ÈÏ½«»áÊ¹ÄãÀë¿ªÏÖÕóÓª)§!;;;;;;;;;;X
+CGM_TOOLTIP_LEAVE_FACTION_PUPPET;§RÄãÊÇÕóÓª³ÉÔ± §Y$COUNTRY$§R µÄ¿þÀÜ¹ú¡£\nÈç¹û¸Ã¹úÀë¿ªÕóÓª£¬ÎÒÃÇ½«×Ô¶¯ÍÑÀëÕóÓª¡£§!;;;;;;;;;;X
+CGM_TOOLTIP_REJOIN_FACTION;µã»÷ÖØÐÂ¼ÓÈëÕóÓª¡£\n§GµãÊý½«±»ÍË»Ø¡£§!;;;;;;;;;;X
+CGM_TOOLTIP_COST;µãÊý»¨·Ñ£º $COST$;;;;;;;;;;X
+CGM_TOOLTIP_CLEAR_ALL;Çå³ýËùÓÐ¿Æ¼¼µ½0¼¶¡£\nÄã¿ÉÒÔµã»÷¶¥²¿µÄ §Y»¹Ô­§! °´Å¥»Ö¸´Ä¬ÈÏ£¬»ò §GCtrl+Êó±êË«»÷§! ÌØ¶¨ÖÖÀàµÄ¿Æ¼¼¡£;;;;;;;;;;X
+CGM_TOOLTIP_TECH_PLUS;Ìá¸ß¿Æ¼¼µÈ¼¶¡£;;;;;;;;;;X
+CGM_TOOLTIP_TECH_MINUS;½µµÍ¿Æ¼¼µÈ¼¶¡£\n§GµãÊý½«±»ÍË»Ø¡£§!;;;;;;;;;;X
+CGM_TOOLTIP_TECH_RESET;ÖØÖÃ¿Æ¼¼µÈ¼¶ÎªÄ¬ÈÏÖµ¡£;;;;;;;;;;X
+CGM_TOOLTIP_TECH_PLUS_SHORTCUT;§GÊó±êË«»÷§! ÒÔÌá¸ßµÈ¼¶.;;;;;;;;;;X
+CGM_TOOLTIP_TECH_MINUS_SHORTCUT;§GShift + Êó±êË«»÷§! ÒÔ½µµÍµÈ¼¶.;;;;;;;;;;X
+CGM_TOOLTIP_TECH_RESET_SHORTCUT;§GCtrl + Êó±êË«»÷§! ÒÔ»Ö¸´Ä¬ÈÏ.;;;;;;;;;;X
+CGM_TOOLTIP_THEORY_PRACTICE;§YÀíÂÛ§! ºÍ §YÊµ¼ù§! µÈ¼¶½«ÔÚÉèÖÃ½áÊøºóÖØÐÂ¼ÆËã.;;;;;;;;;;X
+CGM_TOOLTIP_BUILDING_SHORTCUT;§GÊó±ê×ó¼üµ¥»÷§! Ìá¸ßµÈ¼¶¡£\n§GÊó±êÓÒ¼üµ¥»÷§! ½µµÍµÈ¼¶¡£\n§GCtrl+Êó±ê×ó¼ü§! »Ö¸´Ä¬ÈÏ¡£;;;;;;;;;;X
+CGM_TOOLTIP_UNDERGROUND_BUILD_DESTROY;½¨Ôì»ò´Ý»ÙµØÏÂµÖ¿¹»ùµØ¡£;;;;;;;;;;X
+CGM_WAITING_FOR_PLAYERS;µÈ´ýÆäËûÍæ¼Ò;;;;;;;;;;X
+CGM_PLAYER_STATUS;×´Ì¬£º ;;;;;;;;;;X
+CGM_STATUS_DISCONNECTED;§R¶Ï¿ªÁ¬½Ó§!;;;;;;;;;;X
+CGM_STATUS_WAITING_CONFIRM;§YµÈ´ýÈ·ÈÏ§!;;;;;;;;;;X
+CGM_STATUS_CONFIRMED;§GÒÑÈ·ÈÏ§!;;;;;;;;;;X
+PARATROOPEDUS_SETUP;µ±µÐ¾üÉ¡±ø¿Õ½µÎÒ¹úÁìÍÁ.;;;;;;;;;;X
+PARATROOPEDUS_HEADER;$chief_of_staff$±¨¸æ;;;;;;;;;;X
+PARATROOPEDUS_1;$ENEMY$µÄÉ¡±ø;;;;;;;;;;X
+PARATROOPEDUS_2;ÕýÔÚ$PROV$¿ÕÍ¶.;;;;;;;;;;X
+PARATROOPEDUS_3;*;;;;;;;;;;X
+PARATROOPEDUS_4;*;;;;;;;;;;X
+PARATROOPEDUS_5;*;;;;;;;;;;X
+PARATROOPEDUS_6;*;;;;;;;;;;X
+PARATROOPEDUS_LOG;$ENEMY$ÔÚ$PROV$¿ÕÍ¶É¡±ø.;;;;;;;;;;X
+PARATROOPEDUS_BTN1;ºÃµÄ;;;;;;;;;;X
+PARATROOPEDUS_BTN2;ºÃµÄ;;;;;;;;;;X
+PARATROOPEDUS_BTN3;×ªµ½;;;;;;;;;;X
+PARATROOPEDUS_MAP;É¡±ø;;;;;;;;;;X
+INVADEDUS_SETUP;µ±µÐ¾ü·¢¶¯Á½ÆÜµÇÂ½.;;;;;;;;;;X
+INVADEDUS_HEADER;$chief_of_staff$±¨¸æ;;;;;;;;;;X
+INVADEDUS_1;$ENEMY$µÄµÇÂ½²¿¶Ó;;;;;;;;;;X
+INVADEDUS_2;ÕýÔÚ$PROV$ÇÀÌ².;;;;;;;;;;X
+INVADEDUS_3;*;;;;;;;;;;X
+INVADEDUS_4;*;;;;;;;;;;X
+INVADEDUS_5;*;;;;;;;;;;X
+INVADEDUS_6;*;;;;;;;;;;X
+INVADEDUS_LOG;$ENEMY$ÕýÔÚ$PROV$·¢¶¯Á½ÆÜµÇÂ½.;;;;;;;;;;X
+INVADEDUS_BTN1;ºÃµÄ;;;;;;;;;;X
+INVADEDUS_BTN2;ºÃµÄ;;;;;;;;;;X
+INVADEDUS_BTN3;×ªµ½;;;;;;;;;;X
+INVADEDUS_MAP;Á½ÆÜµÇÂ½;;;;;;;;;;X
+BUILD_ADD_REM_BUNDLE;§YCtrl + Êó±ê×ó¼ü§! À´Ôö¼Ó»ò¼õÉÙ §G$NUM$§!;;;;;;;;;;X
+OOB_MATCH_VIEWS;Ö¸»ÓÁ´Í¼;;;;;;;;;;X
+DISBAND_ALL_TITLE;½âÉ¢ËùÓÐ²¿¶Ó;;;;;;;;;;X
+DISBAND_ALL_DESC;ÄãÈ·¶¨Òª§R½âÉ¢§!§Y$NUM$§!Ö§²¿¶Ó£¿;;;;;;;;;;X
+CANCEL_MULTI_CONSTRUCTIONS_PROMPT;ÄãÈ·¶¨ÒªÈ¡Ïû§Y$NUM$§!¸öÉèÊ©£¿;;;;;;;;;;X
+CANCEL_MULTI_CONSTRUCTIONS_DESC;§GCTRL + Êó±ê×ó¼ü§! ÒÔÈ¡ÏûÓë±»Ñ¡ÖÐÉèÊ©½¨Ôì½ø¶ÈÏàÍ¬»ò¸üÂýµÄËùÓÐÍ¬ÀàÉèÊ©¡£;;;;;;;;;;X
+NO_MULTILOAD_AIR;Ã»ÓÐÔËÊä»úÄÜ×°ÔØÕâÐ©²¿¶Ó.;;;;;;;;;;X
+UNMOUNT_MULTILOAD;´ÓÔËÊä´¬ºÍÔËÊä»úÉÏÐ¶ÔØ§G$NUM$§!Ö§²¿¶Ó¡£;;;;;;;;;;X
+UNMOUNT_MULTILOAD_NONE;ÔËÊä´¬ºÍÔËÊä»úÉÏÃ»ÓÐ²¿¶Ó¿ÉÐ¶ÔØ¡£;;;;;;;;;;X
+HIGHER_COMMAND_MULTI_UNITS;´´½¨Ò»¸ö§G¸ü¸ß¼¶µÄÖ¸»Ó²¿§!£¬²¢½«ËùÓÐÑ¡ÖÐµ¥Î»ÄÉÈëÆä÷âÏÂ£¨³ýÁËÕ½Çø£©¡£;;;;;;;;;;X
+DETACH_ALL;½«ËùÓÐÑ¡ÖÐµ¥Î»ÍÑÀëÖ¸»ÓÁ´¡£\nÕ½Çø²»ÔÚ´ËÁÐ¡£;;;;;;;;;;X
+ENEMY_IC_RATIO_DESC;ÓëµÐÈËµÄICÊýÁ¿±ÈÎª§Y$RATIO$%§!.;;;;;;;;;;X
+ENEMY_IC_RATIO_NOT_DESC;ÓëµÐÈËµÄICÊýÁ¿±È²»ÉÙÓÚ§Y$RATIO$%§!.;;;;;;;;;;X
+SPLIT_UNITS_DESC;§GCTRL + Êó±ê×ó¼ü§! ÒÔ·Ö¸î³É §G$NUM$§! Ö§²¿¶Ó¡£;;;;;;;;;;X
+desert_fox;É³Ä®Ö®ºü;;;;;;;;;;X
+swamp_fox;ÕÓÔóÖ®ºü;;;;;;;;;;X
+mountaineer;É½µØÕ½×¨¼Ò;;;;;;;;;;X
+hill_fighter;ÇðÁêÕ½×¨¼Ò;;;;;;;;;;X
+jungle_rat;´ÔÁÖÖ®Êó;;;;;;;;;;X
+ranger;ÁÖµØÕ½×¨¼Ò;;;;;;;;;;X
+urban_assault_specialist;ÏïÕ½´óÊ¦;;;;;;;;;;X
+TRAIT_TERRAIN_SPEED;ÔÚ§Y$TYPE$§!µØÐÎµÄËÙ¶È¼Ó³É;;;;;;;;;;X
+TRAIT_TERRAIN_ATTACK;ÔÚ§Y$TYPE$§!µØÐÎµÄ¹¥»÷¼Ó³É;;;;;;;;;;X
+TRAIT_GAIN_PROGRESS;»ñµÃ§Y$TRAIT$§!µÄ½ø¶ÈÎª§G$PROG$%?;;;;;;;;;;X
+ACTUAL_TRAITS_DESC;Êµ¼ÊÌØÐÔ£º;;;;;;;;;;X
+TO_GAIN_TRAITS_DESC;¿É»ñµÃÌØÐÔ£º;;;;;;;;;;X
+NO_TRAIT_TO_GAIN_DESC;ÏÖÔÚÃ»ÓÐÌØÐÔ¿É»ñµÃ;;;;;;;;;;X
+TRAIT_FILTER_DESC;°´ÌØÐÔ¹ýÂË½«Áì¡£\n¹´µôÄã²»Ïë¿´µ½µÄÌØÐÔ¡£\n§YÊó±êÓÒ¼ü§! - ÖØÖÃËùÓÐ¹ýÂËÌõ¼þ¡£;;;;;;;;;;X
+TRAIT_FILTER_ENTRY_DESC;§YÊó±êÓÒ¼ü§! - Ñ¡ÔñËùÓÐÌØÐÔ¡£;;;;;;;;;;X
+TRAIT_FILTER;¹ýÂË:;;;;;;;;;;X
+NO_TRAIT_FILTER;ÎÞÌØÐÔ;;;;;;;;;;X
+BP_TAB_CURRENT;ÏÖÓÐ¼Æ»®;;;;;;;;;;X
+BP_TAB_HISTORICAL;ÀúÊ·¼Æ»®;;;;;;;;;;X
+BP_TOOL_COLOR_RED;ºìÉ«;;;;;;;;;;X
+BP_TOOL_COLOR_GREEN;ÂÌÉ«;;;;;;;;;;X
+BP_TOOL_COLOR_BLUE;À¶É«;;;;;;;;;;X
+BP_TOOL_COLOR_YELLOW;»ÆÉ«;;;;;;;;;;X
+BP_TOOL_ARROW_SLIM;Ï¸¼ýÍ·;;;;;;;;;;X
+BP_TOOL_ARROW_MEDIUM_1;ÖÐµÈ¼ýÍ·1;;;;;;;;;;X
+BP_TOOL_ARROW_MEDIUM_2;ÖÐµÈ¼ýÍ·2;;;;;;;;;;X
+BP_TOOL_ARROW_MEDIUM_3;ÖÐµÈ¼ýÍ·3;;;;;;;;;;X
+BP_TOOL_ARROW_THICK;´Ö¼ýÍ·;;;;;;;;;;X
+BP_TOOL_BORDER_1;±ß½çÀàÐÍ1;;;;;;;;;;X
+BP_TOOL_BORDER_2;±ß½çÀàÐÍ2;;;;;;;;;;X
+BP_TOOL_BORDER_3;±ß½çÀàÐÍ3;;;;;;;;;;X
+BP_TOOL_BORDER_4;±ß½çÀàÐÍ4;;;;;;;;;;X
+BP_TOOL_BORDER_5;±ß½çÀàÐÍ5;;;;;;;;;;X
+BP_TOOL_ICON_AIRPLANE;·É»ú±êÖ¾;;;;;;;;;;X
+BP_TOOL_ICON_TANK;Ì¹¿Ë±êÖ¾;;;;;;;;;;X
+BP_TOOL_ICON_BOMB_1;Ð¡Õ¨µ¯±êÖ¾;;;;;;;;;;X
+BP_TOOL_ICON_BOMB_2;´óÕ¨µ¯±êÖ¾;;;;;;;;;;X
+BP_SAVE_PLAN_CONFIRM;±£´æ¼Æ»®;;;;;;;;;;X
+BP_SAVE_PLAN_CANCEL;È¡Ïû;;;;;;;;;;X
+BP_SAVE_PLAN_PROMPT;Õ½ÒÛ¼Æ»®ÒÑ´æÔÚ£¡\nÄãÈ·¶¨Òª¸²¸ÇÂð£¿;;;;;;;;;;X
+BP_DELETE_SAVED_PLAN_PROMPT;ÄãÈ·¶¨ÒªÉ¾³ýÒÑ±£´æµÄÕ½ÒÛ¼Æ»®Âð£¿;;;;;;;;;;X
+BP_DELETE_CURRENT_PLAN_PROMPT;ÄãÈ·¶¨ÒªÉ¾³ýÏÖÓÐÕ½ÒÛ¼Æ»®Âð£¿;;;;;;;;;;X
+BP_SHARED_WITH;·ÖÏíÕß:;;;;;;;;;;X
+BP_NEW_PLAN;ÐÂ¼Æ»®;;;;;;;;;;X
+BP_TOOLTIP_TAB_CURRENT;ÏÖÓÐÕ½ÒÛ¼Æ»®ÁÐ±í¡£;;;;;;;;;;X
+BP_TOOLTIP_TAB_HISTORICAL;ÀúÊ·Õ½ÒÛ¼Æ»®ÁÐ±í¡£\nµã»÷§Yµ¼Èë§!¿ÉÒÔ½«Ñ¡ÖÐµÄ¼Æ»®Ìí¼Ó½øÏÖÓÐ¼Æ»®ÁÐ±í¡£;;;;;;;;;;X
+BP_TOOLTIP_TAB_SAVED;ÒÑ±£´æÕ½ÒÛ¼Æ»®ÁÐ±í¡£\nµã»÷§Yµ¼Èë§!¿ÉÒÔ½«Ñ¡ÖÐµÄ¼Æ»®Ìí¼Ó½øÏÖÓÐ¼Æ»®ÁÐ±í¡£;;;;;;;;;;X
+BP_TOOLTIP_NEW_PLAN;´´½¨ÐÂ¼Æ»®;;;;;;;;;;X
+BP_TOOLTIP_REMOVE_PLAN;É¾³ýÑ¡ÖÐ¼Æ»®¡£;;;;;;;;;;X
+BP_TOOLTIP_SHARE_PLAN;µã»÷§Y·ÖÏí§!°´Å¥¿ÉÒÔ½«Ñ¡ÖÐ¼Æ»®Õ¹Ê¾¸ø§GÃËÓÑ§!.;;;;;;;;;;X
+BP_TOOLTIP_SAVE_PLAN;±£´æÑ¡ÖÐ¼Æ»®ÎªÎÄµµ¡£;;;;;;;;;;X
+BP_TOOLTIP_RENAME_PLAN;ÖØÃüÃûÑ¡ÖÐ¼Æ»®;;;;;;;;;;X
+BP_TOOLTIP_IMPORT_PLAN;Ìí¼ÓÑ¡ÖÐ¼Æ»®µ½ÏÖÓÐÕ½ÒÛ¼Æ»®ÁÐ±í¡£;;;;;;;;;;X
+BP_TOOLTIP_TOOL_SELECT;µã»÷Ò»¸ö¿ÉÑ¡¶ÔÏó;;;;;;;;;;X
+BP_TOOLTIP_TOOL_ARROW;Ñ¡Ôñ¼ýÍ·ÀàÐÍ£¬È»ºóÓÃ§YÊó±ê×ó¼ü§!ÍÏµ½µØÍ¼ÉÏ¡£\n°´×¡ §YShift§! + §YÊó±ê×ó¼ü§!½«¼ýÍ·ÓëÆäËû¼ýÍ·¶ÔÆë¡£;;;;;;;;;;X
+BP_TOOLTIP_TOOL_BORDER;Ñ¡Ôñ±ß½çÀàÐÍ£¬È»ºóÓÃ§YÊó±ê×ó¼ü§!ÍÏµ½µØÍ¼ÉÏ¡£;;;;;;;;;;X
+BP_TOOLTIP_TOOL_ICON;Ñ¡ÔñÍ¼±êÀàÐÍ£¬È»ºóÓÃ§YÊó±ê×ó¼ü§!ÍÏµ½µØÍ¼ÉÏ¡£\n°´×¡ §YShift§! + §YÊó±ê¹öÂÖ§!¿ÉÒÔ·­×ªÍ¼±ê¡£;;;;;;;;;;X
+BP_TOOLTIP_TOOL_COLOR;Ñ¡ÔñÏÖÓÐÑÕÉ«Îª¼ýÍ·ºÍÍ¼±êÉÏÉ«¡£\nÑÕÉ«»¹½«±»Ó¦ÓÃÔÚËùÓÐµ±Ç°Ñ¡ÖÐµÄ¼ýÍ·»òÍ¼±êÉÏ¡£;;;;;;;;;;X
+BP_TOOLTIP_TOOL_TEXT;ÔÚµØÍ¼ÉÏÉèÖÃÎÄ×Ö±êÖ¾¡£\nÈç¹ûÊ²Ã´¶¼Ã»ÓÐÑ¡Ôñ£¬½«´´½¨Ò»¸öÐÂÎÄ±¾¡£\nÈç¹ûÑ¡ÖÐÒ»¸ö¼ýÍ·£¬ÎÄ×Ö½«Ð´ÔÚ¼ýÍ·ÉÏ¡£\nÈç¹ûÑ¡ÖÐÒ»¸öÎÄ±¾£¬½«±à¼­Õâ¸öÎÄ±¾¡£\n§YShift§! + §YÊó±ê¹öÂÖ§!¿ÉÒÔ·­×ªÎÄ±¾¡£\n§YCtrl§! + §YÊó±ê¹öÂÖ§!¿ÉÒÔµ÷ÕûÎÄ±¾´óÐ¡¡£;;;;;;;;;;X
+BP_TOOLTIP_TOOL_ERASE;É¾³ýÑ¡ÖÐ¶ÔÏó¡£;;;;;;;;;;X
+BP_TOOLTIP_VISIBILITY;ÇÐ»»µØÍ¼ÉÏµÄ¼Æ»®Í¸Ã÷¶È¡£;;;;;;;;;;X
+SWM_BUTTON_SHOW;Õ½ÂÔ½çÃæ;;;;;;;;;;X
+SWM_RECORDS_BEGIN_DATE;¿ªÊ¼ÈÕÆÚ£º§Y$DATE$§!;;;;;;;;;;X
+SWM_RECORDS_END_DATE;½ØÖ¹ÈÕÆÚ£º§Y$DATE$§!;;;;;;;;;;X
+SWM_RECORDS_TODAY;½ñÌì;;;;;;;;;;X
+SWM_SELECT_ALL;ËùÓÐ;;;;;;;;;;X
+SWM_SELECT_PRESENT;ÏÖÔÚµÄ;;;;;;;;;;X
+SWM_SELECT_NONE;Ã»ÓÐ;;;;;;;;;;X
+SWM_DURATION_1;ÉÏ¸öÔÂ;;;;;;;;;;X
+SWM_DURATION_2;È¥Äê;;;;;;;;;;X
+SWM_DURATION_3;Õû¸ö³åÍ»;;;;;;;;;;X
+SWM_GRAPH_MAX_IC_VAL;×î´óIC£º\n$MAX$;;;;;;;;;;X
+SWM_GRAPH_MAX_MAN_VAL;×î´óÈËÁ¦£º\n$MAX$;;;;;;;;;;X
+SWM_GRAPH_MAX_TONS_VAL;×î´ó¶ÖÎ»£º $MAX$;;;;;;;;;;X
+SWM_GRAPH_AVG_VAL;Æ½¾ù£º $AVG$;;;;;;;;;;X
+SWM_GRAPH_HEADER_US;ÎÒ·½ËðÊ§;;;;;;;;;;X
+SWM_GRAPH_HEADER_THEM;¶Ô·½ËðÊ§;;;;;;;;;;X
+SWM_GRAPH_HEADER_CONVOYS;ÔËÊä´¬;;;;;;;;;;X
+SWM_GRAPH_HEADER_NAVIES;º£¾ü;;;;;;;;;;X
+SWM_GRAPH_HEADER_IC;IC;;;;;;;;;;X
+SWM_GRAPH_HEADER_MANPOWER;ÈËÁ¦;;;;;;;;;;X
+SWM_CARGO_LOST_DESC_1;±¾ÔÂÎÒÃÇËðÊ§ÁË§Y$NUM$§!¶Ö»õÎï¡£;;;;;;;;;;X
+SWM_CARGO_LOST_DESC_2;½ñÄêÎÒÃÇËðÊ§ÁË§Y$NUM$§!¶Ö»õÎï¡£;;;;;;;;;;X
+SWM_CARGO_LOST_DESC_3;ÎÒÃÇÒ»¹²ËðÊ§ÁË§Y$NUM$§!¶Ö»õÎï¡£;;;;;;;;;;X
+SWM_CARGO_SUNK_DESC_1;±¾ÔÂÎÒÃÇ»÷³ÁÁË§Y$NUM$§!¶Ö»õÎï¡£;;;;;;;;;;X
+SWM_CARGO_SUNK_DESC_2;½ñÄêÎÒÃÇ»÷³ÁÁË§Y$NUM$§!¶Ö»õÎï¡£;;;;;;;;;;X
+SWM_CARGO_SUNK_DESC_3;ÎÒÃÇÒ»¹²»÷³ÁÁË§Y$NUM$§!¶Ö»õÎï¡£;;;;;;;;;;X
+SWM_OUR_PROV_DAMAGE_DESC_1;±¾ÔÂ´óÔ¼§R$PERC$%§!µÄÎÒ¹ú³ÇÊÐÔâµ½ºäÕ¨¡£;;;;;;;;;;X
+SWM_OUR_PROV_DAMAGE_DESC_2;½ñÄê´óÔ¼§R$PERC$%§!µÄÎÒ¹ú³ÇÊÐÔâµ½ºäÕ¨¡£;;;;;;;;;;X
+SWM_OUR_PROV_DAMAGE_DESC_3;×Ü¹²´óÔ¼§R$PERC$%§!µÄÎÒ¹ú³ÇÊÐÔâµ½ºäÕ¨¡£;;;;;;;;;;X
+SWM_THEIR_PROV_DAMAGE_DESC_1;±¾ÔÂ´óÔ¼ §R$PERC$%§!µÄ¸Ã¹ú³ÇÊÐÔâµ½ºäÕ¨¡£;;;;;;;;;;X
+SWM_THEIR_PROV_DAMAGE_DESC_2;½ñÄê´óÔ¼ §R$PERC$%§!µÄ¸Ã¹ú³ÇÊÐÔâµ½ºäÕ¨¡£;;;;;;;;;;X
+SWM_THEIR_PROV_DAMAGE_DESC_3;×Ü¹²´óÔ¼ §R$PERC$%§!µÄ¸Ã¹ú³ÇÊÐÔâµ½ºäÕ¨¡£;;;;;;;;;;X
+SWM_OUR_BOMBERS_DAMAGE_DESC_1;±¾ÔÂµÐ¾üºäÕ¨»úËðÊ§ÁË§R$DAM$§!¡£;;;;;;;;;;X
+SWM_OUR_BOMBERS_DAMAGE_DESC_2;½ñÄêµÐ¾üºäÕ¨»úËðÊ§ÁË§R$DAM$§!¡£;;;;;;;;;;X
+SWM_OUR_BOMBERS_DAMAGE_DESC_3;µÐ¾üºäÕ¨»ú×Ü¹²ËðÊ§ÁË§R$DAM$§!¡£;;;;;;;;;;X
+SWM_THEIR_BOMBERS_DAMAGE_DESC_1;±¾ÔÂÎÒ¾üºäÕ¨»úËðÊ§ÁË§R$DAM$§!¡£;;;;;;;;;;X
+SWM_THEIR_BOMBERS_DAMAGE_DESC_2;½ñÄêÎÒ¾üºäÕ¨»úËðÊ§ÁË§R$DAM$§!¡£;;;;;;;;;;X
+SWM_THEIR_BOMBERS_DAMAGE_DESC_3;ÎÒ¾üºäÕ¨»ú×Ü¹²ËðÊ§ÁË§R$DAM$§!¡£;;;;;;;;;;X
+SWM_LOSSES_PROVINCE;Ê¡·Ý;;;;;;;;;;X
+SWM_LOSSES_BOMBERS;ºäÕ¨»ú;;;;;;;;;;X
+SWM_MAX_DAMAGE;×î´óÉËº¦: $DAM$;;;;;;;;;;X
+SWM_TOOLTIP_TAB_NAVAL;±È½ÏµÐÎÒË«·½Óë§YÁÔÉ±ÔËÊä´¬?ÓÐ¹ØµÄ§Gº£¾ü§!ËðÊ§¡£;;;;;;;;;;X
+SWM_TOOLTIP_TAB_AIR;±È½ÏµÐÎÒË«·½Óë§YÕ½ÂÔºäÕ¨?ÓÐ¹ØµÄ§G¿Õ¾ü?ËðÊ§¡£;;;;;;;;;;X
+SWM_TOOLTIP_TAB_LAND;±È½ÏµÐÎÒË«·½Óë§YÂ½Õ½?ºÍ§Y·ÇÕý³£ËðºÄ?ÓÐ¹ØµÄ§GÂ½¾ü§!ËðÊ§¡£;;;;;;;;;;X
+SWM_TOOLTIP_NAVAL_OUR_CONVOYS;§YÎÒ·½§!ÔËÊä´¬ËðÊ§µÄIC¹À¼ÆÖµ¡£;;;;;;;;;;X
+SWM_TOOLTIP_NAVAL_OUR_ATTACKERS;§YµÐ·½?º£¾üÔÚÁÔÉ±ÎÒ¹úÔËÊä´¬ÆÚ¼äµÄËðÊ§µÄIC¹À¼ÆÖµ£¨ÐÞ¸´·ÑÓÃºÍ²¹³ä³ÁÃ»½¢´¬·ÑÓÃ£©¡£;;;;;;;;;;X
+SWM_TOOLTIP_NAVAL_OUR_CARGO;§YÎÒ·½?ÔËÊä´¬ËðÊ§µÄ»õÎïµÄIC¹À¼ÆÖµ¡£;;;;;;;;;;X
+SWM_TOOLTIP_NAVAL_THEIR_CONVOYS;§YµÐ·½?ÔËÊä´¬ËðÊ§µÄIC¹À¼ÆÖµ¡£;;;;;;;;;;X
+SWM_TOOLTIP_NAVAL_THEIR_ATTACKERS;§YÎÒ·½?º£¾üÔÚÁÔÉ±µÐ¹úÔËÊä´¬ÆÚ¼äµÄËðÊ§µÄIC¹À¼ÆÖµ£¨ÐÞ¸´·ÑÓÃºÍ²¹³ä³ÁÃ»½¢´¬·ÑÓÃ£©¡£;;;;;;;;;;X
+SWM_TOOLTIP_NAVAL_THEIR_CARGO;µÐ·½?ÔËÊä´¬ËðÊ§µÄ»õÎïµÄIC¹À¼ÆÖµ¡£;;;;;;;;;;X
+SWM_TOOLTIP_AIR_OUR_PROVINCE;µÐ·½ºäÕ¨»ú¶Ô§YÎÒ·½§!Ê¡·ÝÔì³ÉËðÊ§µÄ¹À¼ÆÖµ¡£\n°üÀ¨Ëð»ÙµÄ½¨Öþ£¬±»»ÙµÄ»õÎïÓë²¹¸ø£¬ÒÔ¼°Â½¾üÉËÍö¡£;;;;;;;;;;X
+SWM_TOOLTIP_AIR_OUR_BOMBERS;§YµÐ·½§!ºäÕ¨»úµÄËðÊ§µÄ¹À¼ÆÖµ¡£;;;;;;;;;;X
+SWM_TOOLTIP_AIR_THEIR_PROVINCE;ÎÒ·½ºäÕ¨»ú¶Ô§YµÐ·½?Ê¡·ÝÔì³ÉËðÊ§µÄ¹À¼ÆÖµ¡£\n°üÀ¨Ëð»ÙµÄ½¨Öþ£¬±»»ÙµÄ»õÎïÓë²¹¸ø£¬ÒÔ¼°Â½¾üÉËÍö¡£;;;;;;;;;;X
+SWM_TOOLTIP_AIR_THEIR_BOMBERS;ÎÒ·½?ºäÕ¨»úµÄËðÊ§µÄ¹À¼ÆÖµ¡£;;;;;;;;;;X
+SWM_TOOLTIP_LAND_IC_US;²¹³ä§YÎÒ·½§!ÔÚÕ½¶·ÖÐÔâµ½ËðÊ§²¿¶ÓµÄ·ÑÓÃµÄ¹À¼ÆÖµ¡£;;;;;;;;;;X
+SWM_TOOLTIP_LAND_IC_THEM;²¹³ä§YµÐ·½?ÔÚÕ½¶·ÖÐÔâµ½ËðÊ§²¿¶ÓµÄ·ÑÓÃµÄ¹À¼ÆÖµ¡£;;;;;;;;;;X
+SWM_TOOLTIP_LAND_MAN_US;²¹³ä§YÎÒ·½?ÔÚÕ½¶·ÖÐÔâµ½ËðÊ§²¿¶ÓµÄÈËÁ¦µÄ¹À¼ÆÖµ¡£;;;;;;;;;;X
+SWM_TOOLTIP_LAND_MAN_THEM;²¹³ä§YµÐ·½?ÔÚÕ½¶·ÖÐÔâµ½ËðÊ§²¿¶ÓµÄÈËÁ¦µÄ¹À¼ÆÖµ¡£;;;;;;;;;;X
+UNIT_REPAIR_COST_MULT;ÐÞÀí»¨·ÑÐÞÕý;;;;;;;;;;X
+SPY_PRODUCTION_LABEL;Éú²ú;;;;;;;;;;X
+LEAVE_FACTION;ÍÑÀëÕóÓª;;;;;;;;;;X
+REJOIN_FACTION;ÖØ·µÕóÓª;;;;;;;;;;X
+LEAVE_FACTION_INTENTION;§Y$COUNTRY$§! §R½«ÍÑÀëÕóÓª§!;;;;;;;;;;X
+COVERT_OPS_POINTS;ÃØÃÜÐÐ¶¯µãÊý:;;;;;;;;;;X
+SPYMISSION_COVERT_OPS_TITLE;ÃØÃÜÐÐ¶¯;;;;;;;;;;X
+SPYMISSION_COVERT_OPS_DESC;×¼±¸ÊµÊ©ÃØÃÜÐÐ¶¯£¬ÆÆ»µºÍÌØÖÖ²¿¶ÓÉøÍ¸¡£;;;;;;;;;;X
+COVERT_MISSIONS_LABEL;ÃØÃÜÈÎÎñ;;;;;;;;;;X
+COVERT_OPS_SORT;ÃØÃÜ;;;;;;;;;;X
+MODIFIER_LAND_INTEL_BOOST;Â½¾üÇé±¨¼Ó³É;;;;;;;;;;X
+MODIFIER_NAVAL_INTEL_BOOST;º£¾üÇé±¨¼Ó³É;;;;;;;;;;X
+MODIFIER_LOCAL_UNIT_SPEED;ÆäËû±¾µØËÙ¶ÈÓ°Ïì;;;;;;;;;;X
+MODIFIER_STRATEGIC_RESOURCE_EFFICIENCY;Õ½ÂÔÎï×ÊËðÊ§;;;;;;;;;;X
+FE_CUSTOM_GAMES;×Ô¶¨ÒåÓÎÏ·;;;;;;;;;;X
+EVTNAME18000;´Ý»Ù¼äµý×éÖ¯;;;;;;;;;;X
+EVTDESC18000;ÎÒ¹úÌØ¹¤³É¹¦´þ²¶ÁËµÐ¹ú¼äµý£¬²¢´Ý»ÙÁËÕû¸ö¼äµý×éÖ¯¡£Õâ½«ÔÚÒ»¶¨Ê±¼äÄÚÌá¸ßÎÒ¹úµÄ·´¼äµýÐ§ÂÊ¡£;;;;;;;;;;X
+EVTOPTA18000;ºÃÏûÏ¢!;;;;;;;;;;X
+EVTNAME18001;ÃÜÂë±»ÇÔ;;;;;;;;;;X
+EVTDESC18001;×î½üÎÒ¹úµÄ·´¼äµý¹¤×÷ÔâÓöÖØ´ó´ìÕÛ£¬ÎÒ¹úÌØ¹¤µÄ×îÐÂÃÜÂë±»µÐÈËÇÔÈ¡¡£Õâ½«ÔÚÒ»¶¨Ê±¼äÄÚ½µµÍÎÒ¹úµÄ·´¼äµýÐ§ÂÊ¡£;;;;;;;;;;X
+EVTOPTA18001;ÔÖÄÑ!;;;;;;;;;;X
+EVTNAME18002;ÒâÍâÊÕ»ñµÄÇé±¨;;;;;;;;;;X
+EVTDESC18002;Í¨¹ýÒ»ÏµÁÐ»úÖÇµÄÃÜÄ±ºÍÒ»´Î´óµ¨µÄÐÐ¶¯£¬ÎÒÃÇµÄÒ»Ãû¼äµýÇÔÈ¡ÁËµÐ¹úµÄÃÜÂë±¾¡£ÎÒÃÇµÄÇé±¨µÈ¼¶½«»ñµÃÌá¸ß£¬Ö±µ½ËûÃÇÏÂÒ»´Î¸Ä±äÃÜÂë¡£;;;;;;;;;;X
+sabotage_strategic_resource;ÆÆ»µÕ½ÂÔÎï×Ê;;;;;;;;;;X
+steal_battle_plans;ÇÔÈ¡±¾µØÕ½ÒÛ¼Æ»®;;;;;;;;;;X
+scout_area;Õì²ìÇøÓò;;;;;;;;;;X
+sabotage_area;ÆÆ»µÇøÓò;;;;;;;;;;X
+sabotage_strategic_resource_desc;ÆÆ»µ±¾µØÕ½ÂÔÎï×Ê¡£;;;;;;;;;;X
+steal_battle_plans_desc;ÉøÍ¸²¢ÇÔÈ¡±¾µØÕ½ÒÛ¼Æ»®¡£;;;;;;;;;;X
+scout_area_desc;ÅÉÇ²¼äµýÌáÇ°Õì²ìÇøÓò¡£;;;;;;;;;;X
+sabotage_area_desc;ÆÆ»µÇÅÁº£¬Í¿¸ÄÂ·±ê£¬×èÖÍµÐ¾üµÄÐÐ¶¯¡£;;;;;;;;;;X
+covertopsmod_sabotage;ÆÆ»µÇøÓò;;;;;;;;;;X
+covertopsmod_scout;Õì²ìÇøÓò;;;;;;;;;;X
+covertopsmod_damage_resource;ÆÆ»µÕ½ÂÔÎï×Ê;;;;;;;;;;X
+DISTRIBUTE_LENDLEASE;¹¤ÒµÔ®Öú;;;;;;;;;;X
+DISTRIBUTE;·Ö·¢;;;;;;;;;;X
+ACT_LENDLEASE_WE_GOI;µ±ÎÒ¹ú´¦ÓÚÁ÷Íö×´Ì¬Ê±²»ÄÜ»ñµÃ¹¤ÒµÔ®Öú¡£;;;;;;;;;;X
+ACT_LENDLEASE_THEM_GOI;ÎÒÃÇ²»ÄÜÏòÁ÷ÍöÕþ¸®Ìá¹©¹¤ÒµÔ®Öú¡£;;;;;;;;;;X
+PROV_DISTANCE_FROM;¾à$FROM$§Y$DIST$Ç§Ã×§!;;;;;;;;;;X
+ADD_SPIES_EFFECT;ÅÉÇ²§Y$VAL$§!Ãû¼äµýÈ¥§Y$TARGET$§!;;;;;;;;;;X
+REMOVE_SPIES_EFFECT;³·»Ø§Y$VAL$§!Ãû¼äµýÈ¥§Y$TARGET$§!;;;;;;;;;;X
+ADD_PRACTICAL_EFFECT;§Y$TARGET$§!¿ÉÓÃÊýÔö¼Ó§G$VAL$§!;;;;;;;;;;X
+REDUCE_PRACTICAL_EFFECT;§Y$TARGET$§!¿ÉÓÃÊý¼õÉÙ§G$VAL$§!;;;;;;;;;;X
+tactic_basic_attack;¹¥»÷;;;;;;;;;;X
+tactic_basic_defend;·ÀÓù;;;;;;;;;;X
+tactic_assault;Í»»÷;;;;;;;;;;X
+tactic_reckless_assault;Â³Ã§Í»Ï®;;;;;;;;;;X
+tactic_encirclement;°üÎ§;;;;;;;;;;X
+tactic_delay;×èÖÍ;;;;;;;;;;X
+tactic_slower_delay;ÇÉÃî×èÖÍ;;;;;;;;;;X
+tactic_shock;³å»÷;;;;;;;;;;X
+tactic_counterattack;·´»÷;;;;;;;;;;X
+tactic_tactical_withdrawal;Õ½Êõ³·ÍË;;;;;;;;;;X
+tactic_breakthrough;Í»ÆÆ;;;;;;;;;;X
+tactic_superior_breakthrough;¿ìËÙÍ»ÆÆ;;;;;;;;;;X
+tactic_ambush;·ü»÷;;;;;;;;;;X
+tactic_blitz;ÉÁµçÕ½;;;;;;;;;;X
+tactic_super_blitz;ÉÁµçÍ»»÷;;;;;;;;;;X
+tactic_elastic_defence;µ¯ÐÔ·ÀÓù;;;;;;;;;;X
+tactic_backhand_blow;»Ø»÷;;;;;;;;;;X
+TACTIC_COUNTERED_BY;·´ÖÆÕß: §Y$NAME$§!\n;;;;;;;;;;X
+TACTIC_COUNTERS;·´ÖÆ:;;;;;;;;;;X
+DEFENDER_COUNTERED;·ÀÓù·½µÄÕ½Êõ±»¹¥»÷·½·´ÖÆÁË¡£µÈ¼¶¸ßµÄ½«Áì¸üÈÝÒ×·´ÖÆ¶ÔÊÖµÄÕ½Êõ¡£;;;;;;;;;;X
+ATTACKER_COUNTERED;¹¥»÷·½µÄÕ½Êõ±»·ÀÓù·½·´ÖÆÁË¡£µÈ¼¶¸ßµÄ½«Áì¸üÈÝÒ×·´ÖÆ¶ÔÊÖµÄÕ½Êõ¡£;;;;;;;;;;X
+NONE_COUNTERED;Ã»ÓÐÈËµÄÕ½Êõ¿ÉÒÔ·´ÖÆ¶ÔÊÖµÄÕ½Êõ¡£Õ½¶·Õý³£½øÐÐ¡£;;;;;;;;;;X
+LEADER_INITIATIVE;\n§YÕâÃû½«ÁìµÈ¼¶¸ü¸ß£¬Ñ¡ÔñÄÜ·´ÖÆ¶ÔÊÖµÄÕ½ÊõµÄ¿ÉÄÜÐÔ±È½Ï¸ß§!;;;;;;;;;;X
+CHAT_CHANNEL_GENERAL;È«ÌåÆµµÀ;;;;;;;;;;X
+CHAT_SYSTEM;ÏµÍ³;;;;;;;;;;X
+CHAT_ERROR_UNKNOWNSLASH;Î´ÖªÃüÁî£¬ÊäÈë '/help' »ò '/?' Õ¹¿ªÃüÁîÁÐ±í;;;;;;;;;;X
+CHAT_ERROR_UNKNOWNCHANNELUSER;ÆµµÀÖÐÕÒ²»µ½ÓÃ»§ '$NAME$' ;;;;;;;;;;X
+CHAT_ERROR_UNKNOWNUSER;ÕÒ²»µ½ÓÃ»§ '$NAME$';;;;;;;;;;X
+CHAT_SLAP;$FIRST$ÓÃ´óÁÔ±ªÃÍ»÷$SECOND$;;;;;;;;;;X
+CHAT_ERROR_SLAP_MISSINGARG;Invalid syntax, expected: /slap <username>;;;;;;;;;;X
+CHAT_ERROR_ME_MISSINGARG;Invalid syntax, expected: /me <message>;;;;;;;;;;X
+CHAT_ERROR_CREATE_MISSINGARG;Invalid syntax, expected: /create <channel name>;;;;;;;;;;X
+CHAT_ERROR_INVITE_MISSINGARG;Invalid syntax, expected: /invite <username>;;;;;;;;;;X
+CHAT_ERROR_INVITE_NOTOPERATOR;Only channel creator can invite users;;;;;;;;;;X
+CHAT_ERROR_INVITE_ALREADYTHERE;User is already in channel;;;;;;;;;;X
+CHAT_ERROR_KICK_MISSINGARG;Invalid syntax, expected: /kick <username>;;;;;;;;;;X
+CHAT_ERROR_KICK_NOTOPERATOR;Only channel creator can kick users;;;;;;;;;;X
+CHAT_ERROR_KICK_NOTTHERE;User is not in channel;;;;;;;;;;X
+CHAT_ERROR_WHISPER_MISSINGARG;Invalid syntax, expected: /whisper <username> <message>;;;;;;;;;;X
+CHAT_ERROR_REPLY_MISSINGARG;Invalid syntax, expected: /reply <message>;;;;;;;;;;X
+CHAT_ERROR_REPLY_MISSINGUSER;No connected user to reply to;;;;;;;;;;X
+CHAT_WHISPER_TO;To $NAME$;;;;;;;;;;X
+CHAT_ROLL;$USER$ rolls a d$DIE$, Computer says '$NUMBER$';;;;;;;;;;X
+CHAT_YES;Yes;;;;;;;;;;X
+CHAT_NO;No;;;;;;;;;;X
+CHAT_BETWEEN_X_AND_Y;Chat between $X$ and $Y$;;;;;;;;;;X
+CHAT_USERJOINEDCHANNEL;$NAME$ joined channel;;;;;;;;;;X
+CHAT_USERLEFTCHANNEL;$NAME$ left channel;;;;;;;;;;X
+CHAT_USERDISCONNECTED;$NAME$ disconnected;;;;;;;;;;X
+CHAT_USERWASBANNED;$NAME$ was kicked by $OP$;;;;;;;;;;X
+CHAT_YOUWEREBANNED;You were kicked by $OP$ from $CHANNEL$;;;;;;;;;;X
+CHAT_AXIS;Axis;;;;;;;;;;X
+CHAT_ALLIES;Allies;;;;;;;;;;X
+CHAT_COMINTERN;Comintern;;;;;;;;;;X
+CHAT_NEUTRAL;Neutral;;;;;;;;;;X
+infantry_unit_type;²½±ø;;;;;;;;;;X
+direct_fire_unit_type;Ö±Ãé»ðÁ¦;;;;;;;;;;X
+support_unit_type;Ö§Ô®;;;;;;;;;;X
+artillery_unit_type;ÅÚ±ø;;;;;;;;;;X
+armor_unit_type;×°¼×;;;;;;;;;;X
+infantry_unit_type_desc;²½±øÊÇ¶à±øÖÖ»ìºÏ²¿¶ÓµÄ»ù´¡¡£²½±øÓëÆäËû²¿¶Ó»ì±à¿ÉÒÔµÃµ½Õ½¶·¼Ó³É¡£;;;;;;;;;;X
+direct_fire_unit_type_desc;Ö±Ãé»ðÁ¦²¿¶Ó¿ÉÒÔ¶ÔÊÓÒ°·¶Î§ÄÚµÄµÐ¾ü¿ª»ð¡£;;;;;;;;;;X
+support_unit_type_desc;Ö§Ô®²¿¶Ó¿ÉÒÔÎªÒ»¸öÊ¦Ìá¹©¶àÖÖÓÃÍ¾»òÄ³ÖÖÌØÊâÄÜÁ¦£¬Ê¹²¿¶ÓÄÜ¸ºµ£¸÷ÖÖÈÎÎñ¡£;;;;;;;;;;X
+artillery_unit_type_desc;ÅÚ±ø¿ÉÒÔÔ½¹ýÆäËû²¿¶Ó»òÕÏ°­Îï£¬ÔÚÔ¶¾àÀë¶ÔµÐ¾üÔì³ÉÉ±ÉË¡£;;;;;;;;;;X
+armor_unit_type_desc;×°¼×²¿¶ÓÎªÒ»¸öÊ¦Ìá¹©Í»»÷ÄÜÁ¦£¬»ú¶¯ÐÔºÍ·À»¤ÄÜÁ¦¡£ºÏ³É±øÖÖ¿Æ¼¼¿ÉÒÔÔö¼ÓÕâÐ©²¿¶Ó´øÀ´µÄÕ½¶·Ð§ÂÊ¼Ó³É¡£;;;;;;;;;;X
+INTEL_PRODUCTION;Éú²ú;;;;;;;;;;X
+BP_TOOL_ICON_PARADROP;É¡±øÍ¼±ê;;;;;;;;;;X
+BP_TOOL_ICON_CARRIER;º½Ä¸Í¼±ê;;;;;;;;;;X
+BP_TOOL_ICON_BATTLESHIP;Õ½ÁÐ½¢Í¼±ê;;;;;;;;;;X
+BP_TOOL_ICON_SUB;Ç±Í§Í¼±ê;;;;;;;;;;X
+BP_TOOL_ICON_LANDING;µÇÂ½Í§Í¼±ê;;;;;;;;;;X
+ARMOR_VALUE;×°¼×;;;;;;;;;;X
+AP_ATTACK;´©¼×¹¥»÷;;;;;;;;;;X
+BUILD_PIERCING_IRO;´©¼×¹¥»÷;;;;;;;;;;X
+BUILD_PIERCING_DRO;Õâ¸öÂÃµÄ´©¼×ÄÜÁ¦¡£;;;;;;;;;;X
+BUILD_ARMOR_IRO;×°¼×;;;;;;;;;;X
+BUILD_ARMOR_DRO;Õâ¸öÂÃµÄ·À´©¼×ÄÜÁ¦¡£;;;;;;;;;;X
+BM_ARMOR_ADVANTAGE;×°¼×ÓÅÊÆ;;;;;;;;;;X
+BM_ARMOR_ADVANTAGE_desc;ÓµÓÐÔ¶Ê¤ÓÚµÐ¾ü´©¼×ÄÜÁ¦µÄ×°¼×²¿¶ÓµÄÊ¦²»½ö¿ÉÒÔÔâÊÜ¸üÉÙµÄÉËÍö£¬»¹ÄÜ¶ÔµÐ·½Ôì³É¸ü´óµÄ×éÖ¯¶È´ò»÷¡£;;;;;;;;;;X
+SCW_Axis_1;¿ØÖÆÈûÎ¬ÀûÑÇ;;;;;;;;;;X
+SCW_Axis_2;¿ØÖÆÂíµÂÀï;;;;;;;;;;X
+SCW_Axis_3;¿ØÖÆ°ÍÈûÂÞÄÇ;;;;;;;;;;X
+SCW_Axis_4;¿ØÖÆÍßÂ×Î÷ÑÇ;;;;;;;;;;X
+SCW_Allies_1;¿ØÖÆÂíµÂÀï;;;;;;;;;;X
+SCW_Allies_2;¿ØÖÆÈûÎ¬ÀûÑÇ;;;;;;;;;;X
+SCW_Allies_3;¿ØÖÆÀ­¿ÆÂ³ÄáÑÇ;;;;;;;;;;X
+SCW_Allies_4;¿ØÖÆÎ¬¶ûÍß;;;;;;;;;;X
+ENDGAMEHEADER_SCW_SPA_WIN;Ê¤Àû!;;;;;;;;;;X
+ENDGAMEHEADER_SCW_SPA_LOSS;Ê§°Ü!;;;;;;;;;;X
+ENDGAMEHEADER_SCW_SPR_WIN;Ê¤Àû!;;;;;;;;;;X
+ENDGAMEHEADER_SCW_SPR_LOSS;Ê§°Ü!;;;;;;;;;;X
+ENDGAMEBODY_SCW_SPA_WIN;Ëæ×ÅÎÒÃÇµÄÊ¤Àû£¬×æ¹ú½«ÃâÓÚÔâÊÜ¹²²úÖ÷ÒåÕß£¬ÃñÖ÷Ö÷ÒåÕßºÍ±£»ÊÅÉµÄ¸¯ÐàÍ³ÖÎ¡£ÎÒÃÇ½«ÔÚ·ðÀÊ¸ç½«¾üµÄ´øÁìÏÂÊµÏÖÎ°´ó¸´ÐË£¡;;;;;;;;;;X
+ENDGAMEBODY_SCW_SPA_LOSS;ÎÒÃÇµÄÊ§°ÜÊ¹×æ¹úÏÝÈë¹²²úÖ÷ÒåÕßºÍÃñÖ÷Ö÷ÒåÕßµÄ¸¯ÐàÍ³ÖÎ¡£Î÷°àÑÀºÍÎ÷°àÑÀ½Ì»á½«Ó­À´»ÙÃð¡£;;;;;;;;;;X
+ENDGAMEBODY_SCW_SPR_WIN;ÎÒÃÇ¶Ô·ðÀÊ¸ç·¨Î÷Ë¹ÊÆÁ¦µÄ´óÊ¤È·±£Î÷°àÑÀ¹²ºÍ¹ú½«ÓÀ±£ÃñÖ÷ºÍ×ÔÓÉ¡£;;;;;;;;;;X
+ENDGAMEBODY_SCW_SPR_LOSS;ÎÒÃÇµÄÊ§°ÜÒâÎ¶×Å·¨Î÷Ë¹Ö÷ÒåµÄÊ¤Àû¡£ºÁÎÞÒÉÎÊ£¬·ðÀÊ¸ç½«ÓëµÂ¹úºÍÒâ´óÀûÀÇ±·Îª¼é£¬´øÁìÎ÷°àÑÀ¼ÓÈëÓëÅ·ÖÞÃñÖ÷¹ú¼ÒµÄÕ½Õù£¬×îÖÕ×ßÏòÃðÍö¡£;;;;;;;;;;X
+WW_Axis_1;¿ØÖÆÎ¬±¤Ö±µ½1940Äê1ÔÂ5ÈÕ;;;;;;;;;;X
+WW_Axis_2;¿ØÖÆÁÐÄþ¸ñÀÕ;;;;;;;;;;X
+WW_Axis_3;ÁÐÄþ¸ñÀÕ¼ÛÖµ2Ê¤Àûµã;;;;;;;;;;X
+WW_comintern_1;¿ØÖÆÎ¬±¤;;;;;;;;;;X
+WW_comintern_2;¿ØÖÆKakisalmi;;;;;;;;;;X
+WW_comintern_3;¿ØÖÆË÷¶ûËþÍßÀ­;;;;;;;;;;X
+ENDGAMEHEADER_winter_war_SOV_WIN;Ê¤Àû!;;;;;;;;;;X
+ENDGAMEHEADER_winter_war_SOV_LOSS;Ê§°Ü!;;;;;;;;;;X
+ENDGAMEHEADER_winter_war_FIN_WIN;Ê¤Àû!;;;;;;;;;;X
+ENDGAMEHEADER_winter_war_FIN_LOSS;Ê§°Ü!;;;;;;;;;;X
+ENDGAMEBODY_winter_war_SOV_WIN;»Ô»ÍµÄÊ¤Àû½«±£Ö¤ÁÐÄþ¸ñÀÕµÄ³¤ÖÎ¾Ã°²£¡;;;;;;;;;;X
+ENDGAMEBODY_winter_war_SOV_LOSS;ÎÒÃÇµÄÊ§°Üµ¼ÖÂÁÐÄþ¸ñÀÕ±©Â¶ÔÚ·ÒÀ¼µÄÍþÐ²Ö®ÏÂ¡£ÎÞÒÉ·´¶¯ÅÉÃÇÕýÔÚÃÜÄ±¶Ô¸¶ÎÒÃÇ£¡;;;;;;;;;;X
+ENDGAMEBODY_winter_war_FIN_WIN;ÎÒÃÇ¶ÔËÕÁªÈËµÄÊ¤ÀûÔÙÒ»´Î·ÛËéÁËËûÃÇ¶ÔÎÒ¹úÁìÍÁµÄµÛ¹úÖ÷ÒåÒ°ÐÄ£¡;;;;;;;;;;X
+ENDGAMEBODY_winter_war_FIN_LOSS;ÎÒÃÇµÄÊ§°ÜÊ¹ÎÒÃÇ²»µÃ²»·ÅÆú±ß¾³ÒªÈû¡£ÒªÊÕ¸´Ê§µØ£¬ÎÒÃÇÒ²ÐíÓ¦¸ÃÓëÄ³¸ö¸üÇ¿´óµÄ¹ú¼Ò½áÃË£¬ÁªºÏÆðÀ´¶Ô¸¶ËÕÁª¡£;;;;;;;;;;X
+EVTNAME520;Ã»±ØÒª¼ÌÐøÕ½ÕùÁË;;;;;;;;;;X
+EVTDESC520;¿¹Õ½µÄÊ§°ÜÊ¹ÎÒÃÇ±ðÎÞÑ¡Ôñ£¬Ö»ÄÜ¸îÈÃÎÒ¹úµÄÕû¸öÑØº£µØÇø¡£Ò²ÐíÓÐÒ»ÌìÎÒÃÇÄÜ¹â¸´ºÓÉ½£¬µ«ÏÖÔÚÎÒÃÇÖ»ÄÜÂñÍ·¿à¸É¡£;;;;;;;;;;X
+EVTOPTA520;À´ÈÕ·½³¤£¡;;;;;;;;;;X
+china_war_goal;¶áÈ¡ÖÐ¹úÑØº£µØÇø;;;;;;;;;;X
+china_war_goal_setup;ÖÐ¹úÑØº£µØÇøÓµÓÐÖÐ¹úµÄ´ó²¿·Ö¹¤ÒµºÍÈË¿Ú¡£Ö»ÒªÕÆÎÕÁËÕâÐ©µØÇø£¬ÎÒÃÇ¾ÍÃ»ÓÐ±ØÒªÕ¼ÁìÕû¸ö¹ú¼Ò£¬°ÑÊ±¼äÀË·ÑÔÚÓëÖÐÑëÕþ¸®ºÍ¸÷µØ¾ü·§µÄ²»¶ÏÕ½¶·ÖÐ¡£;;;;;;;;;;X
+AGGRESSION_ON;Õ½Êõ¿ØÖÆ¿ªÆô¡£µ÷½Ú»¬¿éÒÔ¿ØÖÆ¸÷Ê¦²ÉÈ¡µÄÕ½ÊõµÄ¹¥»÷ÐÔ¡£;;;;;;;;;;X
+AGGRESSION_OFF;Õ½Êõ¿ØÖÆ¹Ø±Õ¡£ÉèÖÃ½«È¡¾öÓÚÉÏ¼¶Ö¸»Ó²¿»ò±£³ÖÊÊÖÐ×´Ì¬¡£;;;;;;;;;;X
+AGGRESSION_AGGRESSIVE;¹¥»÷ÐÔ;;;;;;;;;;X
+AGGRESSION_DEFENSIVE;·ÀÓùÐÔ;;;;;;;;;;X
+AGGRESSION_NEUTRAL;ÊÊÖÐ;;;;;;;;;;X
+AGGRESSION_LEVEL;Õâ¸öµÈ¼¶¾ö¶¨ÁË½«ÁìÔÚÕ½¶·ÖÐ²ÉÈ¡ºÎÖÖÕ½Êõ¡£¹¥»÷ÐÔÔ½Ç¿£¬Õ½¶·½øÐÐµÃÔ½¿ì£¬µ«Ò²»áÔì³É¸ü´ó·çÏÕ¡£\nÏÖÔÚµÄ×´Ì¬£º§Y$STATUS$§!;;;;;;;;;;X
+REQLENDTITLE;ÇëÇó¹¤ÒµÔ®Öú;;;;;;;;;;X
+CANCELLENDTITLE;È¡Ïû¹¤ÒµÔ®Öú;;;;;;;;;;X
+BP_TOOL_ICON_INFANTRY;²½±øÍ¼±ê;;;;;;;;;;X
+BP_TOOL_ICON_COMBAT;Õ½¶·Í¼±ê;;;;;;;;;;X
+SWM_STRATEGIC_WARFARE_OVERVIEW;Õ½ÂÔ½çÃæ¸ÅÀÀ;;;;;;;;;;X
