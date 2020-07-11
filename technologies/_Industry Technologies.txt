@@ -48,10 +48,10 @@ agriculture = {
 
 	difficulty = 1
 
-	start_year = 1901
-	first_offset = 1903
-	additional_offset = 2
-	max_level = 24
+	start_year = 1918
+	first_offset = 1932	#2nd model is from 1936
+	additional_offset = 2	#one new every 2 years
+	max_level = 12
 	folder = industry_folder
 }	
 
