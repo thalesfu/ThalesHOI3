@@ -206,7 +206,7 @@ cas_development = 1
 spotting = 1
 amphibious_invasion_craft = 1
 
-oob = "JAP_1895.txt"
+oob = "JAP_1936.txt"
 
 popularity = { 
 	national_socialist = 0
