@@ -1,0 +1,7 @@
+division = {
+	name = "第6装甲师"
+	location = 5586
+	regiment = { type = armor_brigade name = "第6装甲旅" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第38步兵旅“爱尔兰”" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第1禁卫步兵旅" historical_model = 2 }
+	}

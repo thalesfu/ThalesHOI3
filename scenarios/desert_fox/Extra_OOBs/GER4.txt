@@ -1,0 +1,8 @@
+division = 	{
+	expeditionary_owner = GER
+	name = "第164轻装师"
+	location = 5445
+	regiment = { type = motorized_brigade name = "第125摩托化步枪团" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第382摩托化步枪团" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第433摩托化步枪团" historical_model = 2 }
+		}

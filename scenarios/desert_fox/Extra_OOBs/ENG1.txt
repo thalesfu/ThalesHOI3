@@ -1,0 +1,18 @@
+division = {
+	name = "南非第5步兵旅"
+	location = 5586
+	regiment = { type = motorized_brigade name = "南非第5步兵旅" historical_model = 2 }
+		}
+division = 	{
+	name = "印度第4步兵师"
+	location = 5586
+	regiment = { type = infantry_brigade name = "印度第5步兵旅" historical_model = 2 }
+	regiment = { type = infantry_brigade name = "印度第7步兵旅" historical_model = 2 }
+	regiment = { type = infantry_brigade name = "印度第11步兵旅" historical_model = 2 }
+		}
+division = {
+	name = "澳大利亚第7步兵师"
+	location = 5586
+	regiment = { type = infantry_brigade name = "澳大利亚第21步兵旅" historical_model = 2 }
+	regiment = { type = infantry_brigade name = "澳大利亚第25步兵旅" historical_model = 2 }
+	}

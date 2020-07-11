@@ -1,0 +1,7 @@
+division = {
+	name = "第44步兵师“本土”"
+	location = 5586
+	regiment = { type = motorized_brigade name = "第131步兵旅" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第132步兵旅" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第133步兵旅" historical_model = 2 }
+	}

@@ -1,0 +1,86 @@
+name = "SCENARIO_OVERLORD"
+desc = "SCENARIO_OVERLORD_DESC"
+icon = "GFX_select_overlord"
+startdate = 1944.6.1
+enddate = 1945.1.1
+
+camera_height = 250
+camera_center = { x = 2786 y = 1657 } #Paris
+camera_max_x = 2909
+camera_max_y = 1775
+camera_min_x = 2640
+camera_min_y = 1570
+
+
+victory_conditions = "scenarios/Operation_Overlord/faction_aims.txt"
+victory_conditions_to_win = 5
+number_of_victory_conditions = 6
+events = "scenarios/Operation_Overlord/events.txt"
+
+reinforcement = 50
+
+# will load any history files with scenarios/scenario_name/<tag>.txt
+selectable_country = USA
+country = ENG
+country = GER
+country = AST
+country = SAF
+country = FRA
+country = LUX
+country = BEL
+country = HOL
+country = IRE
+
+
+# visible provinces & regions
+provinces = {
+	7938 
+	2429
+	1386
+	
+	# water
+	10552
+	11428
+	10551
+	10538
+	10537
+	10536
+	14150
+	10535
+	10533
+	11412
+	10534
+	11413
+	11420
+	10547
+	11419
+	11425
+	10548
+}
+
+regions = {
+	northern_france_region
+	belgium_region
+	the_netherlands_region	
+	west_germany_region
+	uk_north_wales
+	uk_south_wales
+	uk_cornwall
+	uk_bristol
+	uk_dorset
+	uk_oxford
+	uk_kent
+	uk_london
+	uk_cambridge
+	uk_east_anglia
+	uk_lincoln
+	uk_west_midlands
+	uk_east_midlands
+	uk_liverpool
+	uk_hull
+	uk_belfast
+	uk_armagh
+	ireland_longford
+	ireland_dublin
+	ireland_wexford
+}

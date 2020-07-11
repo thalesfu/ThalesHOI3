@@ -1,0 +1,92 @@
+##############
+# AXIS
+##############
+axis = {
+	SCControl_Singapore = {
+		trigger = {
+			6394 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+		primary = yes
+	}
+	SCControl_Semarang = {
+		trigger = {
+			6525 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+		primary = yes
+	}
+	SCControl_Manilla = {
+		trigger = {
+			6142= {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+		primary = yes
+	}
+	SCControl_HongKong = {
+		trigger = {
+			5868 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+		primary = yes
+	}
+}
+
+##############
+# ALLIES
+##############
+allies = {
+	SCControl_Semarang2 = {
+		trigger = {
+			6525 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+		primary = yes
+	}
+	SCControl_Manilla2 = {
+		trigger = {
+			6142= {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+		primary = yes
+	}
+	SCControl_Saigon = {
+		trigger = {
+			6236 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+		primary = yes
+	}
+	SCControl_Guam = {
+		trigger = {
+			6119 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+		primary = yes
+	}
+	
+}

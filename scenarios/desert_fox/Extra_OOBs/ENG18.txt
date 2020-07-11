@@ -1,0 +1,5 @@
+division = {
+	name = "第18步兵旅“爱尔兰”"
+	location = 5412
+	regiment = { type = motorized_brigade name = "第18步兵旅“爱尔兰”" historical_model = 2 }
+	}

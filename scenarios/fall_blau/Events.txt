@@ -1,0 +1,182 @@
+#####################
+#  Reserves activation - Tank Armies (SOV)
+#####################
+country_event = {
+	
+	id = 1
+	fire_only_once = yes
+	trigger = {
+		tag = SOV
+		date = 1942.7.3
+		controls = 2068
+		}
+
+	mean_time_to_happen =  {
+		months = 1
+		
+		modifier = {
+			factor = 0.1
+			tag = SOV
+		}
+	}
+
+	title = "FBEVTNAME1"
+	desc = "FBEVTDESC1"
+	picture = "tannu_tuva"
+
+	option = {
+		name = "FBEVTOPTA1"
+		load_oob = "scenarios\Fall_blau\Extra_OOBs\FBSOV1.txt"
+	}
+}
+#####################
+#  Reserves activation - Trans. Kavk. Front (SOV)
+#####################
+country_event = {
+	
+	id = 2
+	fire_only_once = yes
+	trigger = {
+		tag = SOV
+		date = 1942.7.3
+		OR = {
+ 				NOT = {controls = 3581 } # Sevastopol
+				NOT = {controls = 2913 } #Rostov
+				NOT = {controls = 1941 } #Orel
+			}
+		}
+
+	mean_time_to_happen =  {
+		months = 2
+	}
+
+	title = "FBEVTNAME1"
+	desc = "FBEVTDESC2"
+	picture = "tannu_tuva"
+
+	option = {
+		name = "FBEVTOPTA1"
+			load_oob = "scenarios\Fall_blau\Extra_OOBs\FBSOV2.txt"
+			clr_country_flag = disorganized_soviets
+	}
+}
+
+#####################
+# Reserves activation - STAVKA (SOV)
+#####################
+country_event = {
+	
+	id = 3
+	fire_only_once = yes
+	trigger = {
+		tag = SOV
+		date = 1942.6.28
+		OR = {
+ 				NOT = {controls = 3581 } # Sevastopol
+				NOT = {controls = 2847 }
+				NOT = {controls = 2781 }
+				NOT = {controls = 2716 }
+				NOT = {controls = 2585 }
+				NOT = {controls = 2462 }
+				NOT = {controls = 2403 }
+				NOT = {controls = 2345 }
+				NOT = {controls = 2287 }
+				NOT = {controls = 2230 }
+				NOT = {controls = 2171 }
+				NOT = {controls = 2055 }
+				NOT = {controls = 1997 }
+				NOT = {controls = 1941 }
+				NOT = {controls = 1881 }
+				NOT = {controls = 1761 }
+			}
+		}
+
+	mean_time_to_happen =  {
+		months = 3
+	}
+
+	title = "FBEVTNAME1"
+	desc = "FBEVTDESC3"
+	picture = "tannu_tuva"
+
+	option = {
+		name = "FBEVTOPTA1"
+			load_oob = "scenarios\Fall_blau\Extra_OOBs\FBSOV3.txt"
+	}
+}
+
+#####################
+# Reserves activation - STAVKA Air Reserve (SOV)
+#####################
+country_event = {
+	
+	id = 4
+	fire_only_once = yes
+	trigger = {
+		tag = SOV
+		date = 1942.6.28
+		OR = {
+ 				NOT = {controls = 3581 } # Sevastopol
+				NOT = {controls = 2847 }
+				NOT = {controls = 2781 }
+				NOT = {controls = 2716 }
+				NOT = {controls = 2585 }
+				NOT = {controls = 2462 }
+				NOT = {controls = 2403 }
+				NOT = {controls = 2345 }
+				NOT = {controls = 2287 }
+				NOT = {controls = 2230 }
+				NOT = {controls = 2171 }
+				NOT = {controls = 2055 }
+				NOT = {controls = 1997 }
+				NOT = {controls = 1941 }
+				NOT = {controls = 1881 }
+				NOT = {controls = 1761 }
+			}
+		}
+
+	mean_time_to_happen =  {
+		months = 2
+	}
+
+	title = "FBEVTNAME1"
+	desc = "FBEVTDESC4"
+	picture = "tannu_tuva"
+
+	option = {
+		name = "FBEVTOPTA1"
+				load_oob = "scenarios\Fall_blau\Extra_OOBs\FBSOV4.txt"
+	}
+}
+
+#########################################################################
+#  Reserves activation - OKH (GER)
+#########################################################################
+country_event = {
+	
+	id = 5
+	fire_only_once = yes
+	trigger = {
+		tag = GER
+		date = 1942.7.20
+		controls = 2223
+		}
+
+	mean_time_to_happen =  {
+		months = 1
+		
+		modifier = {
+			factor = 0.1
+			tag = GER
+		}
+	}
+
+	title = "FBEVTNAME1"
+	desc = "FBEVTDESC5"
+	picture = "eastern3"
+
+	option = {
+		name = "FBEVTOPTA5"
+		load_oob = "scenarios\Fall_blau\Extra_OOBs\FBGER1.txt"
+	}
+}

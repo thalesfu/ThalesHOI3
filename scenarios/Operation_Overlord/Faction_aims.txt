@@ -1,0 +1,142 @@
+##############
+# Axis
+##############
+axis = {
+	OOHold_Paris = {
+		trigger = {
+			2613 = {
+				controller = {
+					faction = axis
+				}
+			}
+			date = 1944.8.25
+		}
+		primary = yes
+	}
+	
+	OOHold_Lille = {
+		trigger = {
+			2309 = {
+				controller = {
+					faction = axis
+				}
+			}
+			date = 1944.9.10
+		}
+		primary = yes
+	}
+	
+	OOHold_Cherbourg = {
+		trigger = {
+			2422 = {
+				controller = {
+					faction = axis
+				}
+			}
+			date = 1944.7.1
+		}
+		primary = yes
+	}
+	
+	OOHold_Brest = {
+		trigger = {
+			2605 = {
+				controller = {
+					faction = axis
+				}
+			}
+			date = 1944.9.1
+		}
+		primary = yes
+	}
+	
+	OOHold_Nantes = {
+		trigger = {
+			2870 = {
+				controller = {
+					faction = axis
+				}
+			}
+			date = 1944.9.1
+		}
+		primary = yes
+	}
+	
+	OOUSA_defeated = {
+		trigger = {
+			not = { USA = { total_amount_of_brigades = 25 } }
+		}
+		primary = yes
+	}
+	
+}
+
+##############
+# ALLIES
+##############
+allies = {
+	OOCapture_Paris = {
+		trigger = {
+			2613 = {
+				controller = {
+					faction = allies
+				}
+			}			
+		}
+		primary = yes
+	}
+	
+	OOCapture_Lille = {
+		trigger = {
+			2309 = {
+				controller = {
+					faction = allies
+				}
+			}
+			
+		}
+		primary = yes
+	}
+	
+	OOCapture_Cherbourg = {
+		trigger = {
+			2422 = {
+				controller = {
+					faction = allies
+				}
+			}
+			
+		}
+		primary = yes
+	}
+	
+	OOCapture_Brest = {
+		trigger = {
+			2605 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+		primary = yes
+	}
+	
+	OOCapture_Nantes = {
+		trigger = {
+			2870 = {
+				controller = {
+					faction = allies
+				}
+			}
+		}
+		primary = yes
+	}
+	
+	OOGER_defeated = {
+		trigger = {
+			not = { GER = { total_amount_of_brigades = 30 } }
+		}
+		primary = yes
+	}
+	
+}

@@ -1,0 +1,200 @@
+	army = {
+		expeditionary_owner = PHI
+		name = "菲律宾军" 
+		location = 6142 # Manilla
+		regiment = { type = hq_brigade name = "菲律宾军指挥部" historical_model = 0 }
+		corps = {
+			expeditionary_owner = PHI
+			name = "北吕宋军"
+			location = 6124 # Clark Field
+			regiment = { type = hq_brigade name = "北吕宋军指挥部" historical_model = 0 }
+			division= {
+				expeditionary_owner = PHI
+				name = "第11旅"
+				location = 6124 # Clark Field
+				regiment = { type = militia_brigade name = "第11步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第12步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第13步兵团" historical_model = 0 }
+			}
+			division= {
+				expeditionary_owner = PHI
+				name = "第21旅"
+				location = 6124 # Clark Field
+				regiment = { type = militia_brigade name = "第21步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第22步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第23步兵团" historical_model = 0 }
+			}
+			division= {
+				expeditionary_owner = PHI
+				name = "第31旅"
+				location = 6124 # Clark Field
+				regiment = { type = militia_brigade name = "第31步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第32步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第33步兵团" historical_model = 0 }
+			}
+			division= {
+				expeditionary_owner = PHI
+				name = "第26装甲兵“菲律宾侦搜队”"
+				location = 6124 # Clark Field
+				regiment = { type = motorized_brigade name = "第26装甲兵“菲律宾侦搜队”" historical_model = 0 }
+				regiment = { type = light_armor_brigade name = "第1临时部队" historical_model = 0 }
+			}
+		}
+		corps = {
+			expeditionary_owner = PHI
+			name = "南吕宋军"
+			location = 6142 # Manilla
+			regiment = { type = hq_brigade name = "南吕宋军指挥部" historical_model = 0 }
+			division= {
+				expeditionary_owner = PHI
+				name = "第1旅"
+				location = 6142 # Manilla
+				regiment = { type = infantry_brigade name = "第1步兵团" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "第2步兵团" historical_model = 0 }
+				regiment = { type = infantry_brigade name = "第3步兵团" historical_model = 0 }
+			}
+			division= {
+				expeditionary_owner = PHI
+				name = "第41旅"
+				location = 6154 # Polilio
+				regiment = { type = militia_brigade name = "第41步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第42步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第43步兵团" historical_model = 0 }
+			}
+			division= {
+				expeditionary_owner = PHI
+				name = "第51旅"
+				location = 6181 # Legaspi
+				regiment = { type = militia_brigade name = "第51步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第52步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第53步兵团" historical_model = 0 }
+			}
+			division= {
+				expeditionary_owner = PHI
+				name = "第71旅"
+				location = 6142 # Manilla
+				regiment = { type = militia_brigade name = "第71步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第72步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第73步兵团" historical_model = 0 }
+			}
+		}
+		corps = {
+			expeditionary_owner = PHI
+			name = "米沙鄢—棉兰老岛军"
+			location = 6254 # Cebu
+			regiment = { type = hq_brigade name = "米沙鄢—棉兰老岛军指挥部" historical_model = 0 }
+			division= {
+				expeditionary_owner = PHI
+				name = "第61旅"
+				location = 6254 # Cebu
+				regiment = { type = militia_brigade name = "第61步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第62步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第63步兵团" historical_model = 0 }
+				}
+			division= {
+				expeditionary_owner = PHI
+				name = "第81旅"
+				location = 6326 # Davao
+				regiment = { type = militia_brigade name = "第81步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第82步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第83步兵团" historical_model = 0 }
+				}
+			division= {
+				expeditionary_owner = PHI
+				name = "第101旅"
+				location = 6326 # Davao
+				regiment = { type = militia_brigade name = "第101步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第102步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第103步兵团" historical_model = 0 }
+				}
+			}
+		corps = {
+			expeditionary_owner = PHI
+			name = "后备军"
+			location = 6142 # Manilla
+			regiment = { type = hq_brigade name = "后备军指挥部" historical_model = 0 }
+			division= {
+				expeditionary_owner = PHI
+				name = "第91旅"
+				location = 6142 # Manilla
+				regiment = { type = militia_brigade name = "第91步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第92步兵团" historical_model = 0 }
+				regiment = { type = militia_brigade name = "第93步兵团" historical_model = 0 }
+			}
+		}
+	}
+	division = {
+		name = "舰队海军陆战队菲律宾支队"
+		location = 6131
+		regiment = { type = marine_brigade name = "第4海军陆战团“最早最光荣”" historical_model = 1 }
+	}
+	army = {
+		name = "美国陆军远东部队"
+		location = 6142
+		leader = 60250 # MacArthur
+		regiment = { type = hq_brigade name = "美国陆军远东部队指挥部" historical_model = 0 }
+		division = {
+			name = "菲律宾部队"
+			location = 6142
+			regiment = { type = infantry_brigade name = "第31步兵团" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "第45步兵团" historical_model = 1 }
+			regiment = { type = infantry_brigade name = "第57步兵团" historical_model = 1 }
+		}
+	}
+	
+
+division= {
+	name = "凤凰岛旅"
+	location = 10670
+	regiment = { type = garrison_brigade name = "凤凰岛步兵团" historical_model = 0 }
+}
+air = {
+	name = "远东空军"
+	base = 6142
+	location = 6142
+	leader = 60489 #Brereton
+	wing = { type = strategic_bomber name = "第5轰炸机司令部" historical_model = 1 }
+	wing = { type = interceptor name = "第5截击机司令部" historical_model = 2 }
+}
+
+air = {
+	name = "亚洲巡逻支队"
+	base = 6142 
+	location = 6142
+	wing = { type = naval_bomber name = "亚洲巡逻联队" historical_model = 0 }
+}
+
+navy = {
+	name = "亚洲第20潜艇中队"
+	base = 6142
+	location = 6142 # Luzon
+	ship = { type = submarine name = "第21潜艇分队" historical_model = 1 }
+	ship = { type = submarine name = "第22潜艇分队" historical_model = 1 }
+	ship = { type = submarine name = "第201潜艇分队" historical_model = 1 }
+	ship = { type = submarine name = "第202潜艇分队" historical_model = 1 }
+	ship = { type = submarine name = "第203潜艇分队" historical_model = 1 }
+}
+navy = {
+	name = "亚洲巡洋舰分队"
+	base = 6142
+	location = 6142
+	ship = { type = heavy_cruiser name = "美国海军“休斯敦”号" historical_model = 0 }
+	ship = { type = light_cruiser name = "美国海军“马博黑德”号" historical_model = 0 }
+}
+navy = {
+	name = "第29驱逐舰中队" # Asiatic Fleet
+	base = 6142
+	location = 6142 #Manila
+	ship = { type = destroyer name = "第57驱逐舰支队" historical_model = 1 }
+	ship = { type = destroyer name = "第58驱逐舰支队" historical_model = 1 }
+	ship = { type = destroyer name = "第59驱逐舰支队" historical_model = 1 }
+}
+
+navy = {
+	name = "太平洋运输舰队"
+	base = 6326
+	location = 6326
+	ship = { type = transport_ship name = "“查尔斯·古德伊尔”船队" historical_model = 0 }
+	ship = { type = transport_ship name = "“安东尼韦恩”船队" historical_model = 0 }
+	ship = { type = transport_ship name = "“约翰·汉考克”船队" historical_model = 0 }
+}

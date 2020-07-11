@@ -1,0 +1,6 @@
+division = 	{
+	expeditionary_owner = GER
+	name = "諾蔥轂條藏※濘譟親§"
+	location = 5445
+	regiment = { type = paratrooper_brigade name = "諾蔥轂條藏※濘譟親§" historical_model = 2 }
+		}

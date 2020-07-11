@@ -1,0 +1,82 @@
+##############
+# AXIS
+##############
+axis = {
+	DFAxis_win = {
+		trigger = {
+			5586 = {
+				controller = {
+					faction = axis
+				}
+			}
+					}
+		primary = yes
+	}
+	DFCross_the_suez = {
+		trigger = {
+			5589 = {
+				controller = {
+					faction = axis
+				}
+			}
+					}
+		primary = yes
+	}
+}
+
+##############
+# ALLIES
+##############
+allies = {
+	DFAllied_win = {
+		trigger = {
+			#ENG
+			5445 = {
+				controller = {
+					faction = allies
+				}
+			}
+			NOT = {date = 1942.10.1}
+					}
+		primary = yes
+	}
+	DFAllied_win2 = {
+		trigger = {
+			#ENG
+			5445 = {
+				controller = {
+					faction = allies
+				}
+			}
+			NOT = {date = 1942.10.1}
+					}
+		primary = yes
+	}
+	DFAllied_win3 = {
+		trigger = {
+			#ENG
+			5445 = {
+				controller = {
+					faction = allies
+				}
+			}
+			date = 1942.10.1
+					}
+		primary = yes
+	}
+	DFAllied_win4 = {
+		trigger = {
+			#ENG
+			5134 = {
+				controller = {
+					faction = allies
+				}
+			}
+			date = 1942.10.1
+					}
+		primary = yes
+	}
+	
+}
+	
+}

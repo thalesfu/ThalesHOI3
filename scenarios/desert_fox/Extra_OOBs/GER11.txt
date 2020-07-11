@@ -1,0 +1,7 @@
+	air = {
+	expeditionary_owner = GER
+	name = "第100轰炸机联队"
+	base = 5445
+	location = 5445
+	wing = { type = tactical_bomber name = "第100轰炸机联队" historical_model = 1 }
+	}

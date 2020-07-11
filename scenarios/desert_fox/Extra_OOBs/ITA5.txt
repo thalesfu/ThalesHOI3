@@ -1,0 +1,7 @@
+division = 	{
+	name = "第185“闪电”步兵师"
+	location = 5445
+	regiment = { type = paratrooper_brigade name = "第186“闪电”步兵团" historical_model = 2 }
+	regiment = { type = paratrooper_brigade name = "第187“闪电”步兵团" historical_model = 2 }
+
+		}

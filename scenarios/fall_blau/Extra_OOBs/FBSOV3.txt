@@ -1,0 +1,190 @@
+	division= {
+			name = "第87步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第187步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第199步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第49步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第231步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第296步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第147步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第181步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第184步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第87步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第192步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = light_armor_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第196步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第301步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第308步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = light_armor_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第126步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第127步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第135步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = artillery_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第197步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第203步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = artillery_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第139步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第145步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第146步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = artillery_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第258步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第306步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = anti_tank_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第33近卫步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = sp_rct_artillery_brigade historical_model = 2 }
+			}
+	division= {
+			name = "第14近卫步兵师"
+			location = 2068 
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = sp_rct_artillery_brigade historical_model = 2 }
+			}

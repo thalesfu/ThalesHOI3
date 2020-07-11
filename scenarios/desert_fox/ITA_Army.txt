@@ -1,0 +1,131 @@
+theatre = {
+	name = "非洲最高司令部"
+	location = 5445
+	leader = 6077 # Gariboldi
+	regiment = { type = hq_brigade name = "非洲最高司令部" historical_model = 0 }
+	armygroup= {
+		name = "利比亚集群"
+		location = 5506
+		leader = 6077 # Gariboldi
+		regiment = { type = hq_brigade name = "利比亚集群指挥部" historical_model = 0 }
+		army = {
+			expeditionary_owner = GER
+			name = "非洲装甲军团"
+			location = 5506
+			leader = 230 # Rommel
+			regiment = { type = hq_brigade name = "非洲装甲军团指挥部" historical_model = 0 }
+			corps = {
+				expeditionary_owner = GER
+				name = "德国非洲军团"
+				location = 5506
+				leader = 43 # Cr黽ell
+				regiment = { type = hq_brigade name = "德国非洲军团指挥部" historical_model = 0 }		
+				division= {
+					expeditionary_owner = GER
+					name = "第15装甲师"
+					location = 5506
+					leader = 331 # von Prittwitz und Gaffron
+					regiment = { type = armor_brigade name = "第8装甲团" historical_model = 2 }
+					regiment = { type = motorized_brigade name = "第115步枪团" historical_model = 1 }
+				}
+				division= {
+					expeditionary_owner = GER
+					name = "第5轻装甲师"
+					location = 5506
+					leader = 37 # B鰐tcher
+					regiment = { type = armor_brigade name = "第5装甲团" historical_model = 2 }
+					regiment = { type = motorized_brigade name = "第104步枪团" historical_model = 1 }
+				}
+			}
+			corps = {
+				name = "第21军团"
+				location = 5552
+				leader = 6267 # Navarini
+				regiment = { type = hq_brigade name = "第21军团指挥部" historical_model = 0 }
+				division= {
+					name = "第27师“布雷西亚”"
+					location = 5552
+					leader = 6030 # Brunetti
+					regiment = { type = motorized_brigade name = "第19步兵团" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "第20步兵团" historical_model = 2 }
+				}
+				division= {
+					name = "第25师“博洛尼亚”"
+					location = 5552
+					leader = 6097 # Marghinotti
+					regiment = { type = motorized_brigade name = "第39步兵团" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "第40步兵团" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "第20军团"
+				location = 5506
+				leader = 6074 # Gambara
+				regiment = { type = hq_brigade name = "第20军团指挥部" historical_model = 0 }
+				division= {
+					name = "第17师“帕维亚”"
+					location = 5506
+					regiment = { type = motorized_brigade name = "第27步兵团" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "第28步兵团" historical_model = 2 }
+				}
+			}
+		} 
+		army = {
+			name = "第5军"
+			location = 5506 # 
+			leader = 6035 # Caracciolo di Feroleto
+			regiment = { type = hq_brigade name = "第5军指挥部" historical_model = 0 }
+			corps = {
+				name = "第10军团"
+				location = 5552 # 
+				leader = 6019 # Barbieri
+				regiment = { type = hq_brigade name = "第10军团指挥部" historical_model = 0 }
+				division= {
+					name = "第55师“萨沃纳”"
+					location = 5552 # 
+					leader = 6240 # Giorgis
+					regiment = { type = motorized_brigade name = "第15步兵团" historical_model = 1 }
+					regiment = { type = infantry_brigade name = "第16步兵团" historical_model = 2 }
+				}
+				division= {
+				name = "第132师“阿里亚特”"
+				location = 5552
+				regiment = { type = light_armor_brigade name = "第32装甲团" historical_model = 0 }
+				regiment = { type = armor_brigade name = "第132装甲团" historical_model = 0 }
+				regiment = { type = motorized_brigade name = "第8狙击兵团" historical_model = 1 }
+				}
+		  	}
+	}
+	division= {
+				name = "的黎波里基地守备部队"
+				location = 5445
+				regiment = { type = garrison_brigade name = "第1守备团" historical_model = 0 }
+				regiment = { type = garrison_brigade name = "第2守备团" historical_model = 0 }
+		}
+	air = {
+	name = "第1航空队"
+	base = 5445
+	location = 5445
+	wing = { type = interceptor name = "战斗机联队" historical_model = 1 }
+	wing = { type = cas name = "空中突击联队" historical_model = 1 }
+	}
+	air = {
+	name = "利比亚空军司令部"
+	base = 5445
+	location = 5445
+	wing = { type = tactical_bomber name = "轰炸机联队" historical_model = 2 }
+	wing = { type = tactical_bomber name = "轰炸机联队" historical_model = 1 }
+	wing = { type = tactical_bomber name = "轰炸机联队" historical_model = 1 }
+	wing = { type = tactical_bomber name = "轰炸机联队" historical_model = 1 }
+	}
+	air = {
+	expeditionary_owner = GER
+	leader = 460
+	name = "非洲航空军"
+	base = 5506
+	location = 5506
+	wing = { type = interceptor name = "战斗机联队" historical_model = 3 }
+	wing = { type = cas name = "俯冲轰炸机联队" historical_model = 2 }
+	wing = { type = tactical_bomber name = "第1训练航空团" historical_model = 2 }
+	}
+}

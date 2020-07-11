@@ -1,0 +1,27 @@
+corps = {
+				name = "陆军总司令部后备部队"
+				location = 2223
+				regiment = { type = hq_brigade name = "陆军总司令部后备部队指挥部" historical_model = 0 }
+				division= {
+					name = "步兵师“勃兰登堡”"
+					location = 2223
+					regiment = { type = motorized_brigade experience = 70 name = "步兵团" historical_model = 2 }
+					regiment = { type = motorized_brigade experience = 70 name = "步兵团" historical_model = 2 }
+					regiment = { type = motorized_brigade experience = 70 name = "步兵团" historical_model = 2 }
+					regiment = { type = engineer_brigade experience = 70 historical_model = 2 }
+				}
+				division= {
+					name = "第18步兵师"
+					location = 2223
+					regiment = { type = motorized_brigade experience = 70 name = "步兵团" historical_model = 2 }
+					regiment = { type = motorized_brigade experience = 70 name = "步兵团" historical_model = 2 }
+					regiment = { type = motorized_brigade experience = 70 name = "步兵团" historical_model = 2 }
+				}
+				division= {
+					name = "第6装甲师"
+					location = 2223
+					regiment = { type = armor_brigade experience = 80 name = "装甲团" historical_model = 2 }
+					regiment = { type = motorized_brigade experience = 80 name = "步枪团" historical_model = 1 }
+					regiment = { type = motorized_brigade experience = 80 name = "步枪团" historical_model = 1 }
+				}
+			}

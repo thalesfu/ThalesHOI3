@@ -1,0 +1,8 @@
+division = 	{
+	name = "第101“的里雅斯特”师"
+	location = 5445
+	regiment = { type = motorized_brigade name = "第65“的里雅斯特”步兵团" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第66“的里雅斯特”步兵团" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第9“的里雅斯特”步枪团" historical_model = 2 }
+
+		}

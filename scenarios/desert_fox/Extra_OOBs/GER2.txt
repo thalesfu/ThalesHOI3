@@ -1,0 +1,6 @@
+division = 	{
+	expeditionary_owner = GER
+	name = "装甲掷弹兵团“非洲”"
+	location = 5445
+	regiment = { type = mechanized_brigade name = "装甲掷弹兵团“非洲”" historical_model = 2 }
+		}

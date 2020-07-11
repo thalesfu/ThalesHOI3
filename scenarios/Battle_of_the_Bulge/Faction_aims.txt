@@ -1,0 +1,54 @@
+##############
+# AXIS
+##############
+axis = {
+	BBCapture_Den_Hagg = {
+		trigger = {
+			2022 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+		primary = yes
+	}
+	BBCapture_Calais = {
+		trigger = {
+			2194 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+		primary = yes
+	}
+}
+
+##############
+# ALLIES
+##############
+allies = {
+	BBControl_Den_Hagg2 = {
+		trigger = {
+			2022 = {
+				controller = {
+					faction = allies
+				}
+			}
+		date = 1945.2.1
+		}
+		primary = yes
+	}
+	BBControl_Calais2 = {
+		trigger = {
+			2194 = {
+				controller = {
+					faction = allies
+				}
+			}
+			date = 1945.2.1
+		}
+		primary = yes
+	}
+	
+}

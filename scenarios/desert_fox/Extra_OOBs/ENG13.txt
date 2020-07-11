@@ -1,0 +1,7 @@
+division = {
+	name = "第1步兵师"
+	location = 5586
+	regiment = { type = motorized_brigade name = "第1步兵旅" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第2步兵旅" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第3步兵旅" historical_model = 2 }
+	}

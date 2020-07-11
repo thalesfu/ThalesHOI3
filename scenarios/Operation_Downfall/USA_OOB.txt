@@ -1,0 +1,538 @@
+theatre = {
+	name = "US Army Force Pacific"
+	location = 5654
+	leader = 60250 #MacArthur
+	regiment = { type = hq_brigade name = "US Army Force Pacific HQ" historical_model = 0 }
+	army = {	
+		name = "6th 'Olympic' Army"
+		location = 5654
+		leader = 60233 #Krueger
+		regiment = { type = hq_brigade name = "6th 'Olympic' Army HQ" historical_model = 0 }
+		corps = {
+			name = "I. Corps"
+			location = 5654
+			regiment = { type = hq_brigade name = "I. Corps HQ" historical_model = 0 }
+			division= {				
+				name = "25th infantry Division"
+				location = 5601
+				regiment = { type = infantry_brigade name = "27th Infantry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "35th Infantry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "298th Infantry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "161st Infantry Regiment" historical_model = 5 }
+			}
+			division= {				
+				name = "33rd infantry Division"
+				location = 5601
+				regiment = { type = infantry_brigade name = "123rd Infantry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "130th Infantry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "132nd Infantry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "136th Infantry Regiment" historical_model = 5 }
+			}
+			division= {				
+				name = "41st infantry Division"
+				location = 5601
+				regiment = { type = infantry_brigade name = "162nd Infantry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "143rd Infantry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "186th Infantry Regiment" historical_model = 5 }
+				regiment = { type = artillery_brigade name = "41st Division Artillery" historical_model = 5 }
+			}
+		}
+		corps = {
+			name = "IX. Corps"
+			location = 5654
+			regiment = { type = hq_brigade name = "IX. Corps HQ" historical_model = 0 }
+			division= {				
+				name = "81st infantry Division"
+				location = 5624
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+			}
+			division= {				
+				name = "98th infantry Division"
+				location = 5624
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+			}
+		}
+		corps = {
+			name = "XI. Corps"
+			location = 5654
+			regiment = { type = hq_brigade name = "XI. Corps HQ" historical_model = 0 }
+			division= {				
+				name = "1st Cavalry Division"
+				location = 5624
+				regiment = { type = infantry_brigade name = "5th Cavalry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "7th Cavalry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "8th Cavalry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "12th Cavalry Regiment" historical_model = 5 }
+			}
+			division= {				
+				name = "43rd infantry Division"
+				location = 5624
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+			}
+		}
+		corps = {
+			name = "V. Amphibious Corps"
+			location = 5654
+			regiment = { type = hq_brigade name = "V. Amphibious Corps HQ" historical_model = 0 }
+			division= {				
+				name = "3rd Marine Division"
+				location = 5641
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+			}
+			division= {				
+				name = "4th Marine Division"
+				location = 5641
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+			}
+			division= {				
+				name = "5th Marine Division"
+				location = 5641
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+			}
+		}
+		division= {				
+			name = "40th infantry Division"
+			location = 5641
+			regiment = { type = infantry_brigade historical_model = 5 }
+			regiment = { type = infantry_brigade historical_model = 5 }
+			regiment = { type = infantry_brigade historical_model = 5 }
+			regiment = { type = infantry_brigade historical_model = 5 }
+		}
+		division= {				
+			name = "77th infantry Division"
+			location = 5712
+			regiment = { type = infantry_brigade historical_model = 5 }
+			regiment = { type = infantry_brigade historical_model = 5 }
+			regiment = { type = infantry_brigade historical_model = 5 }
+			regiment = { type = infantry_brigade historical_model = 5 }
+		}
+		division= {				
+			name = "11th Airborne Division"
+			location = 5712
+			regiment = { type = paratrooper_brigade historical_model = 5 }
+			regiment = { type = paratrooper_brigade historical_model = 5 }
+			regiment = { type = paratrooper_brigade historical_model = 5 }
+		}
+	}
+	army = {
+		name = "8th 'Coronet' Army"
+		location = 10642
+		leader = 60144 #Eichelberger
+		regiment = { type = hq_brigade name = "8th 'Coronet' Army HQ" historical_model = 0 }
+		corps = {
+			name = "X. Corps"
+			location = 10642
+			regiment = { type = hq_brigade name = "X. Corps HQ" historical_model = 0 }
+			division= {				
+				name = "24th infantry Division"
+				location = 10642
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+			}
+			division= {				
+				name = "31st infantry Division"
+				location = 10642
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+			}
+			division= {				
+				name = "37th infantry Division"
+				location = 10642
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = artillery_brigade historical_model = 5 }
+			}
+		}
+		corps = {
+			name = "XIII. Corps"
+			location = 10642
+			regiment = { type = hq_brigade name = "XIII. Corps HQ" historical_model = 0 }
+			division= {				
+				name = "13th Armored Division"
+				location = 10642
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+			}
+			division= {				
+				name = "20th Armored Division"
+				location = 10642
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+			}
+		}
+		corps = {
+			name = "XIV. Corps"
+			location = 10642
+			regiment = { type = hq_brigade name = "XIV. Corps HQ" historical_model = 0 }
+			division= {				
+				name = "6th Infantry Division"
+				location = 10642
+				regiment = { type = infantry_brigade name = "5th Infantry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "7th Infantry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "8th Infantry Regiment" historical_model = 5 }
+				regiment = { type = infantry_brigade name = "12th Infantry Regiment" historical_model = 5 }
+			}
+			division= {				
+				name = "32nd infantry Division"
+				location = 10642
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+			}
+			division= {				
+				name = "38th infantry Division"
+				location = 10642
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+			}
+		}
+		division= {				
+			name = "97th AFPAC Reserve Division"
+			location = 10642
+			regiment = { type = infantry_brigade historical_model = 5 }
+			regiment = { type = infantry_brigade historical_model = 5 }
+			regiment = { type = infantry_brigade historical_model = 5 }
+			regiment = { type = infantry_brigade historical_model = 5 }
+		}
+	}
+	army = {
+		name = "1st 'Coronet' Army"
+		location = 10642
+		leader = 60217 #Hodges
+		regiment = { type = hq_brigade name = "1st 'Coronet' Army HQ" historical_model = 0 }
+		corps = {
+			name = "III. Amphibious Corps"
+			location = 10642
+			regiment = { type = hq_brigade name = "III. Amphibious Corps HQ" historical_model = 0 }
+			division= {				
+				name = "1st Marine Division"
+				location = 5641
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+			}
+			division= {				
+				name = "2nd Marine Division"
+				location = 10642
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+			}
+			division= {				
+				name = "6th Marine Division"
+				location = 10642
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+				regiment = { type = marine_brigade historical_model = 5 }
+			}
+		}
+		corps = {
+			name = "XXIV. Corps"
+			location = 10642
+			regiment = { type = hq_brigade name = "XXIV. Corps HQ" historical_model = 0 }
+			division= {				
+				name = "7th infantry Division"
+				location = 10642
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+			}
+			division= {				
+				name = "27th infantry Division"
+				location = 10642
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+			}
+			division= {				
+				name = "96th infantry Division"
+				location = 10642
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+				regiment = { type = infantry_brigade historical_model = 5 }
+			}
+		}
+	}
+}
+navy = {
+	name = "Pacific Fleet.1"
+	base = 10642
+	location = 10642
+	ship = { type = carrier name = "USS Hornet" air = { location = 10642 wing = { type = cag historical_model = 4 } } air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = carrier name = "USS Yorktown" air = { location = 10642 wing = { type = cag historical_model = 4 } } air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = escort_carrier name = "USS Independence" air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 1 }
+	ship = { type = heavy_cruiser name = "USS Baltimore" historical_model = 4 }
+	ship = { type = heavy_cruiser name = "USS Boston" historical_model = 4 }
+	ship = { type = heavy_cruiser name = "USS Canberra" historical_model = 4 }
+	ship = { type = light_cruiser name = "USS Oakland" historical_model = 2 }
+	ship = { type = destroyer name = "1st Destroyer Division" historical_model = 2 }
+	ship = { type = destroyer name = "2nd Destroyer Division" historical_model = 2 }
+	ship = { type = destroyer name = "3rd Destroyer Division" historical_model = 2 }
+}
+navy = {
+	name = "Pacific Fleet.2"
+	base = 10642
+	location = 10642
+	ship = { type = carrier name = "USS Bunker Hill" air = { location = 10642 wing = { type = cag historical_model = 4 } } air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = carrier name = "USS Wasp" air = { location = 10642 wing = { type = cag historical_model = 4 } } air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = escort_carrier name = "USS Princeton" air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = escort_carrier name = "USS Belleau Wood" air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = light_cruiser name = "USS Biloxi" historical_model = 4 }
+	ship = { type = light_cruiser name = "USS Mobile" historical_model = 4 }
+	ship = { type = light_cruiser name = "USS San Juan" historical_model = 2 }
+	ship = { type = light_cruiser name = "USS Santa Fe" historical_model = 4 }
+	ship = { type = destroyer name = "4th Destroyer Division" historical_model = 2 }
+	ship = { type = destroyer name = "5th Destroyer Division" historical_model = 2 }
+	ship = { type = destroyer name = "6th Destroyer Division" historical_model = 2 }
+}
+navy = {
+	name = "Pacific Fleet.3"
+	base = 10642
+	location = 10642
+	ship = { type = carrier name = "USS Enterprise" air = { location = 10642 wing = { type = cag historical_model = 2 } } air = { location = 10642 wing = { type = cag historical_model = 2 } } historical_model = 2 }
+	ship = { type = carrier name = "USS Lexington" air = { location = 10642 wing = { type = cag historical_model = 4 } } air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = escort_carrier name = "USS Cowpens" air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = escort_carrier name = "USS Monterey" air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = escort_carrier name = "USS Langley" air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = heavy_cruiser name = "USS Indianapolis" historical_model = 1 }
+	ship = { type = light_cruiser name = "USS Birmingham" historical_model = 4 }
+	ship = { type = light_cruiser name = "USS Cleveland" historical_model = 4 }
+	ship = { type = light_cruiser name = "USS Montpelier" historical_model = 4 }
+	ship = { type = light_cruiser name = "USS Reno" historical_model = 2 }
+	ship = { type = destroyer name = "7th Destroyer Division" historical_model = 2 }
+	ship = { type = destroyer name = "8th Destroyer Division" historical_model = 2 }
+	ship = { type = destroyer name = "9th Destroyer Division" historical_model = 2 }
+}
+navy = {
+	name = "Pacific Fleet.4"
+	base = 10642
+	location = 10642
+	ship = { type = carrier name = "USS Essex" air = { location = 10642 wing = { type = cag historical_model = 4 } } air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = escort_carrier name = "USS Cabot" air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = escort_carrier name = "USS Bataan" air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = escort_carrier name = "USS San Jacinto" air = { location = 10642 wing = { type = cag historical_model = 4 } } historical_model = 4 }
+	ship = { type = light_cruiser name = "USS Houston" historical_model = 4 }
+	ship = { type = light_cruiser name = "USS Miami" historical_model = 4 }
+	ship = { type = light_cruiser name = "USS San Diego" historical_model = 2 }
+	ship = { type = light_cruiser name = "USS Vincennes" historical_model = 4 }
+	ship = { type = destroyer name = "10th Destroyer Division" historical_model = 2 }
+	ship = { type = destroyer name = "11th Destroyer Division" historical_model = 2 }
+	ship = { type = destroyer name = "12th Destroyer Division" historical_model = 2 }
+}
+navy = {
+	name = "Pacific Fleet.5"
+	base = 10642
+	location = 10642
+	ship = { type = battleship name = "USS California" historical_model = 1 }
+	ship = { type = battleship name = "USS Colorado" historical_model = 2 }
+	ship = { type = battleship name = "USS Idaho" historical_model = 1 }
+	ship = { type = battleship name = "USS Maryland" historical_model = 2 }
+	ship = { type = battleship name = "USS New Mexico" historical_model = 1 }
+	ship = { type = battleship name = "USS Pennsylvania" historical_model = 1 }
+	ship = { type = battleship name = "USS Tennessee" historical_model = 1 pride = yes }
+	ship = { type = light_cruiser name = "USS Honolulu" historical_model = 3 }
+	ship = { type = destroyer name = "16th Destroyer Division" historical_model = 2 }
+	ship = { type = destroyer name = "17th Destroyer Division" historical_model = 1 }
+	ship = { type = destroyer name = "18th Destroyer Division" historical_model = 1 }
+}
+navy = {
+	name = "Pacific Fleet.6"
+	base = 10642
+	location = 10642
+	ship = { type = light_cruiser name = "USS St. Louis" historical_model = 3 }
+	ship = { type = destroyer name = "19th Destroyer Division" historical_model = 2 }
+	ship = { type = destroyer name = "20th Destroyer Division" historical_model = 1 }
+	ship = { type = destroyer name = "21st Destroyer Division" historical_model = 1 }
+	ship = { type = destroyer name = "22nd Destroyer Division" historical_model = 1 }
+	ship = { type = destroyer name = "23rd Destroyer Division" historical_model = 0 }
+	ship = { type = destroyer name = "24th Destroyer Division" historical_model = 0 }
+	ship = { type = transport_ship name = "1st Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "2nd Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "3rd Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "4th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "5th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "6th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "50th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "51st Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "52nd Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "53rd Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "54th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "55th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "56th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "57th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "58th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "59th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "60th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "61st Transport Division" historical_model = 0 }
+}
+navy = {
+	name = "Pacific Fleet.7"
+	base = 10642
+	location = 10642
+	ship = { type = battleship name = "USS Alabama" historical_model = 3 }
+	ship = { type = battleship name = "USS Indiana" historical_model = 3 }
+	ship = { type = battleship name = "USS Iowa" historical_model = 4 }
+	ship = { type = battleship name = "USS New Jersey" historical_model = 4 }
+	ship = { type = battleship name = "USS North Carolina" historical_model = 3 }
+	ship = { type = battleship name = "USS South Dakota" historical_model = 3 }
+	ship = { type = battleship name = "USS Washington" historical_model = 3 }
+	ship = { type = heavy_cruiser name = "USS Minneapolis" historical_model = 2 }
+	ship = { type = heavy_cruiser name = "USS New Orleans" historical_model = 2 }
+	ship = { type = heavy_cruiser name = "USS San Francisco" historical_model = 2 }
+	ship = { type = heavy_cruiser name = "USS Wichita" historical_model = 2 }
+	ship = { type = destroyer name = "13th Destroyer Division" historical_model = 2 }
+	ship = { type = destroyer name = "14th Destroyer Division" historical_model = 2 }
+	ship = { type = destroyer name = "15th Destroyer Division" historical_model = 2 }
+}
+navy = {
+	name = "Southwest Pacific Transport Squadron"
+	base = 5641
+	location = 5641
+	ship = { type = destroyer name = "29th Destroyer Division" historical_model = 2 }
+	ship = { type = destroyer name = "30th Destroyer Division" historical_model = 1 }
+	ship = { type = destroyer name = "31st Destroyer Division" historical_model = 3 }
+	ship = { type = transport_ship name = "7th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "8th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "9th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "10th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "11th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "12th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "62nd Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "63rd Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "64th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "65th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "66th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "67th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "68th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "69th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "70th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "71st Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "72nd Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "73rd Transport Division" historical_model = 0 }
+}
+navy = {
+	name = "South Pacific Transport Squadron"
+	base = 5712
+	location = 5712
+	ship = { type = destroyer name = "33rd Destroyer Division" historical_model = 3 }
+	ship = { type = transport_ship name = "13th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "14th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "74th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "75th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "76th Transport Division" historical_model = 0 }
+	ship = { type = transport_ship name = "77th Transport Division" historical_model = 0 }
+}
+air = {
+	name = "1/SWPAF"
+	base = 5720
+	location = 5720
+	wing = { type = multi_role name = "35th USAAF interceptor Wing" historical_model = 1 }
+	wing = { type = tactical_bomber name = "38th USAAF Tactical Bomb. Wing" historical_model = 3 }
+	wing = { type = tactical_bomber name = "345th USAAF Tactical Bomb. Wing" historical_model = 3 }
+}
+air = {
+	name = "2/SWPAF"
+	base = 5720
+	location = 5720
+	wing = { type = multi_role name = "49th USAAF interceptor Wing" historical_model = 1 }
+	wing = { type = strategic_bomber name = "43rd USAAF Strategic Bomb. Wing" historical_model = 1 }
+	wing = { type = strategic_bomber name = "307th USAAF Strategic Bomb. Wing" historical_model = 1 }
+}
+air = {
+	name = "3/SWPAF"
+	base = 5641
+	location = 5641
+	wing = { type = interceptor name = "VMFN 115" historical_model = 4 }
+	wing = { type = cas name = "VMSB 142" historical_model = 2 }
+}
+air = {
+	name = "4/SWPAF"
+	base = 5641
+	location = 5641
+	wing = { type = interceptor name = "VMF 121/211" historical_model = 4 }
+	wing = { type = interceptor name = "VMF 313" historical_model = 4 }
+	wing = { type = tactical_bomber name = "VMB 433/443" historical_model = 3 }
+}
+air = {
+	name = "5/SWPAF"
+	base = 5641
+	location = 5641
+	wing = { type = interceptor name = "VMF 218/222" historical_model = 4 }
+	wing = { type = cas name = "VMSB 133/341" historical_model = 2 }
+	wing = { type = cas name = "VMSB 244/423" historical_model = 2 }
+}
+air = {
+	name = "6/SWPAF"
+	base = 5641
+	location = 5641
+	wing = { type = interceptor name = "VMF 215/223" historical_model = 4 }
+	wing = { type = interceptor name = "VMF 221/315" historical_model = 4 }
+	wing = { type = cas name = "VMB 241/413" historical_model = 2 }
+}
+air = {
+	name = "2/CPAF"
+	base = 10642
+	location = 10642
+	wing = { type = interceptor name = "VMF 111/224" historical_model = 4 }
+	wing = { type = cas name = "VMSB 311/331" historical_model = 2 }
+	wing = { type = cas name = "VMSB 231/245" historical_model = 2 }
+}
+air = {
+	name = "1/CPAF"
+	base = 10642
+	location = 10642
+	wing = { type = interceptor name = "VMF 124/213" historical_model = 4 }
+	wing = { type = cas name = "VMSB " historical_model = 2 }
+}
+air = {
+	name = "3/CPAF"
+	base = 10642
+	location = 10642
+	wing = { type = interceptor name = "VFN 532/534" historical_model = 4 }
+	wing = { type = interceptor name = "VMF 225/321" historical_model = 4 }
+	wing = { type = interceptor name = "VMF 216/217" historical_model = 4 }
+	wing = { type = naval_bomber name = "VMTB 131/242" historical_model = 2 }
+}
+air = {
+	name = "4/CPAF"
+	base = 10642
+	location = 10642
+	wing = { type = interceptor name = "VMF 114/122" historical_model = 4 }
+	wing = { type = interceptor name = "VMB 134/541" historical_model = 4 }
+}

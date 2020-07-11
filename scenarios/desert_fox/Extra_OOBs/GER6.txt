@@ -1,0 +1,6 @@
+division = 	{
+	expeditionary_owner = GER
+	name = "第8坦克团"
+	location = 5445
+	regiment = { type = armor_brigade name = "第8坦克团" historical_model = 3 }
+		}

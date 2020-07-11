@@ -1,0 +1,517 @@
+theatre = {
+	name = "Home Command"
+	location = 1964
+	leader = 1005 #Alanbrooke
+	regiment = { type = hq_brigade name = "Home Command HQ" historical_model = 0 }
+	corps = {
+		name = "I Airborne Corps"
+		location = 1964
+		leader = 1053 #Browning
+		regiment = { type = hq_brigade name = "I Airborne Corps HQ" historical_model = 0 }
+		division = {
+			name = "1st Airborne Division"
+			location = 1964
+			leader = 1300 #Urquhart
+			regiment = { type = paratrooper_brigade name = "1st Airlanding Brigade" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "1st Parachute Brigade" historical_model = 2 }
+			regiment = { type = paratrooper_brigade name = "4th Parachute Brigade" historical_model = 2 }
+		}
+		division = {
+			expeditionary_owner = POL
+			name = "Polish Parachute Brigade"
+			location = 1964
+			leader = 8131 #Sosabowski
+			regiment = { type = paratrooper_brigade name = "Polish Parachute Brigade" historical_model = 2 }
+		}
+	}
+	army = { 
+		name = "Eastern Command"
+		location = 1964
+		regiment = { type = hq_brigade name = "Eastern Command HQ" historical_model = 2 }
+		division= {
+			name = "77th Motorized Infantry Div."
+			location = 1964
+			regiment = { type = motorized_brigade name = "9th Infantry Brigade" historical_model = 3 }
+			regiment = { type = motorized_brigade name = "10th Infantry Brigade" historical_model = 3 }
+			regiment = { type = motorized_brigade name = "12th Infantry Brigade" historical_model = 3 }
+		}
+		division= {
+			expeditionary_owner = POL
+			name = "1st Armoured Division"
+			location = 1964
+			leader = 8075 #Maczek
+			regiment = { type = armor_brigade name = "10th Armoured Cavalry Brigade" historical_model = 3 }
+			regiment = { type = motorized_brigade name = "3rd Rifle Brigade" historical_model = 3 }
+		}
+	}
+	army = {
+		name = "Western Command"
+		location = 1521
+		regiment = { type = hq_brigade name = "Western Command HQ" historical_model = 2 }
+		division= {
+			name = "55th 'West Lancashire' Motorized Div."
+			location = 1521
+			leader = 1078 #Clutterbuck
+			regiment = { type = motorized_brigade name = "164th Infantry Brigade" historical_model = 3 }
+			regiment = { type = motorized_brigade name = "165th Infantry Brigade" historical_model = 3 }
+			regiment = { type = motorized_brigade name = "199th Infantry Brigade" historical_model = 3 }
+		}
+		division= {
+			name = "38th 'Welsh' Motorized Div."
+			location = 1521
+			regiment = { type = motorized_brigade name = "113th Infantry Brigade" historical_model = 3 }
+			regiment = { type = motorized_brigade name = "114th Infantry Brigade" historical_model = 3 }
+			regiment = { type = motorized_brigade name = "115th Infantry Brigade" historical_model = 3 }
+		}
+	}
+	army = {
+		name = "Southern Command"
+		location = 2136
+		regiment = { type = hq_brigade name = "Southern Command HQ" historical_model = 2 }
+		division= {
+			name = "47th 'London' Motorized Infantry Div."
+			location = 2136
+			regiment = { type = motorized_brigade name = "25th Infantry Brigade" historical_model = 3 }
+			regiment = { type = motorized_brigade name = "140th Infantry Brigade" historical_model = 3 }
+			regiment = { type = motorized_brigade name = "141th Infantry Brigade" historical_model = 3 }
+		}
+	}
+	army = {
+		name = "South Eastern Command"
+		location = 2136
+		regiment = { type = hq_brigade name = "South Eastern Command HQ" historical_model = 2 }
+		division= {
+			name = "61st 'South Midland' Motorized Div."
+			location = 2136
+			regiment = { type = motorized_brigade name = "182nd Infantry Brigade" historical_model = 3 }
+			regiment = { type = motorized_brigade name = "183rd Infantry Brigade" historical_model = 3 }
+			regiment = { type = motorized_brigade name = "184th Infantry Brigade" historical_model = 3 }
+		}
+	}
+	division= {
+		name = "45th 'Wessex' Motorized Div."
+		location = 2136
+		regiment = { type = motorized_brigade name = "134th Infantry Brigade" historical_model = 3 }
+		regiment = { type = motorized_brigade name = "135th Infantry Brigade" historical_model = 3 }
+		regiment = { type = motorized_brigade name = "136th Infantry Brigade" historical_model = 3 }
+	}
+	division= {
+		name = "48th 'South Midlands' Motorized Div."
+		location = 2136
+		regiment = { type = motorized_brigade name = "143rd Infantry Brigade" historical_model = 3 }
+		regiment = { type = motorized_brigade name = "144th Infantry Brigade" historical_model = 3 }
+	}
+	division= {
+		is_reserve = yes
+		name = "76th Motorized Infantry Div."
+		location = 2136
+		regiment = { type = motorized_brigade name = "213th Infantry Brigade" historical_model = 3 }
+		regiment = { type = motorized_brigade name = "220th Infantry Brigade" historical_model = 3 }
+		regiment = { type = motorized_brigade name = "222nd Infantry Brigade" historical_model = 3 }
+	}
+	division= {
+		is_reserve = yes
+		name = "80th Motorized Infantry Div."
+		location = 2136
+		regiment = { type = motorized_brigade name = "45th Infantry Brigade" historical_model = 3 }
+		regiment = { type = motorized_brigade name = "211th Infantry Brigade" historical_model = 3 }
+	}
+}
+theatre = {
+	name = "Allied Expeditionary Force"
+	location = 1964
+	leader = 60145 #Eisenhower
+	regiment = { type = hq_brigade name = "Allied Expeditionary Force HQ" historical_model = 0 }
+	armygroup = {
+		name = "21st Army Group"
+		location = 1964
+		leader = 1224 #Montgomery
+		regiment = { type = hq_brigade name = "21st Army Group HQ" historical_model = 2 }
+		army = {
+			expeditionary_owner = CAN
+			name = "Canadian 1st Army"
+			location = 2021
+			leader = 52013 #Crerar
+			regiment = { type = hq_brigade name = "Canadian 1st Army HQ" historical_model = 2 }
+			corps = {
+				expeditionary_owner = CAN
+				name = "Canadian II Corps"
+				location = 2019
+				leader = 52065 #Simonds
+				regiment = { type = hq_brigade name = "Canadian II Corps HQ" historical_model = 0 }
+				division= {
+					expeditionary_owner = CAN
+					name = "2nd Canadian Infantry Div."
+					location = 2019
+					leader = 52019 #Foulkes
+					regiment = { type = motorized_brigade name = "4th Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "5th Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "6th Infantry Brigade" historical_model = 3 }
+				}
+				division= {
+					expeditionary_owner = CAN
+					name = "4th Canadian Armoured Div."
+					location = 2019
+					leader = 52032 #Kitching
+					regiment = { type = armor_brigade name = "4th Armoured Brigade" historical_model = 3 }
+					regiment = { type = armor_brigade name = "The South Alberta Regiment" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "10th Infantry Brigade" historical_model = 3 }
+				}
+			}
+			corps = {
+				name = "XII Corps"
+				location = 2021
+				leader = 1265 #Ritchie
+				regiment = { type = hq_brigade name = "XII Corps HQ" historical_model = 0 }
+				division= {
+					name = "Guards Armoured Division"
+					location = 2021
+					leader = 1000 #Adair
+					regiment = { type = armor_brigade name = "5th Guards Armoured Brigade" historical_model = 3 }
+					regiment = { type = armor_brigade name = "6th Guards Armoured Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "32nd Guards Infantry Brigade" historical_model = 3 }
+				}
+			}
+		}
+		army = {
+			name = "2nd Army HQ"
+			location = 2078
+			leader = 1099 #Dempsey
+			regiment = { type = hq_brigade name = "2nd Army HQ" historical_model = 2 }
+			corps = {
+				name = "I Corps"
+				location = 2078
+				leader = 1085 #Crocker
+				regiment = { type = hq_brigade name = "I Corps HQ" historical_model = 0 }
+				division= {
+					expeditionary_owner = CAN
+					name = "3rd Canadian Infantry Div."
+					location = 2078
+					leader = 52031 #Keller
+					regiment = { type = motorized_brigade name = "7th Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "8th Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "9th Infantry Brigade" historical_model = 3 }
+				}
+				division= {
+					name = "3rd Motorized Infantry Div."
+					location = 2078
+					leader = 1262 #Rennie
+					regiment = { type = armor_brigade name = "27th Armoured Brigade" historical_model = 2 }
+					regiment = { type = motorized_brigade name = "8th Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "9th Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "185th Infantry Brigade" historical_model = 3 }
+				}
+				division = {
+					name = "6th Airborne Division"
+					location = 2078
+					leader = 1131 #Gale
+					regiment = { type = paratrooper_brigade name = "6th Airlanding Brigade" historical_model = 3 }
+					regiment = { type = paratrooper_brigade name = "3rd Parachute Brigade" historical_model = 3 }
+					regiment = { type = paratrooper_brigade name = "5th Parachute Brigade" historical_model = 3 }
+				}
+				division= {
+					name = "51st 'Highland' Motorized Div."
+					location = 2078
+					leader = 1056 #Bullen-Smith
+					regiment = { type = motorized_brigade name = "152nd Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "153rd Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "154th Infantry Brigade" historical_model = 3 }
+				}
+			}
+			corps = {
+				name = "XXX Corps"
+				location = 2078
+				leader = 1055 #Bucknall
+				regiment = { type = hq_brigade name = "XXX Corps HQ" historical_model = 0 }
+				division= {
+					name = "7th Armoured Division"
+					location = 2078
+					leader = 1115 #Erskine
+					regiment = { type = armor_brigade name = "22nd Armoured Brigade" historical_model = 3 }
+					regiment = { type = armor_brigade name = "33rd Armoured Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "131st Infantry Brigade" historical_model = 3 }
+				}
+				division= {
+					name = "49th 'West Riding' Motorized Div."
+					location = 2078
+					leader = 1022 #Barker E.H.
+					regiment = { type = motorized_brigade name = "70th Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "146th Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "147th Infantry Brigade" historical_model = 3 }
+				}
+				division= {
+					name = "50th 'Northumbrian' Motorized Div."
+					location = 2078
+					regiment = { type = motorized_brigade name = "69th Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "151st Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "231st Infantry Brigade" historical_model = 3 }
+				}
+				division= {
+					name = "31st Army Tank Brigade"
+					location = 2078 #Caen
+					regiment = { type = heavy_armor_brigade name = "31st Army Tank Brigade" historical_model = 2 }
+				}
+			}
+			corps = {
+				name = "VIII Corps"
+				location = 2021
+				leader = 1237 #O'Connor
+				regiment = { type = hq_brigade name = "VIII Corps HQ" historical_model = 0 }
+				division= {
+					name = "11th Armoured Division"
+					location = 2021
+					leader = 1266 #Roberts
+					regiment = { type = armor_brigade name = "4th Armoured Brigade" historical_model = 3 }
+					regiment = { type = armor_brigade name = "29th Armoured Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "159th Infantry Brigade" historical_model = 3 }
+				}
+				division= {
+					name = "15th 'Scottish' Motorized Div."
+					location = 2021
+					regiment = { type = motorized_brigade name = "44th Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "46th Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "227th Infantry Brigade"historical_model = 3 }
+				}
+				division= {
+					name = "43rd 'Wessex' Motorized Div."
+					location = 2021
+					regiment = { type = motorized_brigade name = "129th Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "130th Infantry Brigade" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "206th Infantry Brigade" historical_model = 3 }
+				}
+			}
+		}		
+	}	
+}
+air = {
+	name = "No.1 Air Command"
+	base = 1964
+	location = 1964
+	wing = { type = multi_role name = "No.610 Squadron" historical_model = 2 }
+}
+air = {
+	name = "10 Group"
+	base = 1964
+	location = 1964
+	wing = { type = multi_role name = "No.126 Squadron" historical_model = 2 }
+	wing = { type = multi_role name = "No.165 Squadron" historical_model = 2 }
+	wing = { type = tactical_bomber name = "No.406 Squadron RCAF " historical_model = 3 }
+	wing = { type = tactical_bomber name = "No.464 Squadron RAAF " historical_model = 3 }
+}
+air = {
+	name = "No.2 Air Command"
+	base = 2021
+	location = 2021
+	wing = { type = tactical_bomber name = "No.219 Squadron" historical_model = 3 }
+	wing = { type = tactical_bomber name = "No.29 Squadron" historical_model = 2 }
+	wing = { type = multi_role name = "No.303 Squadron" historical_model = 2 }
+}
+air = {
+	name = "11 Group"
+	base = 2021
+	location = 2021
+	wing = { type = multi_role name = "No.1 Squadron" historical_model = 2 }
+	wing = { type = multi_role name = "No.64 Squadron" historical_model = 2 }
+	wing = { type = multi_role name = "No.313 Squadron " historical_model = 2 }
+	wing = { type = multi_role name = "No.501 Squadron " historical_model = 2 }
+}
+air = {
+	name = "No.3 Air Command"
+	base = 2078
+	location = 2078
+	wing = { type = multi_role name = "No.245 Squadron" historical_model = 2 }
+	wing = { type = tactical_bomber name = "No.264 Squadron" historical_model = 3 }
+	wing = { type = interceptor name = "No.416 Squadron RCAF" historical_model = 4 }
+	wing = { type = interceptor name = "No.80 Squadron" historical_model = 4 }
+	wing = { type = multi_role name = "No.132 Squadron " historical_model = 2 }
+	wing = { type = multi_role name = "No.183 Squadron" historical_model = 2 }
+	wing = { type = interceptor name = "No.308 Squadron " historical_model = 4 }
+	wing = { type = interceptor name = "No.331 Squadron " historical_model = 4 }
+	wing = { type = multi_role name = "No.332 Squadron " historical_model = 2 }
+	wing = { type = multi_role name = "No.694 Squadron" historical_model = 2 }
+}
+air = {
+	name = "2nd TAF/1"
+	base = 2078
+	location = 2078
+	wing = { type = multi_role name = "No.3 Squadron" historical_model = 2 }
+	wing = { type = multi_role name = "No.33 Squadron" historical_model = 2 }
+	wing = { type = interceptor name = "No.137 Squadron" historical_model = 3 }
+	wing = { type = interceptor name = "No.184 Squadron" historical_model = 4 }
+}
+air = {
+	name = "No.4 Air Command"
+	base = 2021
+	location = 2021
+	wing = { type = interceptor name = "No.441 Squadron RCAF " historical_model = 4 }
+}
+air = {
+	name = "2nd TAF/2"
+	base = 2021
+	location = 2021
+	wing = { type = multi_role name = "No.65 Squadron" historical_model = 2 }
+	wing = { type = multi_role name = "No.181 Squadron" historical_model = 2 }
+	wing = { type = multi_role name = "No.401 Squadron RCAF " historical_model = 2 }
+	wing = { type = interceptor name = "No.412 Squadron RCAF " historical_model = 4 }
+}
+air = {
+	name = "12 Group"
+	base = 1521
+	location = 1521
+	wing = { type = multi_role name = "No.168 Squadron" historical_model = 2 }
+	wing = { type = tactical_bomber name = "No.25 Squadron" historical_model = 2 }
+}
+air = {
+	name = "13th Group"
+	base = 2021
+	location = 2021
+	wing = { type = interceptor name = "No.504 Squadron" historical_model = 4 }
+}
+air = {
+	name = "14th Group"
+	base = 2021
+	location = 2021
+	wing = { type = interceptor name = "No.118 Squadron" historical_model = 2 }
+}
+air = {
+	name = "No.603 Squadron"
+	base = 1521
+	location = 1521
+	wing = { type = interceptor name = "No.603 Squadron " historical_model = 2 }
+}
+air = {
+	name = "No.6 Air Command"
+	base = 2250
+	location = 2250
+	wing = { type = strategic_bomber name = "No.625 Squadron " historical_model = 2 }
+}
+air = {
+	name = "1 Group "
+	base = 2250
+	location = 2250
+	wing = { type = strategic_bomber name = "No.12 Squadron" historical_model = 2 }
+	wing = { type = strategic_bomber name = "No.103 Squadron" historical_model = 2 }
+	wing = { type = strategic_bomber name = "No.300 Squadron" historical_model = 1 }
+	wing = { type = strategic_bomber name = "No.576 Squadron " historical_model = 2 }
+}
+air = {
+	name = "3rd Group"
+	base = 1521
+	location = 1521
+	wing = { type = strategic_bomber name = "No.15 Squadron" historical_model = 1 }
+	wing = { type = strategic_bomber name = "No.115 Squadron" historical_model = 2 }
+	wing = { type = strategic_bomber name = "No.218 Squadron" historical_model = 2 }
+}
+air = {
+	name = "No.7 Air Command"
+	base = 1731
+	location = 1731
+	wing = { type = strategic_bomber name = "No.640 Squadron" historical_model = 1 }
+}
+air = {
+	name = "4th Group"
+	base = 1731
+	location = 1731
+	wing = { type = strategic_bomber name = "No.10 Squadron" historical_model = 2 }
+	wing = { type = strategic_bomber name = "No.76 Squadron" historical_model = 2 }
+	wing = { type = strategic_bomber name = "No.78 Squadron" historical_model = 1 }
+	wing = { type = strategic_bomber name = "No.346 Squadron" historical_model = 2 }
+}
+air = {
+	name = "No.8 Air Command"
+	base = 1567
+	location = 1567
+	wing = { type = strategic_bomber name = "No.467 Squadron" historical_model = 2 }
+	wing = { type = strategic_bomber name = "No.619 Squadron" historical_model = 2 }
+}
+air = {
+	name = "5th Group"
+	base = 1567
+	location = 1567
+	wing = { type = strategic_bomber name = "No.9 Squadron" historical_model = 2 }
+	wing = { type = strategic_bomber name = "No.49 Squadron" historical_model = 2 }
+	wing = { type = strategic_bomber name = "No.61 Squadron" historical_model = 2 }
+	wing = { type = strategic_bomber name = "No.106 Squadron" historical_model = 2 }
+}
+air = {
+	name = "No.9 Air Command"
+	base = 1567
+	location = 1567
+	wing = { type = strategic_bomber name = "No.432 Squadron RCAF" historical_model = 1 }
+}
+air = {
+	name = "6th Group"
+	base = 1567
+	location = 1567
+	wing = { type = strategic_bomber name = "No.408 Squadron RCAF" historical_model = 2 }
+	wing = { type = strategic_bomber name = "No.424 Squadron RCAF" historical_model = 2 }
+	wing = { type = strategic_bomber name = "No.427 Squadron RCAF" historical_model = 1 }
+	wing = { type = strategic_bomber name = "No.429 Squadron RCAF" historical_model = 1 }
+}
+air = {
+	name = "8th Group"
+	base = 1964
+	location = 1964
+	wing = { type = strategic_bomber name = "No.7 Squadron" historical_model = 1 }
+	wing = { type = strategic_bomber name = "No.156 Squadron" historical_model = 2 }
+	wing = { type = strategic_bomber name = "No.582 Squadron" historical_model = 2 }
+	wing = { type = tactical_bomber name = "No.692 Squadron" historical_model = 2 }
+}
+navy = {
+	name = "Reserve Fleet"
+	base = 1341
+	location = 1341
+	ship = { type = escort_carrier name = "HMS Unicorn" air = { location = 1341 wing = { type = cag historical_model = 2 } } historical_model = 2 }
+	ship = { type = battleship name = "HMS Anson" historical_model = 3 }
+	ship = { type = battleship name = "HMS Howe" historical_model = 3 }
+	ship = { type = battleship name = "HMS King George V" historical_model = 3 }
+	ship = { type = battleship name = "HMS Resolution" historical_model = 1 }
+	ship = { type = battleship name = "HMS Revenge" historical_model = 1 }
+	ship = { type = battleship name = "HMS Royal Sovereign" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMS Effingham" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "HMS Norfolk" historical_model = 1 }
+	ship = { type = light_cruiser name = "HMS Cardiff" historical_model = 0 }
+	ship = { type = light_cruiser name = "HMS Capetown" historical_model = 0 }
+	ship = { type = light_cruiser name = "HMS Dauntless" historical_model = 0 }
+	ship = { type = light_cruiser name = "HMS Carlisle" historical_model = 0 }
+	ship = { type = light_cruiser name = "HMS Diomede" historical_model = 0 }
+	ship = { type = light_cruiser name = "HMS Liverpool" historical_model = 3 }
+	ship = { type = light_cruiser name = "HMS Bermuda" historical_model = 3 }
+	ship = { type = light_cruiser name = "HMS Birmingham" historical_model = 3 }
+	ship = { type = light_cruiser name = "HMS Newfoundland" historical_model = 3 }
+	ship = { type = light_cruiser name = "HMS Uganda" historical_model = 3 }
+	ship = { type = light_cruiser name = "HMS Cleopatra" historical_model = 2 }
+	ship = { type = light_cruiser name = "HMS Euryalus" historical_model = 2 }
+	ship = { type = light_cruiser name = "HMS Leander" historical_model = 2 }
+	ship = { type = light_cruiser name = "HMS Bellona" historical_model = 2 }
+	ship = { type = destroyer name = "6th Destroyer Flotilla" historical_model = 2 }
+	ship = { type = destroyer name = "7th Destroyer Flotilla" historical_model = 1 }
+}
+navy = {
+	name = "4th Transport Squadron"
+	base = 2078
+	location = 2078
+	ship = { type = transport_ship name = "Empire Captain Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "Andes Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "Empire Charmain Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "Samoresby Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "1st Transport Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "2nd Transport Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "3rd Transport Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "4th Transport Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "5th Transport Flotilla" historical_model = 0 }
+}
+navy = {
+	name = "6th Transport Squadron"
+	base = 2021
+	location = 2021
+	ship = { type = transport_ship name = "Empire Captain Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "Andes Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "Empire Charmain Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "Samoresby Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "1st Transport Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "2nd Transport Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "3rd Transport Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "4th Transport Flotilla" historical_model = 0 }
+	ship = { type = transport_ship name = "5th Transport Flotilla" historical_model = 0 }
+}

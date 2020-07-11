@@ -1,0 +1,17 @@
+air = {
+	name = "第1后备空军"
+	base = 2068
+	location = 2068
+	wing = { type = multi_role name = "第44战斗航空师" historical_model = 2 }	
+	wing = { type = interceptor name = "第51航空师" historical_model = 2 }	
+	}
+	
+air = {
+	name = "第2后备空军"
+	base = 2068
+	location = 2068
+	wing = { type = cas name = "第44轰炸航空师" historical_model = 2 }
+	wing = { type = cas name = "第47轰炸航空师" historical_model = 2 }
+	wing = { type = cas name = "第53轰炸航空师" historical_model = 2 }
+	wing = { type = tactical_bomber name = "第52远距离轰炸航空师" historical_model = 2 }
+	}

@@ -1,0 +1,9 @@
+division = 	{
+	expeditionary_owner = GER
+	name = "第10装甲师"
+	location = 5445
+	regiment = { type = heavy_armor name = "第7装甲团" historical_model = 3 }
+	regiment = { type = motorized_brigade name = "第69摩托化步兵团" historical_model = 3 }
+	regiment = { type = motorized_brigade name = "第86摩托化步兵团" historical_model = 3 }
+	regiment = { type = mechanized_brigade name = "突击团“赫尔曼·戈林”" historical_model = 3 }
+		}

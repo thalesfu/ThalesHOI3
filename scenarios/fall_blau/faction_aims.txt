@@ -1,0 +1,76 @@
+##############
+# AXIS
+##############
+axis = {
+	FBtake_baki = {
+		trigger = {
+			7307 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+		primary = yes
+	}
+	FBtake_rostov = {
+		trigger = {
+			2913 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+		primary = yes
+	}
+	FBtake_sevastopol = {
+		trigger = {
+			3581 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+		primary = yes
+	}
+}
+
+##############
+# COMINTERN
+##############
+comintern = {
+	FBprotect_stalingrad = {
+		trigger = {
+			2857 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		date = 1942.12.1
+		}
+		primary = yes
+	}
+
+	FBprotect_rostov = {
+		trigger = {
+			2913 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			date = 1942.12.1
+		}
+		primary = yes
+	}
+	FBprotect_sevastopol = {
+		trigger = {
+			3581 = {
+				controller = {
+					faction = comintern
+				}
+			}
+			date = 1942.12.1
+		}
+		primary = yes
+	}
+	
+}

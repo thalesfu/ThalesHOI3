@@ -1,0 +1,6 @@
+	air = {
+	name = "第14战斗机联队“国王”"
+	base = 5445
+	location = 5445
+	wing = { type = interceptor name = "第14战斗机联队“国王”" historical_model = 1 }
+	}

@@ -1,0 +1,97 @@
+division = 	{
+	expeditionary_owner = USA
+	name = "第34师“红公牛”"
+	location = 5412
+	regiment = { type = motorized_brigade name = "第133团级战斗群(第34步兵师)" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第135团级战斗群(第34步兵师)" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第168团级战斗群(第34步兵师)" historical_model = 2 }
+		}
+division = 	{
+	expeditionary_owner = USA
+	name = "第1师“大红一”"
+	location = 5412
+	regiment = { type = motorized_brigade name = "第16团级战斗群(第1步兵师)" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第18团级战斗群(第1步兵师)" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第26团级战斗群(第1步兵师)" historical_model = 2 }
+		}
+division = 	{
+	expeditionary_owner = USA
+	name = "第3师“马恩河”"
+	location = 5412
+	regiment = { type = motorized_brigade name = "第7团级战斗群(第3步兵师)" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第15团级战斗群(第3步兵师)" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第30团级战斗群(第3步兵师)" historical_model = 2 }
+		}
+division = 	{
+	expeditionary_owner = USA
+	name = "第9师“老可靠”"
+	location = 5412
+	regiment = { type = motorized_brigade name = "第39团级战斗群(第9步兵师)" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第47团级战斗群(第9步兵师)" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第60团级战斗群(第9步兵师)" historical_model = 2 }
+		}
+division = 	{
+	expeditionary_owner = USA
+	name = "第1装甲师“老铁甲”"
+	location = 5412
+	regiment = { type = armor_brigade name = "CCA战斗群(第1装甲师)" historical_model = 2 }
+	regiment = { type = armor_brigade name = "CCB战斗群(第1装甲师)" historical_model = 2 }
+	regiment = { type = armor_brigade name = "CCR战斗群(第1装甲师)" historical_model = 2 }
+		}		
+division = 	{
+	expeditionary_owner = USA
+	name = "第2装甲师“活动地狱”"
+	location = 5412
+	regiment = { type = armor_brigade name = "CCA战斗群(第2装甲师)" historical_model = 2 }
+	regiment = { type = armor_brigade name = "CCB战斗群(第2装甲师)" historical_model = 2 }
+	regiment = { type = armor_brigade name = "CCR战斗群(第2装甲师)" historical_model = 2 }
+		}		
+		
+air = {
+	name = "第1战斗机联队"
+	expeditionary_owner = USA
+	base = 5412
+	location = 5412
+	wing = { type = interceptor name = "第1战斗机联队" historical_model = 2 }
+	wing = { type = multi_role name = "第14战斗机联队" historical_model = 2 }
+	wing = { type = multi_role name = "第27战斗机联队" historical_model = 2 }
+	wing = { type = interceptor name = "第33战斗机联队" historical_model = 2 }
+	}
+air = {
+	name = "第2轰炸机联队"
+	expeditionary_owner = USA
+	base = 5412
+	location = 5412
+	wing = { type = tactical_bomber name = "第2轰炸机联队" historical_model = 2 }
+	wing = { type = tactical_bomber name = "第319轰炸机联队" historical_model = 2 }
+	wing = { type = tactical_bomber name = "第17轰炸机联队" historical_model = 2 }
+	wing = { type = tactical_bomber name = "第97轰炸机联队" historical_model = 2 }
+	}
+air = {
+	name = "第60运输机联队"
+	expeditionary_owner = USA
+	base = 5412
+	location = 5412
+	wing = { type = transport_plane name = "第60运输机联队" historical_model = 2 }
+	wing = { type = transport_plane name = "第62运输机联队" historical_model = 2 }
+	}
+air = {
+	name = "第52战斗机联队"
+	expeditionary_owner = USA
+	base = 5412
+	location = 5412
+	wing = { type = interceptor name = "第52战斗机联队" historical_model = 2 }
+	wing = { type = multi_role name = "第86战斗机联队" historical_model = 2 }
+	wing = { type = multi_role name = "第350战斗机联队" historical_model = 2 }
+	wing = { type = interceptor name = "第82战斗机联队" historical_model = 2 }
+	}
+air = {
+	name = "第301轰炸机联队"
+	expeditionary_owner = USA
+	base = 5412
+	location = 5412
+	wing = { type = tactical_bomber name = "第301轰炸机联队" historical_model = 2 }
+	wing = { type = tactical_bomber name = "第320轰炸机联队" historical_model = 2 }
+	wing = { type = tactical_bomber name = "第99轰炸机联队" historical_model = 2 }
+	wing = { type = tactical_bomber name = "第2轰炸机联队" historical_model = 2 }
+	}

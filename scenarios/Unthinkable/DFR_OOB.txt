@@ -1,0 +1,86 @@
+theatre = {
+	name ="陆军总司令部"
+	location = 1972
+	#leader = 
+	regiment = { type = hq_brigade name = "陆军总司令部" historical_model = 0 }
+		armygroup = {
+		name ="第1集群"
+		location = 1972
+		leader = 324 #von Manstein
+		regiment = { type = hq_brigade name = "最高指挥部" historical_model = 0 }
+			army = {
+			name ="第1集团军"
+			location = 1972
+			#leader = 
+			regiment = { type = hq_brigade name = "最高指挥部" historical_model = 0 }
+				corps = {
+				name ="第1军"
+				location = 1972
+				#leader = 
+				regiment = { type = hq_brigade name = "最高指挥部" historical_model = 0 }
+					division= {
+					name = "第89步兵师"
+					location = 1918
+					dig_in = 10
+					regiment = { type = infantry_brigade experience = 50 name = "第208掷弹兵团" historical_model = 4 }
+					regiment = { type = infantry_brigade experience = 50 name = "第212掷弹兵团" historical_model = 2 }
+					regiment = { type = infantry_brigade experience = 50 name = "第226掷弹兵团" historical_model = 2 }
+					}
+					division= {
+						name = "第176步兵师"
+						location = 1918
+						dig_in = 10
+						regiment = { type = infantry_brigade experience = 50 name = "第208掷弹兵团" historical_model = 4 }
+						regiment = { type = infantry_brigade experience = 50 name = "第212掷弹兵团" historical_model = 2 }
+						regiment = { type = infantry_brigade experience = 50 name = "第226掷弹兵团" historical_model = 2 }
+					}
+					division= {
+						name = "第373步兵师"
+						location = 1918
+						dig_in = 10
+						regiment = { type = infantry_brigade experience = 50 name = "第208掷弹兵团" historical_model = 4 }
+						regiment = { type = infantry_brigade experience = 50 name = "第212掷弹兵团" historical_model = 2 }
+						regiment = { type = infantry_brigade experience = 50 name = "第226掷弹兵团" historical_model = 2 }
+					}
+					division= {
+						name = "第387步兵师"
+						location = 1918
+						dig_in = 10
+						regiment = { type = infantry_brigade experience = 50 name = "第208掷弹兵团" historical_model = 4 }
+						regiment = { type = infantry_brigade experience = 50 name = "第212掷弹兵团" historical_model = 2 }
+						regiment = { type = infantry_brigade experience = 50 name = "第226掷弹兵团" historical_model = 2 }
+					}
+				}
+				corps = {
+				name ="第2军"
+				location = 1972
+				#leader = 
+				regiment = { type = hq_brigade name = "最高指挥部" historical_model = 0 }
+					division= {
+						name = "第306步兵师"
+						location = 1973
+						dig_in = 10
+						regiment = { type = infantry_brigade experience = 50 name = "第208掷弹兵团" historical_model = 4 }
+						regiment = { type = infantry_brigade experience = 50 name = "第212掷弹兵团" historical_model = 2 }
+						regiment = { type = infantry_brigade experience = 50 name = "第226掷弹兵团" historical_model = 2 }
+					}
+					division= {
+						name = "第3装甲师"
+						location = 1973
+						dig_in = 10
+						regiment = { type = light_armor_brigade experience = 80 name = "第103装甲团" historical_model = 4 }
+						regiment = { type = mechanized_brigade experience = 80 name = "第8装甲掷弹兵团" historical_model = 2 }
+						regiment = { type = mechanized_brigade experience = 80 name = "第29装甲掷弹兵团" historical_model = 2 }
+					}
+					division= {
+						name = "第4装甲师"
+						location = 1973
+						dig_in = 10
+						regiment = { type = light_armor_brigade experience = 80 name = "第103装甲团" historical_model = 4 }
+						regiment = { type = mechanized_brigade experience = 80 name = "第8装甲掷弹兵团" historical_model = 2 }
+						regiment = { type = mechanized_brigade experience = 80 name = "第29装甲掷弹兵团" historical_model = 2 }
+					}
+				}
+			}
+		}
+	}

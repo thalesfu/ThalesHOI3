@@ -1,0 +1,94 @@
+corps = {
+       	name = "第5坦克集团军"
+       	location = 2068
+       	regiment = { type = hq_brigade name = "第5ya Tankova军指挥部" historical_model = 0 }
+		division= {
+			name = "第2坦克军"
+			location = 2068
+			regiment = { type = armor_brigade name = "坦克团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+		}
+		division= {
+			name = "第7坦克军"
+			location = 2068
+			regiment = { type = armor_brigade name = "坦克团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+		}
+		division= {
+			name = "第11坦克军"
+			location = 2068
+			regiment = { type = armor_brigade name = "坦克团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+		}
+		division= {
+			name = "第340步兵师"
+			location = 2068
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+		}
+	} 
+	
+corps = {
+       	name = "第4坦克集团军"
+       	location = 2857
+       	regiment = { type = hq_brigade name = "第4坦克集团军指挥部" historical_model = 0 }
+		division= {
+			name = "第22坦克军"
+			location = 2857
+			regiment = { type = armor_brigade name = "坦克团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+		}
+		division= {
+			name = "第23坦克军"
+			location = 2857
+			regiment = { type = armor_brigade name = "坦克团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+		}
+		division= {
+			name = "第18步兵师"
+			location = 2857
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+		}
+	} 
+
+corps = {
+       	name = "第1坦克集团军"
+       	location = 1960
+       	regiment = { type = hq_brigade name = "第1坦克集团军指挥部" historical_model = 0 }
+		division= {
+			name = "第13坦克军"
+			location = 1960
+			regiment = { type = armor_brigade name = "坦克团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+		}
+		division= {
+			name = "第28坦克军"
+			location = 1960
+			regiment = { type = armor_brigade name = "坦克团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+			regiment = { type = motorized_brigade name = "摩托化步兵团" historical_model = 2}
+		}
+		division= {
+			name = "第131步兵师"
+			location = 1960
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+		}
+		division= {
+			name = "第399步兵师"
+			location = 1960
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+		}
+	} 

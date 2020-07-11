@@ -1,0 +1,649 @@
+theatre = {
+	name = "Imperial General HQ"
+	location = 5315
+	regiment = { type = hq_brigade name = "Imperial General HQ" historical_model = 0 }
+	army = {
+		name = "North Japan Army HQ"
+		location = 7238
+		regiment = { type = hq_brigade name = "North Japan Army HQ" historical_model = 0 }
+		division= {
+			name = "7. Hoheishidan"
+			location = 7238
+			regiment = { type = infantry_brigade name = "26th Infantry Regiment" historical_model = 4 strength = 85 }
+			regiment = { type = infantry_brigade name = "27th Infantry Regiment" historical_model = 4 strength = 70 }
+			regiment = { type = infantry_brigade name = "28th Infantry Regiment" historical_model = 4 strength = 50 }
+		}
+		division= {
+			name = "57. Hoheishidan"
+			location = 7238
+			regiment = { type = infantry_brigade name = "52nd Infantry Regiment" historical_model = 4 strength = 70 }
+			regiment = { type = infantry_brigade name = "117th Infantry Regiment" historical_model = 4 strength = 85 }
+			regiment = { type = infantry_brigade name = "132nd Infantry Regiment" historical_model = 4 strength = 50 }
+		}
+	}
+	army = {
+		name = "Central Japan Army"
+		location = 5370
+		regiment = { type = hq_brigade name = "Central Japan Army HQ" historical_model = 0 }
+		division= {
+			name = "53. Hoheishidan"
+			location = 5370
+			regiment = { type = infantry_brigade name = "119th Infantry Regiment" historical_model = 4 strength = 50 }
+			regiment = { type = infantry_brigade name = "128th Infantry Regiment" historical_model = 4 strength = 70 }
+			regiment = { type = infantry_brigade name = "151st Infantry Regiment" historical_model = 4 strength = 85 }
+		}
+		division= {
+			name = "3. Depot"
+			location = 5370
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+		}
+		division= {
+			name = "4. Depot"
+			location = 5370
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+		}
+	}
+	army = {
+		name = "West Japan Army"
+		location = 5497
+		regiment = { type = hq_brigade name = "West Japan Army HQ" historical_model = 0 }
+		division= {
+			name = "5. Depot"
+			location = 5497
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+		}
+		division= {
+			name = "6. Depot"
+			location = 5497
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+		}
+		division= {
+			name = "7. Depot"
+			location = 5497
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+		}
+		division= {
+			name = "8. Depot"
+			location = 5497
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+			regiment = { type = infantry_brigade historical_model = 2 }
+		}
+		division= {
+			name = "86. Hoheishidan"
+			location = 5497
+			regiment = { type = infantry_brigade historical_model = 4 strength = 50 }
+			regiment = { type = infantry_brigade historical_model = 4 strength = 85 }
+			regiment = { type = infantry_brigade historical_model = 4 strength = 90 }
+		}
+	}
+	army = {
+		name = "East Japan Army"
+		location = 5315	
+		regiment = { type = hq_brigade name = "East Japan Army HQ" historical_model = 0 }
+		division= {
+			name = "1. Imperial Guards Division"
+			location = 5315
+			regiment = { type = garrison_brigade name = "1st Guards Infantry Regiment" historical_model = 1 }
+			regiment = { type = garrison_brigade name = "2nd Guards Infantry Regiment" historical_model = 1 }
+			regiment = { type = garrison_brigade name = "6th Guards Infantry Regiment" historical_model = 1 }
+		}
+		division= {
+			name = "2. Depot"
+			location = 5315
+			regiment = { type = garrison_brigade historical_model = 1 }
+			regiment = { type = garrison_brigade historical_model = 1 }
+			regiment = { type = garrison_brigade historical_model = 1 }
+		}
+		division= {
+			name = "51. Depot"
+			location = 5315
+			regiment = { type = garrison_brigade historical_model = 1 }
+			regiment = { type = garrison_brigade historical_model = 1 }
+			regiment = { type = garrison_brigade historical_model = 1 }
+		}
+		division= {
+			name = "72. Hoheishidan"
+			location = 5315
+			regiment = { type = infantry_brigade historical_model = 4 strength = 85 }
+			regiment = { type = infantry_brigade historical_model = 4 strength = 70 }
+			regiment = { type = infantry_brigade historical_model = 4 strength = 50 }
+		}
+	}
+}
+army = {
+	name = "31. Hendan"
+	location = 5600
+	regiment = { type = hq_brigade name = "31. Hendan HQ" historical_model = 0 }
+	division= {
+		name = "14. Hoheishidan"
+		location = 5600
+		regiment = { type = infantry_brigade name = "2nd Infantry Regiment" historical_model = 4 strength = 85 }
+		regiment = { type = infantry_brigade name = "15th Infantry Regiment" historical_model = 4 strength = 50 }
+		regiment = { type = infantry_brigade name = "59th Infantry Regiment" historical_model = 4 strength = 70 }
+	}
+	division= {
+		name = "29 Hoheishidan"
+		location = 5600
+		regiment = { type = infantry_brigade name = "38th Infantry Regiment" historical_model = 4 strength = 85 }
+		regiment = { type = infantry_brigade name = "50th Infantry Regiment" historical_model = 4 strength = 50 }
+		regiment = { type = infantry_brigade historical_model = 4 strength = 90 }
+	}
+	division= {
+		name = "52. Hoheishidan"
+		location = 5600
+		regiment = { type = infantry_brigade name = "69th Infantry Regiment" historical_model = 4 strength = 85 }
+		regiment = { type = infantry_brigade name = "107th Infantry Regiment" historical_model = 4 strength = 50 }
+		regiment = { type = infantry_brigade name = "150th Infantry Regiment" historical_model = 4 strength = 70 }
+	}
+}
+army = {
+	name = "5. Hendan"
+	location = 5574
+	regiment = { type = hq_brigade name = "5. Hendan HQ" historical_model = 0 }
+	division= {
+		name = "42. Hoheishidan"
+		location = 5574
+		regiment = { type = infantry_brigade historical_model = 4 strength = 85 }
+		regiment = { type = infantry_brigade historical_model = 4 strength = 50 }
+		regiment = { type = infantry_brigade historical_model = 4 strength = 90 }
+	}
+	division= {
+		name = "91. Hoheishidan"
+		location = 5574
+		regiment = { type = infantry_brigade historical_model = 4 strength = 50 }
+		regiment = { type = infantry_brigade historical_model = 4 strength = 70 }
+		regiment = { type = infantry_brigade historical_model = 4 strength = 85 }
+	}
+}
+army = {
+	name = "44. Hendan"
+	location = 5545
+	regiment = { type = hq_brigade name = "44. Hendan HQ" historical_model = 0 }
+	division= {
+		name = "63. Hoheishidan"
+		location = 5545
+		regiment = { type = infantry_brigade historical_model = 4 strength = 50 }
+		regiment = { type = infantry_brigade historical_model = 4 strength = 90 }
+		regiment = { type = infantry_brigade historical_model = 4 strength = 90 }
+	}
+	division= {
+		name = "107. Hoheishidan"
+		location = 5545
+		regiment = { type = infantry_brigade historical_model = 4 strength = 70 }
+		regiment = { type = infantry_brigade historical_model = 4 strength = 85 }
+		regiment = { type = infantry_brigade historical_model = 4 strength = 50 }
+	}
+	division= {
+		name = "117. Hoheishidan"
+		location = 5545
+		regiment = { type = infantry_brigade historical_model = 4 strength = 90 }
+		regiment = { type = infantry_brigade historical_model = 4 }
+		regiment = { type = infantry_brigade historical_model = 4 }
+	}
+}	
+army = {
+	name = "20. Hendan"
+	location = 5523
+	regiment = { type = hq_brigade name = "20. Hendan HQ" historical_model = 0 }
+	division= {
+		name = "25. Hoheishidan"
+		location = 5523
+		regiment = { type = infantry_brigade name = "14th Infantry Regiment" historical_model = 4 strength = 70 }
+		regiment = { type = infantry_brigade name = "40th Infantry Regiment" historical_model = 4 strength = 85 }
+		regiment = { type = infantry_brigade name = "70th Infantry Regiment" historical_model = 4 strength = 50 }
+	}
+	division= {
+		name = "2. Border Guards"
+		location = 5523
+		regiment = { type = garrison_brigade name = "3rd Border Guard" historical_model = 1 }
+		regiment = { type = garrison_brigade name = "10th Border Guard" historical_model = 1 }
+		regiment = { type = garrison_brigade name = "11th Border Guard" historical_model = 1 }
+	}
+	division= {
+		name = "8. Hoheishidan"
+		location = 5523
+		regiment = { type = infantry_brigade name = "5th Infantry Regiment" historical_model = 4 strength = 90 }
+		regiment = { type = infantry_brigade name = "17th Infantry Regiment" historical_model = 4 strength = 90 }
+		regiment = { type = infantry_brigade name = "31st Infantry Regiment" historical_model = 4 strength = 70 }
+	}
+	division= {
+		name = "116. Hoheishidan"
+		location = 5523
+		regiment = { type = infantry_brigade name = "109th Infantry Regiment" historical_model = 4 strength = 50 }
+		regiment = { type = infantry_brigade name = "120th Infantry Regiment" historical_model = 4 strength = 90 }
+		regiment = { type = infantry_brigade name = "133rd Infantry Regiment" historical_model = 4 strength = 85 }
+	}
+}
+army = {
+	name = "5. Hendan"
+	location = 5478
+	regiment = { type = hq_brigade name = "5. Hendan HQ" historical_model = 0 }
+	division= {
+		name = "11. Hoheishidan"
+		location = 5478
+		regiment = { type = infantry_brigade name = "11th Infantry Regiment" historical_model = 4 strength = 90 }
+		regiment = { type = infantry_brigade name = "12th Infantry Regiment" historical_model = 4 strength = 50 }
+		regiment = { type = infantry_brigade name = "43rd Infantry Regiment" historical_model = 4 strength = 70 }
+	}
+	division= {
+		name = "24. Hoheishidan"
+		location = 5478
+		regiment = { type = infantry_brigade name = "22nd Infantry Regiment" historical_model = 4 strength = 90 }
+		regiment = { type = infantry_brigade name = "32nd Infantry Regiment" historical_model = 4 strength = 85 }
+		regiment = { type = infantry_brigade name = "89th Infantry Regiment" historical_model = 4 strength = 50 }
+	}
+	division= {
+		name = "2. Senshashidan"
+		location = 5478
+		regiment = { type = light_armor_brigade name = "6th Armoured Regiment" historical_model = 3 }
+		regiment = { type = light_armor_brigade name = "7th Armoured Regiment" historical_model = 3 }
+		regiment = { type = light_armor_brigade name = "10th Armoured Regiment" historical_model = 3 }
+	}
+}
+army = {
+	name = "4. Hendan"
+	location = 5425
+	regiment = { type = hq_brigade name = "4. Hendan HQ" historical_model = 0 }
+	division= {
+		name = "1. Hoheishidan"
+		location = 5425
+		regiment = { type = infantry_brigade name = "1st Infantry Regiment" historical_model = 4 strength = 90 }
+		regiment = { type = infantry_brigade name = "49th Infantry Regiment" historical_model = 4 strength = 70 }
+		regiment = { type = infantry_brigade name = "57th Infantry Regiment" historical_model = 3 }
+	}
+	division= {
+		name = "2. Border Guards"
+		location = 5425
+		regiment = { type = garrison_brigade name = "5th Border Guard" historical_model = 3 }
+		regiment = { type = garrison_brigade name = "6th Border Guard" historical_model = 3 }
+		regiment = { type = garrison_brigade name = "7th Border Guard" historical_model = 3 }
+	}
+	division= {
+		name = "3. Border Guards"
+		location = 5425
+		regiment = { type = garrison_brigade name = "13th Border Guard" historical_model = 3 }
+		regiment = { type = garrison_brigade name = "5th Garrison Force" historical_model = 3 }
+		regiment = { type = garrison_brigade name = "8th Border Guard" historical_model = 3 }
+	}
+	division= {
+		name = "57. Hoheishidan"
+		location = 5425
+		regiment = { type = infantry_brigade name = "52nd Infantry Regiment" historical_model = 4 strength = 50 }
+		regiment = { type = infantry_brigade name = "57th Infantry Regiment" historical_model = 4 strength = 90 }
+		regiment = { type = infantry_brigade name = "117th Infantry Regiment" historical_model = 4 strength = 85 }
+	}
+}
+army = {
+	name = "3. Hendan"
+	location = 5346
+	regiment = { type = hq_brigade name = "3. Hendan HQ" historical_model = 0 }
+	division= {
+		name = "9. Hoheishidan"
+		location = 5346
+		regiment = { type = infantry_brigade name = "7th Infantry Regiment" historical_model = 4 strength = 50 }
+		regiment = { type = infantry_brigade name = "19th Infantry Regiment" historical_model = 4 strength = 70 }
+		regiment = { type = infantry_brigade name = "35th Infantry Regiment" historical_model = 4 strength = 90 }
+	}
+	division= {
+		name = "12. Hoheishidan"
+		location = 5346
+		regiment = { type = infantry_brigade name = "24th Infantry Regiment" historical_model = 4 strength = 50 }
+		regiment = { type = infantry_brigade name = "46th Infantry Regiment" historical_model = 4 strength = 90 }
+		regiment = { type = infantry_brigade name = "48th Infantry Regiment" historical_model = 4 strength = 70 }
+	}
+}
+army = {
+	name = "2. Hendan"
+	location = 4986
+	regiment = { type = hq_brigade name = "2. Hendan HQ" historical_model = 0 }
+	division= {
+		name = "35. Hoheishidan"
+		location = 4986
+		regiment = { type = infantry_brigade name = "219th Infantry Regiment" historical_model = 4 strength = 85 }
+		regiment = { type = infantry_brigade name = "220th Infantry Regiment" historical_model = 4 strength = 50 }
+		regiment = { type = infantry_brigade name = "221st Infantry Regiment" historical_model = 4 strength = 90 }
+	}
+	division= {
+		name = "71. Hoheishidan"
+		location = 4986
+		regiment = { type = infantry_brigade historical_model = 4 }
+		regiment = { type = infantry_brigade historical_model = 4 }
+		regiment = { type = infantry_brigade historical_model = 4 strength = 85 }
+	}
+}
+army = {
+	name = "12. Hendan"
+	location = 5218
+	regiment = { type = hq_brigade name = "12. Hendan HQ" historical_model = 0 }
+	division= {
+		name = "37. Hoheishidan"
+		location = 5218
+		regiment = { type = infantry_brigade name = "225th Infantry Regiment" historical_model = 4 strength = 70 }
+		regiment = { type = infantry_brigade name = "226th Infantry Regiment" historical_model = 4 strength = 90 }
+		regiment = { type = infantry_brigade name = "227th Infantry Regiment" historical_model = 4 strength = 90 }
+	}
+	division= {
+		name = "62. Hoheishidan"
+		location = 5218
+		regiment = { type = infantry_brigade historical_model = 4 strength = 90 }
+		regiment = { type = infantry_brigade historical_model = 4 strength = 85 }
+		regiment = { type = infantry_brigade historical_model = 4 strength = 70 }
+	}
+	division= {
+		name = "110. Hoheishidan"
+		location = 5218
+		regiment = { type = infantry_brigade name = "110th Infantry Regiment" historical_model = 4 }
+		regiment = { type = infantry_brigade name = "139th Infantry Regiment" historical_model = 4 }
+		regiment = { type = infantry_brigade name = "163rd Infantry Regiment" historical_model = 4 }
+	}
+	division= {
+		name = "3. Armoured Division"
+		location = 5218
+		regiment = { type = armor_brigade name = "6th Armoured Regiment" historical_model = 2 }
+		regiment = { type = armor_brigade name = "7th Armoured Regiment" historical_model = 2 }
+		regiment = { type = armor_brigade name = "10th Armoured Regiment" historical_model = 2 }
+	}
+	division= {
+		name = "4. Cavalry Division"
+		location = 5218
+		regiment = { type = cavalry_brigade historical_model = 4 strength = 70 }
+		regiment = { type = cavalry_brigade historical_model = 4 }
+		regiment = { type = cavalry_brigade historical_model = 4 }
+	}
+}
+division= {
+	name = "Militia Groups"
+	location = 5315
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5315
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5315
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 4986
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 4986
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 4986
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5218
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5218
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5218
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5346
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5346
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5346
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5370
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5370
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5370
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5425
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5425
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5425
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5478
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5543
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5425
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5478
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5120
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5120
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5120
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5187
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5187
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5187
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+division= {
+	name = "Militia Groups"
+	location = 5150
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+}
+navy = {
+	name = "Battle Group 4"
+	base = 5315
+	location = 5315
+	ship = { type = battleship name = "IJN Fuso" historical_model = 1 }
+	ship = { type = heavy_cruiser name = "IJN Aoba" historical_model = 1 }
+	ship = { type = light_cruiser name = "IJN Kashii" historical_model = 1 }
+	ship = { type = destroyer name = "5 Kuchikukantai" historical_model = 1 }
+}
+navy = {
+	name = "BB Division 1"
+	base = 5315
+	location = 5315
+	ship = { type = battleship name = "IJN Yamashiro" historical_model = 2 }
+	ship = { type = battleship name = "IJN Hyuga" historical_model = 2 }
+	ship = { type = battleship name = "IJN Ise" historical_model = 2 }
+}
+navy = {
+	name = "Carrier Group C"
+	base = 5315
+	location = 5315
+	ship = { type = escort_carrier name = "IJN Zuiho" air = { location = 5315 wing = { type = cag historical_model = 3 } } historical_model = 3 }
+	ship = { type = escort_carrier name = "IJN Chiyoda" air = { location = 5315 wing = { type = cag historical_model = 3 } } historical_model = 3 }
+}
+navy = {
+	name = "CL Division 1"
+	base = 5315
+	location = 5315
+	ship = { type = light_cruiser name = "IJN Natori" historical_model = 1 }
+	ship = { type = light_cruiser name = "IJN Isuzu" historical_model = 1 }
+	ship = { type = light_cruiser name = "IJN Nagara" historical_model = 1 }
+	ship = { type = light_cruiser name = "IJN Kashima" historical_model = 1 }
+	ship = { type = light_cruiser name = "IJN Kinu" historical_model = 1 }
+	ship = { type = light_cruiser name = "IJN Kitakami" historical_model = 1 }
+	ship = { type = light_cruiser name = "IJN Oi" historical_model = 1 }
+	ship = { type = light_cruiser name = "IJN Yasoshima" historical_model = 1 }
+	ship = { type = light_cruiser name = "IJN Noshiro" historical_model = 2 }
+	ship = { type = light_cruiser name = "IJN Yahagi" historical_model = 2 }
+	ship = { type = light_cruiser name = "IJN Oyoda" historical_model = 2 }
+}
+navy = {
+	name = "1st Destroyer Fleet"
+	base = 5315
+	location = 5315
+	ship = { type = destroyer name = "1 Kuchikukantai" historical_model = 1 }
+	ship = { type = destroyer name = "2 Kuchikukantai" historical_model = 1 }
+	ship = { type = destroyer name = "3 Kuchikukantai" historical_model = 1 }
+	ship = { type = destroyer name = "11 Kuchikukantai" historical_model = 2 }
+	ship = { type = destroyer name = "12 Kuchikukantai" historical_model = 2 }
+	ship = { type = destroyer name = "13 Kuchikukantai" historical_model = 3 }
+}
+navy = {
+	name = "SS Division 2'"
+	base = 5315
+	location = 5315
+	ship = { type = submarine name = "7 Sensuikantai" historical_model = 2 }
+	ship = { type = submarine name = "8 Sensuikantai" historical_model = 2 }
+	ship = { type = submarine name = "9 Sensuikantai" historical_model = 2 }
+	ship = { type = submarine name = "5 Sensuikantai" historical_model = 2 }
+	ship = { type = submarine name = "6 Sensuikantai" historical_model = 2 }
+}
+air = {
+	name = "Imperial GHQ/Airforce"
+	base = 5315
+	location = 5315
+	wing = { type = interceptor name = "70/71 Sentai" historical_model = 3 }
+	wing = { type = interceptor name = "5/56 Sentai" historical_model = 3 }
+	wing = { type = interceptor name = "244/582 Kok" historical_model = 3 }
+}
+air = {
+	name = "Imperial GHQ/Airforce"
+	base = 5370
+	location = 5370
+	wing = { type = interceptor name = "244/246 Sentai" historical_model = 3 }
+}
+air = {
+	name = "North Seas Fleet/Airforce"
+	base = 7238
+	location = 7238
+	wing = { type = interceptor name = "Z1/Z3 752 Kok" historical_model = 3 }
+	wing = { type = interceptor name = "28/78 Sentai" historical_model = 3 }
+}
+air = {
+	name = "Combined Fleet A"
+	base = 5478
+	location = 5478
+	wing = { type = interceptor name = "T11/T12 Sentai" historical_model = 3 }
+	wing = { type = cas name = "523/121 Sentai" historical_model = 1 }
+	wing = { type = naval_bomber name = "521/761 Sentai" historical_model = 2 }
+}
+air = {
+	name = "Combined Fleet B"
+	base = 5478
+	location = 5478
+	wing = { type = interceptor name = "265/Hyo Sentai" historical_model = 3 }
+	wing = { type = cas name = "121/253 Sentai" historical_model = 1 }
+}
+air = {
+	name = "South Seas Fleet"
+	base = 5370
+	location = 5370
+	wing = { type = interceptor name = "K11/K12 Sentai" historical_model = 3 }
+	wing = { type = naval_bomber name = "151/503 Sentai" historical_model = 2 }
+	wing = { type = naval_bomber name = "313/551 Sentai" historical_model = 2 }
+}
+air = {
+	name = "Imperial GHQ/Airforce"
+	base = 5543
+	location = 5543
+	wing = { type = interceptor name = "4/59 Sentai" historical_model = 3 }
+}

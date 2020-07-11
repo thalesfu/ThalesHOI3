@@ -1,0 +1,6 @@
+division = 	{
+	name = "第136“法西斯青年”师"
+	location = 5445
+	regiment = { type = armor_brigade name = "“法西斯青年”装甲团" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "“法西斯青年”步枪团" historical_model = 2 }
+		}

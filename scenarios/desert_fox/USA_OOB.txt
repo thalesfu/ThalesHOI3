@@ -1,0 +1,679 @@
+theatre = {
+	name = "盟国远征军最高统帅部"
+	location = 2613
+	leader = 60145 #Eisenhower
+	regiment = { type = hq_brigade name = "盟国远征军最高统帅部" historical_model = 0 }
+	armygroup = {
+		name = "第21集群"
+		location = 2253
+		leader = 1224 #Montgomery
+		expeditionary_owner = ENG
+		regiment = { type = hq_brigade name = "第21集群指挥部" historical_model = 2 }
+		army = {
+			expeditionary_owner = CAN
+			name = "加拿大第1集团军"
+			location = 2253
+			leader = 52013 #Crerar
+			regiment = { type = hq_brigade name = "加拿大第1集团军指挥部" historical_model = 2 }
+			corps = {
+				expeditionary_owner = CAN
+				name = "加拿大第2军"
+				location = 2253
+				leader = 52065 #Simonds
+				regiment = { type = hq_brigade name = "加拿大第2军指挥部" historical_model = 0 }
+				division= {
+					expeditionary_owner = CAN
+					name = "加拿大第2步兵师"
+					location = 2253
+					leader = 52019 #Foulkes
+					regiment = { type = motorized_brigade name = "第4步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第5步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第6步兵旅" historical_model = 3 }
+				}
+				division= {
+					expeditionary_owner = CAN
+					name = "加拿大第4装甲师"
+					location = 2253
+					leader = 52032 #Kitching
+					regiment = { type = armor_brigade name = "第4装甲旅" historical_model = 3 }
+					regiment = { type = armor_brigade name = "南阿尔伯塔团" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第10步兵旅" historical_model = 3 }
+				}
+			}
+			corps = {
+				expeditionary_owner = ENG
+				name = "第12军"
+				location = 2253
+				leader = 1265 #Ritchie
+				regiment = { type = hq_brigade name = "第12军指挥部" historical_model = 0 }
+				division= {
+					expeditionary_owner = ENG
+					name = "禁卫装甲师"
+					location = 2253
+					leader = 1000 #Adair
+					regiment = { type = armor_brigade name = "第5禁卫装甲旅" historical_model = 3 }
+					regiment = { type = armor_brigade name = "第6禁卫装甲旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第32禁卫步兵旅" historical_model = 3 }
+				}
+			}
+		}
+		army = {
+			expeditionary_owner = ENG
+			name = "第2集团军"
+			location = 2253
+			leader = 1099 #Dempsey
+			regiment = { type = hq_brigade name = "第2集团军指挥部" historical_model = 2 }
+			corps = {
+				expeditionary_owner = ENG
+				name = "第1军"
+				location = 2198
+				leader = 1085 #Crocker
+				regiment = { type = hq_brigade name = "第1军指挥部" historical_model = 0 }
+				division= {
+					expeditionary_owner = CAN
+					name = "加拿大第3步兵师"
+					location = 2083
+					leader = 52031 #Keller
+					regiment = { type = motorized_brigade name = "第7步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第8步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第9步兵旅" historical_model = 3 }
+				}
+				division= {
+					expeditionary_owner = ENG
+					name = "第3摩托化步兵师"
+					location = 2083
+					leader = 1262 #Rennie
+					regiment = { type = armor_brigade name = "第27装甲旅" historical_model = 2 }
+					regiment = { type = motorized_brigade name = "第8步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第9步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第185步兵旅" historical_model = 3 }
+				}
+				division = {
+					expeditionary_owner = ENG
+					name = "第6空降师"
+					location = 2024
+					leader = 1131 #Gale
+					regiment = { type = paratrooper_brigade name = "第6空降旅" historical_model = 3 }
+					regiment = { type = paratrooper_brigade name = "第3伞兵旅" historical_model = 3 }
+					regiment = { type = paratrooper_brigade name = "第5伞兵旅" historical_model = 3 }
+				}
+				division= {
+					expeditionary_owner = ENG
+					name = "第51摩托化师“高地”"
+					location = 2024
+					leader = 1056 #Bullen-Smith
+					regiment = { type = motorized_brigade name = "第152步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第153步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第154步兵旅" historical_model = 3 }
+				}
+			}
+			corps = {
+			expeditionary_owner = ENG
+				name = "第30军"
+				location = 2082
+				leader = 1055 #Bucknall
+				regiment = { type = hq_brigade name = "第30军指挥部" historical_model = 0 }
+				division= {
+				expeditionary_owner = ENG
+					name = "第7装甲师"
+					location = 2082
+					leader = 1115 #Erskine
+					regiment = { type = armor_brigade name = "第22装甲旅" historical_model = 3 }
+					regiment = { type = armor_brigade name = "第33装甲旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第131步兵旅" historical_model = 3 }
+				}
+				division= {
+				expeditionary_owner = ENG
+					name = "第49摩托化师“西维丁”"
+					location = 2082
+					leader = 1022 #Barker E.H.
+					regiment = { type = motorized_brigade name = "第70步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第146步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第147步兵旅" historical_model = 3 }
+				}
+				division= {
+				expeditionary_owner = ENG
+					name = "第50摩托化师“诺森伯兰”"
+					location = 2081
+					regiment = { type = motorized_brigade name = "第69步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第151步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第231步兵旅" historical_model = 3 }
+				}
+				division= {
+				expeditionary_owner = ENG
+					name = "第31装甲军集团"
+					location = 2081
+					regiment = { type = heavy_armor_brigade name = "第31装甲军集团" historical_model = 2 }
+				}
+			}
+			corps = {
+			expeditionary_owner = ENG
+				name = "第8军"
+				location = 2022
+				leader = 1237 #O'Connor
+				regiment = { type = hq_brigade name = "第8军指挥部" historical_model = 0 }
+				division= {
+				expeditionary_owner = ENG
+					name = "第11装甲师"
+					location = 2022
+					leader = 1266 #Roberts
+					regiment = { type = armor_brigade name = "第4装甲旅" historical_model = 3 }
+					regiment = { type = armor_brigade name = "第29装甲旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第159步兵旅" historical_model = 3 }
+				}
+				division= {
+				expeditionary_owner = ENG
+					name = "第15摩托化师“苏格兰人”"
+					location = 2022
+					regiment = { type = motorized_brigade name = "第44步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第46步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第227步兵旅"historical_model = 3 }
+				}
+				division= {
+				expeditionary_owner = ENG
+					name = "第43摩托化师“威塞克斯”"
+					location = 2022
+					regiment = { type = motorized_brigade name = "第129步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第130步兵旅" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第206步兵旅" historical_model = 3 }
+				}
+			}
+		}
+
+	}
+	armygroup = {
+	name = "第12集群"
+	location = 2746
+	leader = 60057 #Bradley
+	regiment = { type = hq_brigade name = "第12集群指挥部" historical_model = 0 }
+	army = {
+			
+			name = "第1集团军"
+			location = 2312
+			leader = 60057 #Bradley O.N.
+			regiment = { type = hq_brigade name = "美国第1集团军" historical_model = 2 }
+			division= {
+				
+				name = "第28师“拱心石”"
+				location = 2312
+				leader = 60067 #Brown
+				regiment = { type = motorized_brigade name = "第109步兵团" historical_model = 3 }
+				regiment = { type = motorized_brigade name = "第110步兵团" historical_model = 3 }
+				regiment = { type = motorized_brigade name = "第112步兵团" historical_model = 3 }
+			}
+			corps = {
+				
+				name = "第5军"
+				location = 2256
+				leader = 60172 #Gerow L.T.
+				regiment = { type = hq_brigade name = "第5军指挥部" historical_model = 0 }
+				division= {
+					
+					name = "第1师“大红一”"
+					location = 2256
+					leader = 60220 #Huebner
+					regiment = { type = mechanized_brigade name = "第16步兵团" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "第18步兵团" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "第26步兵团" historical_model = 2 }
+				}
+				division= {
+					
+					name = "第2师“印第安人头”"
+					location = 2256
+					leader = 60313 #Robertson
+					regiment = { type = mechanized_brigade name = "第9步兵团" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "第23步兵团" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "第38步兵团" historical_model = 2 }
+				}
+				division= {
+					
+					name = "第2装甲师“活动地狱”"
+					location = 2256
+					leader = 60065 #Brooks
+					regiment = { type = light_armor_brigade name = "第66装甲团" historical_model = 3 }
+					regiment = { type = light_armor_brigade name = "第67装甲团" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "第9步兵团" historical_model = 2 }
+				}
+			}
+			corps = {
+				
+				name = "第7军"
+				location = 2199
+				leader = 60105 #Collins H.J.
+				regiment = { type = hq_brigade name = "第7军指挥部" historical_model = 0 }	
+				division= {
+					
+					name = "第4师“常春藤”"
+					location = 2199
+					leader = 60027 #Barton
+					regiment = { type = mechanized_brigade name = "第8步兵团" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "第12步兵团" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "第22步兵团" historical_model = 2 }
+				}
+				division= {
+					
+					name = "第9师“老可靠”"
+					location = 2199
+					leader = 60142 #Eddy
+					regiment = { type = mechanized_brigade name = "第39步兵团" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "第47步兵团" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "第60步兵团" historical_model = 2 }
+				}
+				division= {
+					
+					name = "第79师“洛林十字”"
+					location = 2199
+					leader = 60377 #Wyche
+					regiment = { type = mechanized_brigade name = "第313步兵团" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "第314步兵团" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "第315步兵团" historical_model = 2 }
+				}
+			}
+			corps = {
+				
+				name = "第8军"
+				location = 2140
+				leader = 60271 #Middleton
+				regiment = { type = hq_brigade name = "第8军指挥部" historical_model = 0 }
+				division= {
+					
+					name = "第82空降师“全美”"
+					location = 2140
+					leader = 60311 #Ridgway
+					regiment = { type = paratrooper_brigade name = "第325步兵团" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "第504步兵团" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "第505步兵团" historical_model = 2 }
+				}
+				division= {
+					
+					name = "第101空降师“呼啸山鹰”"
+					location = 2140
+					leader = 60348 #Taylor
+					regiment = { type = paratrooper_brigade name = "第327滑翔兵团" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "第501伞兵团" historical_model = 2 }
+					regiment = { type = paratrooper_brigade name = "第502伞兵团" historical_model = 2 }
+				}
+				division= {
+					
+					name = "第83师“雷霆”"
+					location = 2140
+					leader = 60251 #Macon
+					regiment = { type = motorized_brigade name = "第329步兵团" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第330步兵团" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第331步兵团" historical_model = 3 }
+				}
+				division= {
+					
+					name = "第90师“坚韧阴暗”"
+					location = 2140
+					leader = 60267 #McClain
+					regiment = { type = mechanized_brigade name = "第357步兵团" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "第358步兵团" historical_model = 2 }
+					regiment = { type = mechanized_brigade name = "第359步兵团" historical_model = 2 }
+				}
+			}
+			corps = {
+				
+				name = "第19军"
+				location = 2613
+				leader = 60109 #Corlett
+				regiment = { type = hq_brigade name = "第军指挥部" historical_model = 0 }
+				division= {
+					
+					name = "第29师“蓝与灰”"
+					location = 2613
+					leader = 60170 #Gerhardt
+					regiment = { type = motorized_brigade name = "第115步兵团" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第116步兵团" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第175步兵团" historical_model = 3 }
+				}
+				division= {
+					
+					name = "第30师“老山胡桃”"
+					location = 2613
+					leader = 60214 #Hobbs
+					regiment = { type = motorized_brigade name = "第117步兵团" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第119步兵团" historical_model = 3 }
+					regiment = { type = motorized_brigade name = "第120步兵团" historical_model = 3 }
+				}
+				division= {
+					
+					name = "第3装甲师“先锋”"
+					location = 2613
+					leader = 60364 #Watson
+					regiment = { type = armor_brigade name = "第32装甲团" historical_model = 3 }
+					regiment = { type = armor_brigade name = "第33装甲团" historical_model = 3 }
+					regiment = { type = mechanized_brigade name = "第36装甲步兵团" historical_model = 3 }
+				}
+			}
+		}
+		army = {
+		name = "美国第3集团军"
+		location = 2746
+		leader = 60294 #Patton
+		regiment = { type = hq_brigade name = "美国第3集团军指挥部" historical_model = 2 }
+		corps = {
+			
+			name = "第15军"
+			location = 2489
+			leader = 60190 #Haislip
+			regiment = { type = hq_brigade name = "第9军指挥部" historical_model = 0 }
+			division= {
+				
+				name = "第4装甲师“突进”"
+				location = 2552
+				leader = 60375 #Woods
+				regiment = { type = armor_brigade name = "第34坦克团" historical_model = 3 }
+				regiment = { type = armor_brigade name = "第37坦克团" historical_model = 3 }
+				regiment = { type = mechanized_brigade name = "第51装甲步兵团" historical_model = 2 }
+			}
+			division= {
+				
+				name = "第35师“圣达菲”"
+				location = 2552
+				leader = 60018 #Baade
+				regiment = { type = mechanized_brigade name = "第134步兵团" historical_model = 2 }
+				regiment = { type = mechanized_brigade name = "第137步兵团" historical_model = 2 }
+				regiment = { type = mechanized_brigade name = "第320步兵团" historical_model = 2 }
+			}
+			division= {
+				
+				name = "第5师“红魔”"
+				location = 2552
+				leader = 60067 #Brown
+				regiment = { type = mechanized_brigade name = "第2步兵团" historical_model = 2 }
+				regiment = { type = mechanized_brigade name = "第10步兵团" historical_model = 2 }
+				regiment = { type = mechanized_brigade name = "第11步兵团" historical_model = 2 }
+			}
+			division= {
+				
+				name = "第8师“探索者”"
+				location = 2552
+				leader = 60342 #Stroh
+				regiment = { type = mechanized_brigade name = "第13步兵团" historical_model = 2 }
+				regiment = { type = mechanized_brigade name = "第28步兵团" historical_model = 2 }
+				regiment = { type = mechanized_brigade name = "第121步兵团" historical_model = 2 }
+			}
+		}
+		corps = {
+			
+			name = "第12军"
+			location = 2429
+			leader = 60331 #Simpson
+			regiment = { type = hq_brigade name = "第12军指挥部" historical_model = 0 }
+			division= {
+				
+				name = "第80师“蓝岭”"
+				location = 2429
+				leader = 60261 #McBride
+				regiment = { type = motorized_brigade name = "第317步兵团" historical_model = 3 }
+				regiment = { type = motorized_brigade name = "第318步兵团" historical_model = 3 }
+				regiment = { type = motorized_brigade name = "第319步兵团" historical_model = 3 }
+			}
+			division= {
+				
+				name = "第5装甲师“五”"
+				location = 2429
+				leader = 60287 #Oliver
+				regiment = { type = armor_brigade name = "第10坦克团" historical_model = 3 }
+				regiment = { type = armor_brigade name = "第34坦克团" historical_model = 3 }
+				regiment = { type = mechanized_brigade name = "第46装甲步兵团" historical_model = 2 }
+			}
+			division= {
+			expeditionary_owner = ENG
+				name = "第53摩托化师“威尔士”"
+				location = 2429
+				regiment = { type = motorized_brigade name = "第71步兵旅" historical_model = 3 }
+				regiment = { type = motorized_brigade name = "第158步兵旅" historical_model = 3 }
+				regiment = { type = motorized_brigade name = "第160步兵旅" historical_model = 3 }
+			}
+		}
+		corps = {
+			
+			name = "第13军"
+			location = 2684
+			leader = 60175 #Gillem
+			regiment = { type = hq_brigade name = "第13军指挥部" historical_model = 0 }
+			division = {
+				expeditionary_owner = FRA
+				name = "第2装甲师"
+				location = 2684
+				leader = 24116 #Leclerc de Hauteclocque
+				regiment = { type = armor_brigade name = "第501装甲战斗团" historical_model = 3 }
+				regiment = { type = light_armor_brigade name = "第12胸甲骑兵团" historical_model = 2 }
+				regiment = { type = light_armor_brigade name = "第12非洲猎兵团" historical_model = 2 }
+				regiment = { type = mechanized_brigade name = "乍得团" historical_model = 2 }
+			}
+		}
+	corps = {
+		
+		name = "第20军"
+		location = 2552
+		leader = 60361 #Walker W.H.
+		regiment = { type = hq_brigade name = "第20军指挥部" historical_model = 0 }
+		division= {
+			
+			name = "第6装甲师“超级第六”"
+			location = 2552
+			leader = 60184 #Grow
+			regiment = { type = armor_brigade name = "第68装甲团" historical_model = 3 }
+			regiment = { type = armor_brigade name = "第68装甲团" historical_model = 3 }
+			regiment = { type = mechanized_brigade name = "第50装甲步兵团" historical_model = 2 }
+		}
+	division = {
+		
+		name = "第7装甲师“幸运第七”"
+		location = 2552
+		leader = 60330 #Silvester
+		regiment = { type = armor_brigade name = "第31装甲团" historical_model = 3 }
+		regiment = { type = armor_brigade name = "第40装甲团" historical_model = 3 }
+		regiment = { type = mechanized_brigade name = "第48装甲步兵团" historical_model = 2 }
+			}
+		}
+	}
+	}
+	armygroup = {
+		name = "第6集群"
+		location = 2879
+		leader = 60128 #Devers
+		regiment = { type = hq_brigade name = "第6集群指挥部" historical_model = 0 }
+	army = {
+		name = "法国第1集团军"
+		location = 2879
+		leader = 24114 #Tassigny
+		expeditionary_owner = FRA
+		regiment = { type = hq_brigade name = "法国第1集团军指挥部" historical_model = 0 }
+			corps = {
+			name = "第1军"
+			location = 2746
+			expeditionary_owner = FRA
+			regiment = { type = hq_brigade name = "第1军指挥部" historical_model = 0 }
+				division= {
+				expeditionary_owner = FRA
+				name = "自由法国第1师"
+				location = 2750
+				regiment = { type = motorized_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = motorized_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = motorized_brigade name = "步兵旅" historical_model = 3 }
+				}
+				division= {
+				expeditionary_owner = FRA
+				name = "第2装甲师"
+				location = 2750
+				regiment = { type = armor_brigade name = "装甲团" historical_model = 3 }
+				regiment = { type = armor_brigade name = "装甲团" historical_model = 3 }
+				regiment = { type = mechanized_brigade name = "装甲步兵团" historical_model = 2 }
+				}
+			}
+			corps = {
+			name = "第2军"
+			location = 2815
+			expeditionary_owner = FRA
+			regiment = { type = hq_brigade name = "第2军指挥部" historical_model = 0 }
+				division= {
+				expeditionary_owner = FRA
+				name = "摩洛哥第2步兵师"
+				location = 2815
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				}
+				division= {
+				expeditionary_owner = FRA
+				name = "阿尔及利亚第3步兵师"
+				location = 2815
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				}
+				division= {
+				expeditionary_owner = FRA
+				name = "摩洛哥第4步兵师"
+				location = 2815
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				}
+				division= {
+				expeditionary_owner = FRA
+				name = "第3殖民步兵师"
+				location = 2881
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				}
+			}
+			corps = {
+			name = "第3军"
+			location = 2881
+			leader = 24114 #Tassigny
+			expeditionary_owner = FRA
+			regiment = { type = hq_brigade name = "第3军指挥部" historical_model = 0 }
+				division= {
+				expeditionary_owner = FRA
+				name = "第1装甲师"
+				location = 2881
+				regiment = { type = armor_brigade name = "装甲团" historical_model = 3 }
+				regiment = { type = armor_brigade name = "装甲团" historical_model = 3 }
+				regiment = { type = mechanized_brigade name = "装甲步兵团" historical_model = 2 }
+				}
+				division= {
+				expeditionary_owner = FRA
+				name = "第5装甲师"
+				location = 2947
+				regiment = { type = armor_brigade name = "装甲团" historical_model = 3 }
+				regiment = { type = armor_brigade name = "装甲团" historical_model = 3 }
+				regiment = { type = mechanized_brigade name = "装甲步兵团" historical_model = 2 }
+				}
+			}
+		}
+	army = {
+		name = "第7集团军"
+		location = 2879
+		leader = 60291 #Patch
+		regiment = { type = hq_brigade name = "第7集团军指挥部" historical_model = 0 }
+			corps = {
+			name = "第6军"
+			location = 2947
+			leader = 60352 #Truscott
+			regiment = { type = hq_brigade name = "第6军指挥部" historical_model = 0 }
+				division= {
+				name = "第1无名步兵师"
+				location = 2947
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				}
+				division= {
+				name = "第2无名步兵师"
+				location = 3083
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				}
+				division= {
+				name = "第3无名步兵师"
+				location = 3150
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				regiment = { type = infantry_brigade name = "步兵旅" historical_model = 3 }
+				}
+			}
+		}
+	}
+
+air = { 
+	name = "第IX轰炸机司令部"
+	base = 2550
+	location = 2550
+	wing = { type = tactical_bomber name = "第97战术轰炸联队" historical_model = 2 }
+	wing = { type = tactical_bomber name = "第98战术轰炸联队" historical_model = 2 }
+	wing = { type = tactical_bomber name = "第99战术轰炸联队" historical_model = 2 }
+	wing = { type = multi_role name = "第70战斗机联队" historical_model = 2 }
+}
+air = { 
+	name = "第IX战术空军司令部"
+	base = 2618
+	location = 2618
+	wing = { type = multi_role name = "第71战斗机联队" historical_model = 2 }
+	wing = { type = multi_role name = "第84战斗机联队" historical_model = 2 }
+}
+air = { 
+	name = "第XIX战术空军司令部"
+	base = 2618
+	location = 2618
+	wing = { type = multi_role name = "第303战斗机联队" historical_model = 2 }
+	wing = { type = multi_role name = "第100战斗机联队" historical_model = 2 }
+}
+air = { 
+	name = "第IX运输机司令部"
+	base = 2309
+	location = 2309
+	wing = { type = transport_plane name = "第50运输机联队" historical_model = 2 }
+	wing = { type = transport_plane name = "第52运输机联队" historical_model = 2 }
+	wing = { type = transport_plane name = "第53运输机联队" historical_model = 2 }
+}
+air = { 
+	name = "皇家空军第85联队"
+	expeditionary_owner = ENG
+	base = 2613
+	location = 2613
+	wing = { type = multi_role name = "第34侦察联队" historical_model = 2 }
+	wing = { type = multi_role name = "第141联队" historical_model = 2 }
+	wing = { type = multi_role name = "第142联队" historical_model = 2 }
+	wing = { type = multi_role name = "第149联队" historical_model = 2 }
+	wing = { type = multi_role name = "第150联队" historical_model = 2 }
+}
+air = { 
+	name = "皇家空军第2联队"
+	expeditionary_owner = ENG
+	base = 2311
+	location = 2311
+	wing = { type = tactical_bomber name = "第137联队" historical_model = 2 }
+	wing = { type = tactical_bomber name = "第138联队" historical_model = 2 }
+	wing = { type = tactical_bomber name = "第139联队" historical_model = 2 }
+	wing = { type = tactical_bomber name = "第140联队" historical_model = 2 }
+}
+air = { 
+	name = "皇家空军第83联队"
+	expeditionary_owner = ENG
+	base = 2311
+	location = 2311
+	wing = { type = multi_role name = "第39侦察联队" historical_model = 2 }
+	wing = { type = interceptor name = "第121联队" historical_model = 2 }
+	wing = { type = multi_role name = "第122联队" historical_model = 2 }
+	wing = { type = interceptor name = "第124联队" historical_model = 2 }
+	wing = { type = multi_role name = "第125联队" historical_model = 2 }
+}
+air = { 
+	name = "皇家空军第84联队"
+	expeditionary_owner = ENG
+	base = 2197
+	location = 2197
+	wing = { type = multi_role name = "第35侦察联队" historical_model = 2 }
+	wing = { type = interceptor name = "第123联队" historical_model = 2 }
+	wing = { type = multi_role name = "第131联队" historical_model = 2 }
+	wing = { type = multi_role name = "第132联队" historical_model = 2 }
+	wing = { type = multi_role name = "第133联队" historical_model = 2 }
+}
+}

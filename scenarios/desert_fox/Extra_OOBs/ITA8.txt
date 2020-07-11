@@ -1,0 +1,7 @@
+division = 	{
+	name = "第80“拉斯佩奇亚”师"
+	location = 5445
+	regiment = { type = paratrooper_brigade name = "第125“拉斯佩奇亚”步兵团" historical_model = 2 }
+	regiment = { type = paratrooper_brigade name = "第126“拉斯佩奇亚”步兵团" historical_model = 2 }
+
+		}

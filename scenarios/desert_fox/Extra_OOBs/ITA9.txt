@@ -1,0 +1,6 @@
+division = 	{
+	name = "第1“苏佩加”师"
+	location = 5445
+	regiment = { type = infantry_brigade name = "第91“皮斯托亚”步兵团" historical_model = 2 }
+	regiment = { type = infantry_brigade name = "第92“皮斯托亚”步兵团" historical_model = 2 }
+		}

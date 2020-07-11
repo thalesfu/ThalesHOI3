@@ -1,0 +1,7 @@
+division = 	{
+	name = "第134“半人马座”师"
+	location = 5445
+	regiment = { type = light_armor name = "第31“半人马座”装甲团" historical_model = 2 }
+	regiment = { type = armour_brigade name = "第131“半人马座”装甲团" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第5“半人马座”步枪团" historical_model = 2 }
+		}

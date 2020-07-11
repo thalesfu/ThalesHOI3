@@ -1,0 +1,7 @@
+division = 	{
+	expeditionary_owner = GER
+	name = "非洲特种师"
+	location = 5445
+	regiment = { type = motorized_brigade name = "第200摩托化步枪团" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第361摩托化步枪团" historical_model = 2 }
+		}

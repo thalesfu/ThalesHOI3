@@ -1,0 +1,49 @@
+##############
+# Axis
+##############
+axis = {
+	
+	ODHold_Iwo = {
+		trigger = {
+			10642 = {
+				controller = {
+					faction = axis
+				}
+			}
+		}
+		primary = yes
+	}
+	
+	ODUSA_defeated = {
+		trigger = {
+			not = { USA = { total_amount_of_brigades = 25 } }
+		}
+		primary = yes
+	}
+	
+}
+
+##############
+# ALLIES
+##############
+allies = {
+	ODCapture_Tokyo = {
+		trigger = {
+			5315 = {
+				controller = {
+					faction = allies
+				}
+			}
+			
+		}
+		primary = yes
+	}
+	
+	ODJAP_defeated = {
+		trigger = {
+			not = { JAP = { total_amount_of_brigades = 25 } }
+		}
+		primary = yes
+	}
+	
+}

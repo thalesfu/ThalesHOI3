@@ -1,0 +1,6 @@
+division = {
+	name = "第56步兵师“伦敦”"
+	location = 5586
+	regiment = { type = motorized_brigade name = "第167步兵旅“伦敦”" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第169步兵旅“伦敦”" historical_model = 2 }
+	}

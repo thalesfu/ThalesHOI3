@@ -1,0 +1,118 @@
+army = {
+		name = "外卡弗加方面军"
+		location = 3254
+		regiment = { type = hq_brigade name = "外卡弗加方面军指挥部" historical_model = 0 } 
+	corps = {
+	       	name = "第46军"
+	       	location = 3254
+	       	regiment = { type = hq_brigade name = "第46军指挥部" historical_model = 0 }
+			division= {
+				name = "第394步兵师"
+				location = 3254
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+			}
+			division= {
+				name = "第63骑兵师"
+				location = 3254
+				regiment = { type = cavalry_brigade historical_model = 2 }
+				regiment = { type = cavalry_brigade historical_model = 2 }
+				regiment = { type = cavalry_brigade historical_model = 2 }
+			}
+		}
+	corps = {
+	       	name = "第58军"
+	       	location = 3254
+	       	regiment = { type = hq_brigade name = "第58军指挥部" historical_model = 0 }
+			division= {
+				name = "第406步兵师"
+				location = 3254
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+			}
+			division= {
+				name = "第407步兵师"
+				location = 3254
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+			}
+			division= {
+				name = "第408步兵师"
+				location = 3254
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+			}
+			division= {
+				name = "第409步兵师"
+				location = 3254
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+			}
+			division= {
+				name = "第1骑兵师"
+				location = 3254
+				regiment = { type = cavalry_brigade historical_model = 2 }
+				regiment = { type = cavalry_brigade historical_model = 2 }
+				regiment = { type = cavalry_brigade historical_model = 2 }
+			}
+			division= {
+				name = "第23骑兵师"
+				location = 3254
+				regiment = { type = cavalry_brigade historical_model = 2 }
+				regiment = { type = cavalry_brigade historical_model = 2 }
+				regiment = { type = cavalry_brigade historical_model = 2 }
+			}
+			division= {
+				name = "第39骑兵师"
+				location = 3254
+				regiment = { type = cavalry_brigade historical_model = 2 }
+				regiment = { type = cavalry_brigade historical_model = 2 }
+				regiment = { type = cavalry_brigade historical_model = 2 }
+			}
+		}
+	corps = {
+	       	name = "第45军"
+	       	location = 3254
+	       	regiment = { type = hq_brigade name = "第45军指挥部" historical_model = 0 }
+			division= {
+				name = "第140步兵师"
+				location = 3254
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+			}
+			division= {
+				name = "第151步兵师"
+				location = 3254
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+			}
+			division= {
+				name = "第328步兵师"
+				location = 3254
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+			}
+			division= {
+				name = "第389步兵师"
+				location = 3254
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+			}
+			division= {
+				name = "第392步兵师"
+				location = 3254
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+				regiment = { type = infantry_brigade historical_model = 2 }
+			}
+		}
+}

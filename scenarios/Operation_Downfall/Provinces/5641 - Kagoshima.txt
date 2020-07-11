@@ -1,0 +1,18 @@
+owner = JAP
+controller = JAP
+add_core = JAP
+points = 5
+industry = 3
+infra = 10
+manpower = 3.00
+leadership = 0.60
+
+1945.11.1 = {
+	owner = USA
+	controller = USA
+	add_core = USA	
+	
+	naval_base = 10
+	land_fort = 5
+	air_base = 10
+}

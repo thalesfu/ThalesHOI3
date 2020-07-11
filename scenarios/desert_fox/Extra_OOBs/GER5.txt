@@ -1,0 +1,7 @@
+division = 	{
+	expeditionary_owner = GER
+	name = "第999轻装师"
+	location = 5445
+	regiment = { type = motorized_brigade name = "第961摩托化非洲步枪团" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第962摩托化非洲步枪团" historical_model = 2 }
+		}

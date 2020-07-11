@@ -1,0 +1,7 @@
+division = 	{
+	name = "第102“特伦托”步兵师"
+	location = 5445
+	regiment = { type = motorized_brigade name = "第61“特伦托”步兵团" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第62“特伦托”步兵团" historical_model = 2 }
+
+		}

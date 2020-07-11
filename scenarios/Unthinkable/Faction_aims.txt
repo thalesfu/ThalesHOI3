@@ -1,0 +1,35 @@
+##############
+# Comintern
+##############
+comintern = {
+	OUCapture_Paris = {
+		trigger = {
+			2613 = {
+				controller = {
+					faction = comintern
+				}
+			}
+		}
+		primary = yes
+	}
+}
+
+##############
+# ALLIES
+##############
+allies = {
+	OUCapture_Warsaw = {
+		trigger = {
+			1928 = {
+				controller = {
+					faction = allies
+				}
+			}
+			
+		}
+		primary = yes
+	}
+	
+}
+	
+}

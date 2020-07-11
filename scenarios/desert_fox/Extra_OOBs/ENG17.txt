@@ -1,0 +1,7 @@
+division = {
+	name = "第78步兵师“战斧”"
+	location = 5412
+	regiment = { type = motorized_brigade name = "第1禁卫步兵旅" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第11步兵旅" historical_model = 2 }
+	regiment = { type = motorized_brigade name = "第36步兵旅" historical_model = 2 }
+	}
