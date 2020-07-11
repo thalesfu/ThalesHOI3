@@ -14,7 +14,7 @@ national_unity = 70
 
 oob = "QIN_1895.txt"
 
-popularity = { 
+popularity = {
 	national_socialist = 35
 	fascistic = 3
 	paternal_autocrat = 52
@@ -27,7 +27,7 @@ popularity = {
 	stalinist = 0
 }
 
-organization = { 
+organization = {
 	national_socialist = 35
 	fascistic = 3
 	paternal_autocrat = 52
