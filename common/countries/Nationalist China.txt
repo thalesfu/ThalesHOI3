@@ -1,0 +1,804 @@
+color = { 255  244  190 }
+graphical_culture = Japanese
+
+default_templates = {
+	binary_infantry = {
+		infantry_brigade
+		infantry_brigade
+	}
+	binary_milita = {
+		militia_brigade
+		militia_brigade
+	}
+	binary_armoured = {
+		armor_brigade
+		motorized_brigade
+	}
+	binary_cavalry = {
+		cavalry_brigade
+		cavalry_brigade
+	}
+}
+
+unit_names = {
+	infantry_brigade = {
+		"步兵第1师" "步兵第2师" "步兵第3师" "步兵第4师" "步兵第5师" "步兵第6师" "步兵第7师" "步兵第8师" "步兵第9师" "步兵第10师" "步兵第11师" 
+		"步兵第12师" "步兵第13师" "步兵第14师" "步兵第15师" "步兵第16师" "步兵第17师" "步兵第18师" "步兵第19师" "步兵第20师" "步兵第21师" "步兵第22师" 
+		"步兵第23师" "步兵第24师" "步兵第25师" "步兵第26师" "步兵第27师" "步兵第28师" "步兵第29师" "步兵第30师" "步兵第31师" "步兵第32师" "步兵第33师" 
+		"步兵第34师" "步兵第35师" "步兵第36师" "步兵第37师" "步兵第38师" "步兵第39师" "步兵第40师" "步兵第41师" "步兵第42师" "步兵第43师" "步兵第44师" 
+		"步兵第45师" "步兵第46师" "步兵第47师" "步兵第48师" "步兵第49师" "步兵第50师" "步兵第51师" "步兵第52师" "步兵第53师" "步兵第54师" "步兵第55师" 
+		"步兵第56师" "步兵第57师" "步兵第58师" "步兵第59师" "步兵第60师" "步兵第61师" "步兵第62师" "步兵第63师" "步兵第64师" "步兵第65师" "步兵第66师" 
+		"步兵第67师" "步兵第68师" "步兵第69师" "步兵第70师" "步兵第71师" "步兵第72师" "步兵第73师" "步兵第74师" "步兵第75师" "步兵第76师" "步兵第77师" 
+		"步兵第78师" "步兵第79师" "步兵第80师" "步兵第81师" "步兵第82师" "步兵第83师" "步兵第84师" "步兵第85师" "步兵第86师" "步兵第87师" "步兵第88师" 
+		"步兵第89师" "步兵第90师" "步兵第91师" "步兵第92师" "步兵第93师" "步兵第94师" "步兵第95师" "步兵第96师" "步兵第97师" "步兵第98师" "步兵第99师" 
+		"步兵第100师" "步兵第101师" "步兵第102师" "步兵第103师" "步兵第104师" "步兵第105师" "步兵第106师" "步兵第107师" "步兵第108师" "步兵第109师" "步兵第110师" 
+		"步兵第111师" "步兵第112师" "步兵第113师" "步兵第114师" "步兵第115师" "步兵第116师" "步兵第117师" "步兵第118师" "步兵第119师" "步兵第120师" "步兵第121师" 
+		"步兵第122师" "步兵第123师" "步兵第124师" "步兵第125师" "步兵第126师" "步兵第127师" "步兵第128师" "步兵第129师" "步兵第130师" "步兵第131师" "步兵第132师" 
+		"步兵第133师" "步兵第134师" "步兵第135师" "步兵第136师" "步兵第137师" "步兵第138师" "步兵第139师" "步兵第140师" "步兵第141师" "步兵第142师" "步兵第143师" 
+		"步兵第144师" "步兵第145师" "步兵第146师" "步兵第147师" "步兵第148师" "步兵第149师" "步兵第150师" "步兵第151师" "步兵第152师" "步兵第153师" "步兵第154师" 
+		"步兵第155师" "步兵第156师" "步兵第157师" "步兵第158师" "步兵第159师" "步兵第160师" "步兵第161师" "步兵第162师" "步兵第163师" "步兵第164师" "步兵第165师" 
+		"步兵第166师" "步兵第167师" "步兵第168师" "步兵第169师" "步兵第170师" "步兵第171师" "步兵第172师" "步兵第173师" "步兵第174师" "步兵第175师" "步兵第176师" 
+		"步兵第177师" "步兵第178师" "步兵第179师" "步兵第180师" "步兵第181师" "步兵第182师" "步兵第183师" "步兵第184师" "步兵第185师" "步兵第186师" "步兵第187师" 
+		"步兵第188师" "步兵第189师" "步兵第190师" "步兵第191师" "步兵第192师" "步兵第193师" "步兵第194师" "步兵第195师" "步兵第196师" "步兵第197师" "步兵第198师" 
+		"步兵第199师" "步兵第200师" "步兵第201师" "步兵第202师" "步兵第203师" "步兵第204师" "步兵第205师" "步兵第206师" "步兵第207师" "步兵第208师" "步兵第209师" 
+		"步兵第210师" "步兵第211师" "步兵第212师" "步兵第213师" "步兵第214师" "步兵第215师" "步兵第216师" "步兵第217师" "步兵第218师" "步兵第219师" "步兵第220师" 
+		"步兵第221师" "步兵第222师" "步兵第223师" "步兵第224师" "步兵第225师" "步兵第226师" "步兵第227师" "步兵第228师" "步兵第229师" "步兵第230师" "步兵第231师" 
+		"步兵第232师" "步兵第233师" "步兵第234师" "步兵第235师" "步兵第236师" "步兵第237师" "步兵第238师" "步兵第239师" "步兵第240师" "步兵第241师" "步兵第242师" 
+		"步兵第243师" "步兵第244师" "步兵第245师" "步兵第246师" "步兵第247师" "步兵第248师" "步兵第249师" "步兵第250师" "步兵第251师" "步兵第252师" "步兵第253师" 
+		"步兵第254师" "步兵第255师" "步兵第256师" "步兵第257师" "步兵第258师" "步兵第259师" "步兵第260师" "步兵第261师" "步兵第262师" "步兵第263师" "步兵第264师" 
+		"步兵第265师" "步兵第266师" "步兵第267师" "步兵第268师" "步兵第269师" "步兵第270师" "步兵第271师" "步兵第272师" "步兵第273师" "步兵第274师" "步兵第275师" 
+		"步兵第276师" "步兵第277师" "步兵第278师" "步兵第279师" "步兵第280师" "步兵第281师" "步兵第282师" "步兵第283师" "步兵第284师" "步兵第285师" "步兵第286师" 
+		"步兵第287师" "步兵第288师" "步兵第289师" "步兵第290师" "步兵第291师" "步兵第292师" "步兵第293师" "步兵第294师" "步兵第295师" "步兵第296师" "步兵第297师" 
+		"步兵第298师" "步兵第299师" 
+	}
+	cavalry_brigade = {
+		"骑兵第1师" "骑兵第2师" "骑兵第3师" "骑兵第4师" "骑兵第5师" "骑兵第6师" "骑兵第7师" "骑兵第8师" "骑兵第9师" "骑兵第10师" "骑兵第11师" 
+		"骑兵第12师" "骑兵第13师" "骑兵第14师" "骑兵第15师" "骑兵第16师" "骑兵第17师" "骑兵第18师" "骑兵第19师" "骑兵第20师" "骑兵第21师" "骑兵第22师" 
+		"骑兵第23师" "骑兵第24师" "骑兵第25师" "骑兵第26师" "骑兵第27师" "骑兵第28师" "骑兵第29师" "骑兵第30师" 
+	}
+	motorized_brigade = {
+		"机动化步兵第1师" "机动化步兵第2师" "机动化步兵第3师" "机动化步兵第4师" "机动化步兵第5师" "机动化步兵第6师" "机动化步兵第7师" "机动化步兵第8师" "机动化步兵第9师" "机动化步兵第10师" "机动化步兵第11师" 
+		"机动化步兵第12师" "机动化步兵第13师" "机动化步兵第14师" "机动化步兵第15师" "机动化步兵第16师" "机动化步兵第17师" "机动化步兵第18师" "机动化步兵第19师" "机动化步兵第20师" "机动化步兵第21师" "机动化步兵第22师" 
+		"机动化步兵第23师" "机动化步兵第24师" "机动化步兵第25师" "机动化步兵第26师" "机动化步兵第27师" "机动化步兵第28师" "机动化步兵第29师" "机动化步兵第30师" "机动化步兵第31师" "机动化步兵第32师" "机动化步兵第33师" 
+		"机动化步兵第34师" "机动化步兵第35师" "机动化步兵第36师" "机动化步兵第37师" "机动化步兵第38师" "机动化步兵第39师" "机动化步兵第40师" 
+	}
+	mechanized_brigade = {
+		"机械化步兵第1师" "机械化步兵第2师" "机械化步兵第3师" "机械化步兵第4师" "机械化步兵第5师" "机械化步兵第6师" "机械化步兵第7师" "机械化步兵第8师" "机械化步兵第9师" "机械化步兵第10师" "机械化步兵第11师" 
+		"机械化步兵第12师" "机械化步兵第13师" "机械化步兵第14师" "机械化步兵第15师" "机械化步兵第16师" "机械化步兵第17师" "机械化步兵第18师" "机械化步兵第19师" "机械化步兵第20师" "机械化步兵第21师" "机械化步兵第22师" 
+		"机械化步兵第23师" "机械化步兵第24师" "机械化步兵第25师" "机械化步兵第26师" "机械化步兵第27师" "机械化步兵第28师" "机械化步兵第29师" "机械化步兵第30师" "机械化步兵第31师" "机械化步兵第32师" "机械化步兵第33师" 
+		"机械化步兵第34师" "机械化步兵第35师" "机械化步兵第36师" "机械化步兵第37师" "机械化步兵第38师" "机械化步兵第39师" "机械化步兵第40师" "机械化步兵第41师" "机械化步兵第42师" "机械化步兵第43师" "机械化步兵第44师" 
+		"机械化步兵第45师" "机械化步兵第46师" "机械化步兵第47师" "机械化步兵第48师" "机械化步兵第49师" "机械化步兵第50师" "机械化步兵第51师" "机械化步兵第52师" "机械化步兵第53师" "机械化步兵第54师" "机械化步兵第55师" 
+		"机械化步兵第56师" "机械化步兵第57师" "机械化步兵第58师" "机械化步兵第59师" "机械化步兵第60师" "机械化步兵第61师" "机械化步兵第62师" "机械化步兵第63师" "机械化步兵第64师" "机械化步兵第65师" "机械化步兵第66师" 
+		"机械化步兵第67师" "机械化步兵第68师" "机械化步兵第69师" "机械化步兵第70师" "机械化步兵第71师" "机械化步兵第72师" "机械化步兵第73师" "机械化步兵第74师" "机械化步兵第75师" "机械化步兵第76师" "机械化步兵第77师" 
+		"机械化步兵第78师" "机械化步兵第79师" "机械化步兵第80师" "机械化步兵第81师" "机械化步兵第82师" "机械化步兵第83师" "机械化步兵第84师" "机械化步兵第85师" "机械化步兵第86师" "机械化步兵第87师" "机械化步兵第88师" 
+		"机械化步兵第89师" "机械化步兵第90师" "机械化步兵第91师" "机械化步兵第92师" "机械化步兵第93师" "机械化步兵第94师" "机械化步兵第95师" "机械化步兵第96师" "机械化步兵第97师" "机械化步兵第98师" "机械化步兵第99师" 
+		"机械化步兵第100师" 
+	}
+	light_armor_brigade = {
+		"轻型装甲第1师" "轻型装甲第2师" "轻型装甲第3师" "轻型装甲第4师" "轻型装甲第5师" "轻型装甲第6师" "轻型装甲第7师" "轻型装甲第8师" "轻型装甲第9师" "轻型装甲第10师" 
+	}
+	armor_brigade = {
+		"装甲兵第1师" "装甲兵第2师" "装甲兵第3师" "装甲兵第4师" "装甲兵第5师" "装甲兵第6师" "装甲兵第7师" "装甲兵第8师" "装甲兵第9师" "装甲兵第10师" "装甲兵第11师" 
+		"装甲兵第12师" "装甲兵第13师" "装甲兵第14师" "装甲兵第15师" "装甲兵第16师" "装甲兵第17师" "装甲兵第18师" "装甲兵第19师" "装甲兵第20师" "装甲兵第21师" "装甲兵第22师" 
+		"装甲兵第23师" "装甲兵第24师" "装甲兵第25师" "装甲兵第26师" "装甲兵第27师" "装甲兵第28师" "装甲兵第29师" "装甲兵第30师" "装甲第1师" "装甲第2师" "装甲第3师" 
+		"装甲第4师" "装甲第5师" "装甲第6师" "装甲第7师" "装甲第8师" "装甲第9师" "装甲第10师" "装甲第11师" "装甲第12师" "装甲第13师" "装甲第14师" 
+		"装甲第15师" "装甲第16师" "装甲第17师" "装甲第18师" "装甲第19师" "装甲第20师" "装甲第21师" "装甲第22师" "装甲第23师" "装甲第24师" "装甲第25师" 
+		"装甲第26师" "装甲第27师" "装甲第28师" "装甲第29师" "装甲第30师" 
+	}
+	paratrooper_brigade = {
+		"伞兵第1师" "伞兵第2师" "伞兵第3师" "伞兵第4师" "伞兵第5师" "伞兵第6师" "伞兵第7师" "伞兵第8师" "伞兵第9师" "伞兵第10师" "伞兵第11师" 
+		"伞兵第12师" "伞兵第13师" "伞兵第14师" "伞兵第15师" "伞兵第16师" "伞兵第17师" "伞兵第18师" "伞兵第19师" "伞兵第20师" 
+	}
+	marine_brigade = {
+		"陆战队第1师" "陆战队第2师" "陆战队第3师" "陆战队第4师" "陆战队第5师" "陆战队第6师" "陆战队第7师" "陆战队第8师" "陆战队第9师" "陆战队第10师" "陆战队第11师" 
+		"陆战队第12师" "陆战队第13师" "陆战队第14师" "陆战队第15师" "陆战队第16师" "陆战队第17师" "陆战队第18师" "陆战队第19师" "陆战队第20师" 
+	}
+	bergsjaeger_brigade = {
+		"山地第1师" "山地第2师" "山地第3师" "山地第4师" "山地第5师" "山地第6师" "山地第7师" "山地第8师" "山地第9师" "山地第10师" "山地第11师" 
+		"山地第12师" "山地第13师" "山地第14师" "山地第15师" "山地第16师" "山地第17师" "山地第18师" "山地第19师" "山地第20师" "山地第21师" "山地第22师" 
+		"山地第23师" "山地第24师" "山地第25师" "山地第26师" "山地第27师" "山地第28师" "山地第29师" "山地第30师" "山地第31师" "山地第32师" "山地第33师" 
+		"山地第34师" "山地第35师" "山地第36师" "山地第37师" "山地第38师" "山地第39师" "山地第40师" "山地第41师" "山地第42师" "山地第43师" "山地第44师" 
+		"山地第45师" "山地第46师" "山地第47师" "山地第48师" "山地第49师" "山地第50师" 
+	}
+	garrison_brigade = {
+		"保安第1纵队" "保安第2纵队" "保安第3纵队" "保安第4纵队" "保安第5纵队" "保安第6纵队" "保安第7纵队" "保安第8纵队" "保安第9纵队" "保安第10纵队" "保安第11纵队" 
+		"保安第12纵队" "保安第13纵队" "保安第14纵队" "保安第15纵队" "保安第16纵队" "保安第17纵队" "保安第18纵队" "保安第19纵队" "保安第20纵队" "保安第21纵队" "保安第22纵队" 
+		"保安第23纵队" "保安第24纵队" "保安第25纵队" "保安第26纵队" "保安第27纵队" "保安第28纵队" "保安第29纵队" "保安第30纵队" "保安第31纵队" "保安第32纵队" "保安第33纵队" 
+		"保安第34纵队" "保安第35纵队" "保安第36纵队" "保安第37纵队" "保安第38纵队" "保安第39纵队" "保安第40纵队" "保安第41纵队" "保安第42纵队" "保安第43纵队" "保安第44纵队" 
+		"保安第45纵队" "保安第46纵队" "保安第47纵队" "保安第48纵队" "保安第49纵队" "保安第50纵队" "保安第51纵队" "保安第52纵队" "保安第53纵队" "保安第54纵队" "保安第55纵队" 
+		"保安第56纵队" "保安第57纵队" "保安第58纵队" "保安第59纵队" "保安第60纵队" "保安第61纵队" "保安第62纵队" "保安第63纵队" "保安第64纵队" "保安第65纵队" "保安第66纵队" 
+		"保安第67纵队" "保安第68纵队" "保安第69纵队" "保安第70纵队" "保安第71纵队" "保安第72纵队" "保安第73纵队" "保安第74纵队" "保安第75纵队" "保安第76纵队" "保安第77纵队" 
+		"保安第78纵队" "保安第79纵队" "保安第80纵队" "保安第81纵队" "保安第82纵队" "保安第83纵队" "保安第84纵队" "保安第85纵队" "保安第86纵队" "保安第87纵队" "保安第88纵队" 
+		"保安第89纵队" "保安第90纵队" "保安第91纵队" "保安第92纵队" "保安第93纵队" "保安第94纵队" "保安第95纵队" "保安第96纵队" "保安第97纵队" "保安第98纵队" "保安第99纵队" 
+		"保安第100纵队" "保安第101纵队" "保安第102纵队" "保安第103纵队" "保安第104纵队" "保安第105纵队" "保安第106纵队" "保安第107纵队" "保安第108纵队" "保安第109纵队" "保安第110纵队" 
+		"保安第111纵队" "保安第112纵队" "保安第113纵队" "保安第114纵队" "保安第115纵队" "保安第116纵队" "保安第117纵队" "保安第118纵队" "保安第119纵队" "保安第120纵队" "保安第121纵队" 
+		"保安第122纵队" "保安第123纵队" "保安第124纵队" "保安第125纵队" "保安第126纵队" "保安第127纵队" "保安第128纵队" "保安第129纵队" "保安第130纵队" "保安第131纵队" "保安第132纵队" 
+		"保安第133纵队" "保安第134纵队" "保安第135纵队" "保安第136纵队" "保安第137纵队" "保安第138纵队" "保安第139纵队" "保安第140纵队" "保安第141纵队" "保安第142纵队" "保安第143纵队" 
+		"保安第144纵队" "保安第145纵队" "保安第146纵队" "保安第147纵队" "保安第148纵队" "保安第149纵队" "保安第150纵队" "保安第151纵队" "保安第152纵队" "保安第153纵队" "保安第154纵队" 
+		"保安第155纵队" "保安第156纵队" "保安第157纵队" "保安第158纵队" "保安第159纵队" "保安第160纵队" "保安第161纵队" "保安第162纵队" "保安第163纵队" "保安第164纵队" "保安第165纵队" 
+		"保安第166纵队" "保安第167纵队" "保安第168纵队" "保安第169纵队" "保安第170纵队" "保安第171纵队" "保安第172纵队" "保安第173纵队" "保安第174纵队" "保安第175纵队" "保安第176纵队" 
+		"保安第177纵队" "保安第178纵队" "保安第179纵队" "保安第180纵队" "保安第181纵队" "保安第182纵队" "保安第183纵队" "保安第184纵队" "保安第185纵队" "保安第186纵队" "保安第187纵队" 
+		"保安第188纵队" "保安第189纵队" "保安第190纵队" "保安第191纵队" "保安第192纵队" "保安第193纵队" "保安第194纵队" "保安第195纵队" "保安第196纵队" "保安第197纵队" "保安第198纵队" 
+		"保安第199纵队" "保安第200纵队" "保安第201纵队" "保安第202纵队" "保安第203纵队" "保安第204纵队" "保安第205纵队" "保安第206纵队" "保安第207纵队" "保安第208纵队" "保安第209纵队" 
+		"保安第210纵队" "保安第211纵队" "保安第212纵队" "保安第213纵队" "保安第214纵队" "保安第215纵队" "保安第216纵队" "保安第217纵队" "保安第218纵队" "保安第219纵队" "保安第220纵队" 
+		"保安第221纵队" "保安第222纵队" "保安第223纵队" "保安第224纵队" "保安第225纵队" "保安第226纵队" "保安第227纵队" "保安第228纵队" "保安第229纵队" "保安第230纵队" "保安第231纵队" 
+		"保安第232纵队" "保安第233纵队" "保安第234纵队" "保安第235纵队" "保安第236纵队" "保安第237纵队" "保安第238纵队" "保安第239纵队" "保安第240纵队" "保安第241纵队" "保安第242纵队" 
+		"保安第243纵队" "保安第244纵队" "保安第245纵队" "保安第246纵队" "保安第247纵队" "保安第248纵队" "保安第249纵队" "保安第250纵队" "保安第251纵队" "保安第252纵队" "保安第253纵队" 
+		"保安第254纵队" "保安第255纵队" "保安第256纵队" "保安第257纵队" "保安第258纵队" "保安第259纵队" "保安第260纵队" "保安第261纵队" "保安第262纵队" "保安第263纵队" "保安第264纵队" 
+		"保安第265纵队" "保安第266纵队" "保安第267纵队" "保安第268纵队" "保安第269纵队" "保安第270纵队" "保安第271纵队" "保安第272纵队" "保安第273纵队" "保安第274纵队" "保安第275纵队" 
+		"保安第276纵队" "保安第277纵队" "保安第278纵队" "保安第279纵队" "保安第280纵队" "保安第281纵队" "保安第282纵队" "保安第283纵队" "保安第284纵队" "保安第285纵队" "保安第286纵队" 
+		"保安第287纵队" "保安第288纵队" "保安第289纵队" "保安第290纵队" "保安第291纵队" "保安第292纵队" "保安第293纵队" "保安第294纵队" "保安第295纵队" "保安第296纵队" "保安第297纵队" 
+		"保安第298纵队" "保安第299纵队" 
+	}
+	hq_brigade = {
+		"第1战区" "第2战区" "第3战区" "第4战区" "第5战区" "第6战区" "第7战区" "第8战区" "第9战区" "第10战区" "第11战区" 
+		"第12战区" "第13战区" "第14战区" "第15战区" "第16战区" "第17战区" "第18战区" "第19战区" "第20战区" "第21战区" "第22战区" 
+		"第23战区" "第24战区" "第25战区" "第26战区" "第27战区" "第28战区" "第29战区" "第30战区" 
+	}
+	militia_brigade = {
+		"江苏省保安总队" "浙江省保安总队" "福建省保安总队" "安徽省保安总队" "河南省保安总队" "湖北省保安总队" "江西省保安总队" "湖南省保安总队" "陕西省保安总队" "贵州省保安总队" "四川省保安总队" 
+		"江苏省警察总队" "浙江省警察总队" "福建省警察总队" "安徽省警察总队" "河南省警察总队" "湖北省警察总队" "江西省警察总队" "湖南省警察纵队" "陕西省警察纵队" "贵州省警察纵队" "四川省警察纵队" 
+		"江苏省民防总队" "浙江省民防总队" "福建省民防总队" "安徽省民防总队" "河南省民防总队" "湖北省民防总队" "江西省民防总队" "湖南省民防总队" "陕西省民防总队" "贵州省民防总队" "四川省民防总队" 
+		"民兵第1师" "民兵第2师" "民兵第3师" "民兵第4师" "民兵第5师" "民兵第6师" "民兵第7师" "民兵第8师" "民兵第9师" "民兵第10师" "民兵第11师" 
+		"民兵第12师" "民兵第13师" "民兵第14师" "民兵第15师" "民兵第16师" "民兵第17师" "民兵第18师" "民兵第19师" "民兵第20师" "民兵第21师" "民兵第22师" 
+		"民兵第23师" "民兵第24师" "民兵第25师" "民兵第26师" "民兵第27师" "民兵第28师" "民兵第29师" "民兵第30师" "民兵第31师" "民兵第32师" "民兵第33师" 
+		"民兵第34师" "民兵第35师" "民兵第36师" "民兵第37师" "民兵第38师" "民兵第39师" "民兵第40师" "民兵第41师" "民兵第42师" "民兵第43师" "民兵第44师" 
+		"民兵第45师" "民兵第46师" "民兵第47师" "民兵第48师" "民兵第49师" "民兵第50师" "民兵第51师" "民兵第52师" "民兵第53师" "民兵第54师" "民兵第55师" 
+		"民兵第56师" "民兵第57师" "民兵第58师" "民兵第59师" "民兵第60师" "民兵第61师" "民兵第62师" "民兵第63师" "民兵第64师" "民兵第65师" "民兵第66师" 
+		"民兵第67师" "民兵第68师" "民兵第69师" "民兵第70师" "民兵第71师" "民兵第72师" "民兵第73师" "民兵第74师" "民兵第75师" "民兵第76师" "民兵第77师" 
+		"民兵第78师" "民兵第79师" "民兵第80师" "民兵第81师" "民兵第82师" "民兵第83师" "民兵第84师" "民兵第85师" "民兵第86师" "民兵第87师" "民兵第88师" 
+		"民兵第89师" "民兵第90师" "民兵第91师" "民兵第92师" "民兵第93师" "民兵第94师" "民兵第95师" "民兵第96师" "民兵第97师" "民兵第98师" "民兵第99师" 
+		"民兵第100师" 
+	}
+	multi_role = {
+		"第1多任务战斗机大队" "第2多任务战斗机大队" "第3多任务战斗机大队" "第4多任务战斗机大队" "第5多任务战斗机大队" "第6多任务战斗机大队" "第7多任务战斗机大队" "第8多任务战斗机大队" "第9多任务战斗机大队" "第10多任务战斗机大队" "第11多任务战斗机大队" 
+		"第12多任务战斗机大队" "第13多任务战斗机大队" "第14多任务战斗机大队" "第15多任务战斗机大队" "第16多任务战斗机大队" "第17多任务战斗机大队" "第18多任务战斗机大队" "第19多任务战斗机大队" "第20多任务战斗机大队" 
+	}
+	interceptor = {
+		"第1截击机大队" "第2截击机大队" "第3截击机大队" "第4截击机大队" "第5截击机大队" "第6截击机大队" "第7截击机大队" "第8截击机大队" "第9截击机大队" "第10截击机大队" "第11截击机大队" 
+		"第12截击机大队" "第13截击机大队" "第14截击机大队" "第15截击机大队" "第16截击机大队" "第17截击机大队" "第18截击机大队" "第19截击机大队" "第20截击机大队" 
+	}
+	strategic_bomber = {
+		"第1战略轰炸机大队" "第2战略轰炸机大队" "第3战略轰炸机大队" "第4战略轰炸机大队" "第5战略轰炸机大队" "第6战略轰炸机大队" "第7战略轰炸机大队" "第8战略轰炸机大队" "第9战略轰炸机大队" "第10战略轰炸机大队" "第11战略轰炸机大队" 
+		"第12战略轰炸机大队" "第13战略轰炸机大队" "第14战略轰炸机大队" "第15战略轰炸机大队" "第16战略轰炸机大队" "第17战略轰炸机大队" "第18战略轰炸机大队" "第19战略轰炸机大队" "第20战略轰炸机大队" 
+	}
+	tactical_bomber = {
+		" 第1战术轰炸机大队" " 第2战术轰炸机大队" " 第3战术轰炸机大队" " 第4战术轰炸机大队" " 第5战术轰炸机大队" " 第6战术轰炸机大队" " 第7战术轰炸机大队" " 第8战术轰炸机大队" " 第9战术轰炸机大队" " 第10战术轰炸机大队" " 第11战术轰炸机大队" 
+		" 第12战术轰炸机大队" " 第13战术轰炸机大队" " 第14战术轰炸机大队" " 第15战术轰炸机大队" " 第16战术轰炸机大队" " 第17战术轰炸机大队" " 第18战术轰炸机大队" " 第19战术轰炸机大队" " 第20战术轰炸机大队" "第21 Zhanshu Hongzhaji Dadui" "第22 Zhanshu Hongzhaji Dadui" 
+		"第23战术轰炸机大队" "第24战术轰炸机大队" "第25战术轰炸机大队" "第26战术轰炸机大队" "第27战术轰炸机大队" "第28战术轰炸机大队" "第29战术轰炸机大队" "第30战术轰炸机大队" "第31战术轰炸机大队" "第32战术轰炸机大队" "第33战术轰炸机大队" 
+		"第34战术轰炸机大队" "第35战术轰炸机大队" "第36战术轰炸机大队" "第37战术轰炸机大队" "第38战术轰炸机大队" "第39战术轰炸机大队" "第40战术轰炸机大队" 
+	}
+	naval_bomber = {
+		"第1海军轰炸机大队" "第2海军轰炸机大队" "第3海军轰炸机大队" "第4海军轰炸机大队" "第5海军轰炸机大队" "第6海军轰炸机大队" "第7海军轰炸机大队" "第8海军轰炸机大队" "第9海军轰炸机大队" "第10海军轰炸机大队" "第11海军轰炸机大队" 
+		"第12海军轰炸机大队" "第13海军轰炸机大队" "第14海军轰炸机大队" "第15海军轰炸机大队" "第16海军轰炸机大队" "第17海军轰炸机大队" "第18海军轰炸机大队" "第19海军轰炸机大队" "第20海军轰炸机大队" 
+	}
+	cas = {
+		"第1近距离空援大队" "第2近距离空援大队" "第3近距离空援大队" "第4近距离空援大队" "第5近距离空援大队" "第6近距离空援大队" "第7近距离空援大队" "第8近距离空援大队" "第9近距离空援大队" "第10近距离空援大队" "第11近距离空援大队" 
+		"第12近距离空援大队" "第13近距离空援大队" "第14近距离空援大队" "第15近距离空援大队" "第16近距离空援大队" "第17近距离空援大队" "第18近距离空援大队" "第19近距离空援大队" "第20近距离空援大队" 
+	}
+	transport_plane = {
+		"第1空运机大队" "第2空运机大队" "第3空运机大队" "第4空运机大队" "第5空运机大队" "第6空运机大队" "第7空运机大队" "第8空运机大队" "第9空运机大队" "第10空运机大队" 
+	}
+	battleship = {
+		"威靖" "福靖" "扬武" "宣武" "定波" "伏波" "建威" "建安" "无畏" "无当" "龙威" 
+		"虎威" "靖远" "威远" "潮宏" 
+	}
+	light_cruiser = {
+		"宁海号" "平海号" "憧憬号" "南新号" "茂名号" "宜昌号" "同弛号" "海云号" "海琛号" "海神号" "英伟号" 
+		"飞鸿号" 
+	}
+	heavy_cruiser = {
+		"文俊号" "正熙号" "憧憬号" "威远号" "奋斗号" "讨虏号" "光明号" "征东号" "征南号" "海琛号" "英伟号" 
+		"飞鸿号" "憧憬号" "南新号" "宜昌号" "飞鸿号" "宁海号" "平海号" 
+	}
+	battlecruiser = {
+		"文俊号" "正熙号" "憧憬号" "威远号" "奋斗号" "讨虏号" "光明号" "征东号" "征南号" "海琛号" "英伟号" 
+		"飞鸿号" "憧憬号" "南新号" "宜昌号" "飞鸿号" "宁海号" "平海号" 
+	}
+	destroyer = {
+		"第1驱逐舰大队" "第2驱逐舰大队" "第3驱逐舰大队" "第4驱逐舰大队" "第5驱逐舰大队" "第6驱逐舰大队" "第7驱逐舰大队" "第8驱逐舰大队" "第9驱逐舰大队" "第10驱逐舰大队" "第11驱逐舰大队" 
+		"第12驱逐舰大队" "第13驱逐舰大队" "第14驱逐舰大队" "第15驱逐舰大队" 
+	}
+	carrier = {
+		"震澜" "安澜" "建康" "建翼" "平远" "扬威" "振威" "海宁" "海靖" "自强" "共和" 
+		"中正" "威凤" "舞凤" "自由" 
+	}
+	escort_carrier = {
+		"长宁" "绥宁" "正宁" "抚宁" "大同" "逸仙" "永翔" "镜清" "统驰" "寰泰" "坚如" 
+		"坚如" "仲元" "光华" "翔麟" 
+	}
+	submarine = {
+		"第1潜艇编队" "第2潜艇编队" "第3潜艇编队" "第4潜艇编队" "第5潜艇编队" "第6潜艇编队" "第7潜艇编队" "第8潜艇编队" "第9潜艇编队" "第10潜艇编队" "第11潜艇编队" 
+		"第12潜艇编队" "第13潜艇编队" "第14潜艇编队" "第15潜艇编队" 
+	}
+	transport_ship = {
+		"第1运输船大队" "第2运输船大队" "第3运输船大队" "第4运输船大队" "第5运输船大队" "第6运输船大队" "第7运输船大队" "第8运输船大队" "第9运输船大队" "第10运输船大队" "第11运输船大队" 
+		"第12运输船大队" "第13运输船大队" "第14运输船大队" "第15运输船大队" "第16运输船大队" "第17运输船大队" "第18运输船大队" "第19运输船大队" "第20运输船大队" 
+	}
+
+}
+
+
+ministers = {
+	52001 = {
+		name = "林森"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52001
+		head_of_state = weary_stiff_neck
+		head_of_state = weary_stiff_neck
+		foreign_minister = ideological_crusader
+		start_date = 1936.1.1
+	}
+	52002 = {
+		name = "蒋介石"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52002
+		head_of_government = old_general
+		chief_of_staff = school_of_manoeuvre
+		head_of_state = resigned_generalissimo
+		start_date = 1936.1.1
+	}
+	52003 = {
+		name = "张群"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52003
+		foreign_minister = great_compromiser
+		head_of_government = happy_amateur
+		start_date = 1936.1.1
+	}
+	52004 = {
+		name = "阎锡山"
+		ideology = paternal_autocrat
+		loyalty = 0.50
+		picture = M52004
+		armament_minister = corrupt_kleptocrat
+		start_date = 1936.1.1
+	}
+	52005 = {
+		name = "陈果夫"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52005
+		minister_of_security = crooked_kleptocrat
+		foreign_minister = great_compromiser
+		armament_minister = laissez_faires_capitalist
+		start_date = 1936.1.1
+	}
+	52006 = {
+		name = "陈立夫"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52006
+		minister_of_intelligence = political_specialist
+		minister_of_security = back_stabber
+		start_date = 1936.1.1
+	}
+	52008 = {
+		name = "张学良"
+		ideology = paternal_autocrat
+		loyalty = 0.50
+		picture = M52008
+		chief_of_army = guns_and_butter_doctrine
+		minister_of_intelligence = research_specialist
+		start_date = 1936.1.1
+	}
+	52009 = {
+		name = "陈绍宽"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = M52009
+		chief_of_navy = indirect_approach_doctrine
+		armament_minister = battle_fleet_proponent
+		start_date = 1936.1.1
+	}
+	52010 = {
+		name = "周至柔"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52010
+		chief_of_air = army_aviation_doctrine
+		start_date = 1936.1.1
+	}
+	52024 = {
+		name = "宋子文"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M52024
+		head_of_state = autocratic_charmer
+		head_of_government = political_protege
+		foreign_minister = the_cloak_n_dagger_schemer
+		start_date = 1943.1.1
+	}
+	52025 = {
+		name = "汪精卫"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M52011
+		head_of_state = ruthless_powermonger
+		foreign_minister = biased_intellectual
+		start_date = 1939.1.1
+	}
+	52026 = {
+		name = "王宠惠"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52026
+		head_of_government = flamboyant_tough_guy
+		foreign_minister = ideological_crusader
+		start_date = 1937.1.1
+	}
+	52030 = {
+		name = "孔祥熙"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52030
+		head_of_government = silent_workhorse
+		minister_of_security = man_of_the_people
+		start_date = 1938.1.1
+	}
+	52031 = {
+		name = "李宗仁"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M52031
+		head_of_government = corporate_suit
+		chief_of_army = static_defence_doctrine
+		start_date = 1943.1.1
+	}
+	52032 = {
+		name = "王克敏"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M52012
+		head_of_government = backroom_backstabber
+		minister_of_security = man_of_the_people
+		start_date = 1939.1.1
+	}
+	52035 = {
+		name = "林蔚"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52035
+		foreign_minister = general_staffer
+		chief_of_staff = school_of_manoeuvre
+		start_date = 1939.1.1
+	}
+	52036 = {
+		name = "沈醉"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52036
+		foreign_minister = apologetic_clerk
+		start_date = 1940.1.1
+	}
+	52038 = {
+		name = "王世杰"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = M52038
+		foreign_minister = iron_fisted_brute
+		start_date = 1945.1.1
+	}
+	52042 = {
+		name = "陈群"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = M52013
+		foreign_minister = apologetic_clerk
+		start_date = 1938.1.1
+	}
+	52043 = {
+		name = "杨鲁昌"
+		ideology = fascistic
+		loyalty = 0.75
+		picture = M52043
+		foreign_minister = great_compromiser
+		armament_minister = resource_industrialist
+		start_date = 1944.1.1
+	}
+	52045 = {
+		name = "白崇禧"
+		ideology = paternal_autocrat
+		loyalty = 0.50
+		picture = M52045
+		armament_minister = resource_industrialist
+		chief_of_staff = school_of_mass_combat
+		start_date = 1937.1.1
+	}
+	52046 = {
+		name = "徐永昌"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52046
+		armament_minister = theoretical_scientist
+		start_date = 1938.1.1
+	}
+	52047 = {
+		name = "黄辰左"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52047
+		armament_minister = military_entrepreneur
+		chief_of_air = air_superiority_doctrine
+		start_date = 1939.1.1
+	}
+	52048 = {
+		name = "何应钦"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52048
+		armament_minister = air_superiority_proponent
+		armament_minister = infantry_proponent
+		chief_of_army = elastic_defence_doctrine
+		start_date = 1939.1.1
+	}
+	52050 = {
+		name = "蔡文治"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52050
+		armament_minister = tank_proponent
+		start_date = 1941.1.1
+	}
+	52051 = {
+		name = "贺国光"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52051
+		armament_minister = air_to_ground_proponent
+		start_date = 1942.1.1
+	}
+	52053 = {
+		name = "于飞鹏"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52053
+		armament_minister = infantry_proponent
+		start_date = 1942.1.1
+	}
+	52054 = {
+		name = "王树铭"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52054
+		armament_minister = air_to_sea_proponent
+		chief_of_air = vertical_envelopment_doctrine
+		start_date = 1943.1.1
+	}
+	52055 = {
+		name = "蒋经国"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52055
+		armament_minister = administrative_genius
+		minister_of_security = man_of_the_people
+		start_date = 1945.1.1
+	}
+	52056 = {
+		name = "杜建时"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52056
+		armament_minister = strategic_air_proponent
+		start_date = 1946.1.1
+	}
+	52057 = {
+		name = "翁文灏"
+		ideology = social_conservative
+		loyalty = 0.75
+		picture = M52057
+		armament_minister = laissez_faires_capitalist
+		start_date = 1939.1.1
+	}
+	52059 = {
+		name = "陈公博"
+		ideology = fascistic
+		loyalty = 0.75
+		picture = M52014
+		armament_minister = laissez_faires_capitalist
+		start_date = 1939.1.1
+	}
+	52061 = {
+		name = "陈策"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M52061
+		armament_minister = submarine_proponent
+		start_date = 1943.1.1
+	}
+	52063 = {
+		name = "戴笠"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52063
+		minister_of_security = crime_fighter
+		minister_of_intelligence = political_specialist
+		start_date = 1938.1.1
+	}
+	52064 = {
+		name = "瓦尔特·斯滕内斯"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52064
+		minister_of_security = back_stabber
+		start_date = 1937.1.1
+	}
+	52065 = {
+		name = "吴忠信"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52065
+		minister_of_security = compassionate_gentleman
+		start_date = 1938.1.1
+	}
+	52066 = {
+		name = "黄慕松"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52066
+		minister_of_security = efficient_sociopath
+		start_date = 1939.1.1
+	}
+	52067 = {
+		name = "谷正轮"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52067
+		minister_of_security = crime_fighter
+		start_date = 1940.1.1
+	}
+	52068 = {
+		name = "刘斐"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = M52068
+		minister_of_security = silent_lawyer
+		start_date = 1941.1.1
+	}
+	52072 = {
+		name = "康泽"
+		ideology = social_conservative
+		loyalty = 0.75
+		picture = M52072
+		minister_of_security = prince_of_terror
+		start_date = 1944.1.1
+	}
+	52073 = {
+		name = "蔡元培"
+		ideology = social_conservative
+		loyalty = 0.75
+		picture = M52073
+		minister_of_security = compassionate_gentleman
+		start_date = 1945.1.1
+	}
+	52074 = {
+		name = "丁莫屯"
+		ideology = fascistic
+		loyalty = 0.75
+		picture = M52015
+		minister_of_security = crooked_kleptocrat
+		start_date = 1939.1.1
+	}
+	52076 = {
+		name = "陈宏山"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M52076
+		minister_of_security = prince_of_terror
+		start_date = 1943.1.1
+	}
+	52077 = {
+		name = "陈飞克"
+		ideology = fascistic
+		loyalty = 1.00
+		picture = M52077
+		minister_of_security = efficient_sociopath
+		minister_of_intelligence = research_specialist
+		start_date = 1944.1.1
+	}
+	52079 = {
+		name = "贺耀祖"
+		ideology = paternal_autocrat
+		loyalty = 0.50
+		picture = M52079
+		minister_of_intelligence = industrial_specialist
+		start_date = 1939.1.1
+	}
+	52080 = {
+		name = "毛人凤"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52080
+		minister_of_intelligence = research_specialist
+		start_date = 1940.1.1
+	}
+	52081 = {
+		name = "蒋一英"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52064
+		minister_of_intelligence = dismal_enigma
+		start_date = 1944.1.1
+	}
+	52082 = {
+		name = "杨玄城"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52082
+		minister_of_intelligence = naval_intelligence_specialist
+		start_date = 1941.1.1
+	}
+	52083 = {
+		name = "郑介民"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52083
+		minister_of_intelligence = technical_specialist
+		start_date = 1942.1.1
+	}
+	52085 = {
+		name = "李世群"
+		ideology = fascistic
+		loyalty = 0.75
+		picture = M52016
+		minister_of_intelligence = political_specialist
+		start_date = 1939.1.1
+	}
+	52089 = {
+		name = "蒋百里"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52089
+		chief_of_staff = school_of_psychology
+		chief_of_army = guns_and_butter_doctrine
+		start_date = 1939.1.1
+	}
+	52090 = {
+		name = "蒋百里"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52090
+		chief_of_staff = school_of_defence
+		chief_of_air = carpet_bombing_doctrine
+		start_date = 1941.1.1
+	}
+	52092 = {
+		name = "萧毅肃"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52092
+		chief_of_staff = school_of_fire_support
+		start_date = 1945.1.1
+	}
+	52093 = {
+		name = "傅作义"
+		ideology = social_conservative
+		loyalty = 1.00
+		picture = M52093
+		chief_of_staff = school_of_defence
+		start_date = 1939.1.1
+	}
+	52094 = {
+		name = "齐燮元"
+		ideology = fascistic
+		loyalty = 0.50
+		picture = M52017
+		chief_of_staff = school_of_fire_support
+		start_date = 1939.1.1
+	}
+	52097 = {
+		name = "顾祝同"
+		ideology = paternal_autocrat
+		loyalty = 0.50
+		picture = M52097
+		chief_of_army = decisive_battle_doctrine
+		start_date = 1939.1.1
+	}
+	52098 = {
+		name = "徐庭瑶"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52098
+		chief_of_army = armoured_spearhead_doctrine
+		start_date = 1944.1.1
+	}
+	52100 = {
+		name = "鲍文樾"
+		ideology = fascistic
+		loyalty = 0.50
+		picture = M52018
+		chief_of_army = static_defence_doctrine
+		start_date = 1939.1.1
+	}
+	52101 = {
+		name = "欧阳格"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52101
+		chief_of_navy = open_seas_doctrine
+		start_date = 1937.1.1
+	}
+	52102 = {
+		name = "曾以鼎"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = M52102
+		chief_of_navy = base_control_doctrine
+		start_date = 1939.1.1
+	}
+	52103 = {
+		name = "陈季良"
+		ideology = paternal_autocrat
+		loyalty = 0.75
+		picture = M52103
+		chief_of_navy = indirect_approach_doctrine
+		start_date = 1943.1.1
+	}
+	52104 = {
+		name = "桂永清"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52104
+		chief_of_navy = decisive_naval_battle_doctrine
+		start_date = 1945.1.1
+	}
+	52105 = {
+		name = "陈诚"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52105
+		chief_of_navy = power_projection_doctrine
+		start_date = 1945.1.1
+	}
+	52106 = {
+		name = "任寿旭"
+		ideology = social_conservative
+		loyalty = 0.50
+		picture = M52106
+		chief_of_navy = open_seas_doctrine
+		start_date = 1939.1.1
+	}
+	52107 = {
+		name = "任援道"
+		ideology = fascistic
+		loyalty = 0.50
+		picture = M52019
+		chief_of_navy = open_seas_doctrine
+		start_date = 1939.1.1
+	}
+	52109 = {
+		name = "沈鸿烈"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52109
+		chief_of_air = naval_aviation_doctrine
+		start_date = 1941.1.1
+	}
+	52113 = {
+		name = "陈昌祖"
+		ideology = fascistic
+		loyalty = 0.50
+		picture = M52020
+		chief_of_air = army_aviation_doctrine
+		start_date = 1939.1.1
+	}
+	52114 = {
+		name = "阎锡山"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52114
+		head_of_government = old_general
+		start_date = 1949.1.1
+	}
+	52115 = {
+		name = "陈诚"
+		ideology = paternal_autocrat
+		loyalty = 1.00
+		picture = M52115
+		head_of_government = political_protege
+		start_date = 1950.1.1
+	}
+}

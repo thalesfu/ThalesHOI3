@@ -639,7 +639,7 @@
 	}
 }
 50048 = {
-	name = "ΩØΩÈ Ø1"
+	name = "ΩØΩÈ Ø"
 	country = CHI
 	type = land
 	skill = 3
