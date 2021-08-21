@@ -1,7 +1,7 @@
 defines = {
 
-start_date = '1800.1.1',
-end_date = '2050.12.31',
+start_date = '1895.4.18',   --马关条约签订
+end_date = '1950.12.31',
 
 land_combat = 'land_doctrine_practical',
 naval_combat = 'naval_doctrine_practical',
@@ -11,8 +11,8 @@ bombing = 'air_doctrine_practical',
 base_militia = 'militia_brigade',
 
 country = {
-	CORE_LOSE 				= 50,
-	CORE_GAIN 				= 50,
+	CORE_LOSE 				= 50,   --核心丧失
+	CORE_GAIN 				= 50,   --核心获得
 	YEARS_OF_NATIONALISM 	= 20,   -- Years of Nationalism
 	YEARS_UNTIL_BROKEN 		= 2,    -- Years until rebel held capital results in broken country.
 	REBEL_ACCEPTANCE_MONTHS = 60,
