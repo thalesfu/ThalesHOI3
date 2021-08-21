@@ -4,52 +4,52 @@ militia_brigade = {
 	#unit_group = infantry_unit_type #No CA for you
 
 	#Size Definitions
-	max_strength = 30
-	default_organisation = 20
-	default_morale = 0.20
-	officers = 10
+	max_strength = 30           #人数  value * 100
+	default_organisation = 20   #默认组织度
+	default_morale = 0.20       #默认士气
+	officers = 10               #军官数量
 
-	#Building Costs
-	build_cost_ic = 1.33
-	build_cost_manpower = 2.00
-	build_time = 50
-	repair_cost_multiplier = 0.05
+	#Building Costs             #
+	build_cost_ic = 1.33            #消耗IC
+	build_cost_manpower = 2.00      #消耗人力资源
+	build_time = 50                 #消耗时间
+	repair_cost_multiplier = 0.05   #维修消耗因子
 
 	#Misc Abilities
-	maximum_speed = 3.00
-	transport_weight = 5.00
-	supply_consumption = 0.20
-	fuel_consumption = 0.00
-	radio_strength = 1
+	maximum_speed = 3.00            #最高速度
+	transport_weight = 5.00         #运输重量
+	supply_consumption = 0.20       #补给消耗
+	fuel_consumption = 0.00         #燃料消耗
+	radio_strength = 1              #无线电强度
 
 	#Defensive Abilities
-	defensiveness = 3.00	# was 4.33
-	toughness = 0.67
-	softness = 1.00
-	air_defence = 2.00
+	defensiveness = 3.00	# 防御
+	toughness = 0.67        # 任性
+	softness = 1.00         # 非装甲度
+	air_defence = 2.00      # 防空
 
 	#Offensive Abilities
-	suppression = 0.33
-	soft_attack = 0.67
-	hard_attack = 0.00
-	air_attack = 0.00
+	suppression = 0.33      #镇压
+	soft_attack = 0.67      #软攻
+	hard_attack = 0.00      #硬攻
+	air_attack = 0.00       #对空攻击
 
-   	amphibious = { attack = -0.20 }
-    river = { attack = -0.10 }
-	urban = {
+   	amphibious = { attack = -0.20 }     #amphibious 两栖
+    river = { attack = -0.10 }          #河流
+	urban = {                           #urban城市
         attack = 0.05
 		defence = 0.15
     }
-    marsh = { defence = 0.10 }
-    jungle = { defence = 0.15 }
-    forest = { defence = 0.10 }
-    woods = { defence = 0.05 }
-    mountain = { defence = 0.10 }
-    hills = { defence = 0.05 }
+    marsh = { defence = 0.10 }          #沼泽
+    jungle = { defence = 0.15 }         #丛林
+    forest = { defence = 0.10 }         #森林
+    woods = { defence = 0.05 }          #树林
+    mountain = { defence = 0.10 }       #山
+    hills = { defence = 0.05 }          #丘陵
 
-	combat_width = 1
+	combat_width = 1                    #战场宽度
 
-	completion_size = 0.1
-	on_completion = militia_practical
+	completion_size = 0.1               #完成奖励值
+	on_completion = militia_practical   #奖励 民兵实践经验
 	priority = 6
 }
