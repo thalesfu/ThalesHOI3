@@ -1306,6 +1306,30 @@ spriteType = {
 	  norefcount = yes
 }
 
+spriteType = {
+	norefcount = yes
+	  name = "GFX_counter_infantry_qinxie"
+	  texturefile = "gfx/mapitems/counters/infantry_qinxie.dds"
+	  noOfFrames = 1
+	  norefcount = yes
+}
+
+spriteType = {
+	norefcount = yes
+	  name = "GFX_map_counter_infantry_qinxie"
+	  texturefile = "gfx/mapitems/mapcounters/infantry_qinxie.dds"
+	  noOfFrames = 1
+	  norefcount = yes
+}
+
+spriteType = {
+	norefcount = yes
+	  name = "GFX_small_counter_infantry_qinxie"
+	  texturefile = "gfx/mapitems/smallcounters/infantry_qinxie.dds"
+	  noOfFrames = 1
+	  norefcount = yes
+}
+
 
 
 }
