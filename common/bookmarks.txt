@@ -3,7 +3,7 @@ bookmark =
 	icon = "GFX_bg_startdate_1910"
 	name = "REPUBLICAN_NAME"
 	desc = "REPUBLICAN_DESCRIPTION"
-	date = 1900.4.18
+	date = 1895.4.18
 	
 	country = QIN
 }
