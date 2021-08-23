@@ -563,5 +563,13 @@ spriteTypes = {
 		noOfFrames = 4
 		transparencecheck = yes
 	}
+
+
+	spriteType = {
+		name = "GFX_bg_startdate_1910"
+		texturefile = "gfx\\interface\\bg_startdate_1910.dds"
+		loadType = "FRONTEND"
+		noOfFrames = 2
+	}
 	
 }
