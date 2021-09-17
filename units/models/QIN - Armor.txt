@@ -1,0 +1,112 @@
+armor_brigade.0 = {
+    tank_gun = 0
+    tank_engine = 0
+    tank_armour = 0
+    tank_reliability = 0
+    schwerpunkt = 0
+    blitzkrieg = 0
+}
+armor_brigade.1 = {
+    tank_gun = 0
+    tank_engine = 0
+    tank_armour = 0
+    tank_reliability = 0
+    schwerpunkt = 1
+    blitzkrieg = 1
+}
+armor_brigade.2 = {
+    tank_gun = 1
+    tank_engine = 1
+    tank_armour = 1
+    tank_reliability = 1
+    schwerpunkt = 2
+    blitzkrieg = 2
+}
+armor_brigade.3 = {
+    tank_gun = 2
+    tank_engine = 2
+    tank_armour = 2
+    tank_reliability = 2
+    schwerpunkt = 3
+    blitzkrieg = 3
+}
+armor_brigade.4 = {
+    tank_gun = 3
+    tank_engine = 3
+    tank_armour = 3
+    tank_reliability = 3
+    schwerpunkt = 4
+    blitzkrieg = 4
+}
+armor_brigade.5 = {
+    tank_gun = 4
+    tank_engine = 4
+    tank_armour = 4
+    tank_reliability = 4
+    schwerpunkt = 5
+    blitzkrieg = 5
+}
+armor_brigade.6 = {
+    tank_gun = 5
+    tank_engine = 5
+    tank_armour = 5
+    tank_reliability = 5
+    schwerpunkt = 6
+    blitzkrieg = 6
+}
+armor_brigade.7 = {
+    tank_gun = 6
+    tank_engine = 6
+    tank_armour = 6
+    tank_reliability = 6
+    schwerpunkt = 7
+    blitzkrieg = 7
+}
+armor_brigade.8 = {
+    tank_gun = 7
+    tank_engine = 7
+    tank_armour = 7
+    tank_reliability = 7
+    schwerpunkt = 8
+    blitzkrieg = 8
+}
+armor_brigade.9 = {
+    tank_gun = 8
+    tank_engine = 8
+    tank_armour = 8
+    tank_reliability = 8
+    schwerpunkt = 9
+    blitzkrieg = 9
+}
+armor_brigade.10 = {
+    tank_gun = 9
+    tank_engine = 9
+    tank_armour = 9
+    tank_reliability = 9
+    schwerpunkt = 10
+    blitzkrieg = 10
+}
+armor_brigade.11 = {
+    tank_gun = 10
+    tank_engine = 10
+    tank_armour = 10
+    tank_reliability = 10
+    schwerpunkt = 11
+    blitzkrieg = 11
+}
+armor_brigade.12 = {
+    tank_gun = 11
+    tank_engine = 11
+    tank_armour = 11
+    tank_reliability = 11
+    schwerpunkt = 12
+    blitzkrieg = 12
+}
+armor_brigade.13 = {
+    tank_gun = 12
+    tank_engine = 12
+    tank_armour = 12
+    tank_reliability = 12
+    schwerpunkt = 12
+    blitzkrieg = 12
+}

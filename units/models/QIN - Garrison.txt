@@ -1,0 +1,112 @@
+garrison_brigade.0 = {
+     militia_smallarms = 0
+     militia_support = 0
+     militia_guns = 0
+     militia_at = 0
+     large_front = 0
+     peoples_army = 0
+}
+garrison_brigade.1 = {
+    militia_smallarms = 1
+    militia_support = 1
+    militia_guns = 1
+    militia_at = 1
+    large_front = 1
+    peoples_army = 1
+}
+garrison_brigade.2 = {
+    militia_smallarms = 2
+    militia_support = 2
+    militia_guns = 2
+    militia_at = 2
+    large_front = 1
+    peoples_army = 1
+}
+garrison_brigade.3 = {
+    militia_smallarms = 3
+    militia_support = 3
+    militia_guns = 3
+    militia_at = 3
+    large_front = 2
+    peoples_army = 2
+}
+garrison_brigade.4 = {
+    militia_smallarms = 4
+    militia_support = 4
+    militia_guns = 4
+    militia_at = 4
+    large_front = 3
+    peoples_army = 3
+}
+garrison_brigade.5 = {
+    militia_smallarms = 5
+    militia_support = 5
+    militia_guns = 5
+    militia_at = 5
+    large_front = 4
+    peoples_army = 4
+}
+garrison_brigade.6 = {
+    militia_smallarms = 6
+    militia_support = 6
+    militia_guns = 6
+    militia_at = 6
+    large_front = 5
+    peoples_army = 5
+}
+garrison_brigade.7 = {
+    militia_smallarms = 7
+    militia_support = 7
+    militia_guns = 7
+    militia_at = 7
+    large_front = 6
+    peoples_army = 6
+}
+garrison_brigade.8 = {
+    militia_smallarms = 8
+    militia_support = 8
+    militia_guns = 8
+    militia_at = 8
+    large_front = 7
+    peoples_army = 7
+}
+garrison_brigade.9 = {
+    militia_smallarms = 9
+    militia_support = 9
+    militia_guns = 9
+    militia_at = 9
+    large_front = 8
+    peoples_army = 8
+}
+garrison_brigade.10 = {
+    militia_smallarms = 10
+    militia_support = 10
+    militia_guns = 10
+    militia_at = 10
+    large_front = 9
+    peoples_army = 9
+}
+garrison_brigade.11 = {
+    militia_smallarms = 11
+    militia_support = 11
+    militia_guns = 11
+    militia_at = 11
+    large_front = 10
+    peoples_army = 10
+}
+garrison_brigade.12 = {
+    militia_smallarms = 12
+    militia_support = 12
+    militia_guns = 12
+    militia_at = 12
+    large_front = 11
+    peoples_army = 11
+}
+garrison_brigade.13 = {
+    militia_smallarms = 12
+    militia_support = 12
+    militia_guns = 12
+    militia_at = 12
+    large_front = 12
+    peoples_army = 12
+}

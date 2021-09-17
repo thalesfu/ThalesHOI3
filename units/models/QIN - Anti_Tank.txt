@@ -1,0 +1,78 @@
+anti_tank_brigade.0 = {
+    at_ammo_muzzel = 0
+    at_barrell_sights = 0
+    assault_concentration = 0
+    delay_doctrine = 0
+}
+anti_tank_brigade.1 = {
+    at_ammo_muzzel = 1
+    at_barrell_sights = 1
+    assault_concentration = 1
+    delay_doctrine = 1
+}
+anti_tank_brigade.2 = {
+    at_ammo_muzzel = 2
+    at_barrell_sights = 2
+    assault_concentration = 2
+    delay_doctrine = 2
+}
+anti_tank_brigade.3 = {
+    at_ammo_muzzel = 3
+    at_barrell_sights = 3
+    assault_concentration = 3
+    delay_doctrine = 3
+}
+anti_tank_brigade.4 = {
+    at_ammo_muzzel = 4
+    at_barrell_sights = 4
+    assault_concentration = 4
+    delay_doctrine = 4
+}
+anti_tank_brigade.5 = {
+    at_ammo_muzzel = 5
+    at_barrell_sights = 5
+    assault_concentration = 5
+    delay_doctrine = 5
+}
+anti_tank_brigade.6 = {
+    at_ammo_muzzel = 6
+    at_barrell_sights = 6
+    assault_concentration = 6
+    delay_doctrine = 6
+}
+anti_tank_brigade.7 = {
+    at_ammo_muzzel = 7
+    at_barrell_sights = 7
+    assault_concentration = 7
+    delay_doctrine = 7
+}
+anti_tank_brigade.8 = {
+    at_ammo_muzzel = 8
+    at_barrell_sights = 8
+    assault_concentration = 8
+    delay_doctrine = 8
+}
+anti_tank_brigade.9 = {
+    at_ammo_muzzel = 9
+    at_barrell_sights = 9
+    assault_concentration = 9
+    delay_doctrine = 9
+}
+anti_tank_brigade.10 = {
+    at_ammo_muzzel = 10
+    at_barrell_sights = 10
+    assault_concentration = 10
+    delay_doctrine = 10
+}
+anti_tank_brigade.11 = {
+    at_ammo_muzzel = 11
+    at_barrell_sights = 11
+    assault_concentration = 11
+    delay_doctrine = 11
+}
+anti_tank_brigade.12 = {
+    at_ammo_muzzel = 12
+    at_barrell_sights = 12
+    assault_concentration = 12
+    delay_doctrine = 12
+}

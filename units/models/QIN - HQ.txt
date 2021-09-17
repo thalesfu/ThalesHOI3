@@ -1,0 +1,130 @@
+hq_brigade.0 = {
+    mobile_warfare = 0
+    elastic_defence = 0
+    delay_doctrine = 0
+    integrated_support_doctrine = 0
+    central_planning = 0
+    mass_assault = 0
+    large_front = 0
+    guerilla_warfare = 0
+}
+hq_brigade.1 = {
+    mobile_warfare = 1
+    elastic_defence = 1
+    delay_doctrine = 1
+    integrated_support_doctrine = 1
+    central_planning = 1
+    mass_assault = 1
+    large_front = 1
+    guerilla_warfare = 1
+}
+hq_brigade.2 = {
+    mobile_warfare = 2
+    elastic_defence = 2
+    delay_doctrine = 2
+    integrated_support_doctrine = 2
+    central_planning = 2
+    mass_assault = 2
+    large_front = 2
+    guerilla_warfare = 2
+}
+hq_brigade.3 = {
+    mobile_warfare = 3
+    elastic_defence = 3
+    delay_doctrine = 3
+    integrated_support_doctrine = 3
+    central_planning = 3
+    mass_assault = 3
+    large_front = 3
+    guerilla_warfare = 3
+}
+hq_brigade.4 = {
+    mobile_warfare = 4
+    elastic_defence = 4
+    delay_doctrine = 4
+    integrated_support_doctrine = 4
+    central_planning = 4
+    mass_assault = 4
+    large_front = 4
+    guerilla_warfare = 4
+}
+hq_brigade.5 = {
+    mobile_warfare = 5
+    elastic_defence = 5
+    delay_doctrine = 5
+    integrated_support_doctrine = 5
+    central_planning = 5
+    mass_assault = 5
+    large_front = 5
+    guerilla_warfare = 5
+}
+hq_brigade.6 = {
+    mobile_warfare = 6
+    elastic_defence = 6
+    delay_doctrine = 6
+    integrated_support_doctrine = 6
+    central_planning = 6
+    mass_assault = 6
+    large_front = 6
+    guerilla_warfare = 6
+}
+hq_brigade.7 = {
+    mobile_warfare = 7
+    elastic_defence = 7
+    delay_doctrine = 7
+    integrated_support_doctrine = 7
+    central_planning = 7
+    mass_assault = 7
+    large_front = 7
+    guerilla_warfare = 7
+}
+hq_brigade.8 = {
+    mobile_warfare = 8
+    elastic_defence = 8
+    delay_doctrine = 8
+    integrated_support_doctrine = 8
+    central_planning = 8
+    mass_assault = 8
+    large_front = 8
+    guerilla_warfare = 8
+}
+hq_brigade.9 = {
+    mobile_warfare = 9
+    elastic_defence = 9
+    delay_doctrine = 9
+    integrated_support_doctrine = 9
+    central_planning = 9
+    mass_assault = 9
+    large_front = 9
+    guerilla_warfare = 9
+}
+hq_brigade.10 = {
+    mobile_warfare = 10
+    elastic_defence = 10
+    delay_doctrine = 10
+    integrated_support_doctrine = 10
+    central_planning = 10
+    mass_assault = 10
+    large_front = 10
+    guerilla_warfare = 10
+}
+hq_brigade.11 = {
+    mobile_warfare = 11
+    elastic_defence = 11
+    delay_doctrine = 11
+    integrated_support_doctrine = 11
+    central_planning = 11
+    mass_assault = 11
+    large_front = 11
+    guerilla_warfare = 11
+}
+hq_brigade.12 = {
+    mobile_warfare = 12
+    elastic_defence = 12
+    delay_doctrine = 12
+    integrated_support_doctrine = 12
+    central_planning = 12
+    mass_assault = 12
+    large_front = 12
+    guerilla_warfare = 12
+}

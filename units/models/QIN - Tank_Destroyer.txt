@@ -1,0 +1,247 @@
+tank_destroyer_brigade.0 = {
+    at_ammo_muzzel = 0
+    at_barrell_sights = 0
+    schwerpunkt = 0
+    blitzkrieg = 0
+    tank_engine = 0
+    tank_armour = 0
+    tank_reliability = 0
+}
+tank_destroyer_brigade.1 = {
+    at_ammo_muzzel = 1
+    at_barrell_sights = 1
+    schwerpunkt = 1
+    blitzkrieg = 1
+    tank_engine = 0
+    tank_armour = 0
+    tank_reliability = 0
+}
+tank_destroyer_brigade.2 = {
+    at_ammo_muzzel = 2
+    at_barrell_sights = 2
+    schwerpunkt = 2
+    blitzkrieg = 2
+    tank_engine = 1
+    tank_armour = 1
+    tank_reliability = 1
+}
+tank_destroyer_brigade.3 = {
+    at_ammo_muzzel = 3
+    at_barrell_sights = 3
+    schwerpunkt = 3
+    blitzkrieg = 3
+    tank_engine = 2
+    tank_armour = 2
+    tank_reliability = 2    #1938
+    heavy_tank_armour = 1   #1938
+}
+tank_destroyer_brigade.4 = {
+    at_ammo_muzzel = 3
+    at_barrell_sights = 3
+    schwerpunkt = 3
+    blitzkrieg = 3
+    tank_engine = 2
+    tank_armour = 2
+    tank_reliability = 2    #1938
+    heavy_tank_armour = 2   #1939
+}
+tank_destroyer_brigade.5 = {
+    at_ammo_muzzel = 4
+    at_barrell_sights = 4
+    schwerpunkt = 4
+    blitzkrieg = 4
+    tank_engine = 3
+    tank_armour = 3
+    tank_reliability = 3    #1940
+    heavy_tank_armour = 2   #1939
+}
+tank_destroyer_brigade.6 = {
+    at_ammo_muzzel = 4
+    at_barrell_sights = 4
+    schwerpunkt = 4
+    blitzkrieg = 4
+    tank_engine = 3
+    tank_armour = 3
+    tank_reliability = 3    #1940
+    heavy_tank_armour = 3   #1941
+}
+tank_destroyer_brigade.7 = {
+    at_ammo_muzzel = 5
+    at_barrell_sights = 5
+    schwerpunkt = 5
+    blitzkrieg = 5
+    tank_engine = 4
+    tank_armour = 4
+    tank_reliability = 4
+    heavy_tank_armour = 3
+}
+tank_destroyer_brigade.8 = {
+    at_ammo_muzzel = 5
+    at_barrell_sights = 5
+    schwerpunkt = 5
+    blitzkrieg = 5
+    tank_engine = 4
+    tank_armour = 4
+    tank_reliability = 4
+    heavy_tank_armour = 4
+}
+tank_destroyer_brigade.9 = {
+    at_ammo_muzzel = 6
+    at_barrell_sights = 6
+    schwerpunkt = 6
+    blitzkrieg = 6
+    tank_engine = 5
+    tank_armour = 5
+    tank_reliability = 5
+    heavy_tank_armour = 4
+}
+tank_destroyer_brigade.10 = {
+    at_ammo_muzzel = 6
+    at_barrell_sights = 6
+    schwerpunkt = 6
+    blitzkrieg = 6
+    tank_engine = 5
+    tank_armour = 5
+    tank_reliability = 5
+    heavy_tank_armour = 5
+}
+tank_destroyer_brigade.11 = {
+    at_ammo_muzzel = 7
+    at_barrell_sights = 7
+    schwerpunkt = 7
+    blitzkrieg = 7
+    tank_engine = 6
+    tank_armour = 6
+    tank_reliability = 6
+    heavy_tank_armour = 5
+}
+tank_destroyer_brigade.12 = {
+    at_ammo_muzzel = 7
+    at_barrell_sights = 7
+    schwerpunkt = 7
+    blitzkrieg = 7
+    tank_engine = 6
+    tank_armour = 6
+    tank_reliability = 6
+    heavy_tank_armour = 6
+}
+tank_destroyer_brigade.13 = {
+    at_ammo_muzzel = 8
+    at_barrell_sights = 8
+    schwerpunkt = 8
+    blitzkrieg = 8
+    tank_engine = 7
+    tank_armour = 7
+    tank_reliability = 7
+    heavy_tank_armour = 6
+}
+tank_destroyer_brigade.14 = {
+    at_ammo_muzzel = 8
+    at_barrell_sights = 8
+    schwerpunkt = 8
+    blitzkrieg = 8
+    tank_engine = 7
+    tank_armour = 7
+    tank_reliability = 7
+    heavy_tank_armour = 7
+}
+tank_destroyer_brigade.15 = {
+    at_ammo_muzzel = 9
+    at_barrell_sights = 9
+    schwerpunkt = 9
+    blitzkrieg = 9
+    tank_engine = 8
+    tank_armour = 8
+    tank_reliability = 8
+    heavy_tank_armour = 7
+}
+tank_destroyer_brigade.16 = {
+    at_ammo_muzzel = 9
+    at_barrell_sights = 9
+    schwerpunkt = 9
+    blitzkrieg = 9
+    tank_engine = 8
+    tank_armour = 8
+    tank_reliability = 8
+    heavy_tank_armour = 8
+}
+tank_destroyer_brigade.17 = {
+    at_ammo_muzzel = 10
+    at_barrell_sights = 10
+    schwerpunkt = 10
+    blitzkrieg = 10
+    tank_engine = 9
+    tank_armour = 9
+    tank_reliability = 9
+    heavy_tank_armour = 8
+}
+tank_destroyer_brigade.18 = {
+    at_ammo_muzzel = 10
+    at_barrell_sights = 10
+    schwerpunkt = 10
+    blitzkrieg = 10
+    tank_engine = 9
+    tank_armour = 9
+    tank_reliability = 9
+    heavy_tank_armour = 9
+}
+tank_destroyer_brigade.19 = {
+    at_ammo_muzzel = 11
+    at_barrell_sights = 11
+    schwerpunkt = 11
+    blitzkrieg = 11
+    tank_engine = 10
+    tank_armour = 10
+    tank_reliability = 10
+    heavy_tank_armour = 9
+}
+tank_destroyer_brigade.20 = {
+    at_ammo_muzzel = 11
+    at_barrell_sights = 11
+    schwerpunkt = 11
+    blitzkrieg = 11
+    tank_engine = 10
+    tank_armour = 10
+    tank_reliability = 10
+    heavy_tank_armour = 10
+}
+tank_destroyer_brigade.21 = {
+    at_ammo_muzzel = 12
+    at_barrell_sights = 12
+    schwerpunkt = 12
+    blitzkrieg = 12
+    tank_engine = 11
+    tank_armour = 11
+    tank_reliability = 11
+    heavy_tank_armour = 10
+}
+tank_destroyer_brigade.22 = {
+    at_ammo_muzzel = 12
+    at_barrell_sights = 12
+    schwerpunkt = 12
+    blitzkrieg = 12
+    tank_engine = 11
+    tank_armour = 11
+    tank_reliability = 11
+    heavy_tank_armour = 11
+}
+tank_destroyer_brigade.23 = {
+    at_ammo_muzzel = 12
+    at_barrell_sights = 12
+    schwerpunkt = 12
+    blitzkrieg = 12
+    tank_engine = 12
+    tank_armour = 12
+    tank_reliability = 12
+    heavy_tank_armour = 11
+}
+tank_destroyer_brigade.24 = {
+    at_ammo_muzzel = 12
+    at_barrell_sights = 12
+    schwerpunkt = 12
+    blitzkrieg = 12
+    tank_engine = 12
+    tank_armour = 12
+    tank_reliability = 12
+    heavy_tank_armour = 12
+}

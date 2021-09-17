@@ -1,0 +1,96 @@
+rocket_artillery_brigade.0 = {
+    rocket_art_ammo = 0
+    rocket_carriage_sights = 0
+    assault_concentration = 0
+    delay_doctrine = 0
+}
+rocket_artillery_brigade.1 = {
+    rocket_art_ammo = 0
+    rocket_carriage_sights = 0
+    assault_concentration = 1
+    delay_doctrine = 1
+}
+rocket_artillery_brigade.2 = {
+    rocket_art_ammo = 0
+    rocket_carriage_sights = 0
+    assault_concentration = 2
+    delay_doctrine = 2
+}
+rocket_artillery_brigade.3 = {
+    rocket_art_ammo = 0
+    rocket_carriage_sights = 0
+    assault_concentration = 3
+    delay_doctrine = 3
+}
+rocket_artillery_brigade.4 = {
+    rocket_art_ammo = 1
+    rocket_carriage_sights = 1
+    assault_concentration = 3
+    delay_doctrine = 3
+}
+rocket_artillery_brigade.5 = {
+    rocket_art_ammo = 2
+    rocket_carriage_sights = 2
+    assault_concentration = 4
+    delay_doctrine = 4
+}
+rocket_artillery_brigade.6 = {
+    rocket_art_ammo = 3
+    rocket_carriage_sights = 3
+    assault_concentration = 5
+    delay_doctrine = 5
+}
+rocket_artillery_brigade.7 = {
+    rocket_art_ammo = 4
+    rocket_carriage_sights = 4
+    assault_concentration = 6
+    delay_doctrine = 6
+}
+rocket_artillery_brigade.8 = {
+    rocket_art_ammo = 5
+    rocket_carriage_sights = 5
+    assault_concentration = 7
+    delay_doctrine = 7
+}
+rocket_artillery_brigade.9 = {
+    rocket_art_ammo = 6
+    rocket_carriage_sights = 6
+    assault_concentration = 8
+    delay_doctrine = 8
+}
+rocket_artillery_brigade.10 = {
+    rocket_art_ammo = 7
+    rocket_carriage_sights = 7
+    assault_concentration = 9
+    delay_doctrine = 9
+}
+rocket_artillery_brigade.11 = {
+    rocket_art_ammo = 8
+    rocket_carriage_sights = 8
+    assault_concentration = 10
+    delay_doctrine = 10
+}
+rocket_artillery_brigade.12 = {
+    rocket_art_ammo = 9
+    rocket_carriage_sights = 9
+    assault_concentration = 11
+    delay_doctrine = 11
+}
+rocket_artillery_brigade.13 = {
+    rocket_art_ammo = 10
+    rocket_carriage_sights = 10
+    assault_concentration = 12
+    delay_doctrine = 12
+}
+rocket_artillery_brigade.14 = {
+    rocket_art_ammo = 11
+    rocket_carriage_sights = 11
+    assault_concentration = 12
+    delay_doctrine = 12
+}
+rocket_artillery_brigade.15 = {
+    rocket_art_ammo = 12
+    rocket_carriage_sights = 12
+    assault_concentration = 12
+    delay_doctrine = 12
+}

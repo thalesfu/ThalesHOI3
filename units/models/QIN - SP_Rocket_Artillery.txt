@@ -1,0 +1,144 @@
+sp_rct_artillery_brigade.0 = {
+    rocket_art_ammo = 0
+    rocket_carriage_sights = 0
+    assault_concentration = 0
+    elastic_defence = 0
+    tank_engine = 0
+    tank_armour = 0
+    tank_reliability = 0
+}
+sp_rct_artillery_brigade.1 = {
+    rocket_art_ammo = 0
+    rocket_carriage_sights = 0
+    assault_concentration = 1
+    elastic_defence = 1
+    tank_engine = 0
+    tank_armour = 0
+    tank_reliability = 0
+}
+sp_rct_artillery_brigade.2 = {
+    rocket_art_ammo = 0
+    rocket_carriage_sights = 0
+    assault_concentration = 2
+    elastic_defence = 2
+    tank_engine = 1
+    tank_armour = 1
+    tank_reliability = 1
+}
+sp_rct_artillery_brigade.3 = {
+    rocket_art_ammo = 0
+    rocket_carriage_sights = 0
+    assault_concentration = 3
+    elastic_defence = 3
+    tank_engine = 2
+    tank_armour = 2
+    tank_reliability = 2
+}
+sp_rct_artillery_brigade.4 = {
+    rocket_art_ammo = 1
+    rocket_carriage_sights = 1
+    assault_concentration = 3
+    elastic_defence = 3
+    tank_engine = 2
+    tank_armour = 2
+    tank_reliability = 2
+}
+sp_rct_artillery_brigade.5 = {
+    rocket_art_ammo = 2
+    rocket_carriage_sights = 2
+    assault_concentration = 4
+    elastic_defence = 4
+    tank_engine = 3
+    tank_armour = 3
+    tank_reliability = 3
+}
+sp_rct_artillery_brigade.6 = {
+    rocket_art_ammo = 3
+    rocket_carriage_sights = 3
+    assault_concentration = 5
+    elastic_defence = 5
+    tank_engine = 4
+    tank_armour = 4
+    tank_reliability = 4
+}
+sp_rct_artillery_brigade.7 = {
+    rocket_art_ammo = 4
+    rocket_carriage_sights = 4
+    assault_concentration = 6
+    elastic_defence = 6
+    tank_engine = 5
+    tank_armour = 5
+    tank_reliability = 5
+}
+sp_rct_artillery_brigade.8 = {
+    rocket_art_ammo = 5
+    rocket_carriage_sights = 5
+    assault_concentration = 7
+    elastic_defence = 7
+    tank_engine = 6
+    tank_armour = 6
+    tank_reliability = 6
+}
+sp_rct_artillery_brigade.9 = {
+    rocket_art_ammo = 6
+    rocket_carriage_sights = 6
+    assault_concentration = 8
+    elastic_defence = 8
+    tank_engine = 7
+    tank_armour = 7
+    tank_reliability = 7
+}
+sp_rct_artillery_brigade.10 = {
+    rocket_art_ammo = 7
+    rocket_carriage_sights = 7
+    assault_concentration = 9
+    elastic_defence = 9
+    tank_engine = 8
+    tank_armour = 8
+    tank_reliability = 8
+}
+sp_rct_artillery_brigade.11 = {
+    rocket_art_ammo = 8
+    rocket_carriage_sights = 8
+    assault_concentration = 10
+    elastic_defence = 10
+    tank_engine = 9
+    tank_armour = 9
+    tank_reliability = 9
+}
+sp_rct_artillery_brigade.12 = {
+    rocket_art_ammo = 9
+    rocket_carriage_sights = 9
+    assault_concentration = 11
+    elastic_defence = 11
+    tank_engine = 10
+    tank_armour = 10
+    tank_reliability = 10
+}
+sp_rct_artillery_brigade.13 = {
+    rocket_art_ammo = 10
+    rocket_carriage_sights = 10
+    assault_concentration = 12
+    elastic_defence = 12
+    tank_engine = 11
+    tank_armour = 11
+    tank_reliability = 11
+}
+sp_rct_artillery_brigade.14 = {
+    rocket_art_ammo = 11
+    rocket_carriage_sights = 11
+    assault_concentration = 12
+    elastic_defence = 12
+    tank_engine = 12
+    tank_armour = 12
+    tank_reliability = 12
+}
+sp_rct_artillery_brigade.15 = {
+    rocket_art_ammo = 12
+    rocket_carriage_sights = 12
+    assault_concentration = 12
+    elastic_defence = 12
+    tank_engine = 12
+    tank_armour = 12
+    tank_reliability = 12
+}

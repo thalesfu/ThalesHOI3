@@ -1,0 +1,121 @@
+cavalry_brigade.0 = {
+    cavalry_smallarms = 0
+    cavalry_support = 0
+    cavalry_guns = 0
+    cavalry_at = 0
+    mechanized_offensive = 0
+    tactical_command_structure = 0
+}
+cavalry_brigade.1 = {
+    cavalry_smallarms = 1
+    cavalry_support = 1
+    cavalry_guns = 1
+    cavalry_at = 1
+    mechanized_offensive = 0
+    tactical_command_structure = 1
+}
+cavalry_brigade.2 = {
+    cavalry_smallarms = 2
+    cavalry_support = 2
+    cavalry_guns = 2
+    cavalry_at = 2
+    mechanized_offensive = 0
+    tactical_command_structure = 1
+}
+cavalry_brigade.3 = {
+    cavalry_smallarms = 3
+    cavalry_support = 3
+    cavalry_guns = 3
+    cavalry_at = 3
+    mechanized_offensive = 1
+    tactical_command_structure = 1
+}
+cavalry_brigade.4 = {
+    cavalry_smallarms = 4
+    cavalry_support = 4
+    cavalry_guns = 4
+    cavalry_at = 4
+    mechanized_offensive = 2
+    tactical_command_structure = 2
+}
+cavalry_brigade.5 = {
+    cavalry_smallarms = 5
+    cavalry_support = 5
+    cavalry_guns = 5
+    cavalry_at = 5
+    mechanized_offensive = 3
+    tactical_command_structure = 3
+}
+cavalry_brigade.6 = {
+    cavalry_smallarms = 6
+    cavalry_support = 6
+    cavalry_guns = 6
+    cavalry_at = 6
+    mechanized_offensive = 4
+    tactical_command_structure = 4
+}
+cavalry_brigade.7 = {
+    cavalry_smallarms = 7
+    cavalry_support = 7
+    cavalry_guns = 7
+    cavalry_at = 7
+    mechanized_offensive = 5
+    tactical_command_structure = 5
+}
+cavalry_brigade.8 = {
+    cavalry_smallarms = 8
+    cavalry_support = 8
+    cavalry_guns = 8
+    cavalry_at = 8
+    mechanized_offensive = 6
+    tactical_command_structure = 6
+}
+cavalry_brigade.9 = {
+    cavalry_smallarms = 9
+    cavalry_support = 9
+    cavalry_guns = 9
+    cavalry_at = 9
+    mechanized_offensive = 7
+    tactical_command_structure = 7
+}
+cavalry_brigade.10 = {
+    cavalry_smallarms = 10
+    cavalry_support = 10
+    cavalry_guns = 10
+    cavalry_at = 10
+    mechanized_offensive = 8
+    tactical_command_structure = 8
+}
+cavalry_brigade.11 = {
+    cavalry_smallarms = 11
+    cavalry_support = 11
+    cavalry_guns = 11
+    cavalry_at = 11
+    mechanized_offensive = 9
+    tactical_command_structure = 9
+}
+cavalry_brigade.12 = {
+    cavalry_smallarms = 12
+    cavalry_support = 12
+    cavalry_guns = 12
+    cavalry_at = 12
+    mechanized_offensive = 10
+    tactical_command_structure = 10
+}
+cavalry_brigade.13 = {
+    cavalry_smallarms = 12
+    cavalry_support = 12
+    cavalry_guns = 12
+    cavalry_at = 12
+    mechanized_offensive = 11
+    tactical_command_structure = 11
+}
+cavalry_brigade.14 = {
+    cavalry_smallarms = 12
+    cavalry_support = 12
+    cavalry_guns = 12
+    cavalry_at = 12
+    mechanized_offensive = 12
+    tactical_command_structure = 12
+}
+

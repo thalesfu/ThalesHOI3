@@ -1,0 +1,52 @@
+police_brigade.0 = {
+      imporved_police_brigade = 0
+      peoples_army = 0
+}
+police_brigade.1 = {
+      imporved_police_brigade = 0
+      peoples_army = 1  #1918
+  }
+police_brigade.2 = {
+      imporved_police_brigade = 0
+      peoples_army = 2  #1936
+}
+police_brigade.3 = {
+      imporved_police_brigade = 0
+      peoples_army = 3  #1938
+}
+police_brigade.4 = {
+      imporved_police_brigade = 1 #1939
+      peoples_army = 4  #1940
+}
+police_brigade.5 = {
+      imporved_police_brigade = 2   #1942
+      peoples_army = 5  #1942
+}
+police_brigade.6 = {
+      imporved_police_brigade = 2   #1942
+      peoples_army = 6  #1944
+}
+police_brigade.7 = {
+      imporved_police_brigade = 3   #1945
+      peoples_army = 7  #1946
+}
+police_brigade.8 = {
+      imporved_police_brigade = 4   #1948
+      peoples_army = 8  #1948
+}
+police_brigade.9 = {
+      imporved_police_brigade = 4   #1948
+      peoples_army = 9  #1950
+}
+police_brigade.10 = {
+      imporved_police_brigade = 5   #1951
+      peoples_army = 10 #1952
+}
+police_brigade.11 = {
+      imporved_police_brigade = 6   #1954
+      peoples_army = 11 #1954
+}
+police_brigade.12 = {
+      imporved_police_brigade = 6   #1954
+      peoples_army = 12 #1956
+}

@@ -1,0 +1,104 @@
+light_armor_brigade.0 = {
+    lighttank_gun = 0
+    lighttank_engine = 0
+    lighttank_armour = 0
+    lighttank_reliability = 0
+    schwerpunkt = 0
+    blitzkrieg = 0
+}
+light_armor_brigade.1 = {
+    lighttank_gun = 1
+    lighttank_engine = 1
+    lighttank_armour = 1
+    lighttank_reliability = 1
+    schwerpunkt = 1
+    blitzkrieg = 1
+}
+light_armor_brigade.2 = {
+    lighttank_gun = 2
+    lighttank_engine = 2
+    lighttank_armour = 2
+    lighttank_reliability = 2
+    schwerpunkt = 2
+    blitzkrieg = 2
+}
+light_armor_brigade.3 = {
+    lighttank_gun = 3
+    lighttank_engine = 3
+    lighttank_armour = 3
+    lighttank_reliability = 3
+    schwerpunkt = 3
+    blitzkrieg = 3
+}
+light_armor_brigade.4 = {
+    lighttank_gun = 4
+    lighttank_engine = 4
+    lighttank_armour = 4
+    lighttank_reliability = 4
+    schwerpunkt = 4
+    blitzkrieg = 4
+}
+light_armor_brigade.5 = {
+    lighttank_gun = 5
+    lighttank_engine = 5
+    lighttank_armour = 5
+    lighttank_reliability = 5
+    schwerpunkt = 5
+    blitzkrieg = 5
+}
+light_armor_brigade.6 = {
+    lighttank_gun = 6
+    lighttank_engine = 6
+    lighttank_armour = 6
+    lighttank_reliability = 6
+    schwerpunkt = 6
+    blitzkrieg = 6
+}
+light_armor_brigade.7 = {
+    lighttank_gun = 7
+    lighttank_engine = 7
+    lighttank_armour = 7
+    lighttank_reliability = 7
+    schwerpunkt = 7
+    blitzkrieg = 7
+}
+light_armor_brigade.8 = {
+    lighttank_gun = 8
+    lighttank_engine = 8
+    lighttank_armour = 8
+    lighttank_reliability = 8
+    schwerpunkt = 8
+    blitzkrieg = 8
+}
+light_armor_brigade.9 = {
+    lighttank_gun = 9
+    lighttank_engine = 9
+    lighttank_armour = 9
+    lighttank_reliability = 9
+    schwerpunkt = 9
+    blitzkrieg = 9
+}
+light_armor_brigade.10 = {
+    lighttank_gun = 10
+    lighttank_engine = 10
+    lighttank_armour = 10
+    lighttank_reliability = 10
+    schwerpunkt = 10
+    blitzkrieg = 10
+}
+light_armor_brigade.11 = {
+    lighttank_gun = 11
+    lighttank_engine = 11
+    lighttank_armour = 11
+    lighttank_reliability = 11
+    schwerpunkt = 11
+    blitzkrieg = 11
+}
+light_armor_brigade.12 = {
+    lighttank_gun = 12
+    lighttank_engine = 12
+    lighttank_armour = 12
+    lighttank_reliability = 12
+    schwerpunkt = 12
+    blitzkrieg = 12
+}

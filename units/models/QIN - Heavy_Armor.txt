@@ -1,0 +1,184 @@
+heavy_armor_brigade.0 = {
+    heavy_tank_gun = 0
+    heavy_tank_engine = 0
+    heavy_tank_armour = 0
+    heavy_tank_reliability = 0
+    schwerpunkt = 0
+    blitzkrieg = 0
+}
+heavy_armor_brigade.1 = {
+    heavy_tank_gun = 0
+    heavy_tank_engine = 0
+    heavy_tank_armour = 0
+    heavy_tank_reliability = 0
+    schwerpunkt = 1
+    blitzkrieg = 1
+}
+heavy_armor_brigade.2 = {
+    heavy_tank_gun = 0
+    heavy_tank_engine = 0
+    heavy_tank_armour = 0
+    heavy_tank_reliability = 0
+    schwerpunkt = 2
+    blitzkrieg = 2
+}
+heavy_armor_brigade.3 = {
+    heavy_tank_gun = 1
+    heavy_tank_engine = 1
+    heavy_tank_armour = 1
+    heavy_tank_reliability = 1
+    schwerpunkt = 3
+    blitzkrieg = 3
+}
+heavy_armor_brigade.4 = {
+    heavy_tank_gun = 2
+    heavy_tank_engine = 2
+    heavy_tank_armour = 2
+    heavy_tank_reliability = 2
+    schwerpunkt = 3
+    blitzkrieg = 3
+}
+heavy_armor_brigade.4 = {
+    heavy_tank_gun = 2
+    heavy_tank_engine = 2
+    heavy_tank_armour = 2
+    heavy_tank_reliability = 2
+    schwerpunkt = 4
+    blitzkrieg = 4
+}
+heavy_armor_brigade.5 = {
+    heavy_tank_gun = 3
+    heavy_tank_engine = 3
+    heavy_tank_armour = 3
+    heavy_tank_reliability = 3
+    schwerpunkt = 4
+    blitzkrieg = 4
+}
+heavy_armor_brigade.6 = {
+    heavy_tank_gun = 3
+    heavy_tank_engine = 3
+    heavy_tank_armour = 3
+    heavy_tank_reliability = 3
+    schwerpunkt = 5
+    blitzkrieg = 5
+}
+heavy_armor_brigade.7 = {
+    heavy_tank_gun = 4
+    heavy_tank_engine = 4
+    heavy_tank_armour = 4
+    heavy_tank_reliability = 4
+    schwerpunkt = 5
+    blitzkrieg = 5
+}
+heavy_armor_brigade.8 = {
+    heavy_tank_gun = 4
+    heavy_tank_engine = 4
+    heavy_tank_armour = 4
+    heavy_tank_reliability = 4
+    schwerpunkt = 6
+    blitzkrieg = 6
+}
+heavy_armor_brigade.9 = {
+    heavy_tank_gun = 5
+    heavy_tank_engine = 5
+    heavy_tank_armour = 5
+    heavy_tank_reliability = 5
+    schwerpunkt = 6
+    blitzkrieg = 6
+}
+heavy_armor_brigade.10 = {
+    heavy_tank_gun = 6
+    heavy_tank_engine = 6
+    heavy_tank_armour = 6
+    heavy_tank_reliability = 6
+    schwerpunkt = 7
+    blitzkrieg = 7
+}
+heavy_armor_brigade.11 = {
+    heavy_tank_gun = 6
+    heavy_tank_engine = 6
+    heavy_tank_armour = 6
+    heavy_tank_reliability = 6
+    schwerpunkt = 8
+    blitzkrieg = 8
+}
+heavy_armor_brigade.12 = {
+    heavy_tank_gun = 7
+    heavy_tank_engine = 7
+    heavy_tank_armour = 7
+    heavy_tank_reliability = 7
+    schwerpunkt = 8
+    blitzkrieg = 8
+}
+heavy_armor_brigade.13 = {
+    heavy_tank_gun = 7
+    heavy_tank_engine = 7
+    heavy_tank_armour = 7
+    heavy_tank_reliability = 7
+    schwerpunkt = 9
+    blitzkrieg = 9
+}
+heavy_armor_brigade.14 = {
+    heavy_tank_gun = 8
+    heavy_tank_engine = 8
+    heavy_tank_armour = 8
+    heavy_tank_reliability = 8
+    schwerpunkt = 9
+    blitzkrieg = 9
+}
+heavy_armor_brigade.15 = {
+    heavy_tank_gun = 8
+    heavy_tank_engine = 8
+    heavy_tank_armour = 8
+    heavy_tank_reliability = 8
+    schwerpunkt = 10
+    blitzkrieg = 10
+}
+heavy_armor_brigade.16 = {
+    heavy_tank_gun = 9
+    heavy_tank_engine = 9
+    heavy_tank_armour = 9
+    heavy_tank_reliability = 9
+    schwerpunkt = 10
+    blitzkrieg = 10
+}
+heavy_armor_brigade.17 = {
+    heavy_tank_gun = 9
+    heavy_tank_engine = 9
+    heavy_tank_armour = 9
+    heavy_tank_reliability = 9
+    schwerpunkt = 11
+    blitzkrieg = 11
+}
+heavy_armor_brigade.18 = {
+    heavy_tank_gun = 10
+    heavy_tank_engine = 10
+    heavy_tank_armour = 10
+    heavy_tank_reliability = 10
+    schwerpunkt = 11
+    blitzkrieg = 11
+}
+heavy_armor_brigade.19 = {
+    heavy_tank_gun = 10
+    heavy_tank_engine = 10
+    heavy_tank_armour = 10
+    heavy_tank_reliability = 10
+    schwerpunkt = 12
+    blitzkrieg = 12
+}
+heavy_armor_brigade.20 = {
+    heavy_tank_gun = 11
+    heavy_tank_engine = 11
+    heavy_tank_armour = 11
+    heavy_tank_reliability = 11
+    schwerpunkt = 12
+    blitzkrieg = 12
+}
+heavy_armor_brigade.21 = {
+    heavy_tank_gun = 12
+    heavy_tank_engine = 12
+    heavy_tank_armour = 12
+    heavy_tank_reliability = 12
+    schwerpunkt = 12
+    blitzkrieg = 12
+}

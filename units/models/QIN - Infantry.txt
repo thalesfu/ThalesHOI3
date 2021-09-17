@@ -1,0 +1,104 @@
+infantry_brigade.0 = {
+    smallarms_technology = 0
+    infantry_support = 0
+    infantry_guns = 0
+    infantry_at = 0
+    infantry_warfare = 0
+    mass_assault = 0
+}
+infantry_brigade.1 = {
+    smallarms_technology = 1
+    infantry_support = 1
+    infantry_guns = 1
+    infantry_at = 1
+    infantry_warfare = 1
+    mass_assault = 1
+}
+infantry_brigade.2 = {
+    smallarms_technology = 2
+    infantry_support = 2
+    infantry_guns = 2
+    infantry_at = 2
+    infantry_warfare = 2
+    mass_assault = 2
+}
+infantry_brigade.3 = {
+    smallarms_technology = 3
+    infantry_support = 3
+    infantry_guns = 3
+    infantry_at = 3
+    infantry_warfare = 3
+    mass_assault = 3
+}
+infantry_brigade.4 = {
+    smallarms_technology = 4
+    infantry_support = 4
+    infantry_guns = 4
+    infantry_at = 4
+    infantry_warfare = 4
+    mass_assault = 4
+}
+infantry_brigade.5 = {
+    smallarms_technology = 5
+    infantry_support = 5
+    infantry_guns = 5
+    infantry_at = 5
+    infantry_warfare = 5
+    mass_assault = 5
+}
+infantry_brigade.6 = {
+    smallarms_technology = 6
+    infantry_support = 6
+    infantry_guns = 6
+    infantry_at = 6
+    infantry_warfare = 6
+    mass_assault = 6
+}
+infantry_brigade.7 = {
+    smallarms_technology = 7
+    infantry_support = 7
+    infantry_guns = 7
+    infantry_at = 7
+    infantry_warfare = 7
+    mass_assault = 7
+}
+infantry_brigade.8 = {
+    smallarms_technology = 8
+    infantry_support = 8
+    infantry_guns = 8
+    infantry_at = 8
+    infantry_warfare = 8
+    mass_assault = 8
+}
+infantry_brigade.9 = {
+    smallarms_technology = 9
+    infantry_support = 9
+    infantry_guns = 9
+    infantry_at = 9
+    infantry_warfare = 9
+    mass_assault = 9
+}
+infantry_brigade.10 = {
+    smallarms_technology = 10
+    infantry_support = 10
+    infantry_guns = 10
+    infantry_at = 10
+    infantry_warfare = 10
+    mass_assault = 10
+}
+infantry_brigade.11 = {
+    smallarms_technology = 11
+    infantry_support = 11
+    infantry_guns = 11
+    infantry_at = 11
+    infantry_warfare = 11
+    mass_assault = 11
+}
+infantry_brigade.12 = {
+    smallarms_technology = 12
+    infantry_support = 12
+    infantry_guns = 12
+    infantry_at = 12
+    infantry_warfare = 12
+    mass_assault = 12
+}

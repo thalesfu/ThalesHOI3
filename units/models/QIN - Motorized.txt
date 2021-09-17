@@ -1,0 +1,141 @@
+motorized_brigade.0 = {
+    smallarms_technology = 0
+    infantry_support = 0
+    infantry_guns = 0
+    infantry_at = 0
+    mechanized_offensive = 0
+    tactical_command_structure = 0
+    lighttank_engine = 0
+    lighttank_armour = 0
+}
+motorized_brigade.1 = {
+    smallarms_technology = 1
+    infantry_support = 1
+    infantry_guns = 1
+    infantry_at = 1
+    mechanized_offensive = 0
+    tactical_command_structure = 1
+    lighttank_engine = 1
+    lighttank_armour = 1
+}
+motorized_brigade.2 = {
+    smallarms_technology = 2
+    infantry_support = 2
+    infantry_guns = 2
+    infantry_at = 2
+    mechanized_offensive = 1
+    tactical_command_structure = 1
+    lighttank_engine = 2
+    lighttank_armour = 2
+}
+motorized_brigade.3 = {
+    smallarms_technology = 3
+    infantry_support = 3
+    infantry_guns = 3
+    infantry_at = 3
+    mechanized_offensive = 2
+    tactical_command_structure = 2
+    lighttank_engine = 3
+    lighttank_armour = 3
+}
+motorized_brigade.4 = {
+    smallarms_technology = 4
+    infantry_support = 4
+    infantry_guns = 4
+    infantry_at = 4
+    mechanized_offensive = 3
+    tactical_command_structure = 3
+    lighttank_engine = 4
+    lighttank_armour = 4
+}
+motorized_brigade.5 = {
+    smallarms_technology = 5
+    infantry_support = 5
+    infantry_guns = 5
+    infantry_at = 5
+    mechanized_offensive = 4
+    tactical_command_structure = 4
+    lighttank_engine = 5
+    lighttank_armour = 5
+}
+motorized_brigade.6 = {
+    smallarms_technology = 6
+    infantry_support = 6
+    infantry_guns = 6
+    infantry_at = 6
+    mechanized_offensive = 5
+    tactical_command_structure = 5
+    lighttank_engine = 6
+    lighttank_armour = 6
+}
+motorized_brigade.7 = {
+    smallarms_technology = 7
+    infantry_support = 7
+    infantry_guns = 7
+    infantry_at = 7
+    mechanized_offensive = 6
+    tactical_command_structure = 6
+    lighttank_engine = 7
+    lighttank_armour = 7
+}
+motorized_brigade.8 = {
+    smallarms_technology = 8
+    infantry_support = 8
+    infantry_guns = 8
+    infantry_at = 8
+    mechanized_offensive = 7
+    tactical_command_structure = 7
+    lighttank_engine = 8
+    lighttank_armour = 8
+}
+motorized_brigade.9 = {
+    smallarms_technology = 9
+    infantry_support = 9
+    infantry_guns = 9
+    infantry_at = 9
+    mechanized_offensive = 8
+    tactical_command_structure = 8
+    lighttank_engine = 9
+    lighttank_armour = 9
+}
+motorized_brigade.10 = {
+    smallarms_technology = 10
+    infantry_support = 10
+    infantry_guns = 10
+    infantry_at = 10
+    mechanized_offensive = 9
+    tactical_command_structure = 9
+    lighttank_engine = 10
+    lighttank_armour = 10
+}
+motorized_brigade.11 = {
+    smallarms_technology = 11
+    infantry_support = 11
+    infantry_guns = 11
+    infantry_at = 11
+    mechanized_offensive = 10
+    tactical_command_structure = 10
+    lighttank_engine = 11
+    lighttank_armour = 11
+}
+motorized_brigade.12 = {
+    smallarms_technology = 12
+    infantry_support = 12
+    infantry_guns = 12
+    infantry_at = 12
+    mechanized_offensive = 11
+    tactical_command_structure = 11
+    lighttank_engine = 12
+    lighttank_armour = 12
+}
+motorized_brigade.13 = {
+    smallarms_technology = 12
+    infantry_support = 12
+    infantry_guns = 12
+    infantry_at = 12
+    mechanized_offensive = 12
+    tactical_command_structure = 12
+    lighttank_engine = 12
+    lighttank_armour = 12
+}
+

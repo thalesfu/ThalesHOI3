@@ -1,0 +1,78 @@
+anti_air_brigade.0 = {
+    aa_barrell_ammo = 0
+    aa_carriage_sights = 0
+    assault_concentration = 0
+    delay_doctrine = 0
+}
+anti_air_brigade.1 = {
+    aa_barrell_ammo = 1
+    aa_carriage_sights = 1
+    assault_concentration = 1
+    delay_doctrine = 1
+}
+anti_air_brigade.2 = {
+    aa_barrell_ammo = 2
+    aa_carriage_sights = 2
+    assault_concentration = 2
+    delay_doctrine = 2
+}
+anti_air_brigade.3 = {
+    aa_barrell_ammo = 3
+    aa_carriage_sights = 3
+    assault_concentration = 3
+    delay_doctrine = 3
+}
+anti_air_brigade.4 = {
+    aa_barrell_ammo = 4
+    aa_carriage_sights = 4
+    assault_concentration = 4
+    delay_doctrine = 4
+}
+anti_air_brigade.5 = {
+    aa_barrell_ammo = 5
+    aa_carriage_sights = 5
+    assault_concentration = 5
+    delay_doctrine = 5
+}
+anti_air_brigade.6 = {
+    aa_barrell_ammo = 6
+    aa_carriage_sights = 6
+    assault_concentration = 6
+    delay_doctrine = 6
+}
+anti_air_brigade.7 = {
+    aa_barrell_ammo = 7
+    aa_carriage_sights = 7
+    assault_concentration = 7
+    delay_doctrine = 7
+}
+anti_air_brigade.8 = {
+    aa_barrell_ammo = 8
+    aa_carriage_sights = 8
+    assault_concentration = 8
+    delay_doctrine = 8
+}
+anti_air_brigade.9 = {
+    aa_barrell_ammo = 9
+    aa_carriage_sights = 9
+    assault_concentration = 9
+    delay_doctrine = 9
+}
+anti_air_brigade.10 = {
+    aa_barrell_ammo = 10
+    aa_carriage_sights = 10
+    assault_concentration = 10
+    delay_doctrine = 10
+}
+anti_air_brigade.11 = {
+    aa_barrell_ammo = 11
+    aa_carriage_sights = 11
+    assault_concentration = 11
+    delay_doctrine = 11
+}
+anti_air_brigade.12 = {
+    aa_barrell_ammo = 12
+    aa_carriage_sights = 12
+    assault_concentration = 12
+    delay_doctrine = 12
+}

@@ -1,0 +1,78 @@
+mot_aa_brigade.0 = {
+    aa_barrell_ammo = 0
+    aa_carriage_sights = 0
+    elastic_defence = 0
+    blitzkrieg = 0
+}
+mot_aa_brigade.1 = {
+    aa_barrell_ammo = 1
+    aa_carriage_sights = 1
+    elastic_defence = 1
+    blitzkrieg = 1
+}
+mot_aa_brigade.2 = {
+    aa_barrell_ammo = 2
+    aa_carriage_sights = 2
+    elastic_defence = 2
+    blitzkrieg = 2
+}
+mot_aa_brigade.3 = {
+    aa_barrell_ammo = 3
+    aa_carriage_sights = 3
+    elastic_defence = 3
+    blitzkrieg = 3
+}
+mot_aa_brigade.4 = {
+    aa_barrell_ammo = 4
+    aa_carriage_sights = 4
+    elastic_defence = 4
+    blitzkrieg = 4
+}
+mot_aa_brigade.5 = {
+    aa_barrell_ammo = 5
+    aa_carriage_sights = 5
+    elastic_defence = 5
+    blitzkrieg = 5
+}
+mot_aa_brigade.6 = {
+    aa_barrell_ammo = 6
+    aa_carriage_sights = 6
+    elastic_defence = 6
+    blitzkrieg = 6
+}
+mot_aa_brigade.7 = {
+    aa_barrell_ammo = 7
+    aa_carriage_sights = 7
+    elastic_defence = 7
+    blitzkrieg = 7
+}
+mot_aa_brigade.8 = {
+    aa_barrell_ammo = 8
+    aa_carriage_sights = 8
+    elastic_defence = 8
+    blitzkrieg = 8
+}
+mot_aa_brigade.9 = {
+    aa_barrell_ammo = 9
+    aa_carriage_sights = 9
+    elastic_defence = 9
+    blitzkrieg = 9
+}
+mot_aa_brigade.10 = {
+    aa_barrell_ammo = 10
+    aa_carriage_sights = 10
+    elastic_defence = 10
+    blitzkrieg = 10
+}
+mot_aa_brigade.11 = {
+    aa_barrell_ammo = 11
+    aa_carriage_sights = 11
+    elastic_defence = 11
+    blitzkrieg = 11
+}
+mot_aa_brigade.12 = {
+    aa_barrell_ammo = 12
+    aa_carriage_sights = 12
+    elastic_defence = 12
+    blitzkrieg = 12
+}

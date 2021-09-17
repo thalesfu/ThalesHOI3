@@ -1,40 +1,654 @@
 division = {
-	name = "新建陆军第一镇"
+	name = "步兵师"
 	location = 7476
 	regiment = { type = infantry_brigade historical_model = 0 }
-	regiment = { type = infantry_brigade historical_model = 0 }
+	regiment = { type = infantry_brigade historical_model = 1 }
+	regiment = { type = infantry_brigade historical_model = 2 }
+	regiment = { type = infantry_brigade historical_model = 3 }
+	regiment = { type = infantry_brigade historical_model = 4 }
+	regiment = { type = infantry_brigade historical_model = 5 }
+	regiment = { type = infantry_brigade historical_model = 6 }
+	regiment = { type = infantry_brigade historical_model = 7 }
+	regiment = { type = infantry_brigade historical_model = 8 }
+	regiment = { type = infantry_brigade historical_model = 9 }
+	regiment = { type = infantry_brigade historical_model = 10 }
+	regiment = { type = infantry_brigade historical_model = 11 }
+	regiment = { type = infantry_brigade historical_model = 12 }
 }
 
 division = {
-	name = "新建陆军第二镇"
+	name = "骑兵师"
 	location = 7476
-	regiment = { type = infantry_brigade historical_model = 0 }
-	regiment = { type = infantry_brigade historical_model = 0 }
+	regiment = { type = cavalry_brigade historical_model = 0 }
+	regiment = { type = cavalry_brigade historical_model = 1 }
+	regiment = { type = cavalry_brigade historical_model = 2 }
+	regiment = { type = cavalry_brigade historical_model = 3 }
+	regiment = { type = cavalry_brigade historical_model = 4 }
+	regiment = { type = cavalry_brigade historical_model = 5 }
+	regiment = { type = cavalry_brigade historical_model = 6 }
+	regiment = { type = cavalry_brigade historical_model = 7 }
+	regiment = { type = cavalry_brigade historical_model = 8 }
+	regiment = { type = cavalry_brigade historical_model = 9 }
+	regiment = { type = cavalry_brigade historical_model = 10 }
+	regiment = { type = cavalry_brigade historical_model = 11 }
+	regiment = { type = cavalry_brigade historical_model = 12 }
+	regiment = { type = cavalry_brigade historical_model = 13 }
+	regiment = { type = cavalry_brigade historical_model = 14 }
+}
+
+division = {
+	name = "摩托化步兵师"
+	location = 7476
+	regiment = { type = motorized_brigade historical_model = 0 }
+	regiment = { type = motorized_brigade historical_model = 1 }
+	regiment = { type = motorized_brigade historical_model = 2 }
+	regiment = { type = motorized_brigade historical_model = 3 }
+	regiment = { type = motorized_brigade historical_model = 4 }
+	regiment = { type = motorized_brigade historical_model = 5 }
+	regiment = { type = motorized_brigade historical_model = 6 }
+	regiment = { type = motorized_brigade historical_model = 7 }
+	regiment = { type = motorized_brigade historical_model = 8 }
+	regiment = { type = motorized_brigade historical_model = 9 }
+	regiment = { type = motorized_brigade historical_model = 10 }
+	regiment = { type = motorized_brigade historical_model = 11 }
+	regiment = { type = motorized_brigade historical_model = 12 }
+	regiment = { type = motorized_brigade historical_model = 13 }
+}
+
+division = {
+	name = "武装党卫军师"
+	location = 7476
+	regiment = { type = waffen_brigade historical_model = 0 }
+	regiment = { type = waffen_brigade historical_model = 1 }
+	regiment = { type = waffen_brigade historical_model = 2 }
+	regiment = { type = waffen_brigade historical_model = 3 }
+	regiment = { type = waffen_brigade historical_model = 4 }
+	regiment = { type = waffen_brigade historical_model = 5 }
+	regiment = { type = waffen_brigade historical_model = 6 }
+	regiment = { type = waffen_brigade historical_model = 7 }
+	regiment = { type = waffen_brigade historical_model = 8 }
+	regiment = { type = waffen_brigade historical_model = 9 }
+	regiment = { type = waffen_brigade historical_model = 10 }
+	regiment = { type = waffen_brigade historical_model = 11 }
+	regiment = { type = waffen_brigade historical_model = 12 }
+}
+
+division = {
+	name = "山地步兵师"
+	location = 7476
+	regiment = { type = bergsjaeger_brigade historical_model = 0 }
+	regiment = { type = bergsjaeger_brigade historical_model = 1 }
+	regiment = { type = bergsjaeger_brigade historical_model = 2 }
+	regiment = { type = bergsjaeger_brigade historical_model = 3 }
+	regiment = { type = bergsjaeger_brigade historical_model = 4 }
+	regiment = { type = bergsjaeger_brigade historical_model = 5 }
+	regiment = { type = bergsjaeger_brigade historical_model = 6 }
+	regiment = { type = bergsjaeger_brigade historical_model = 7 }
+	regiment = { type = bergsjaeger_brigade historical_model = 8 }
+	regiment = { type = bergsjaeger_brigade historical_model = 9 }
+	regiment = { type = bergsjaeger_brigade historical_model = 10 }
+	regiment = { type = bergsjaeger_brigade historical_model = 11 }
+	regiment = { type = bergsjaeger_brigade historical_model = 12 }
+}
+
+division = {
+	name = "阿尔卑斯山地步兵师"
+	location = 7476
+	regiment = { type = alpini_brigade historical_model = 0 }
+	regiment = { type = alpini_brigade historical_model = 1 }
+	regiment = { type = alpini_brigade historical_model = 2 }
+	regiment = { type = alpini_brigade historical_model = 3 }
+	regiment = { type = alpini_brigade historical_model = 4 }
+	regiment = { type = alpini_brigade historical_model = 5 }
+	regiment = { type = alpini_brigade historical_model = 6 }
+	regiment = { type = alpini_brigade historical_model = 7 }
+	regiment = { type = alpini_brigade historical_model = 8 }
+	regiment = { type = alpini_brigade historical_model = 9 }
+	regiment = { type = alpini_brigade historical_model = 10 }
+	regiment = { type = alpini_brigade historical_model = 11 }
+	regiment = { type = alpini_brigade historical_model = 12 }
+}
+
+division = {
+	name = "高山猎人师"
+	location = 7476
+	regiment = { type = alpins_brigade historical_model = 0 }
+	regiment = { type = alpins_brigade historical_model = 1 }
+	regiment = { type = alpins_brigade historical_model = 2 }
+	regiment = { type = alpins_brigade historical_model = 3 }
+	regiment = { type = alpins_brigade historical_model = 4 }
+	regiment = { type = alpins_brigade historical_model = 5 }
+	regiment = { type = alpins_brigade historical_model = 6 }
+	regiment = { type = alpins_brigade historical_model = 7 }
+	regiment = { type = alpins_brigade historical_model = 8 }
+	regiment = { type = alpins_brigade historical_model = 9 }
+	regiment = { type = alpins_brigade historical_model = 10 }
+	regiment = { type = alpins_brigade historical_model = 11 }
+	regiment = { type = alpins_brigade historical_model = 12 }
+}
+
+division = {
+	name = "廓尔喀师"
+	location = 7476
+	regiment = { type = gurkha_brigade historical_model = 0 }
+	regiment = { type = gurkha_brigade historical_model = 1 }
+	regiment = { type = gurkha_brigade historical_model = 2 }
+	regiment = { type = gurkha_brigade historical_model = 3 }
+	regiment = { type = gurkha_brigade historical_model = 4 }
+	regiment = { type = gurkha_brigade historical_model = 5 }
+	regiment = { type = gurkha_brigade historical_model = 6 }
+	regiment = { type = gurkha_brigade historical_model = 7 }
+	regiment = { type = gurkha_brigade historical_model = 8 }
+	regiment = { type = gurkha_brigade historical_model = 9 }
+	regiment = { type = gurkha_brigade historical_model = 10 }
+	regiment = { type = gurkha_brigade historical_model = 11 }
+	regiment = { type = gurkha_brigade historical_model = 12 }
+}
+
+division = {
+	name = "近卫军师"
+	location = 7476
+	regiment = { type = guards_brigade historical_model = 0 }
+	regiment = { type = guards_brigade historical_model = 1 }
+	regiment = { type = guards_brigade historical_model = 2 }
+	regiment = { type = guards_brigade historical_model = 3 }
+	regiment = { type = guards_brigade historical_model = 4 }
+	regiment = { type = guards_brigade historical_model = 5 }
+	regiment = { type = guards_brigade historical_model = 6 }
+	regiment = { type = guards_brigade historical_model = 7 }
+	regiment = { type = guards_brigade historical_model = 8 }
+	regiment = { type = guards_brigade historical_model = 9 }
+	regiment = { type = guards_brigade historical_model = 10 }
+	regiment = { type = guards_brigade historical_model = 11 }
+	regiment = { type = guards_brigade historical_model = 12 }
+}
+
+division = {
+	name = "海军陆战师"
+	location = 7476
+	regiment = { type = marine_brigade historical_model = 0 }
+	regiment = { type = marine_brigade historical_model = 1 }
+	regiment = { type = marine_brigade historical_model = 2 }
+	regiment = { type = marine_brigade historical_model = 3 }
+	regiment = { type = marine_brigade historical_model = 4 }
+	regiment = { type = marine_brigade historical_model = 5 }
+	regiment = { type = marine_brigade historical_model = 6 }
+	regiment = { type = marine_brigade historical_model = 7 }
+	regiment = { type = marine_brigade historical_model = 8 }
+	regiment = { type = marine_brigade historical_model = 9 }
+	regiment = { type = marine_brigade historical_model = 10 }
+	regiment = { type = marine_brigade historical_model = 11 }
+	regiment = { type = marine_brigade historical_model = 12 }
+}
+
+division = {
+	name = "皇家禁卫军师"
+	location = 7476
+	regiment = { type = imperial_brigade historical_model = 0 }
+	regiment = { type = imperial_brigade historical_model = 1 }
+	regiment = { type = imperial_brigade historical_model = 2 }
+	regiment = { type = imperial_brigade historical_model = 3 }
+	regiment = { type = imperial_brigade historical_model = 4 }
+	regiment = { type = imperial_brigade historical_model = 5 }
+	regiment = { type = imperial_brigade historical_model = 6 }
+	regiment = { type = imperial_brigade historical_model = 7 }
+	regiment = { type = imperial_brigade historical_model = 8 }
+	regiment = { type = imperial_brigade historical_model = 9 }
+	regiment = { type = imperial_brigade historical_model = 10 }
+	regiment = { type = imperial_brigade historical_model = 11 }
+	regiment = { type = imperial_brigade historical_model = 12 }
+}
+
+division = {
+	name = "空降师"
+	location = 7476
+	regiment = { type = paratrooper_brigade historical_model = 0 }
+	regiment = { type = paratrooper_brigade historical_model = 1 }
+	regiment = { type = paratrooper_brigade historical_model = 2 }
+	regiment = { type = paratrooper_brigade historical_model = 3 }
+	regiment = { type = paratrooper_brigade historical_model = 4 }
+	regiment = { type = paratrooper_brigade historical_model = 5 }
+	regiment = { type = paratrooper_brigade historical_model = 6 }
+	regiment = { type = paratrooper_brigade historical_model = 7 }
+	regiment = { type = paratrooper_brigade historical_model = 8 }
+	regiment = { type = paratrooper_brigade historical_model = 9 }
+	regiment = { type = paratrooper_brigade historical_model = 10 }
+	regiment = { type = paratrooper_brigade historical_model = 11 }
+	regiment = { type = paratrooper_brigade historical_model = 12 }
+}
+
+division = {
+	name = "游骑兵师"
+	location = 7476
+	regiment = { type = ranger_brigade historical_model = 0 }
+	regiment = { type = ranger_brigade historical_model = 1 }
+	regiment = { type = ranger_brigade historical_model = 2 }
+	regiment = { type = ranger_brigade historical_model = 3 }
+	regiment = { type = ranger_brigade historical_model = 4 }
+	regiment = { type = ranger_brigade historical_model = 5 }
+	regiment = { type = ranger_brigade historical_model = 6 }
+	regiment = { type = ranger_brigade historical_model = 7 }
+	regiment = { type = ranger_brigade historical_model = 8 }
+	regiment = { type = ranger_brigade historical_model = 9 }
+	regiment = { type = ranger_brigade historical_model = 10 }
+	regiment = { type = ranger_brigade historical_model = 11 }
+	regiment = { type = ranger_brigade historical_model = 12 }
+}
+
+division = {
+	name = "民兵师"
+	location = 7476
+	regiment = { type = militia_brigade historical_model = 0 }
+	regiment = { type = militia_brigade historical_model = 1 }
+	regiment = { type = militia_brigade historical_model = 2 }
+	regiment = { type = militia_brigade historical_model = 3 }
+	regiment = { type = militia_brigade historical_model = 4 }
+	regiment = { type = militia_brigade historical_model = 5 }
+	regiment = { type = militia_brigade historical_model = 6 }
+	regiment = { type = militia_brigade historical_model = 7 }
+	regiment = { type = militia_brigade historical_model = 8 }
+	regiment = { type = militia_brigade historical_model = 9 }
+	regiment = { type = militia_brigade historical_model = 10 }
+	regiment = { type = militia_brigade historical_model = 11 }
+	regiment = { type = militia_brigade historical_model = 12 }
+	regiment = { type = militia_brigade historical_model = 13 }
+}
+
+division = {
+	name = "卫戍师"
+	location = 7476
+	regiment = { type = garrison_brigade historical_model = 0 }
+	regiment = { type = garrison_brigade historical_model = 1 }
+	regiment = { type = garrison_brigade historical_model = 2 }
+	regiment = { type = garrison_brigade historical_model = 3 }
+	regiment = { type = garrison_brigade historical_model = 4 }
+	regiment = { type = garrison_brigade historical_model = 5 }
+	regiment = { type = garrison_brigade historical_model = 6 }
+	regiment = { type = garrison_brigade historical_model = 7 }
+	regiment = { type = garrison_brigade historical_model = 8 }
+	regiment = { type = garrison_brigade historical_model = 9 }
+	regiment = { type = garrison_brigade historical_model = 10 }
+	regiment = { type = garrison_brigade historical_model = 11 }
+	regiment = { type = garrison_brigade historical_model = 12 }
+	regiment = { type = garrison_brigade historical_model = 13 }
+}
+
+division = {
+	name = "游击队师"
+	location = 7476
+	regiment = { type = partisan_brigade historical_model = 0 }
+	regiment = { type = partisan_brigade historical_model = 1 }
+	regiment = { type = partisan_brigade historical_model = 2 }
+	regiment = { type = partisan_brigade historical_model = 3 }
+	regiment = { type = partisan_brigade historical_model = 4 }
+	regiment = { type = partisan_brigade historical_model = 5 }
+	regiment = { type = partisan_brigade historical_model = 6 }
+	regiment = { type = partisan_brigade historical_model = 7 }
+	regiment = { type = partisan_brigade historical_model = 8 }
+	regiment = { type = partisan_brigade historical_model = 9 }
+	regiment = { type = partisan_brigade historical_model = 10 }
+	regiment = { type = partisan_brigade historical_model = 11 }
+	regiment = { type = partisan_brigade historical_model = 12 }
+	regiment = { type = partisan_brigade historical_model = 13 }
+}
+
+division = {
+	name = "警察师"
+	location = 7476
+	regiment = { type = police_brigade historical_model = 0 }
+	regiment = { type = police_brigade historical_model = 1 }
+	regiment = { type = police_brigade historical_model = 2 }
+	regiment = { type = police_brigade historical_model = 3 }
+	regiment = { type = police_brigade historical_model = 4 }
+	regiment = { type = police_brigade historical_model = 5 }
+	regiment = { type = police_brigade historical_model = 6 }
+	regiment = { type = police_brigade historical_model = 7 }
+	regiment = { type = police_brigade historical_model = 8 }
+	regiment = { type = police_brigade historical_model = 9 }
+	regiment = { type = police_brigade historical_model = 10 }
+	regiment = { type = police_brigade historical_model = 11 }
+	regiment = { type = police_brigade historical_model = 12 }
+}
+
+division = {
+	name = "指挥部师"
+	location = 7476
+	regiment = { type = hq_brigade historical_model = 0 }
+	regiment = { type = hq_brigade historical_model = 1 }
+	regiment = { type = hq_brigade historical_model = 2 }
+	regiment = { type = hq_brigade historical_model = 3 }
+	regiment = { type = hq_brigade historical_model = 4 }
+	regiment = { type = hq_brigade historical_model = 5 }
+	regiment = { type = hq_brigade historical_model = 6 }
+	regiment = { type = hq_brigade historical_model = 7 }
+	regiment = { type = hq_brigade historical_model = 8 }
+	regiment = { type = hq_brigade historical_model = 9 }
+	regiment = { type = hq_brigade historical_model = 10 }
+	regiment = { type = hq_brigade historical_model = 11 }
+	regiment = { type = hq_brigade historical_model = 12 }
+}
+
+division = {
+	name = "工程队师"
+	location = 7476
 	regiment = { type = engineer_brigade historical_model = 0 }
+	regiment = { type = engineer_brigade historical_model = 1 }
+	regiment = { type = engineer_brigade historical_model = 2 }
+	regiment = { type = engineer_brigade historical_model = 3 }
+	regiment = { type = engineer_brigade historical_model = 4 }
+	regiment = { type = engineer_brigade historical_model = 5 }
+	regiment = { type = engineer_brigade historical_model = 6 }
+	regiment = { type = engineer_brigade historical_model = 7 }
+	regiment = { type = engineer_brigade historical_model = 8 }
+	regiment = { type = engineer_brigade historical_model = 9 }
+	regiment = { type = engineer_brigade historical_model = 10 }
+	regiment = { type = engineer_brigade historical_model = 11 }
+	regiment = { type = engineer_brigade historical_model = 12 }
+	regiment = { type = engineer_brigade historical_model = 13 }
+	regiment = { type = engineer_brigade historical_model = 14 }
 }
 
 division = {
-	name = "新建陆军第三镇"
+	name = "防空师"
 	location = 7476
-	regiment = { type = infantry_brigade historical_model = 0 }
-	regiment = { type = infantry_brigade historical_model = 0 }
-	regiment = { type = armored_car_brigade historical_model = 0 }
+	regiment = { type = anti_air_brigade historical_model = 0 }
+	regiment = { type = anti_air_brigade historical_model = 1 }
+	regiment = { type = anti_air_brigade historical_model = 2 }
+	regiment = { type = anti_air_brigade historical_model = 3 }
+	regiment = { type = anti_air_brigade historical_model = 4 }
+	regiment = { type = anti_air_brigade historical_model = 5 }
+	regiment = { type = anti_air_brigade historical_model = 6 }
+	regiment = { type = anti_air_brigade historical_model = 7 }
+	regiment = { type = anti_air_brigade historical_model = 8 }
+	regiment = { type = anti_air_brigade historical_model = 9 }
+	regiment = { type = anti_air_brigade historical_model = 10 }
+	regiment = { type = anti_air_brigade historical_model = 11 }
+	regiment = { type = anti_air_brigade historical_model = 12 }
 }
 
 division = {
-	name = "新建陆军第四镇"
+	name = "摩托化防空师"
 	location = 7476
-	regiment = { type = infantry_brigade historical_model = 0 }
-	regiment = { type = infantry_brigade historical_model = 0 }
-	regiment = { type = armored_car_brigade historical_model = 0 }
-	regiment = { type = engineer_brigade historical_model = 0 }
+	regiment = { type = mot_aa_brigade historical_model = 0 }
+	regiment = { type = mot_aa_brigade historical_model = 1 }
+	regiment = { type = mot_aa_brigade historical_model = 2 }
+	regiment = { type = mot_aa_brigade historical_model = 3 }
+	regiment = { type = mot_aa_brigade historical_model = 4 }
+	regiment = { type = mot_aa_brigade historical_model = 5 }
+	regiment = { type = mot_aa_brigade historical_model = 6 }
+	regiment = { type = mot_aa_brigade historical_model = 7 }
+	regiment = { type = mot_aa_brigade historical_model = 8 }
+	regiment = { type = mot_aa_brigade historical_model = 9 }
+	regiment = { type = mot_aa_brigade historical_model = 10 }
+	regiment = { type = mot_aa_brigade historical_model = 11 }
+	regiment = { type = mot_aa_brigade historical_model = 12 }
 }
 
 division = {
-	name = "新建陆军第五镇"
+	name = "炮师"
+	location = 7476
+	regiment = { type = artillery_brigade historical_model = 0 }
+	regiment = { type = artillery_brigade historical_model = 1 }
+	regiment = { type = artillery_brigade historical_model = 2 }
+	regiment = { type = artillery_brigade historical_model = 3 }
+	regiment = { type = artillery_brigade historical_model = 4 }
+	regiment = { type = artillery_brigade historical_model = 5 }
+	regiment = { type = artillery_brigade historical_model = 6 }
+	regiment = { type = artillery_brigade historical_model = 7 }
+	regiment = { type = artillery_brigade historical_model = 8 }
+	regiment = { type = artillery_brigade historical_model = 9 }
+	regiment = { type = artillery_brigade historical_model = 10 }
+	regiment = { type = artillery_brigade historical_model = 11 }
+	regiment = { type = artillery_brigade historical_model = 12 }
+	regiment = { type = artillery_brigade historical_model = 13 }
+	regiment = { type = artillery_brigade historical_model = 14 }
+}
+
+division = {
+	name = "自走炮师"
+	location = 7476
+	regiment = { type = sp_artillery_brigade historical_model = 0 }
+	regiment = { type = sp_artillery_brigade historical_model = 1 }
+	regiment = { type = sp_artillery_brigade historical_model = 2 }
+	regiment = { type = sp_artillery_brigade historical_model = 3 }
+	regiment = { type = sp_artillery_brigade historical_model = 4 }
+	regiment = { type = sp_artillery_brigade historical_model = 5 }
+	regiment = { type = sp_artillery_brigade historical_model = 6 }
+	regiment = { type = sp_artillery_brigade historical_model = 7 }
+	regiment = { type = sp_artillery_brigade historical_model = 8 }
+	regiment = { type = sp_artillery_brigade historical_model = 9 }
+	regiment = { type = sp_artillery_brigade historical_model = 10 }
+	regiment = { type = sp_artillery_brigade historical_model = 11 }
+	regiment = { type = sp_artillery_brigade historical_model = 12 }
+	regiment = { type = sp_artillery_brigade historical_model = 13 }
+	regiment = { type = sp_artillery_brigade historical_model = 14 }
+	regiment = { type = sp_artillery_brigade historical_model = 15 }
+}
+
+division = {
+	name = "火箭炮师"
+	location = 7476
+	regiment = { type = rocket_artillery_brigade historical_model = 0 }
+	regiment = { type = rocket_artillery_brigade historical_model = 1 }
+	regiment = { type = rocket_artillery_brigade historical_model = 2 }
+	regiment = { type = rocket_artillery_brigade historical_model = 3 }
+	regiment = { type = rocket_artillery_brigade historical_model = 4 }
+	regiment = { type = rocket_artillery_brigade historical_model = 5 }
+	regiment = { type = rocket_artillery_brigade historical_model = 6 }
+	regiment = { type = rocket_artillery_brigade historical_model = 7 }
+	regiment = { type = rocket_artillery_brigade historical_model = 8 }
+	regiment = { type = rocket_artillery_brigade historical_model = 9 }
+	regiment = { type = rocket_artillery_brigade historical_model = 10 }
+	regiment = { type = rocket_artillery_brigade historical_model = 11 }
+	regiment = { type = rocket_artillery_brigade historical_model = 12 }
+	regiment = { type = rocket_artillery_brigade historical_model = 13 }
+	regiment = { type = rocket_artillery_brigade historical_model = 14 }
+	regiment = { type = rocket_artillery_brigade historical_model = 15 }
+}
+
+division = {
+	name = "自走火箭炮师"
+	location = 7476
+	regiment = { type = sp_rct_artillery_brigade historical_model = 0 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 1 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 2 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 3 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 4 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 5 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 6 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 7 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 8 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 9 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 10 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 11 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 12 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 13 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 14 }
+	regiment = { type = sp_rct_artillery_brigade historical_model = 15 }
+}
+
+division = {
+	name = "反坦克师"
+	location = 7476
+	regiment = { type = anti_tank_brigade historical_model = 0 }
+	regiment = { type = anti_tank_brigade historical_model = 1 }
+	regiment = { type = anti_tank_brigade historical_model = 2 }
+	regiment = { type = anti_tank_brigade historical_model = 3 }
+	regiment = { type = anti_tank_brigade historical_model = 4 }
+	regiment = { type = anti_tank_brigade historical_model = 5 }
+	regiment = { type = anti_tank_brigade historical_model = 6 }
+	regiment = { type = anti_tank_brigade historical_model = 7 }
+	regiment = { type = anti_tank_brigade historical_model = 8 }
+	regiment = { type = anti_tank_brigade historical_model = 9 }
+	regiment = { type = anti_tank_brigade historical_model = 10 }
+	regiment = { type = anti_tank_brigade historical_model = 11 }
+	regiment = { type = anti_tank_brigade historical_model = 12 }
+}
+
+division = {
+	name = "坦克杀手师"
+	location = 7476
+	regiment = { type = tank_destroyer_brigade historical_model = 0 }
+	regiment = { type = tank_destroyer_brigade historical_model = 1 }
+	regiment = { type = tank_destroyer_brigade historical_model = 2 }
+	regiment = { type = tank_destroyer_brigade historical_model = 3 }
+	regiment = { type = tank_destroyer_brigade historical_model = 4 }
+	regiment = { type = tank_destroyer_brigade historical_model = 5 }
+	regiment = { type = tank_destroyer_brigade historical_model = 6 }
+	regiment = { type = tank_destroyer_brigade historical_model = 7 }
+	regiment = { type = tank_destroyer_brigade historical_model = 8 }
+	regiment = { type = tank_destroyer_brigade historical_model = 9 }
+	regiment = { type = tank_destroyer_brigade historical_model = 10 }
+	regiment = { type = tank_destroyer_brigade historical_model = 11 }
+	regiment = { type = tank_destroyer_brigade historical_model = 12 }
+	regiment = { type = tank_destroyer_brigade historical_model = 13 }
+	regiment = { type = tank_destroyer_brigade historical_model = 14 }
+	regiment = { type = tank_destroyer_brigade historical_model = 15 }
+	regiment = { type = tank_destroyer_brigade historical_model = 16 }
+	regiment = { type = tank_destroyer_brigade historical_model = 17 }
+	regiment = { type = tank_destroyer_brigade historical_model = 18 }
+	regiment = { type = tank_destroyer_brigade historical_model = 19 }
+	regiment = { type = tank_destroyer_brigade historical_model = 20 }
+	regiment = { type = tank_destroyer_brigade historical_model = 21 }
+	regiment = { type = tank_destroyer_brigade historical_model = 22 }
+	regiment = { type = tank_destroyer_brigade historical_model = 23 }
+	regiment = { type = tank_destroyer_brigade historical_model = 24 }
+}
+
+division = {
+	name = "装甲车师"
+	location = 7476
+	regiment = { type = armored_car_brigade historical_model = 0 }
+	regiment = { type = armored_car_brigade historical_model = 1 }
+	regiment = { type = armored_car_brigade historical_model = 2 }
+	regiment = { type = armored_car_brigade historical_model = 3 }
+	regiment = { type = armored_car_brigade historical_model = 4 }
+	regiment = { type = armored_car_brigade historical_model = 5 }
+	regiment = { type = armored_car_brigade historical_model = 6 }
+	regiment = { type = armored_car_brigade historical_model = 7 }
+	regiment = { type = armored_car_brigade historical_model = 8 }
+	regiment = { type = armored_car_brigade historical_model = 9 }
+	regiment = { type = armored_car_brigade historical_model = 10 }
+	regiment = { type = armored_car_brigade historical_model = 11 }
+	regiment = { type = armored_car_brigade historical_model = 12 }
+}
+
+division = {
+	name = "机动化步兵师"
+	location = 7476
+	regiment = { type = mechanized_brigade historical_model = 0 }
+	regiment = { type = mechanized_brigade historical_model = 1 }
+	regiment = { type = mechanized_brigade historical_model = 2 }
+	regiment = { type = mechanized_brigade historical_model = 3 }
+	regiment = { type = mechanized_brigade historical_model = 4 }
+	regiment = { type = mechanized_brigade historical_model = 5 }
+	regiment = { type = mechanized_brigade historical_model = 6 }
+	regiment = { type = mechanized_brigade historical_model = 7 }
+	regiment = { type = mechanized_brigade historical_model = 8 }
+	regiment = { type = mechanized_brigade historical_model = 9 }
+	regiment = { type = mechanized_brigade historical_model = 10 }
+	regiment = { type = mechanized_brigade historical_model = 11 }
+	regiment = { type = mechanized_brigade historical_model = 12 }
+	regiment = { type = mechanized_brigade historical_model = 13 }
+	regiment = { type = mechanized_brigade historical_model = 14 }
+	regiment = { type = mechanized_brigade historical_model = 15 }
+	regiment = { type = mechanized_brigade historical_model = 16 }
+	regiment = { type = mechanized_brigade historical_model = 17 }
+	regiment = { type = mechanized_brigade historical_model = 18 }
+	regiment = { type = mechanized_brigade historical_model = 19 }
+	regiment = { type = mechanized_brigade historical_model = 20 }
+	regiment = { type = mechanized_brigade historical_model = 21 }
+	regiment = { type = mechanized_brigade historical_model = 22 }
+	regiment = { type = mechanized_brigade historical_model = 23 }
+	regiment = { type = mechanized_brigade historical_model = 24 }
+}
+
+division = {
+	name = "轻型坦克师"
+	location = 7476
+	regiment = { type = light_armor_brigade historical_model = 0 }
+	regiment = { type = light_armor_brigade historical_model = 1 }
+	regiment = { type = light_armor_brigade historical_model = 2 }
+	regiment = { type = light_armor_brigade historical_model = 3 }
+	regiment = { type = light_armor_brigade historical_model = 4 }
+	regiment = { type = light_armor_brigade historical_model = 5 }
+	regiment = { type = light_armor_brigade historical_model = 6 }
+	regiment = { type = light_armor_brigade historical_model = 7 }
+	regiment = { type = light_armor_brigade historical_model = 8 }
+	regiment = { type = light_armor_brigade historical_model = 9 }
+	regiment = { type = light_armor_brigade historical_model = 10 }
+	regiment = { type = light_armor_brigade historical_model = 11 }
+	regiment = { type = light_armor_brigade historical_model = 12 }
+}
+
+division = {
+	name = "中型坦克师"
 	location = 7476
 	regiment = { type = armor_brigade historical_model = 0 }
-	regiment = { type = infantry_brigade historical_model = 0 }
-	regiment = { type = infantry_brigade historical_model = 0 }
-	regiment = { type = engineer_brigade historical_model = 0 }
+	regiment = { type = armor_brigade historical_model = 1 }
+	regiment = { type = armor_brigade historical_model = 2 }
+	regiment = { type = armor_brigade historical_model = 3 }
+	regiment = { type = armor_brigade historical_model = 4 }
+	regiment = { type = armor_brigade historical_model = 5 }
+	regiment = { type = armor_brigade historical_model = 6 }
+	regiment = { type = armor_brigade historical_model = 7 }
+	regiment = { type = armor_brigade historical_model = 8 }
+	regiment = { type = armor_brigade historical_model = 9 }
+	regiment = { type = armor_brigade historical_model = 10 }
+	regiment = { type = armor_brigade historical_model = 11 }
+	regiment = { type = armor_brigade historical_model = 12 }
+}
+
+division = {
+	name = "重型坦克师"
+	location = 7476
+	regiment = { type = heavy_armor_brigade historical_model = 0 }
+	regiment = { type = heavy_armor_brigade historical_model = 1 }
+	regiment = { type = heavy_armor_brigade historical_model = 2 }
+	regiment = { type = heavy_armor_brigade historical_model = 3 }
+	regiment = { type = heavy_armor_brigade historical_model = 4 }
+	regiment = { type = heavy_armor_brigade historical_model = 5 }
+	regiment = { type = heavy_armor_brigade historical_model = 6 }
+	regiment = { type = heavy_armor_brigade historical_model = 7 }
+	regiment = { type = heavy_armor_brigade historical_model = 8 }
+	regiment = { type = heavy_armor_brigade historical_model = 9 }
+	regiment = { type = heavy_armor_brigade historical_model = 10 }
+	regiment = { type = heavy_armor_brigade historical_model = 11 }
+	regiment = { type = heavy_armor_brigade historical_model = 12 }
+	regiment = { type = heavy_armor_brigade historical_model = 13 }
+	regiment = { type = heavy_armor_brigade historical_model = 14 }
+	regiment = { type = heavy_armor_brigade historical_model = 15 }
+	regiment = { type = heavy_armor_brigade historical_model = 16 }
+	regiment = { type = heavy_armor_brigade historical_model = 17 }
+	regiment = { type = heavy_armor_brigade historical_model = 18 }
+	regiment = { type = heavy_armor_brigade historical_model = 19 }
+	regiment = { type = heavy_armor_brigade historical_model = 20 }
+	regiment = { type = heavy_armor_brigade historical_model = 21 }
+}
+
+division = {
+	name = "超重坦克师"
+	location = 7476
+	regiment = { type = super_heavy_armor_brigade historical_model = 0 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 1 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 2 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 3 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 4 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 5 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 6 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 7 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 8 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 9 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 10 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 11 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 12 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 13 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 14 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 15 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 16 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 17 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 18 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 19 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 20 }
+	regiment = { type = super_heavy_armor_brigade historical_model = 21 }
 }

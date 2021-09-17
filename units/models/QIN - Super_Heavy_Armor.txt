@@ -1,0 +1,176 @@
+super_heavy_armor_brigade.0 = {
+    super_heavy_tank_gun = 0
+    super_heavy_tank_engine = 0
+    super_heavy_tank_armour = 0
+    super_heavy_tank_reliability = 0
+    schwerpunkt = 0
+    blitzkrieg = 0
+}
+super_heavy_armor_brigade.1 = {
+    super_heavy_tank_gun = 0
+    super_heavy_tank_engine = 0
+    super_heavy_tank_armour = 0
+    super_heavy_tank_reliability = 0
+    schwerpunkt = 1
+    blitzkrieg = 1
+}
+super_heavy_armor_brigade.2 = {
+    super_heavy_tank_gun = 0
+    super_heavy_tank_engine = 0
+    super_heavy_tank_armour = 0
+    super_heavy_tank_reliability = 0
+    schwerpunkt = 2
+    blitzkrieg = 2
+}
+super_heavy_armor_brigade.3 = {
+    super_heavy_tank_gun = 0
+    super_heavy_tank_engine = 0
+    super_heavy_tank_armour = 0
+    super_heavy_tank_reliability = 0
+    schwerpunkt = 3
+    blitzkrieg = 3
+}
+super_heavy_armor_brigade.4 = {
+    super_heavy_tank_gun = 0
+    super_heavy_tank_engine = 0
+    super_heavy_tank_armour = 0
+    super_heavy_tank_reliability = 0
+    schwerpunkt = 4
+    blitzkrieg = 4
+}
+super_heavy_armor_brigade.5 = {
+    super_heavy_tank_gun = 0
+    super_heavy_tank_engine = 0
+    super_heavy_tank_armour = 0
+    super_heavy_tank_reliability = 0
+    schwerpunkt = 5
+    blitzkrieg = 5
+}
+super_heavy_armor_brigade.6 = {
+    super_heavy_tank_gun = 1    #1943
+    super_heavy_tank_engine = 1
+    super_heavy_tank_armour = 1
+    super_heavy_tank_reliability = 1
+    schwerpunkt = 5 #1942
+    blitzkrieg = 5
+}
+super_heavy_armor_brigade.7 = {
+    super_heavy_tank_gun = 2    #1944
+    super_heavy_tank_engine = 2
+    super_heavy_tank_armour = 2
+    super_heavy_tank_reliability = 2
+    schwerpunkt = 6 #1944
+    blitzkrieg = 6
+}
+super_heavy_armor_brigade.8 = {
+    super_heavy_tank_gun = 2    #1944
+    super_heavy_tank_engine = 2
+    super_heavy_tank_armour = 2
+    super_heavy_tank_reliability = 2
+    schwerpunkt = 7 #1946
+    blitzkrieg = 7
+}
+super_heavy_armor_brigade.9 = {
+    super_heavy_tank_gun = 3    #1947
+    super_heavy_tank_engine = 3
+    super_heavy_tank_armour = 3
+    super_heavy_tank_reliability = 3
+    schwerpunkt = 7 #1946
+    blitzkrieg = 7
+}
+super_heavy_armor_brigade.10 = {
+    super_heavy_tank_gun = 3    #1947
+    super_heavy_tank_engine = 3
+    super_heavy_tank_armour = 3
+    super_heavy_tank_reliability = 3
+    schwerpunkt = 8 #1948
+    blitzkrieg = 8
+}
+super_heavy_armor_brigade.11 = {
+    super_heavy_tank_gun = 4    #1950
+    super_heavy_tank_engine = 4
+    super_heavy_tank_armour = 4
+    super_heavy_tank_reliability = 4
+    schwerpunkt = 9 #1950
+    blitzkrieg = 9
+}
+super_heavy_armor_brigade.12 = {
+    super_heavy_tank_gun = 4    #1950
+    super_heavy_tank_engine = 4
+    super_heavy_tank_armour = 4
+    super_heavy_tank_reliability = 4
+    schwerpunkt = 10 #1952
+    blitzkrieg = 10
+}
+super_heavy_armor_brigade.13 = {
+    super_heavy_tank_gun = 5    #1953
+    super_heavy_tank_engine = 5
+    super_heavy_tank_armour = 5
+    super_heavy_tank_reliability = 5
+    schwerpunkt = 10 #1952
+    blitzkrieg = 10
+}
+super_heavy_armor_brigade.14 = {
+    super_heavy_tank_gun = 5    #1953
+    super_heavy_tank_engine = 5
+    super_heavy_tank_armour = 5
+    super_heavy_tank_reliability = 5
+    schwerpunkt = 11 #1954
+    blitzkrieg = 11
+}
+super_heavy_armor_brigade.15 = {
+    super_heavy_tank_gun = 6    #1956
+    super_heavy_tank_engine = 6
+    super_heavy_tank_armour = 6
+    super_heavy_tank_reliability = 6
+    schwerpunkt = 12 #1954
+    blitzkrieg = 12
+}
+super_heavy_armor_brigade.16 = {
+    super_heavy_tank_gun = 7    #1959
+    super_heavy_tank_engine = 7
+    super_heavy_tank_armour = 7
+    super_heavy_tank_reliability = 7
+    schwerpunkt = 12 #1954
+    blitzkrieg = 12
+}
+super_heavy_armor_brigade.17 = {
+    super_heavy_tank_gun = 8    #1962
+    super_heavy_tank_engine = 8
+    super_heavy_tank_armour = 8
+    super_heavy_tank_reliability = 8
+    schwerpunkt = 12 #1954
+    blitzkrieg = 12
+}
+super_heavy_armor_brigade.18 = {
+    super_heavy_tank_gun = 9    #1965
+    super_heavy_tank_engine = 9
+    super_heavy_tank_armour = 9
+    super_heavy_tank_reliability = 9
+    schwerpunkt = 12 #1954
+    blitzkrieg = 12
+}
+super_heavy_armor_brigade.19 = {
+    super_heavy_tank_gun = 10    #1968
+    super_heavy_tank_engine = 10
+    super_heavy_tank_armour = 10
+    super_heavy_tank_reliability = 10
+    schwerpunkt = 12 #1954
+    blitzkrieg = 12
+}
+super_heavy_armor_brigade.20 = {
+    super_heavy_tank_gun = 11    #1971
+    super_heavy_tank_engine = 11
+    super_heavy_tank_armour = 11
+    super_heavy_tank_reliability = 11
+    schwerpunkt = 12 #1954
+    blitzkrieg = 12
+}
+super_heavy_armor_brigade.21 = {
+    super_heavy_tank_gun = 12    #1974
+    super_heavy_tank_engine = 12
+    super_heavy_tank_armour = 12
+    super_heavy_tank_reliability = 12
+    schwerpunkt = 12 #1954
+    blitzkrieg = 12
+}
