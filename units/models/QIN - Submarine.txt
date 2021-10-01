@@ -1,0 +1,280 @@
+submarine.0 = {                                 #
+    submarine_torpedoes = 0                     #
+    submarine_antiaircraft = 0                  #
+    submarine_engine = 0                        #
+    submarine_hull = 0                          #
+    submarine_airwarningequipment = 0           #
+    submarine_sonar = 0                         #
+    fleet_auxiliary_submarine_doctrine = 0      #
+    submarine_crew_training = 0                 #
+}
+submarine.1 = {                                 #1918
+    submarine_torpedoes = 1                     #1918
+    submarine_antiaircraft = 1                  #1918
+    submarine_engine = 1                        #1918
+    submarine_hull = 1                          #1918
+    submarine_airwarningequipment = 0           #
+    submarine_sonar = 0                         #
+    fleet_auxiliary_submarine_doctrine = 0      #
+    submarine_crew_training = 0                 #
+}
+submarine.2 = {                                 #1934
+    submarine_torpedoes = 2                     #1934
+    submarine_antiaircraft = 2                  #1934
+    submarine_engine = 2                        #1934
+    submarine_hull = 2                          #1934
+    submarine_airwarningequipment = 0           #
+    submarine_sonar = 0                         #
+    fleet_auxiliary_submarine_doctrine = 0      #
+    submarine_crew_training = 0                 #
+}
+submarine.3 = {                                 #1937
+    submarine_torpedoes = 3                     #1937
+    submarine_antiaircraft = 3                  #1937
+    submarine_engine = 3                        #1937
+    submarine_hull = 3                          #1937
+    submarine_airwarningequipment = 0           #
+    submarine_sonar = 0                         #
+    fleet_auxiliary_submarine_doctrine = 1      #1937
+    submarine_crew_training = 1                 #1937
+}
+submarine.4 = {                                 #1939
+    submarine_torpedoes = 3                     #1937
+    submarine_antiaircraft = 3                  #1937
+    submarine_engine = 3                        #1937
+    submarine_hull = 3                          #1937
+    submarine_airwarningequipment = 1           #1939
+    submarine_sonar = 1                         #1939
+    fleet_auxiliary_submarine_doctrine = 2      #1939
+    submarine_crew_training = 2                 #1939
+}
+submarine.5 = {                                 #1940
+    submarine_torpedoes = 4                     #1940
+    submarine_antiaircraft = 4                  #1940
+    submarine_engine = 4                        #1940
+    submarine_hull = 4                          #1940
+    submarine_airwarningequipment = 2           #1940
+    submarine_sonar = 2                         #1940
+    fleet_auxiliary_submarine_doctrine = 2      #1939
+    submarine_crew_training = 2                 #1939
+}
+submarine.6 = {                                 #1941
+    submarine_torpedoes = 4                     #1940
+    submarine_antiaircraft = 4                  #1940
+    submarine_engine = 4                        #1940
+    submarine_hull = 4                          #1940
+    submarine_airwarningequipment = 2           #1940
+    submarine_sonar = 2                         #1940
+    fleet_auxiliary_submarine_doctrine = 3      #1941
+    submarine_crew_training = 3                 #1941
+}
+submarine.7 = {                                 #1942
+    submarine_torpedoes = 4                     #1940
+    submarine_antiaircraft = 4                  #1940
+    submarine_engine = 4                        #1940
+    submarine_hull = 4                          #1940
+    submarine_airwarningequipment = 3           #1942
+    submarine_sonar = 3                         #1942
+    fleet_auxiliary_submarine_doctrine = 3      #1941
+    submarine_crew_training = 3                 #1941
+}
+submarine.8 = {                                 #1943
+    submarine_torpedoes = 5                     #1943
+    submarine_antiaircraft = 5                  #1943
+    submarine_engine = 5                        #1943
+    submarine_hull = 5                          #1943
+    submarine_airwarningequipment = 3           #1942
+    submarine_sonar = 3                         #1942
+    fleet_auxiliary_submarine_doctrine = 4      #1943
+    submarine_crew_training = 4                 #1943
+}
+submarine.9 = {                                 #1944
+    submarine_torpedoes = 5                     #1943
+    submarine_antiaircraft = 5                  #1943
+    submarine_engine = 5                        #1943
+    submarine_hull = 5                          #1943
+    submarine_airwarningequipment = 4           #1944
+    submarine_sonar = 4                         #1944
+    fleet_auxiliary_submarine_doctrine = 4      #1943
+    submarine_crew_training = 4                 #1943
+}
+submarine.10 = {                                #1945
+    submarine_torpedoes = 5                     #1943
+    submarine_antiaircraft = 5                  #1943
+    submarine_engine = 5                        #1943
+    submarine_hull = 5                          #1943
+    submarine_airwarningequipment = 4           #1944
+    submarine_sonar = 4                         #1944
+    fleet_auxiliary_submarine_doctrine = 5      #1945
+    submarine_crew_training = 5                 #1945
+}
+submarine.11 = {                                #1946
+    submarine_torpedoes = 6                     #1946
+    submarine_antiaircraft = 6                  #1946
+    submarine_engine = 6                        #1946
+    submarine_hull = 6                          #1946
+    submarine_airwarningequipment = 5           #1946
+    submarine_sonar = 5                         #1946
+    fleet_auxiliary_submarine_doctrine = 5      #1945
+    submarine_crew_training = 5                 #1945
+}
+submarine.12 = {                                #1947
+    submarine_torpedoes = 6                     #1946
+    submarine_antiaircraft = 6                  #1946
+    submarine_engine = 6                        #1946
+    submarine_hull = 6                          #1946
+    submarine_airwarningequipment = 5           #1946
+    submarine_sonar = 5                         #1946
+    fleet_auxiliary_submarine_doctrine = 6      #1947
+    submarine_crew_training = 6                 #1947
+}
+submarine.13 = {                                #1948
+    submarine_torpedoes = 6                     #1946
+    submarine_antiaircraft = 6                  #1946
+    submarine_engine = 6                        #1946
+    submarine_hull = 6                          #1946
+    submarine_airwarningequipment = 6           #1948
+    submarine_sonar = 6                         #1948
+    fleet_auxiliary_submarine_doctrine = 6      #1947
+    submarine_crew_training = 6                 #1947
+}
+submarine.14 = {                                #1949
+    submarine_torpedoes = 7                     #1949
+    submarine_antiaircraft = 7                  #1949
+    submarine_engine = 7                        #1949
+    submarine_hull = 7                          #1949
+    submarine_airwarningequipment = 6           #1948
+    submarine_sonar = 6                         #1948
+    fleet_auxiliary_submarine_doctrine = 7      #1949
+    submarine_crew_training = 7                 #1949
+}
+submarine.15 = {                                #1950
+    submarine_torpedoes = 7                     #1949
+    submarine_antiaircraft = 7                  #1949
+    submarine_engine = 7                        #1949
+    submarine_hull = 7                          #1949
+    submarine_airwarningequipment = 7           #1950
+    submarine_sonar = 7                         #1950
+    fleet_auxiliary_submarine_doctrine = 7      #1949
+    submarine_crew_training = 7                 #1949
+}
+submarine.16 = {                                #1951
+    submarine_torpedoes = 7                     #1949
+    submarine_antiaircraft = 7                  #1949
+    submarine_engine = 7                        #1949
+    submarine_hull = 7                          #1949
+    submarine_airwarningequipment = 7           #1950
+    submarine_sonar = 7                         #1950
+    fleet_auxiliary_submarine_doctrine = 8      #1951
+    submarine_crew_training = 8                 #1951
+}
+submarine.17 = {                                #1952
+    submarine_torpedoes = 7                     #1949
+    submarine_antiaircraft = 7                  #1949
+    submarine_engine = 7                        #1949
+    submarine_hull = 7                          #1949
+    submarine_airwarningequipment = 8           #1952
+    submarine_sonar = 8                         #1952
+    fleet_auxiliary_submarine_doctrine = 8      #1951
+    submarine_crew_training = 8                 #1951
+}
+submarine.18 = {                                #1953
+    submarine_torpedoes = 8                     #1953
+    submarine_antiaircraft = 8                  #1953
+    submarine_engine = 8                        #1953
+    submarine_hull = 8                          #1953
+    submarine_airwarningequipment = 8           #1952
+    submarine_sonar = 8                         #1952
+    fleet_auxiliary_submarine_doctrine = 9      #1953
+    submarine_crew_training = 9                 #1953
+}
+submarine.19 = {                                #1954
+    submarine_torpedoes = 8                     #1953
+    submarine_antiaircraft = 8                  #1953
+    submarine_engine = 8                        #1953
+    submarine_hull = 8                          #1953
+    submarine_airwarningequipment = 9           #1954
+    submarine_sonar = 9                         #1954
+    fleet_auxiliary_submarine_doctrine = 9      #1953
+    submarine_crew_training = 9                 #1953
+}
+submarine.20 = {                                #1955
+    submarine_torpedoes = 8                     #1953
+    submarine_antiaircraft = 8                  #1953
+    submarine_engine = 8                        #1953
+    submarine_hull = 8                          #1953
+    submarine_airwarningequipment = 9           #1954
+    submarine_sonar = 9                         #1954
+    fleet_auxiliary_submarine_doctrine = 10     #1955
+    submarine_crew_training = 10                #1955
+}
+submarine.21 = {                                #1956
+    submarine_torpedoes = 9                     #1956
+    submarine_antiaircraft = 9                  #1956
+    submarine_engine = 9                        #1956
+    submarine_hull = 9                          #1956
+    submarine_airwarningequipment = 10          #1956
+    submarine_sonar = 10                        #1956
+    fleet_auxiliary_submarine_doctrine = 10     #1955
+    submarine_crew_training = 10                #1955
+}
+submarine.22 = {                                #1957
+    submarine_torpedoes = 9                     #1956
+    submarine_antiaircraft = 9                  #1956
+    submarine_engine = 9                        #1956
+    submarine_hull = 9                          #1956
+    submarine_airwarningequipment = 10          #1956
+    submarine_sonar = 10                        #1956
+    fleet_auxiliary_submarine_doctrine = 11     #1957
+    submarine_crew_training = 11                #1957
+}
+submarine.23 = {                                #1958
+    submarine_torpedoes = 9                     #1956
+    submarine_antiaircraft = 9                  #1956
+    submarine_engine = 9                        #1956
+    submarine_hull = 9                          #1956
+    submarine_airwarningequipment = 11          #1958
+    submarine_sonar = 11                        #1958
+    fleet_auxiliary_submarine_doctrine = 11     #1957
+    submarine_crew_training = 11                #1957
+}
+submarine.24 = {                                #1959
+    submarine_torpedoes = 10                    #1959
+    submarine_antiaircraft = 10                 #1959
+    submarine_engine = 10                       #1959
+    submarine_hull = 10                         #1959
+    submarine_airwarningequipment = 11          #1958
+    submarine_sonar = 11                        #1958
+    fleet_auxiliary_submarine_doctrine = 12     #1959
+    submarine_crew_training = 12                #1959
+}
+submarine.25 = {                                #1960
+    submarine_torpedoes = 10                    #1959
+    submarine_antiaircraft = 10                 #1959
+    submarine_engine = 10                       #1959
+    submarine_hull = 10                         #1959
+    submarine_airwarningequipment = 12          #1960
+    submarine_sonar = 12                        #1960
+    fleet_auxiliary_submarine_doctrine = 12     #1959
+    submarine_crew_training = 12                #1959
+}
+submarine.26 = {                                #1962
+    submarine_torpedoes = 11                    #1962
+    submarine_antiaircraft = 11                 #1962
+    submarine_engine = 11                       #1962
+    submarine_hull = 11                         #1962
+    submarine_airwarningequipment = 12          #1960
+    submarine_sonar = 12                        #1960
+    fleet_auxiliary_submarine_doctrine = 12     #1959
+    submarine_crew_training = 12                #1959
+}
+submarine.27 = {                                #1965
+    submarine_torpedoes = 12                    #1965
+    submarine_antiaircraft = 12                 #1965
+    submarine_engine = 12                       #1965
+    submarine_hull = 12                         #1965
+    submarine_airwarningequipment = 12          #1960
+    submarine_sonar = 12                        #1960
+    fleet_auxiliary_submarine_doctrine = 12     #1959
+    submarine_crew_training = 12                #1959
+}

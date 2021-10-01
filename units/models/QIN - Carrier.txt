@@ -1,0 +1,280 @@
+carrier.0 = {                           #
+    carrier_hanger = 0                  #
+    carrier_antiaircraft = 0            #
+    carrier_engine = 0                  #
+    carrier_armour = 0                  #
+    largewarship_radar = 0              #
+    radar_training = 0                  #
+    carrier_group_doctrine = 0          #
+    carrier_crew_training = 0           #
+}
+carrier.1 = {                           #1918
+    carrier_hanger = 1                  #1918
+    carrier_antiaircraft = 1            #1918
+    carrier_engine = 1                  #1918
+    carrier_armour = 1                  #1918
+    largewarship_radar = 0              #
+    radar_training = 0                  #
+    carrier_group_doctrine = 0          #
+    carrier_crew_training = 0           #
+}
+carrier.2 = {                           #1934
+    carrier_hanger = 2                  #1934
+    carrier_antiaircraft = 2            #1934
+    carrier_engine = 2                  #1934
+    carrier_armour = 2                  #1934
+    largewarship_radar = 0              #
+    radar_training = 0                  #
+    carrier_group_doctrine = 0          #
+    carrier_crew_training = 0           #
+}
+carrier.3 = {                           #1936
+    carrier_hanger = 3                  #1936
+    carrier_antiaircraft = 3            #1936
+    carrier_engine = 3                  #1936
+    carrier_armour = 3                  #1936
+    largewarship_radar = 0              #
+    radar_training = 0                  #
+    carrier_group_doctrine = 0          #
+    carrier_crew_training = 0           #
+}
+carrier.4 = {                           #1937
+    carrier_hanger = 3                  #1936
+    carrier_antiaircraft = 3            #1936
+    carrier_engine = 3                  #1936
+    carrier_armour = 3                  #1936
+    largewarship_radar = 0              #
+    radar_training = 0                  #
+    carrier_group_doctrine = 1          #1937
+    carrier_crew_training = 1           #1937
+}
+carrier.5 = {                           #1938
+    carrier_hanger = 4                  #1938
+    carrier_antiaircraft = 4            #1938
+    carrier_engine = 4                  #1938
+    carrier_armour = 4                  #1938
+    largewarship_radar = 0              #1938
+    radar_training = 0                  #
+    carrier_group_doctrine = 1          #1937
+    carrier_crew_training = 1           #1937
+}
+carrier.6 = {                           #1939
+    carrier_hanger = 4                  #1938
+    carrier_antiaircraft = 4            #1938
+    carrier_engine = 4                  #1938
+    carrier_armour = 4                  #1938
+    largewarship_radar = 1              #1938
+    radar_training = 1                  #1939
+    carrier_group_doctrine = 2          #1939
+    carrier_crew_training = 2           #1939
+}
+carrier.7 = {                           #1940
+    carrier_hanger = 5                  #1940
+    carrier_antiaircraft = 5            #1940
+    carrier_engine = 5                  #1940
+    carrier_armour = 5                  #1940
+    largewarship_radar = 2              #1940
+    radar_training = 2                  #1940
+    carrier_group_doctrine = 2          #1939
+    carrier_crew_training = 2           #1939
+}
+carrier.8 = {                           #1941
+    carrier_hanger = 5                  #1940
+    carrier_antiaircraft = 5            #1940
+    carrier_engine = 5                  #1940
+    carrier_armour = 5                  #1940
+    largewarship_radar = 2              #1940
+    radar_training = 2                  #1940
+    carrier_group_doctrine = 3          #1941
+    carrier_crew_training = 3           #1941
+}
+carrier.9 = {                           #1942
+    carrier_hanger = 6                  #1942
+    carrier_antiaircraft = 6            #1942
+    carrier_engine = 6                  #1942
+    carrier_armour = 6                  #1942
+    largewarship_radar = 3              #1942
+    radar_training = 3                  #1942
+    carrier_group_doctrine = 3          #1941
+    carrier_crew_training = 3           #1941
+}
+carrier.10 = {                          #1943
+    carrier_hanger = 6                  #1942
+    carrier_antiaircraft = 6            #1942
+    carrier_engine = 6                  #1942
+    carrier_armour = 6                  #1942
+    largewarship_radar = 3              #1942
+    radar_training = 3                  #1942
+    carrier_group_doctrine = 4          #1943
+    carrier_crew_training = 4           #1943
+}
+carrier.11 = {                          #1944
+    carrier_hanger = 7                  #1944
+    carrier_antiaircraft = 7            #1944
+    carrier_engine = 7                  #1944
+    carrier_armour = 7                  #1944
+    largewarship_radar = 4              #1944
+    radar_training = 4                  #1944
+    carrier_group_doctrine = 4          #1943
+    carrier_crew_training = 4           #1943
+}
+carrier.12 = {                          #1945
+    carrier_hanger = 7                  #1944
+    carrier_antiaircraft = 7            #1944
+    carrier_engine = 7                  #1944
+    carrier_armour = 7                  #1944
+    largewarship_radar = 4              #1944
+    radar_training = 4                  #1944
+    carrier_group_doctrine = 5          #1945
+    carrier_crew_training = 5           #1945
+}
+carrier.13 = {                          #1946
+    carrier_hanger = 8                  #1946
+    carrier_antiaircraft = 8            #1946
+    carrier_engine = 8                  #1946
+    carrier_armour = 8                  #1946
+    largewarship_radar = 5              #1946
+    radar_training = 5                  #1946
+    carrier_group_doctrine = 5          #1945
+    carrier_crew_training = 5           #1945
+}
+carrier.14 = {                          #1947
+    carrier_hanger = 8                  #1946
+    carrier_antiaircraft = 8            #1946
+    carrier_engine = 8                  #1946
+    carrier_armour = 8                  #1946
+    largewarship_radar = 5              #1946
+    radar_training = 5                  #1946
+    carrier_group_doctrine = 6          #1947
+    carrier_crew_training = 6           #1947
+}
+carrier.15 = {                          #1948
+    carrier_hanger = 9                  #1948
+    carrier_antiaircraft = 9            #1948
+    carrier_engine = 9                  #1948
+    carrier_armour = 9                  #1948
+    largewarship_radar = 6              #1948
+    radar_training = 6                  #1948
+    carrier_group_doctrine = 6          #1947
+    carrier_crew_training = 6           #1947
+}
+carrier.16 = {                          #1949
+    carrier_hanger = 9                  #1948
+    carrier_antiaircraft = 9            #1948
+    carrier_engine = 9                  #1948
+    carrier_armour = 9                  #1948
+    largewarship_radar = 6              #1948
+    radar_training = 6                  #1948
+    carrier_group_doctrine = 7          #1949
+    carrier_crew_training = 7           #1949
+}
+carrier.17 = {                          #1950
+    carrier_hanger = 10                 #1950
+    carrier_antiaircraft = 10           #1950
+    carrier_engine = 10                 #1950
+    carrier_armour = 10                 #1950
+    largewarship_radar = 7              #1950
+    radar_training = 7                  #1950
+    carrier_group_doctrine = 7          #1949
+    carrier_crew_training = 7           #1949
+}
+carrier.18 = {                          #1951
+    carrier_hanger = 10                 #1950
+    carrier_antiaircraft = 10           #1950
+    carrier_engine = 10                 #1950
+    carrier_armour = 10                 #1950
+    largewarship_radar = 7              #1950
+    radar_training = 7                  #1950
+    carrier_group_doctrine = 8          #1951
+    carrier_crew_training = 8           #1951
+}
+carrier.19 = {                          #1952
+    carrier_hanger = 11                 #1952
+    carrier_antiaircraft = 11           #1952
+    carrier_engine = 11                 #1952
+    carrier_armour = 11                 #1952
+    largewarship_radar = 8              #1952
+    radar_training = 8                  #1952
+    carrier_group_doctrine = 8          #1951
+    carrier_crew_training = 8           #1951
+}
+carrier.20 = {                          #1953
+    carrier_hanger = 11                 #1952
+    carrier_antiaircraft = 11           #1952
+    carrier_engine = 11                 #1952
+    carrier_armour = 11                 #1952
+    largewarship_radar = 8              #1952
+    radar_training = 8                  #1952
+    carrier_group_doctrine = 9          #1953
+    carrier_crew_training = 9           #1953
+}
+carrier.21 = {                          #1954
+    carrier_hanger = 12                 #1954
+    carrier_antiaircraft = 12           #1954
+    carrier_engine = 12                 #1954
+    carrier_armour = 12                 #1954
+    largewarship_radar = 9              #1954
+    radar_training = 9                  #1954
+    carrier_group_doctrine = 9          #1953
+    carrier_crew_training = 9           #1953
+}
+carrier.22 = {                          #1955
+    carrier_hanger = 12                 #1954
+    carrier_antiaircraft = 12           #1954
+    carrier_engine = 12                 #1954
+    carrier_armour = 12                 #1954
+    largewarship_radar = 9              #1954
+    radar_training = 9                  #1954
+    carrier_group_doctrine = 10         #1955
+    carrier_crew_training = 10          #1955
+}
+carrier.23 = {                          #1956
+    carrier_hanger = 12                 #1954
+    carrier_antiaircraft = 12           #1954
+    carrier_engine = 12                 #1954
+    carrier_armour = 12                 #1954
+    largewarship_radar = 10             #1956
+    radar_training = 10                 #1956
+    carrier_group_doctrine = 10         #1955
+    carrier_crew_training = 10          #1955
+}
+carrier.24 = {                          #1957
+    carrier_hanger = 12                 #1954
+    carrier_antiaircraft = 12           #1954
+    carrier_engine = 12                 #1954
+    carrier_armour = 12                 #1954
+    largewarship_radar = 10             #1956
+    radar_training = 10                 #1956
+    carrier_group_doctrine = 11         #1957
+    carrier_crew_training = 11          #1957
+}
+carrier.25 = {                          #1958
+    carrier_hanger = 12                 #1954
+    carrier_antiaircraft = 12           #1954
+    carrier_engine = 12                 #1954
+    carrier_armour = 12                 #1954
+    largewarship_radar = 11             #1958
+    radar_training = 11                 #1958
+    carrier_group_doctrine = 11         #1957
+    carrier_crew_training = 11          #1957
+}
+carrier.26 = {                          #1959
+    carrier_hanger = 12                 #1954
+    carrier_antiaircraft = 12           #1954
+    carrier_engine = 12                 #1954
+    carrier_armour = 12                 #1954
+    largewarship_radar = 11             #1958
+    radar_training = 11                 #1958
+    carrier_group_doctrine = 12         #1959
+    carrier_crew_training = 12          #1959
+}
+carrier.27 = {                          #1960
+    carrier_hanger = 12                 #1954
+    carrier_antiaircraft = 12           #1954
+    carrier_engine = 12                 #1954
+    carrier_armour = 12                 #1954
+    largewarship_radar = 12             #1960
+    radar_training = 12                 #1960
+    carrier_group_doctrine = 12         #1959
+    carrier_crew_training = 12          #1959
+}

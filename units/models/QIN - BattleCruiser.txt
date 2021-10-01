@@ -1,0 +1,252 @@
+battlecruiser.0 = {                 #
+    capitalship_armament = 0        #
+    battlecruiser_antiaircraft = 0  #
+    battlecruiser_engine = 0        #
+    battlecruiser_armour = 0        #
+    largewarship_radar = 0          #
+    cruiser_warfare = 0             #
+    cruiser_crew_training = 0       #
+}
+battlecruiser.1 = {                 #1918
+    capitalship_armament = 1        #1918
+    battlecruiser_antiaircraft = 1  #1918
+    battlecruiser_engine = 1        #1918
+    battlecruiser_armour = 1        #1918
+    largewarship_radar = 0          #
+    cruiser_warfare = 0             #
+    cruiser_crew_training = 0       #
+}
+battlecruiser.2 = {                 #1934
+    capitalship_armament = 2        #1934
+    battlecruiser_antiaircraft = 2  #1934
+    battlecruiser_engine = 2        #1934
+    battlecruiser_armour = 2        #1934
+    largewarship_radar = 0          #
+    cruiser_warfare = 0             #
+    cruiser_crew_training = 0       #
+}
+battlecruiser.3 = {                 #1936
+    capitalship_armament = 3        #1936
+    battlecruiser_antiaircraft = 3  #1936
+    battlecruiser_engine = 3        #1936
+    battlecruiser_armour = 3        #1936
+    largewarship_radar = 0          #
+    cruiser_warfare = 0             #
+    cruiser_crew_training = 0       #
+}
+battlecruiser.4 = {                 #1937
+    capitalship_armament = 3        #1936
+    battlecruiser_antiaircraft = 3  #1936
+    battlecruiser_engine = 3        #1936
+    battlecruiser_armour = 3        #1936
+    largewarship_radar = 0          #
+    cruiser_warfare = 1             #1937
+    cruiser_crew_training = 1       #1937
+}
+battlecruiser.5 = {                 #1938
+    capitalship_armament = 4        #1938
+    battlecruiser_antiaircraft = 4  #1938
+    battlecruiser_engine = 4        #1938
+    battlecruiser_armour = 4        #1938
+    largewarship_radar = 0          #1938
+    cruiser_warfare = 1             #1937
+    cruiser_crew_training = 1       #1937
+}
+battlecruiser.6 = {                 #1939
+    capitalship_armament = 4        #1938
+    battlecruiser_antiaircraft = 4  #1938
+    battlecruiser_engine = 4        #1938
+    battlecruiser_armour = 4        #1938
+    largewarship_radar = 1          #1938
+    cruiser_warfare = 2             #1939
+    cruiser_crew_training = 2       #1939
+}
+battlecruiser.7 = {                 #1940
+    capitalship_armament = 5        #1940
+    battlecruiser_antiaircraft = 5  #1940
+    battlecruiser_engine = 5        #1940
+    battlecruiser_armour = 5        #1940
+    largewarship_radar = 2          #1940
+    cruiser_warfare = 2             #1939
+    cruiser_crew_training = 2       #1939
+}
+battlecruiser.8 = {                 #1941
+    capitalship_armament = 5        #1940
+    battlecruiser_antiaircraft = 5  #1940
+    battlecruiser_engine = 5        #1940
+    battlecruiser_armour = 5        #1940
+    largewarship_radar = 2          #1940
+    cruiser_warfare = 3             #1941
+    cruiser_crew_training = 3       #1941
+}
+battlecruiser.9 = {                 #1942
+    capitalship_armament = 6        #1942
+    battlecruiser_antiaircraft = 6  #1942
+    battlecruiser_engine = 6        #1942
+    battlecruiser_armour = 6        #1942
+    largewarship_radar = 3          #1942
+    cruiser_warfare = 3             #1941
+    cruiser_crew_training = 3       #1941
+}
+battlecruiser.10 = {                #1943
+    capitalship_armament = 6        #1942
+    battlecruiser_antiaircraft = 6  #1942
+    battlecruiser_engine = 6        #1942
+    battlecruiser_armour = 6        #1942
+    largewarship_radar = 3          #1942
+    cruiser_warfare = 4             #1943
+    cruiser_crew_training = 4       #1943
+}
+battlecruiser.11 = {                #1944
+    capitalship_armament = 7        #1944
+    battlecruiser_antiaircraft = 7  #1944
+    battlecruiser_engine = 7        #1944
+    battlecruiser_armour = 7        #1944
+    largewarship_radar = 4          #1944
+    cruiser_warfare = 4             #1943
+    cruiser_crew_training = 4       #1943
+}
+battlecruiser.12 = {                #1945
+    capitalship_armament = 7        #1944
+    battlecruiser_antiaircraft = 7  #1944
+    battlecruiser_engine = 7        #1944
+    battlecruiser_armour = 7        #1944
+    largewarship_radar = 4          #1944
+    cruiser_warfare = 5             #1945
+    cruiser_crew_training = 5       #1945
+}
+battlecruiser.13 = {                #1946
+    capitalship_armament = 8        #1946
+    battlecruiser_antiaircraft = 8  #1946
+    battlecruiser_engine = 8        #1946
+    battlecruiser_armour = 8        #1946
+    largewarship_radar = 5          #1946
+    cruiser_warfare = 5             #1945
+    cruiser_crew_training = 5       #1945
+}
+battlecruiser.14 = {                #1947
+    capitalship_armament = 8        #1946
+    battlecruiser_antiaircraft = 8  #1946
+    battlecruiser_engine = 8        #1946
+    battlecruiser_armour = 8        #1946
+    largewarship_radar = 5          #1946
+    cruiser_warfare = 6             #1947
+    cruiser_crew_training = 6       #1947
+}
+battlecruiser.15 = {                #1948
+    capitalship_armament = 9        #1948
+    battlecruiser_antiaircraft = 9  #1948
+    battlecruiser_engine = 9        #1948
+    battlecruiser_armour = 9        #1948
+    largewarship_radar = 6          #1948
+    cruiser_warfare = 6             #1947
+    cruiser_crew_training = 6       #1947
+}
+battlecruiser.16 = {                #1949
+    capitalship_armament = 9        #1948
+    battlecruiser_antiaircraft = 9  #1948
+    battlecruiser_engine = 9        #1948
+    battlecruiser_armour = 9        #1948
+    largewarship_radar = 6          #1948
+    cruiser_warfare = 7             #1949
+    cruiser_crew_training = 7       #1949
+}
+battlecruiser.17 = {                #1950
+    capitalship_armament = 10       #1950
+    battlecruiser_antiaircraft = 10 #1950
+    battlecruiser_engine = 10       #1950
+    battlecruiser_armour = 10       #1950
+    largewarship_radar = 7          #1950
+    cruiser_warfare = 7             #1949
+    cruiser_crew_training = 7       #1949
+}
+battlecruiser.18 = {                #1951
+    capitalship_armament = 10       #1950
+    battlecruiser_antiaircraft = 10 #1950
+    battlecruiser_engine = 10       #1950
+    battlecruiser_armour = 10       #1950
+    largewarship_radar = 7          #1950
+    cruiser_warfare = 8             #1951
+    cruiser_crew_training = 8       #1951
+}
+battlecruiser.19 = {                #1952
+    capitalship_armament = 11       #1952
+    battlecruiser_antiaircraft = 11 #1952
+    battlecruiser_engine = 11       #1952
+    battlecruiser_armour = 11       #1952
+    largewarship_radar = 8          #1952
+    cruiser_warfare = 8             #1951
+    cruiser_crew_training = 8       #1951
+}
+battlecruiser.20 = {                #1953
+    capitalship_armament = 11       #1952
+    battlecruiser_antiaircraft = 11 #1952
+    battlecruiser_engine = 11       #1952
+    battlecruiser_armour = 11       #1952
+    largewarship_radar = 8          #1952
+    cruiser_warfare = 9             #1953
+    cruiser_crew_training = 9       #1953
+}
+battlecruiser.21 = {                #1954
+    capitalship_armament = 12       #1954
+    battlecruiser_antiaircraft = 12 #1954
+    battlecruiser_engine = 12       #1954
+    battlecruiser_armour = 12       #1954
+    largewarship_radar = 9          #1954
+    cruiser_warfare = 9             #1953
+    cruiser_crew_training = 9       #1953
+}
+battlecruiser.22 = {                #1955
+    capitalship_armament = 12       #1954
+    battlecruiser_antiaircraft = 12 #1954
+    battlecruiser_engine = 12       #1954
+    battlecruiser_armour = 12       #1954
+    largewarship_radar = 9          #1954
+    cruiser_warfare = 10            #1955
+    cruiser_crew_training = 10      #1955
+}
+battlecruiser.23 = {                #1956
+    capitalship_armament = 12       #1954
+    battlecruiser_antiaircraft = 12 #1954
+    battlecruiser_engine = 12       #1954
+    battlecruiser_armour = 12       #1954
+    largewarship_radar = 10         #1956
+    cruiser_warfare = 10            #1955
+    cruiser_crew_training = 10      #1955
+}
+battlecruiser.24 = {                #1957
+    capitalship_armament = 12       #1954
+    battlecruiser_antiaircraft = 12 #1954
+    battlecruiser_engine = 12       #1954
+    battlecruiser_armour = 12       #1954
+    largewarship_radar = 10         #1956
+    cruiser_warfare = 11            #1957
+    cruiser_crew_training = 11      #1957
+}
+battlecruiser.25 = {                #1958
+    capitalship_armament = 12       #1954
+    battlecruiser_antiaircraft = 12 #1954
+    battlecruiser_engine = 12       #1954
+    battlecruiser_armour = 12       #1954
+    largewarship_radar = 11         #1958
+    cruiser_warfare = 11            #1957
+    cruiser_crew_training = 11      #1957
+}
+battlecruiser.26 = {                #1959
+    capitalship_armament = 12       #1954
+    battlecruiser_antiaircraft = 12 #1954
+    battlecruiser_engine = 12       #1954
+    battlecruiser_armour = 12       #1954
+    largewarship_radar = 11         #1958
+    cruiser_warfare = 12            #1959
+    cruiser_crew_training = 12      #1959
+}
+battlecruiser.27 = {                #1960
+    capitalship_armament = 12       #1954
+    battlecruiser_antiaircraft = 12 #1954
+    battlecruiser_engine = 12       #1954
+    battlecruiser_armour = 12       #1954
+    largewarship_radar = 12         #1960
+    cruiser_warfare = 12            #1959
+    cruiser_crew_training = 12      #1959
+}

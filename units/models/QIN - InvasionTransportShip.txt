@@ -1,0 +1,52 @@
+invasion_transport_ship.0 = {                   #
+    amphibious_invasion_technology = 0          #
+    amphibious_assault_units = 0                #
+}
+invasion_transport_ship.1 = {                   #1940
+    amphibious_invasion_technology = 1          #1940
+    amphibious_assault_units = 1                #1940
+}
+invasion_transport_ship.2 = {                   #1942
+    amphibious_invasion_technology = 2          #1942
+    amphibious_assault_units = 2                #1942
+}
+invasion_transport_ship.3 = {                   #1944
+    amphibious_invasion_technology = 3          #1944
+    amphibious_assault_units = 3                #1944
+}
+invasion_transport_ship.4 = {                   #1946
+    amphibious_invasion_technology = 4          #1946
+    amphibious_assault_units = 4                #1946
+}
+invasion_transport_ship.5 = {                   #1948
+    amphibious_invasion_technology = 5          #1948
+    amphibious_assault_units = 5                #1948
+}
+invasion_transport_ship.6 = {                   #1950
+    amphibious_invasion_technology = 6          #1950
+    amphibious_assault_units = 6                #1950
+}
+invasion_transport_ship.7 = {                   #1952
+    amphibious_invasion_technology = 7          #1952
+    amphibious_assault_units = 7                #1952
+}
+invasion_transport_ship.8 = {                   #1954
+    amphibious_invasion_technology = 8          #1954
+    amphibious_assault_units = 8                #1954
+}
+invasion_transport_ship.9 = {                   #1956
+    amphibious_invasion_technology = 9          #1956
+    amphibious_assault_units = 9                #1956
+}
+invasion_transport_ship.10 = {                  #1958
+    amphibious_invasion_technology = 10         #1958
+    amphibious_assault_units = 10               #1958
+}
+invasion_transport_ship.11 = {                  #1960
+    amphibious_invasion_technology = 11         #1960
+    amphibious_assault_units = 11               #1960
+}
+invasion_transport_ship.12 = {                  #1962
+    amphibious_invasion_technology = 12         #1962
+    amphibious_assault_units = 12               #1962
+}

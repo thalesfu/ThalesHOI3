@@ -652,3 +652,360 @@ division = {
 	regiment = { type = super_heavy_armor_brigade historical_model = 20 }
 	regiment = { type = super_heavy_armor_brigade historical_model = 21 }
 }
+navy = {
+	name = "ÇýÖð½¢½¢¶Ó"
+	base = 5542
+	location = 5542
+	ship = { type = destroyer historical_model = 0 }
+	ship = { type = destroyer historical_model = 1 }
+	ship = { type = destroyer historical_model = 2 }
+	ship = { type = destroyer historical_model = 3 }
+	ship = { type = destroyer historical_model = 4 }
+	ship = { type = destroyer historical_model = 5 }
+	ship = { type = destroyer historical_model = 6 }
+	ship = { type = destroyer historical_model = 7 }
+	ship = { type = destroyer historical_model = 8 }
+	ship = { type = destroyer historical_model = 9 }
+	ship = { type = destroyer historical_model = 10 }
+	ship = { type = destroyer historical_model = 11 }
+	ship = { type = destroyer historical_model = 12 }
+	ship = { type = destroyer historical_model = 13 }
+	ship = { type = destroyer historical_model = 14 }
+	ship = { type = destroyer historical_model = 15 }
+	ship = { type = destroyer historical_model = 16 }
+	ship = { type = destroyer historical_model = 17 }
+	ship = { type = destroyer historical_model = 18 }
+	ship = { type = destroyer historical_model = 19 }
+	ship = { type = destroyer historical_model = 20 }
+	ship = { type = destroyer historical_model = 21 }
+	ship = { type = destroyer historical_model = 22 }
+	ship = { type = destroyer historical_model = 23 }
+	ship = { type = destroyer historical_model = 24 }
+	ship = { type = destroyer historical_model = 25 }
+	ship = { type = destroyer historical_model = 26 }
+	ship = { type = destroyer historical_model = 27 }
+}
+navy = {
+	name = "ÇáÐÍÑ²Ñó½¢½¢¶Ó"
+	base = 5542
+	location = 5542
+	ship = { type = light_cruiser historical_model = 0 }
+	ship = { type = light_cruiser historical_model = 1 }
+	ship = { type = light_cruiser historical_model = 2 }
+	ship = { type = light_cruiser historical_model = 3 }
+	ship = { type = light_cruiser historical_model = 4 }
+	ship = { type = light_cruiser historical_model = 5 }
+	ship = { type = light_cruiser historical_model = 6 }
+	ship = { type = light_cruiser historical_model = 7 }
+	ship = { type = light_cruiser historical_model = 8 }
+	ship = { type = light_cruiser historical_model = 9 }
+	ship = { type = light_cruiser historical_model = 10 }
+	ship = { type = light_cruiser historical_model = 11 }
+	ship = { type = light_cruiser historical_model = 12 }
+	ship = { type = light_cruiser historical_model = 13 }
+	ship = { type = light_cruiser historical_model = 14 }
+	ship = { type = light_cruiser historical_model = 15 }
+	ship = { type = light_cruiser historical_model = 16 }
+	ship = { type = light_cruiser historical_model = 17 }
+	ship = { type = light_cruiser historical_model = 18 }
+	ship = { type = light_cruiser historical_model = 19 }
+	ship = { type = light_cruiser historical_model = 20 }
+	ship = { type = light_cruiser historical_model = 21 }
+	ship = { type = light_cruiser historical_model = 22 }
+	ship = { type = light_cruiser historical_model = 23 }
+	ship = { type = light_cruiser historical_model = 24 }
+	ship = { type = light_cruiser historical_model = 25 }
+	ship = { type = light_cruiser historical_model = 26 }
+	ship = { type = light_cruiser historical_model = 27 }
+}
+navy = {
+	name = "ÖØÐÍÑ²Ñó½¢½¢¶Ó"
+	base = 5542
+	location = 5542
+	ship = { type = heavy_cruiser historical_model = 0 }
+	ship = { type = heavy_cruiser historical_model = 1 }
+	ship = { type = heavy_cruiser historical_model = 2 }
+	ship = { type = heavy_cruiser historical_model = 3 }
+	ship = { type = heavy_cruiser historical_model = 4 }
+	ship = { type = heavy_cruiser historical_model = 5 }
+	ship = { type = heavy_cruiser historical_model = 6 }
+	ship = { type = heavy_cruiser historical_model = 7 }
+	ship = { type = heavy_cruiser historical_model = 8 }
+	ship = { type = heavy_cruiser historical_model = 9 }
+	ship = { type = heavy_cruiser historical_model = 10 }
+	ship = { type = heavy_cruiser historical_model = 11 }
+	ship = { type = heavy_cruiser historical_model = 12 }
+	ship = { type = heavy_cruiser historical_model = 13 }
+	ship = { type = heavy_cruiser historical_model = 14 }
+	ship = { type = heavy_cruiser historical_model = 15 }
+	ship = { type = heavy_cruiser historical_model = 16 }
+	ship = { type = heavy_cruiser historical_model = 17 }
+	ship = { type = heavy_cruiser historical_model = 18 }
+	ship = { type = heavy_cruiser historical_model = 19 }
+	ship = { type = heavy_cruiser historical_model = 20 }
+	ship = { type = heavy_cruiser historical_model = 21 }
+	ship = { type = heavy_cruiser historical_model = 22 }
+	ship = { type = heavy_cruiser historical_model = 23 }
+	ship = { type = heavy_cruiser historical_model = 24 }
+	ship = { type = heavy_cruiser historical_model = 25 }
+	ship = { type = heavy_cruiser historical_model = 26 }
+	ship = { type = heavy_cruiser historical_model = 27 }
+}
+navy = {
+	name = "Õ½ÁÐÑ²Ñó½¢½¢¶Ó"
+	base = 5542
+	location = 5542
+	ship = { type = battlecruiser historical_model = 0 }
+	ship = { type = battlecruiser historical_model = 1 }
+	ship = { type = battlecruiser historical_model = 2 }
+	ship = { type = battlecruiser historical_model = 3 }
+	ship = { type = battlecruiser historical_model = 4 }
+	ship = { type = battlecruiser historical_model = 5 }
+	ship = { type = battlecruiser historical_model = 6 }
+	ship = { type = battlecruiser historical_model = 7 }
+	ship = { type = battlecruiser historical_model = 8 }
+	ship = { type = battlecruiser historical_model = 9 }
+	ship = { type = battlecruiser historical_model = 10 }
+	ship = { type = battlecruiser historical_model = 11 }
+	ship = { type = battlecruiser historical_model = 12 }
+	ship = { type = battlecruiser historical_model = 13 }
+	ship = { type = battlecruiser historical_model = 14 }
+	ship = { type = battlecruiser historical_model = 15 }
+	ship = { type = battlecruiser historical_model = 16 }
+	ship = { type = battlecruiser historical_model = 17 }
+	ship = { type = battlecruiser historical_model = 18 }
+	ship = { type = battlecruiser historical_model = 19 }
+	ship = { type = battlecruiser historical_model = 20 }
+	ship = { type = battlecruiser historical_model = 21 }
+	ship = { type = battlecruiser historical_model = 22 }
+	ship = { type = battlecruiser historical_model = 23 }
+	ship = { type = battlecruiser historical_model = 24 }
+	ship = { type = battlecruiser historical_model = 25 }
+	ship = { type = battlecruiser historical_model = 26 }
+	ship = { type = battlecruiser historical_model = 27 }
+}
+navy = {
+	name = "Õ½ÁÐ½¢½¢¶Ó"
+	base = 5542
+	location = 5542
+	ship = { type = battleship historical_model = 0 }
+	ship = { type = battleship historical_model = 1 }
+	ship = { type = battleship historical_model = 2 }
+	ship = { type = battleship historical_model = 3 }
+	ship = { type = battleship historical_model = 4 }
+	ship = { type = battleship historical_model = 5 }
+	ship = { type = battleship historical_model = 6 }
+	ship = { type = battleship historical_model = 7 }
+	ship = { type = battleship historical_model = 8 }
+	ship = { type = battleship historical_model = 9 }
+	ship = { type = battleship historical_model = 10 }
+	ship = { type = battleship historical_model = 11 }
+	ship = { type = battleship historical_model = 12 }
+	ship = { type = battleship historical_model = 13 }
+	ship = { type = battleship historical_model = 14 }
+	ship = { type = battleship historical_model = 15 }
+	ship = { type = battleship historical_model = 16 }
+	ship = { type = battleship historical_model = 17 }
+	ship = { type = battleship historical_model = 18 }
+	ship = { type = battleship historical_model = 19 }
+	ship = { type = battleship historical_model = 20 }
+	ship = { type = battleship historical_model = 21 }
+	ship = { type = battleship historical_model = 22 }
+	ship = { type = battleship historical_model = 23 }
+	ship = { type = battleship historical_model = 24 }
+	ship = { type = battleship historical_model = 25 }
+	ship = { type = battleship historical_model = 26 }
+	ship = { type = battleship historical_model = 27 }
+}
+navy = {
+	name = "ÖØÐÍÕ½ÁÐ½¢½¢¶Ó"
+	base = 5542
+	location = 5542
+	ship = { type = super_heavy_battleship historical_model = 0 }
+	ship = { type = super_heavy_battleship historical_model = 1 }
+	ship = { type = super_heavy_battleship historical_model = 2 }
+	ship = { type = super_heavy_battleship historical_model = 3 }
+	ship = { type = super_heavy_battleship historical_model = 4 }
+	ship = { type = super_heavy_battleship historical_model = 5 }
+	ship = { type = super_heavy_battleship historical_model = 6 }
+	ship = { type = super_heavy_battleship historical_model = 7 }
+	ship = { type = super_heavy_battleship historical_model = 8 }
+	ship = { type = super_heavy_battleship historical_model = 9 }
+	ship = { type = super_heavy_battleship historical_model = 10 }
+	ship = { type = super_heavy_battleship historical_model = 11 }
+	ship = { type = super_heavy_battleship historical_model = 12 }
+	ship = { type = super_heavy_battleship historical_model = 13 }
+	ship = { type = super_heavy_battleship historical_model = 14 }
+	ship = { type = super_heavy_battleship historical_model = 15 }
+	ship = { type = super_heavy_battleship historical_model = 16 }
+	ship = { type = super_heavy_battleship historical_model = 17 }
+	ship = { type = super_heavy_battleship historical_model = 18 }
+	ship = { type = super_heavy_battleship historical_model = 19 }
+	ship = { type = super_heavy_battleship historical_model = 20 }
+	ship = { type = super_heavy_battleship historical_model = 21 }
+	ship = { type = super_heavy_battleship historical_model = 22 }
+	ship = { type = super_heavy_battleship historical_model = 23 }
+	ship = { type = super_heavy_battleship historical_model = 24 }
+	ship = { type = super_heavy_battleship historical_model = 25 }
+	ship = { type = super_heavy_battleship historical_model = 26 }
+	ship = { type = super_heavy_battleship historical_model = 27 }
+}
+navy = {
+	name = "ÇáÐÍº½¿ÕÄ¸½¢½¢¶Ó"
+	base = 5542
+	location = 5542
+	ship = { type = escort_carrier historical_model = 0 }
+	ship = { type = escort_carrier historical_model = 1 }
+	ship = { type = escort_carrier historical_model = 2 }
+	ship = { type = escort_carrier historical_model = 3 }
+	ship = { type = escort_carrier historical_model = 4 }
+	ship = { type = escort_carrier historical_model = 5 }
+	ship = { type = escort_carrier historical_model = 6 }
+	ship = { type = escort_carrier historical_model = 7 }
+	ship = { type = escort_carrier historical_model = 8 }
+	ship = { type = escort_carrier historical_model = 9 }
+	ship = { type = escort_carrier historical_model = 10 }
+	ship = { type = escort_carrier historical_model = 11 }
+	ship = { type = escort_carrier historical_model = 12 }
+	ship = { type = escort_carrier historical_model = 13 }
+	ship = { type = escort_carrier historical_model = 14 }
+	ship = { type = escort_carrier historical_model = 15 }
+	ship = { type = escort_carrier historical_model = 16 }
+	ship = { type = escort_carrier historical_model = 17 }
+	ship = { type = escort_carrier historical_model = 18 }
+	ship = { type = escort_carrier historical_model = 19 }
+	ship = { type = escort_carrier historical_model = 20 }
+	ship = { type = escort_carrier historical_model = 21 }
+	ship = { type = escort_carrier historical_model = 22 }
+	ship = { type = escort_carrier historical_model = 23 }
+	ship = { type = escort_carrier historical_model = 24 }
+	ship = { type = escort_carrier historical_model = 25 }
+	ship = { type = escort_carrier historical_model = 26 }
+	ship = { type = escort_carrier historical_model = 27 }
+}
+navy = {
+	name = "º½¿ÕÄ¸½¢½¢¶Ó"
+	base = 5542
+	location = 5542
+	ship = { type = carrier historical_model = 0 }
+	ship = { type = carrier historical_model = 1 }
+	ship = { type = carrier historical_model = 2 }
+	ship = { type = carrier historical_model = 3 }
+	ship = { type = carrier historical_model = 4 }
+	ship = { type = carrier historical_model = 5 }
+	ship = { type = carrier historical_model = 6 }
+	ship = { type = carrier historical_model = 7 }
+	ship = { type = carrier historical_model = 8 }
+	ship = { type = carrier historical_model = 9 }
+	ship = { type = carrier historical_model = 10 }
+	ship = { type = carrier historical_model = 11 }
+	ship = { type = carrier historical_model = 12 }
+	ship = { type = carrier historical_model = 13 }
+	ship = { type = carrier historical_model = 14 }
+	ship = { type = carrier historical_model = 15 }
+	ship = { type = carrier historical_model = 16 }
+	ship = { type = carrier historical_model = 17 }
+	ship = { type = carrier historical_model = 18 }
+	ship = { type = carrier historical_model = 19 }
+	ship = { type = carrier historical_model = 20 }
+	ship = { type = carrier historical_model = 21 }
+	ship = { type = carrier historical_model = 22 }
+	ship = { type = carrier historical_model = 23 }
+	ship = { type = carrier historical_model = 24 }
+	ship = { type = carrier historical_model = 25 }
+	ship = { type = carrier historical_model = 26 }
+	ship = { type = carrier historical_model = 27 }
+}
+navy = {
+	name = "Ç±Í§½¢¶Ó"
+	base = 5542
+	location = 5542
+	ship = { type = submarine historical_model = 0 }
+	ship = { type = submarine historical_model = 1 }
+	ship = { type = submarine historical_model = 2 }
+	ship = { type = submarine historical_model = 3 }
+	ship = { type = submarine historical_model = 4 }
+	ship = { type = submarine historical_model = 5 }
+	ship = { type = submarine historical_model = 6 }
+	ship = { type = submarine historical_model = 7 }
+	ship = { type = submarine historical_model = 8 }
+	ship = { type = submarine historical_model = 9 }
+	ship = { type = submarine historical_model = 10 }
+	ship = { type = submarine historical_model = 11 }
+	ship = { type = submarine historical_model = 12 }
+	ship = { type = submarine historical_model = 13 }
+	ship = { type = submarine historical_model = 14 }
+	ship = { type = submarine historical_model = 15 }
+	ship = { type = submarine historical_model = 16 }
+	ship = { type = submarine historical_model = 17 }
+	ship = { type = submarine historical_model = 18 }
+	ship = { type = submarine historical_model = 19 }
+	ship = { type = submarine historical_model = 20 }
+	ship = { type = submarine historical_model = 21 }
+	ship = { type = submarine historical_model = 22 }
+	ship = { type = submarine historical_model = 23 }
+	ship = { type = submarine historical_model = 24 }
+	ship = { type = submarine historical_model = 25 }
+	ship = { type = submarine historical_model = 26 }
+	ship = { type = submarine historical_model = 27 }
+}
+navy = {
+	name = "ºËÇ±Í§½¢¶Ó"
+	base = 5542
+	location = 5542
+	ship = { type = nuclear_submarine historical_model = 0 }
+}
+navy = {
+	name = "ÔËÊä½¢½¢¶Ó"
+	base = 5542
+	location = 5542
+	ship = { type = transport_ship historical_model = 0 }
+	ship = { type = transport_ship historical_model = 1 }
+	ship = { type = transport_ship historical_model = 2 }
+	ship = { type = transport_ship historical_model = 3 }
+	ship = { type = transport_ship historical_model = 4 }
+	ship = { type = transport_ship historical_model = 5 }
+	ship = { type = transport_ship historical_model = 6 }
+	ship = { type = transport_ship historical_model = 7 }
+	ship = { type = transport_ship historical_model = 8 }
+	ship = { type = transport_ship historical_model = 9 }
+	ship = { type = transport_ship historical_model = 10 }
+	ship = { type = transport_ship historical_model = 11 }
+	ship = { type = transport_ship historical_model = 12 }
+}
+navy = {
+	name = "Á½ÆÜµÇÂ½Í§½¢¶Ó"
+	base = 5542
+	location = 5542
+	ship = { type = invasion_transport_ship historical_model = 0 }
+	ship = { type = invasion_transport_ship historical_model = 1 }
+	ship = { type = invasion_transport_ship historical_model = 2 }
+	ship = { type = invasion_transport_ship historical_model = 3 }
+	ship = { type = invasion_transport_ship historical_model = 4 }
+	ship = { type = invasion_transport_ship historical_model = 5 }
+	ship = { type = invasion_transport_ship historical_model = 6 }
+	ship = { type = invasion_transport_ship historical_model = 7 }
+	ship = { type = invasion_transport_ship historical_model = 8 }
+	ship = { type = invasion_transport_ship historical_model = 9 }
+	ship = { type = invasion_transport_ship historical_model = 10 }
+	ship = { type = invasion_transport_ship historical_model = 11 }
+	ship = { type = invasion_transport_ship historical_model = 12 }
+}
+navy = {
+	name = "Á½ÆÜÍ»»÷Í§½¢¶Ó"
+	base = 5542
+	location = 5542
+	ship = { type = assault_ship historical_model = 0 }
+	ship = { type = assault_ship historical_model = 1 }
+	ship = { type = assault_ship historical_model = 2 }
+	ship = { type = assault_ship historical_model = 3 }
+	ship = { type = assault_ship historical_model = 4 }
+	ship = { type = assault_ship historical_model = 5 }
+	ship = { type = assault_ship historical_model = 6 }
+	ship = { type = assault_ship historical_model = 7 }
+	ship = { type = assault_ship historical_model = 8 }
+	ship = { type = assault_ship historical_model = 9 }
+	ship = { type = assault_ship historical_model = 10 }
+	ship = { type = assault_ship historical_model = 11 }
+	ship = { type = assault_ship historical_model = 12 }
+}

@@ -1,0 +1,252 @@
+battleship.0 = {                            #
+    capitalship_armament = 0                #
+    battleship_antiaircraft = 0             #
+    battleship_engine = 0                   #
+    battleship_armour = 0                   #
+    largewarship_radar = 0                  #
+    battlefleet_concentration_doctrine = 0  #
+    battleship_crew_training = 0            #
+}
+battleship.1 = {                            #1918
+    capitalship_armament = 1                #1918
+    battleship_antiaircraft = 1             #1918
+    battleship_engine = 1                   #1918
+    battleship_armour = 1                   #1918
+    largewarship_radar = 0                  #
+    battlefleet_concentration_doctrine = 0  #
+    battleship_crew_training = 0            #
+}
+battleship.2 = {                            #1934
+    capitalship_armament = 2                #1934
+    battleship_antiaircraft = 2             #1934
+    battleship_engine = 2                   #1934
+    battleship_armour = 2                   #1934
+    largewarship_radar = 0                  #
+    battlefleet_concentration_doctrine = 0  #
+    battleship_crew_training = 0            #
+}
+battleship.3 = {                            #1936
+    capitalship_armament = 3                #1936
+    battleship_antiaircraft = 3             #1936
+    battleship_engine = 3                   #1936
+    battleship_armour = 3                   #1936
+    largewarship_radar = 0                  #
+    battlefleet_concentration_doctrine = 0  #
+    battleship_crew_training = 0            #
+}
+battleship.4 = {                            #1937
+    capitalship_armament = 3                #1936
+    battleship_antiaircraft = 3             #1936
+    battleship_engine = 3                   #1936
+    battleship_armour = 3                   #1936
+    largewarship_radar = 0                  #
+    battlefleet_concentration_doctrine = 1  #1937
+    battleship_crew_training = 1            #1937
+}
+battleship.5 = {                            #1938
+    capitalship_armament = 4                #1938
+    battleship_antiaircraft = 4             #1938
+    battleship_engine = 4                   #1938
+    battleship_armour = 4                   #1938
+    largewarship_radar = 0                  #1938
+    battlefleet_concentration_doctrine = 1  #1937
+    battleship_crew_training = 1            #1937
+}
+battleship.6 = {                            #1939
+    capitalship_armament = 4                #1938
+    battleship_antiaircraft = 4             #1938
+    battleship_engine = 4                   #1938
+    battleship_armour = 4                   #1938
+    largewarship_radar = 1                  #1938
+    battlefleet_concentration_doctrine = 2  #1939
+    battleship_crew_training = 2            #1939
+}
+battleship.7 = {                            #1940
+    capitalship_armament = 5                #1940
+    battleship_antiaircraft = 5             #1940
+    battleship_engine = 5                   #1940
+    battleship_armour = 5                   #1940
+    largewarship_radar = 2                  #1940
+    battlefleet_concentration_doctrine = 2  #1939
+    battleship_crew_training = 2            #1939
+}
+battleship.8 = {                            #1941
+    capitalship_armament = 5                #1940
+    battleship_antiaircraft = 5             #1940
+    battleship_engine = 5                   #1940
+    battleship_armour = 5                   #1940
+    largewarship_radar = 2                  #1940
+    battlefleet_concentration_doctrine = 3  #1941
+    battleship_crew_training = 3            #1941
+}
+battleship.9 = {                            #1942
+    capitalship_armament = 6                #1942
+    battleship_antiaircraft = 6             #1942
+    battleship_engine = 6                   #1942
+    battleship_armour = 6                   #1942
+    largewarship_radar = 3                  #1942
+    battlefleet_concentration_doctrine = 3  #1941
+    battleship_crew_training = 3            #1941
+}
+battleship.10 = {                           #1943
+    capitalship_armament = 6                #1942
+    battleship_antiaircraft = 6             #1942
+    battleship_engine = 6                   #1942
+    battleship_armour = 6                   #1942
+    largewarship_radar = 3                  #1942
+    battlefleet_concentration_doctrine = 4  #1943
+    battleship_crew_training = 4            #1943
+}
+battleship.11 = {                           #1944
+    capitalship_armament = 7                #1944
+    battleship_antiaircraft = 7             #1944
+    battleship_engine = 7                   #1944
+    battleship_armour = 7                   #1944
+    largewarship_radar = 4                  #1944
+    battlefleet_concentration_doctrine = 4  #1943
+    battleship_crew_training = 4            #1943
+}
+battleship.12 = {                           #1945
+    capitalship_armament = 7                #1944
+    battleship_antiaircraft = 7             #1944
+    battleship_engine = 7                   #1944
+    battleship_armour = 7                   #1944
+    largewarship_radar = 4                  #1944
+    battlefleet_concentration_doctrine = 5  #1945
+    battleship_crew_training = 5            #1945
+}
+battleship.13 = {                           #1946
+    capitalship_armament = 8                #1946
+    battleship_antiaircraft = 8             #1946
+    battleship_engine = 8                   #1946
+    battleship_armour = 8                   #1946
+    largewarship_radar = 5                  #1946
+    battlefleet_concentration_doctrine = 5  #1945
+    battleship_crew_training = 5            #1945
+}
+battleship.14 = {                           #1947
+    capitalship_armament = 8                #1946
+    battleship_antiaircraft = 8             #1946
+    battleship_engine = 8                   #1946
+    battleship_armour = 8                   #1946
+    largewarship_radar = 5                  #1946
+    battlefleet_concentration_doctrine = 6  #1947
+    battleship_crew_training = 6            #1947
+}
+battleship.15 = {                           #1948
+    capitalship_armament = 9                #1948
+    battleship_antiaircraft = 9             #1948
+    battleship_engine = 9                   #1948
+    battleship_armour = 9                   #1948
+    largewarship_radar = 6                  #1948
+    battlefleet_concentration_doctrine = 6  #1947
+    battleship_crew_training = 6            #1947
+}
+battleship.16 = {                           #1949
+    capitalship_armament = 9                #1948
+    battleship_antiaircraft = 9             #1948
+    battleship_engine = 9                   #1948
+    battleship_armour = 9                   #1948
+    largewarship_radar = 6                  #1948
+    battlefleet_concentration_doctrine = 7  #1949
+    battleship_crew_training = 7            #1949
+}
+battleship.17 = {                           #1950
+    capitalship_armament = 10               #1950
+    battleship_antiaircraft = 10            #1950
+    battleship_engine = 10                  #1950
+    battleship_armour = 10                  #1950
+    largewarship_radar = 7                  #1950
+    battlefleet_concentration_doctrine = 7  #1949
+    battleship_crew_training = 7            #1949
+}
+battleship.18 = {                           #1951
+    capitalship_armament = 10               #1950
+    battleship_antiaircraft = 10            #1950
+    battleship_engine = 10                  #1950
+    battleship_armour = 10                  #1950
+    largewarship_radar = 7                  #1950
+    battlefleet_concentration_doctrine = 8  #1951
+    battleship_crew_training = 8            #1951
+}
+battleship.19 = {                           #1952
+    capitalship_armament = 11               #1952
+    battleship_antiaircraft = 11            #1952
+    battleship_engine = 11                  #1952
+    battleship_armour = 11                  #1952
+    largewarship_radar = 8                  #1952
+    battlefleet_concentration_doctrine = 8  #1951
+    battleship_crew_training = 8            #1951
+}
+battleship.20 = {                           #1953
+    capitalship_armament = 11               #1952
+    battleship_antiaircraft = 11            #1952
+    battleship_engine = 11                  #1952
+    battleship_armour = 11                  #1952
+    largewarship_radar = 8                  #1952
+    battlefleet_concentration_doctrine = 9  #1953
+    battleship_crew_training = 9            #1953
+}
+battleship.21 = {                           #1954
+    capitalship_armament = 12               #1954
+    battleship_antiaircraft = 12            #1954
+    battleship_engine = 12                  #1954
+    battleship_armour = 12                  #1954
+    largewarship_radar = 9                  #1954
+    battlefleet_concentration_doctrine = 9  #1953
+    battleship_crew_training = 9            #1953
+}
+battleship.22 = {                           #1955
+    capitalship_armament = 12               #1954
+    battleship_antiaircraft = 12            #1954
+    battleship_engine = 12                  #1954
+    battleship_armour = 12                  #1954
+    largewarship_radar = 9                  #1954
+    battlefleet_concentration_doctrine = 10 #1955
+    battleship_crew_training = 10           #1955
+}
+battleship.23 = {                           #1956
+    capitalship_armament = 12               #1954
+    battleship_antiaircraft = 12            #1954
+    battleship_engine = 12                  #1954
+    battleship_armour = 12                  #1954
+    largewarship_radar = 10                 #1956
+    battlefleet_concentration_doctrine = 10 #1955
+    battleship_crew_training = 10           #1955
+}
+battleship.24 = {                           #1957
+    capitalship_armament = 12               #1954
+    battleship_antiaircraft = 12            #1954
+    battleship_engine = 12                  #1954
+    battleship_armour = 12                  #1954
+    largewarship_radar = 10                 #1956
+    battlefleet_concentration_doctrine = 11 #1957
+    battleship_crew_training = 11           #1957
+}
+battleship.25 = {                           #1958
+    capitalship_armament = 12               #1954
+    battleship_antiaircraft = 12            #1954
+    battleship_engine = 12                  #1954
+    battleship_armour = 12                  #1954
+    largewarship_radar = 11                 #1958
+    battlefleet_concentration_doctrine = 11 #1957
+    battleship_crew_training = 11           #1957
+}
+battleship.26 = {                           #1959
+    capitalship_armament = 12               #1954
+    battleship_antiaircraft = 12            #1954
+    battleship_engine = 12                  #1954
+    battleship_armour = 12                  #1954
+    largewarship_radar = 11                 #1958
+    battlefleet_concentration_doctrine = 12 #1959
+    battleship_crew_training = 12           #1959
+}
+battleship.27 = {                           #1960
+    capitalship_armament = 12               #1954
+    battleship_antiaircraft = 12            #1954
+    battleship_engine = 12                  #1954
+    battleship_armour = 12                  #1954
+    largewarship_radar = 12                 #1960
+    battlefleet_concentration_doctrine = 12 #1959
+    battleship_crew_training = 12           #1959
+}

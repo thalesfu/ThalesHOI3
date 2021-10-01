@@ -1,0 +1,168 @@
+super_heavy_battleship.0 = {
+    battleship_antiaircraft = 0             #
+    largewarship_radar = 0                  #
+    battlefleet_concentration_doctrine = 0  #
+    battleship_crew_training = 0            #
+}
+super_heavy_battleship.1 = {                #1918
+    battleship_antiaircraft = 1             #1918
+    largewarship_radar = 0                  #
+    battlefleet_concentration_doctrine = 0  #
+    battleship_crew_training = 0            #
+}
+super_heavy_battleship.2 = {                #1934
+    battleship_antiaircraft = 2             #1934
+    largewarship_radar = 0                  #
+    battlefleet_concentration_doctrine = 0  #
+    battleship_crew_training = 0            #
+}
+super_heavy_battleship.3 = {                #1936
+    battleship_antiaircraft = 3             #1936
+    largewarship_radar = 0                  #
+    battlefleet_concentration_doctrine = 0  #
+    battleship_crew_training = 0            #
+}
+super_heavy_battleship.4 = {                #1937
+    battleship_antiaircraft = 3             #1936
+    largewarship_radar = 0                  #
+    battlefleet_concentration_doctrine = 1  #1937
+    battleship_crew_training = 1            #1937
+}
+super_heavy_battleship.5 = {                #1938
+    battleship_antiaircraft = 4             #1938
+    largewarship_radar = 0                  #1938
+    battlefleet_concentration_doctrine = 1  #1937
+    battleship_crew_training = 1            #1937
+}
+super_heavy_battleship.6 = {                #1939
+    battleship_antiaircraft = 4             #1938
+    largewarship_radar = 1                  #1938
+    battlefleet_concentration_doctrine = 2  #1939
+    battleship_crew_training = 2            #1939
+}
+super_heavy_battleship.7 = {                #1940
+    battleship_antiaircraft = 5             #1940
+    largewarship_radar = 2                  #1940
+    battlefleet_concentration_doctrine = 2  #1939
+    battleship_crew_training = 2            #1939
+}
+super_heavy_battleship.8 = {                #1941
+    battleship_antiaircraft = 5             #1940
+    largewarship_radar = 2                  #1940
+    battlefleet_concentration_doctrine = 3  #1941
+    battleship_crew_training = 3            #1941
+}
+super_heavy_battleship.9 = {                #1942
+    battleship_antiaircraft = 6             #1942
+    largewarship_radar = 3                  #1942
+    battlefleet_concentration_doctrine = 3  #1941
+    battleship_crew_training = 3            #1941
+}
+super_heavy_battleship.10 = {               #1943
+    battleship_antiaircraft = 6             #1942
+    largewarship_radar = 3                  #1942
+    battlefleet_concentration_doctrine = 4  #1943
+    battleship_crew_training = 4            #1943
+}
+super_heavy_battleship.11 = {               #1944
+    battleship_antiaircraft = 7             #1944
+    largewarship_radar = 4                  #1944
+    battlefleet_concentration_doctrine = 4  #1943
+    battleship_crew_training = 4            #1943
+}
+super_heavy_battleship.12 = {               #1945
+    battleship_antiaircraft = 7             #1944
+    largewarship_radar = 4                  #1944
+    battlefleet_concentration_doctrine = 5  #1945
+    battleship_crew_training = 5            #1945
+}
+super_heavy_battleship.13 = {               #1946
+    battleship_antiaircraft = 8             #1946
+    largewarship_radar = 5                  #1946
+    battlefleet_concentration_doctrine = 5  #1945
+    battleship_crew_training = 5            #1945
+}
+super_heavy_battleship.14 = {               #1947
+    battleship_antiaircraft = 8             #1946
+    largewarship_radar = 5                  #1946
+    battlefleet_concentration_doctrine = 6  #1947
+    battleship_crew_training = 6            #1947
+}
+super_heavy_battleship.15 = {               #1948
+    battleship_antiaircraft = 9             #1948
+    largewarship_radar = 6                  #1948
+    battlefleet_concentration_doctrine = 6  #1947
+    battleship_crew_training = 6            #1947
+}
+super_heavy_battleship.16 = {               #1949
+    battleship_antiaircraft = 9             #1948
+    largewarship_radar = 6                  #1948
+    battlefleet_concentration_doctrine = 7  #1949
+    battleship_crew_training = 7            #1949
+}
+super_heavy_battleship.17 = {               #1950
+    battleship_antiaircraft = 10            #1950
+    largewarship_radar = 7                  #1950
+    battlefleet_concentration_doctrine = 7  #1949
+    battleship_crew_training = 7            #1949
+}
+super_heavy_battleship.18 = {               #1951
+    battleship_antiaircraft = 10            #1950
+    largewarship_radar = 7                  #1950
+    battlefleet_concentration_doctrine = 8  #1951
+    battleship_crew_training = 8            #1951
+}
+super_heavy_battleship.19 = {               #1952
+    battleship_antiaircraft = 11            #1952
+    largewarship_radar = 8                  #1952
+    battlefleet_concentration_doctrine = 8  #1951
+    battleship_crew_training = 8            #1951
+}
+super_heavy_battleship.20 = {               #1953
+    battleship_antiaircraft = 11            #1952
+    largewarship_radar = 8                  #1952
+    battlefleet_concentration_doctrine = 9  #1953
+    battleship_crew_training = 9            #1953
+}
+super_heavy_battleship.21 = {               #1954
+    battleship_antiaircraft = 12            #1954
+    largewarship_radar = 9                  #1954
+    battlefleet_concentration_doctrine = 9  #1953
+    battleship_crew_training = 9            #1953
+}
+super_heavy_battleship.22 = {               #1955
+    battleship_antiaircraft = 12            #1954
+    largewarship_radar = 9                  #1954
+    battlefleet_concentration_doctrine = 10 #1955
+    battleship_crew_training = 10           #1955
+}
+super_heavy_battleship.23 = {               #1956
+    battleship_antiaircraft = 12            #1954
+    largewarship_radar = 10                 #1956
+    battlefleet_concentration_doctrine = 10 #1955
+    battleship_crew_training = 10           #1955
+}
+super_heavy_battleship.24 = {               #1957
+    battleship_antiaircraft = 12            #1954
+    largewarship_radar = 10                 #1956
+    battlefleet_concentration_doctrine = 11 #1957
+    battleship_crew_training = 11           #1957
+}
+super_heavy_battleship.25 = {               #1958
+    battleship_antiaircraft = 12            #1954
+    largewarship_radar = 11                 #1958
+    battlefleet_concentration_doctrine = 11 #1957
+    battleship_crew_training = 11           #1957
+}
+super_heavy_battleship.26 = {               #1959
+    battleship_antiaircraft = 12            #1954
+    largewarship_radar = 11                 #1958
+    battlefleet_concentration_doctrine = 12 #1959
+    battleship_crew_training = 12           #1959
+}
+super_heavy_battleship.27 = {               #1960
+    battleship_antiaircraft = 12            #1954
+    largewarship_radar = 12                 #1960
+    battlefleet_concentration_doctrine = 12 #1959
+    battleship_crew_training = 12           #1959
+}
