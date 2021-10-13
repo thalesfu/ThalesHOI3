@@ -1,0 +1,65 @@
+flying_rocket.0 = {                 #
+    strategicrocket_engine = 0      #
+    strategicrocket_warhead = 0     #
+    strategicrocket_structure = 0   #
+}
+flying_rocket.1 = {                 #1944
+    strategicrocket_engine = 1      #1944
+    strategicrocket_warhead = 1     #1944
+    strategicrocket_structure = 1   #1944
+}
+flying_rocket.2 = {                 #1945
+    strategicrocket_engine = 2      #1945
+    strategicrocket_warhead = 2     #1945
+    strategicrocket_structure = 2   #1945
+}
+flying_rocket.3 = {                 #1947
+    strategicrocket_engine = 3      #1947
+    strategicrocket_warhead = 3     #1947
+    strategicrocket_structure = 3   #1947
+}
+flying_rocket.4 = {                 #1949
+    strategicrocket_engine = 4      #1949
+    strategicrocket_warhead = 4     #1949
+    strategicrocket_structure = 4   #1949
+}
+flying_rocket.5 = {                 #1951
+    strategicrocket_engine = 5      #1951
+    strategicrocket_warhead = 5     #1951
+    strategicrocket_structure = 5   #1951
+}
+flying_rocket.6 = {                 #1953
+    strategicrocket_engine = 6      #1953
+    strategicrocket_warhead = 6     #1953
+    strategicrocket_structure = 6   #1953
+}
+flying_rocket.7 = {                 #1955
+    strategicrocket_engine = 7      #1955
+    strategicrocket_warhead = 7     #1955
+    strategicrocket_structure = 7   #1955
+}
+flying_rocket.8 = {                 #1957
+    strategicrocket_engine = 8      #1957
+    strategicrocket_warhead = 8     #1957
+    strategicrocket_structure = 8   #1957
+}
+flying_rocket.9 = {                 #1959
+    strategicrocket_engine = 9      #1959
+    strategicrocket_warhead = 9     #1959
+    strategicrocket_structure = 9   #1959
+}
+flying_rocket.10 = {                #1961
+    strategicrocket_engine = 10     #1961
+    strategicrocket_warhead = 10    #1961
+    strategicrocket_structure = 10  #1961
+}
+flying_rocket.11 = {                #1963
+    strategicrocket_engine = 11     #1963
+    strategicrocket_warhead = 11    #1963
+    strategicrocket_structure = 11  #1963
+}
+flying_rocket.12 = {                #1965
+    strategicrocket_engine = 10     #1965
+    strategicrocket_warhead = 10    #1965
+    strategicrocket_structure = 10  #1965
+}

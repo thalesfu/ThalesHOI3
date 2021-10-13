@@ -1,0 +1,200 @@
+transport_plane.0 = {                       #
+    cargo_hold = 0                          #
+    large_fueltank = 0                      #
+    four_engine_airframe = 0                #
+    large_airsearch_radar = 0               #
+    heavy_bomber_pilot_training = 0         #
+    heavy_bomber_groundcrew_training = 0    #
+}
+transport_plane.1 = {                       #1918
+    cargo_hold = 0                          #
+    large_fueltank = 0                      #
+    four_engine_airframe = 0                #
+    large_airsearch_radar = 0               #
+    heavy_bomber_pilot_training = 1         #1918
+    heavy_bomber_groundcrew_training = 1    #1918
+}
+transport_plane.2 = {                       #1936
+    cargo_hold = 0                          #
+    large_fueltank = 0                      #
+    four_engine_airframe = 0                #
+    large_airsearch_radar = 0               #
+    heavy_bomber_pilot_training = 2         #1936
+    heavy_bomber_groundcrew_training = 2    #1936
+}
+transport_plane.3 = {                       #1938
+    cargo_hold = 0                          #
+    large_fueltank = 0                      #
+    four_engine_airframe = 0                #
+    large_airsearch_radar = 0               #
+    heavy_bomber_pilot_training = 3         #1938
+    heavy_bomber_groundcrew_training = 3    #1938
+}
+transport_plane.4 = {                       #1939
+    cargo_hold = 1                          #1939
+    large_fueltank = 1                      #1939
+    four_engine_airframe = 1                #1939
+    large_airsearch_radar = 0               #
+    heavy_bomber_pilot_training = 3         #1938
+    heavy_bomber_groundcrew_training = 3    #1938
+}
+transport_plane.5 = {                       #1940
+    cargo_hold = 1                          #1939
+    large_fueltank = 1                      #1939
+    four_engine_airframe = 1                #1939
+    large_airsearch_radar = 1               #1940
+    heavy_bomber_pilot_training = 4         #1940
+    heavy_bomber_groundcrew_training = 4    #1940
+}
+transport_plane.6 = {                       #1941
+    cargo_hold = 2                          #1941
+    large_fueltank = 2                      #1941
+    four_engine_airframe = 2                #1941
+    large_airsearch_radar = 2               #1941
+    heavy_bomber_pilot_training = 4         #1940
+    heavy_bomber_groundcrew_training = 4    #1940
+}
+transport_plane.7 = {                       #1942
+    cargo_hold = 2                          #1941
+    large_fueltank = 2                      #1941
+    four_engine_airframe = 2                #1941
+    large_airsearch_radar = 2               #1941
+    heavy_bomber_pilot_training = 5         #1942
+    heavy_bomber_groundcrew_training = 5    #1942
+}
+transport_plane.8 = {                       #1943
+    cargo_hold = 3                          #1943
+    large_fueltank = 3                      #1943
+    four_engine_airframe = 3                #1943
+    large_airsearch_radar = 3               #1943
+    heavy_bomber_pilot_training = 5         #1942
+    heavy_bomber_groundcrew_training = 5    #1942
+}
+transport_plane.9 = {                       #1944
+    cargo_hold = 3                          #1943
+    large_fueltank = 3                      #1943
+    four_engine_airframe = 3                #1943
+    large_airsearch_radar = 3               #1943
+    heavy_bomber_pilot_training = 6         #1944
+    heavy_bomber_groundcrew_training = 6    #1944
+}
+transport_plane.10 = {                      #1945
+    cargo_hold = 4                          #1945
+    large_fueltank = 4                      #1945
+    four_engine_airframe = 4                #1945
+    large_airsearch_radar = 4               #1945
+    heavy_bomber_pilot_training = 6         #1944
+    heavy_bomber_groundcrew_training = 6    #1944
+}
+transport_plane.11 = {                      #1946
+    cargo_hold = 4                          #1945
+    large_fueltank = 4                      #1945
+    four_engine_airframe = 4                #1945
+    large_airsearch_radar = 4               #1945
+    heavy_bomber_pilot_training = 7         #1946
+    heavy_bomber_groundcrew_training = 7    #1946
+}
+transport_plane.12 = {                      #1947
+    cargo_hold = 5                          #1947
+    large_fueltank = 5                      #1947
+    four_engine_airframe = 5                #1947
+    large_airsearch_radar = 5               #1947
+    heavy_bomber_pilot_training = 7         #1946
+    heavy_bomber_groundcrew_training = 7    #1946
+}
+transport_plane.13 = {                      #1948
+    cargo_hold = 5                          #1947
+    large_fueltank = 5                      #1947
+    four_engine_airframe = 5                #1947
+    large_airsearch_radar = 5               #1947
+    heavy_bomber_pilot_training = 8         #1948
+    heavy_bomber_groundcrew_training = 8    #1948
+}
+transport_plane.14 = {                      #1949
+    cargo_hold = 6                          #1949
+    large_fueltank = 6                      #1949
+    four_engine_airframe = 6                #1949
+    large_airsearch_radar = 6               #1949
+    heavy_bomber_pilot_training = 8         #1948
+    heavy_bomber_groundcrew_training = 8    #1948
+}
+transport_plane.15 = {                      #1950
+    cargo_hold = 6                          #1949
+    large_fueltank = 6                      #1949
+    four_engine_airframe = 6                #1949
+    large_airsearch_radar = 6               #1949
+    heavy_bomber_pilot_training = 9         #1950
+    heavy_bomber_groundcrew_training = 9    #1950
+}
+transport_plane.16 = {                      #1951
+    cargo_hold = 7                          #1951
+    large_fueltank = 7                      #1951
+    four_engine_airframe = 7                #1951
+    large_airsearch_radar = 7               #1951
+    heavy_bomber_pilot_training = 9         #1950
+    heavy_bomber_groundcrew_training = 9    #1950
+}
+transport_plane.17 = {                      #1952
+    cargo_hold = 7                          #1951
+    large_fueltank = 7                      #1951
+    four_engine_airframe = 7                #1951
+    large_airsearch_radar = 7               #1951
+    heavy_bomber_pilot_training = 10        #1952
+    heavy_bomber_groundcrew_training = 10   #1952
+}
+transport_plane.18 = {                      #1953
+    cargo_hold = 8                          #1953
+    large_fueltank = 8                      #1953
+    four_engine_airframe = 8                #1953
+    large_airsearch_radar = 8               #1953
+    heavy_bomber_pilot_training = 10        #1952
+    heavy_bomber_groundcrew_training = 10   #1952
+}
+transport_plane.19 = {                      #1954
+    cargo_hold = 8                          #1953
+    large_fueltank = 8                      #1953
+    four_engine_airframe = 8                #1953
+    large_airsearch_radar = 8               #1953
+    heavy_bomber_pilot_training = 11        #1954
+    heavy_bomber_groundcrew_training = 11   #1954
+}
+transport_plane.20 = {                      #1955
+    cargo_hold = 9                          #1955
+    large_fueltank = 9                      #1955
+    four_engine_airframe = 9                #1955
+    large_airsearch_radar = 9               #1955
+    heavy_bomber_pilot_training = 11        #1954
+    heavy_bomber_groundcrew_training = 11   #1954
+}
+transport_plane.21 = {                      #1956
+    cargo_hold = 9                          #1955
+    large_fueltank = 9                      #1955
+    four_engine_airframe = 9                #1955
+    large_airsearch_radar = 9               #1955
+    heavy_bomber_pilot_training = 12        #1956
+    heavy_bomber_groundcrew_training = 12   #1956
+}
+transport_plane.22 = {                      #1957
+    cargo_hold = 10                         #1957
+    large_fueltank = 10                     #1957
+    four_engine_airframe = 10               #1957
+    large_airsearch_radar = 10              #1957
+    heavy_bomber_pilot_training = 12        #1956
+    heavy_bomber_groundcrew_training = 12   #1956
+}
+transport_plane.23 = {                      #1959
+    cargo_hold = 11                         #1959
+    large_fueltank = 11                     #1959
+    four_engine_airframe = 11               #1959
+    large_airsearch_radar = 11              #1959
+    heavy_bomber_pilot_training = 12        #1956
+    heavy_bomber_groundcrew_training = 12   #1956
+}
+transport_plane.24 = {                      #1961
+    cargo_hold = 12                         #1961
+    large_fueltank = 12                     #1961
+    four_engine_airframe = 12               #1961
+    large_airsearch_radar = 12              #1961
+    heavy_bomber_pilot_training = 12        #1956
+    heavy_bomber_groundcrew_training = 12   #1956
+}

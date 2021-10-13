@@ -56,7 +56,7 @@ anti_air_brigade;防空炮;;;;;;;;;;X
 bergsjaeger_brigade;山地步兵;;;;;;;;;;X
 carrier;航空母舰;;;;;;;;;;X
 cag;舰载机;;;;;;;;;;X
-cas;俯冲轰炸机;;;;;;;;;;X
+cas;近距离空中支援战斗机;;;;;;;;;;X
 destroyer;驱逐舰;;;;;;;;;;X
 escort_carrier;护航航母;;;;;;;;;;X
 cavalry_brigade;骑兵;;;;;;;;;;X
@@ -75,7 +75,7 @@ interceptor;截击机;;;;;;;;;;X
 rocket_interceptor;喷气式截击机;;;;;;;;;;X
 heavy_armor_brigade;重装甲;;;;;;;;;;X
 garrison_brigade;卫戍部队;;;;;;;;;;X
-naval_bomber;海军轰炸机;;;;;;;;;;X
+naval_bomber;鱼雷轰炸机;;;;;;;;;;X
 nuclear_submarine;核潜艇;;;;;;;;;;X
 police_brigade;宪兵部队;;;;;;;;;;X
 paratrooper_brigade;伞兵部队;;;;;;;;;;X
@@ -84,7 +84,7 @@ sp_rct_artillery_brigade;自行火箭炮兵;;;;;;;;;;X
 submarine;潜艇;;;;;;;;;;X
 super_heavy_armor_brigade;超重装甲;;;;;;;;;;X
 super_heavy_battleship;超重战列舰;;;;;;;;;;X
-tactical_bomber;战术轰炸机;;;;;;;;;;X
+tactical_bomber;轰炸机;;;;;;;;;;X
 tank_destroyer_brigade;自行反坦克炮兵;;;;;;;;;;X
 transport_ship;运输船;;;;;;;;;;X
 strategic_bomber;战略轰炸机;;;;;;;;;;X
@@ -103,7 +103,7 @@ anti_air_brigade_short;防空;;;;;;;;;;X
 bergsjaeger_brigade_short;山地;;;;;;;;;;X
 carrier_short;航母;;;;;;;;;;X
 cag_short;舰载机;;;;;;;;;;X
-cas_short;俯冲;;;;;;;;;;X
+cas_short;近支战机;;;;;;;;;;X
 destroyer_short;驱逐;;;;;;;;;;X
 escort_carrier_short;轻型航母;;;;;;;;;;X
 cavalry_brigade_short;骑兵;;;;;;;;;;X
@@ -122,7 +122,7 @@ interceptor_short;截击机;;;;;;;;;;X
 rocket_interceptor_short;喷气截击;;;;;;;;;;X
 heavy_armor_brigade_short;重装甲;;;;;;;;;;X
 garrison_brigade_short;卫戍;;;;;;;;;;X
-naval_bomber_short;海轰;;;;;;;;;;X
+naval_bomber_short;鱼雷轰炸机;;;;;;;;;;X
 nuclear_submarine_short;核潜艇;;;;;;;;;;X
 police_brigade_short;宪兵;;;;;;;;;;X
 paratrooper_brigade_short;伞兵;;;;;;;;;;X
@@ -131,10 +131,10 @@ sp_rct_artillery_brigade_short;自行火箭;;;;;;;;;;X
 submarine_short;潜艇;;;;;;;;;;X
 super_heavy_armor_brigade_short;超重装甲;;;;;;;;;;X
 super_heavy_battleship_short;超重战列;;;;;;;;;;X
-tactical_bomber_short;战术;;;;;;;;;;X
+tactical_bomber_short;轰炸机;;;;;;;;;;X
 tank_destroyer_brigade_short;自行反坦;;;;;;;;;;X
 transport_ship_short;运输船;;;;;;;;;;X
-strategic_bomber_short;战略;;;;;;;;;;X
+strategic_bomber_short;战略轰炸机;;;;;;;;;;X
 sp_artillery_brigade_short;自行火炮;;;;;;;;;;X
 transport_plane_short;运输机;;;;;;;;;;X
 partisan_brigade;游击队;;;;;;;;;;X

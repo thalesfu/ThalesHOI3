@@ -1009,3 +1009,327 @@ navy = {
 	ship = { type = assault_ship historical_model = 11 }
 	ship = { type = assault_ship historical_model = 12 }
 }
+air = {
+	name = "截击机中队"
+	base = 5542
+	location = 5542
+	wing = { type = interceptor historical_model = 0 }
+	wing = { type = interceptor historical_model = 1 }
+	wing = { type = interceptor historical_model = 2 }
+	wing = { type = interceptor historical_model = 3 }
+	wing = { type = interceptor historical_model = 4 }
+	wing = { type = interceptor historical_model = 5 }
+	wing = { type = interceptor historical_model = 6 }
+	wing = { type = interceptor historical_model = 7 }
+	wing = { type = interceptor historical_model = 8 }
+	wing = { type = interceptor historical_model = 9 }
+	wing = { type = interceptor historical_model = 10 }
+	wing = { type = interceptor historical_model = 11 }
+	wing = { type = interceptor historical_model = 12 }
+	wing = { type = interceptor historical_model = 13 }
+	wing = { type = interceptor historical_model = 14 }
+	wing = { type = interceptor historical_model = 15 }
+	wing = { type = interceptor historical_model = 16 }
+	wing = { type = interceptor historical_model = 17 }
+	wing = { type = interceptor historical_model = 18 }
+	wing = { type = interceptor historical_model = 19 }
+	wing = { type = interceptor historical_model = 20 }
+	wing = { type = interceptor historical_model = 21 }
+	wing = { type = interceptor historical_model = 22 }
+	wing = { type = interceptor historical_model = 23 }
+	wing = { type = interceptor historical_model = 24 }
+	wing = { type = interceptor historical_model = 25 }
+	wing = { type = interceptor historical_model = 26 }
+	wing = { type = interceptor historical_model = 27 }
+	wing = { type = interceptor historical_model = 28 }
+	wing = { type = interceptor historical_model = 29 }
+	wing = { type = interceptor historical_model = 30 }
+}
+air = {
+	name = "喷气式截击机中队"
+	base = 5542
+	location = 5542
+	wing = { type = rocket_interceptor historical_model = 0 }
+	wing = { type = rocket_interceptor historical_model = 1 }
+	wing = { type = rocket_interceptor historical_model = 2 }
+	wing = { type = rocket_interceptor historical_model = 3 }
+	wing = { type = rocket_interceptor historical_model = 4 }
+	wing = { type = rocket_interceptor historical_model = 5 }
+	wing = { type = rocket_interceptor historical_model = 6 }
+	wing = { type = rocket_interceptor historical_model = 7 }
+	wing = { type = rocket_interceptor historical_model = 8 }
+	wing = { type = rocket_interceptor historical_model = 9 }
+	wing = { type = rocket_interceptor historical_model = 10 }
+	wing = { type = rocket_interceptor historical_model = 11 }
+	wing = { type = rocket_interceptor historical_model = 12 }
+}
+air = {
+	name = "战斗机中队"
+	base = 5542
+	location = 5542
+	wing = { type = multi_role historical_model = 0 }
+	wing = { type = multi_role historical_model = 1 }
+	wing = { type = multi_role historical_model = 2 }
+	wing = { type = multi_role historical_model = 3 }
+	wing = { type = multi_role historical_model = 4 }
+	wing = { type = multi_role historical_model = 5 }
+	wing = { type = multi_role historical_model = 6 }
+	wing = { type = multi_role historical_model = 7 }
+	wing = { type = multi_role historical_model = 8 }
+	wing = { type = multi_role historical_model = 9 }
+	wing = { type = multi_role historical_model = 10 }
+	wing = { type = multi_role historical_model = 11 }
+	wing = { type = multi_role historical_model = 12 }
+	wing = { type = multi_role historical_model = 13 }
+	wing = { type = multi_role historical_model = 14 }
+	wing = { type = multi_role historical_model = 15 }
+	wing = { type = multi_role historical_model = 16 }
+	wing = { type = multi_role historical_model = 17 }
+	wing = { type = multi_role historical_model = 18 }
+	wing = { type = multi_role historical_model = 19 }
+	wing = { type = multi_role historical_model = 20 }
+	wing = { type = multi_role historical_model = 21 }
+	wing = { type = multi_role historical_model = 22 }
+	wing = { type = multi_role historical_model = 23 }
+	wing = { type = multi_role historical_model = 24 }
+	wing = { type = multi_role historical_model = 25 }
+	wing = { type = multi_role historical_model = 26 }
+	wing = { type = multi_role historical_model = 27 }
+	wing = { type = multi_role historical_model = 28 }
+	wing = { type = multi_role historical_model = 29 }
+	wing = { type = multi_role historical_model = 30 }
+}
+air = {
+	name = "舰载机中队"
+	base = 5542
+	location = 5542
+	wing = { type = cag historical_model = 0 }
+	wing = { type = cag historical_model = 1 }
+	wing = { type = cag historical_model = 2 }
+	wing = { type = cag historical_model = 3 }
+	wing = { type = cag historical_model = 4 }
+	wing = { type = cag historical_model = 5 }
+	wing = { type = cag historical_model = 6 }
+	wing = { type = cag historical_model = 7 }
+	wing = { type = cag historical_model = 8 }
+	wing = { type = cag historical_model = 9 }
+	wing = { type = cag historical_model = 10 }
+	wing = { type = cag historical_model = 11 }
+	wing = { type = cag historical_model = 12 }
+	wing = { type = cag historical_model = 13 }
+	wing = { type = cag historical_model = 14 }
+	wing = { type = cag historical_model = 15 }
+	wing = { type = cag historical_model = 16 }
+	wing = { type = cag historical_model = 17 }
+	wing = { type = cag historical_model = 18 }
+	wing = { type = cag historical_model = 19 }
+	wing = { type = cag historical_model = 20 }
+	wing = { type = cag historical_model = 21 }
+	wing = { type = cag historical_model = 22 }
+	wing = { type = cag historical_model = 23 }
+	wing = { type = cag historical_model = 24 }
+	wing = { type = cag historical_model = 25 }
+	wing = { type = cag historical_model = 26 }
+	wing = { type = cag historical_model = 27 }
+	wing = { type = cag historical_model = 28 }
+	wing = { type = cag historical_model = 29 }
+	wing = { type = cag historical_model = 30 }
+}
+air = {
+	name = "战术轰炸机中队"
+	base = 5542
+	location = 5542
+	wing = { type = tactical_bomber historical_model = 0 }
+	wing = { type = tactical_bomber historical_model = 1 }
+	wing = { type = tactical_bomber historical_model = 2 }
+	wing = { type = tactical_bomber historical_model = 3 }
+	wing = { type = tactical_bomber historical_model = 4 }
+	wing = { type = tactical_bomber historical_model = 5 }
+	wing = { type = tactical_bomber historical_model = 6 }
+	wing = { type = tactical_bomber historical_model = 7 }
+	wing = { type = tactical_bomber historical_model = 8 }
+	wing = { type = tactical_bomber historical_model = 9 }
+	wing = { type = tactical_bomber historical_model = 10 }
+	wing = { type = tactical_bomber historical_model = 11 }
+	wing = { type = tactical_bomber historical_model = 12 }
+	wing = { type = tactical_bomber historical_model = 13 }
+	wing = { type = tactical_bomber historical_model = 14 }
+	wing = { type = tactical_bomber historical_model = 15 }
+	wing = { type = tactical_bomber historical_model = 16 }
+	wing = { type = tactical_bomber historical_model = 17 }
+	wing = { type = tactical_bomber historical_model = 18 }
+	wing = { type = tactical_bomber historical_model = 19 }
+	wing = { type = tactical_bomber historical_model = 20 }
+	wing = { type = tactical_bomber historical_model = 21 }
+	wing = { type = tactical_bomber historical_model = 22 }
+	wing = { type = tactical_bomber historical_model = 23 }
+	wing = { type = tactical_bomber historical_model = 24 }
+	wing = { type = tactical_bomber historical_model = 25 }
+	wing = { type = tactical_bomber historical_model = 26 }
+	wing = { type = tactical_bomber historical_model = 27 }
+	wing = { type = tactical_bomber historical_model = 28 }
+	wing = { type = tactical_bomber historical_model = 29 }
+	wing = { type = tactical_bomber historical_model = 30 }
+}
+air = {
+	name = "近距离空中支援战斗机中队"
+	base = 5542
+	location = 5542
+	wing = { type = cas historical_model = 0 }
+	wing = { type = cas historical_model = 1 }
+	wing = { type = cas historical_model = 2 }
+	wing = { type = cas historical_model = 3 }
+	wing = { type = cas historical_model = 4 }
+	wing = { type = cas historical_model = 5 }
+	wing = { type = cas historical_model = 6 }
+	wing = { type = cas historical_model = 7 }
+	wing = { type = cas historical_model = 8 }
+	wing = { type = cas historical_model = 9 }
+	wing = { type = cas historical_model = 10 }
+	wing = { type = cas historical_model = 11 }
+	wing = { type = cas historical_model = 12 }
+	wing = { type = cas historical_model = 13 }
+	wing = { type = cas historical_model = 14 }
+	wing = { type = cas historical_model = 15 }
+	wing = { type = cas historical_model = 16 }
+	wing = { type = cas historical_model = 17 }
+	wing = { type = cas historical_model = 18 }
+	wing = { type = cas historical_model = 19 }
+	wing = { type = cas historical_model = 20 }
+	wing = { type = cas historical_model = 21 }
+	wing = { type = cas historical_model = 22 }
+	wing = { type = cas historical_model = 23 }
+	wing = { type = cas historical_model = 24 }
+	wing = { type = cas historical_model = 25 }
+	wing = { type = cas historical_model = 26 }
+	wing = { type = cas historical_model = 27 }
+	wing = { type = cas historical_model = 28 }
+	wing = { type = cas historical_model = 29 }
+	wing = { type = cas historical_model = 30 }
+}
+air = {
+	name = "鱼雷轰炸机中队"
+	base = 5542
+	location = 5542
+	wing = { type = naval_bomber historical_model = 0 }
+	wing = { type = naval_bomber historical_model = 1 }
+	wing = { type = naval_bomber historical_model = 2 }
+	wing = { type = naval_bomber historical_model = 3 }
+	wing = { type = naval_bomber historical_model = 4 }
+	wing = { type = naval_bomber historical_model = 5 }
+	wing = { type = naval_bomber historical_model = 6 }
+	wing = { type = naval_bomber historical_model = 7 }
+	wing = { type = naval_bomber historical_model = 8 }
+	wing = { type = naval_bomber historical_model = 9 }
+	wing = { type = naval_bomber historical_model = 10 }
+	wing = { type = naval_bomber historical_model = 11 }
+	wing = { type = naval_bomber historical_model = 12 }
+	wing = { type = naval_bomber historical_model = 13 }
+	wing = { type = naval_bomber historical_model = 14 }
+	wing = { type = naval_bomber historical_model = 15 }
+	wing = { type = naval_bomber historical_model = 16 }
+	wing = { type = naval_bomber historical_model = 17 }
+	wing = { type = naval_bomber historical_model = 18 }
+	wing = { type = naval_bomber historical_model = 19 }
+	wing = { type = naval_bomber historical_model = 20 }
+	wing = { type = naval_bomber historical_model = 21 }
+	wing = { type = naval_bomber historical_model = 22 }
+	wing = { type = naval_bomber historical_model = 23 }
+	wing = { type = naval_bomber historical_model = 24 }
+	wing = { type = naval_bomber historical_model = 25 }
+	wing = { type = naval_bomber historical_model = 26 }
+	wing = { type = naval_bomber historical_model = 27 }
+	wing = { type = naval_bomber historical_model = 28 }
+	wing = { type = naval_bomber historical_model = 29 }
+	wing = { type = naval_bomber historical_model = 30 }
+}
+air = {
+	name = "战略轰炸机中队"
+	base = 5542
+	location = 5542
+	wing = { type = strategic_bomber historical_model = 0 }
+	wing = { type = strategic_bomber historical_model = 1 }
+	wing = { type = strategic_bomber historical_model = 2 }
+	wing = { type = strategic_bomber historical_model = 3 }
+	wing = { type = strategic_bomber historical_model = 4 }
+	wing = { type = strategic_bomber historical_model = 5 }
+	wing = { type = strategic_bomber historical_model = 6 }
+	wing = { type = strategic_bomber historical_model = 7 }
+	wing = { type = strategic_bomber historical_model = 8 }
+	wing = { type = strategic_bomber historical_model = 9 }
+	wing = { type = strategic_bomber historical_model = 10 }
+	wing = { type = strategic_bomber historical_model = 11 }
+	wing = { type = strategic_bomber historical_model = 12 }
+	wing = { type = strategic_bomber historical_model = 13 }
+	wing = { type = strategic_bomber historical_model = 14 }
+	wing = { type = strategic_bomber historical_model = 15 }
+	wing = { type = strategic_bomber historical_model = 16 }
+	wing = { type = strategic_bomber historical_model = 17 }
+	wing = { type = strategic_bomber historical_model = 18 }
+	wing = { type = strategic_bomber historical_model = 19 }
+	wing = { type = strategic_bomber historical_model = 20 }
+	wing = { type = strategic_bomber historical_model = 21 }
+	wing = { type = strategic_bomber historical_model = 22 }
+	wing = { type = strategic_bomber historical_model = 23 }
+	wing = { type = strategic_bomber historical_model = 24 }
+	wing = { type = strategic_bomber historical_model = 25 }
+	wing = { type = strategic_bomber historical_model = 26 }
+	wing = { type = strategic_bomber historical_model = 27 }
+	wing = { type = strategic_bomber historical_model = 28 }
+	wing = { type = strategic_bomber historical_model = 29 }
+	wing = { type = strategic_bomber historical_model = 30 }
+}
+air = {
+	name = "运输中队"
+	base = 5542
+	location = 5542
+	wing = { type = transport_plane historical_model = 0 }
+	wing = { type = transport_plane historical_model = 1 }
+	wing = { type = transport_plane historical_model = 2 }
+	wing = { type = transport_plane historical_model = 3 }
+	wing = { type = transport_plane historical_model = 4 }
+	wing = { type = transport_plane historical_model = 5 }
+	wing = { type = transport_plane historical_model = 6 }
+	wing = { type = transport_plane historical_model = 7 }
+	wing = { type = transport_plane historical_model = 8 }
+	wing = { type = transport_plane historical_model = 9 }
+	wing = { type = transport_plane historical_model = 10 }
+	wing = { type = transport_plane historical_model = 11 }
+	wing = { type = transport_plane historical_model = 12 }
+	wing = { type = transport_plane historical_model = 13 }
+	wing = { type = transport_plane historical_model = 14 }
+	wing = { type = transport_plane historical_model = 15 }
+	wing = { type = transport_plane historical_model = 16 }
+	wing = { type = transport_plane historical_model = 17 }
+	wing = { type = transport_plane historical_model = 18 }
+	wing = { type = transport_plane historical_model = 19 }
+	wing = { type = transport_plane historical_model = 20 }
+	wing = { type = transport_plane historical_model = 21 }
+	wing = { type = transport_plane historical_model = 22 }
+	wing = { type = transport_plane historical_model = 23 }
+	wing = { type = transport_plane historical_model = 24 }
+}
+air = {
+	name = "飞弹中队"
+	base = 5542
+	location = 5542
+	wing = { type = flying_bomb historical_model = 0 }
+}
+air = {
+	name = "导弹中队"
+	base = 5542
+	location = 5542
+	wing = { type = flying_rocket historical_model = 0 }
+	wing = { type = flying_rocket historical_model = 1 }
+	wing = { type = flying_rocket historical_model = 2 }
+	wing = { type = flying_rocket historical_model = 3 }
+	wing = { type = flying_rocket historical_model = 4 }
+	wing = { type = flying_rocket historical_model = 5 }
+	wing = { type = flying_rocket historical_model = 6 }
+	wing = { type = flying_rocket historical_model = 7 }
+	wing = { type = flying_rocket historical_model = 8 }
+	wing = { type = flying_rocket historical_model = 9 }
+	wing = { type = flying_rocket historical_model = 10 }
+	wing = { type = flying_rocket historical_model = 11 }
+	wing = { type = flying_rocket historical_model = 12 }
+}

@@ -1,0 +1,52 @@
+rocket_interceptor.0 = {                #
+    fighter_pilot_training = 0          #
+    fighter_groundcrew_training = 0     #
+}
+rocket_interceptor.1 = {                #1918
+    fighter_pilot_training = 1          #1918
+    fighter_groundcrew_training = 1     #1918
+}
+rocket_interceptor.2 = {                #1936
+    fighter_pilot_training = 2          #1936
+    fighter_groundcrew_training = 2     #1936
+}
+rocket_interceptor.3 = {                #1938
+    fighter_pilot_training = 3          #1938
+    fighter_groundcrew_training = 3     #1938
+}
+rocket_interceptor.4 = {                #1940
+    fighter_pilot_training = 4          #1940
+    fighter_groundcrew_training = 4     #1940
+}
+rocket_interceptor.5 = {                #1942
+    fighter_pilot_training = 5          #1942
+    fighter_groundcrew_training = 5     #1942
+}
+rocket_interceptor.6 = {                #1944
+    fighter_pilot_training = 6          #1944
+    fighter_groundcrew_training = 6     #1944
+}
+rocket_interceptor.7 = {                #1946
+    fighter_pilot_training = 7          #1946
+    fighter_groundcrew_training = 7     #1946
+}
+rocket_interceptor.8 = {                #1948
+    fighter_pilot_training = 8          #1948
+    fighter_groundcrew_training = 8     #1948
+}
+rocket_interceptor.9 = {                #1950
+    fighter_pilot_training = 9          #1950
+    fighter_groundcrew_training = 9     #1950
+}
+rocket_interceptor.10 = {               #1952
+    fighter_pilot_training = 10         #1952
+    fighter_groundcrew_training = 10    #1952
+}
+rocket_interceptor.11 = {               #1954
+    fighter_pilot_training = 11         #1954
+    fighter_groundcrew_training = 11    #1954
+}
+rocket_interceptor.12 = {               #1956
+    fighter_pilot_training = 12         #1956
+    fighter_groundcrew_training = 12    #1956
+}
